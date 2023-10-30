@@ -1,0 +1,61 @@
+use EPrints;
+use strict;
+use Data::Dumper;
+my $session = new EPrints::Session;
+exit ( 0 ) unless ( defined $session );
+
+my $ds = $session->dataset( "archive" );
+my $page = $session->make_doc_fragment();
+my $title = $session->html_phrase( "cgi/sd_goals:title" );
+my( $repo ) = @_;
+my $sd_goals_field = $ds->get_field( "sd_goals" );
+my $sd_goals = undef;
+my $sd_goal = undef;
+
+$page->appendChild( $session->html_phrase( "cgi/sd_goals:intro" ) );
+
+# Make a div for all the goals!
+my $image_grid = $page->appendChild( $session->make_element("div", class=>"image_grid") );
+
+# get a count for total eprints matching each goal
+
+my $sql = "SELECT COUNT(*), sd_goals FROM eprint_sd_goals GROUP BY sd_goals;";
+my $sth = $session->get_database->prepare_select( $sql);
+$session->get_database->execute( $sth, $sql );
+my $found = $sth->rows();
+while ( my @row = $sth->fetchrow_array )
+{
+    my $count = shift @row;
+    $sd_goals = $sd_goals_field->value_from_sql_row( $session, \@row );
+    
+    my $image_address = "/images/".$sd_goals.".png";   
+       
+    my $goal_div = $image_grid->appendChild( $session->make_element("div", class=>"item" ) );
+    my $goal_link = $goal_div->appendChild( $session->make_element("a", class=>"sdg_link", id=>"goal_overlay", href=>"/view/sd_goals/$sd_goals.html" ) );
+    my $goal_text = $goal_link->appendChild( $session->make_element("h2", class=>"sdg_text" ) );
+    $goal_text->appendChild( $session->make_text($count) );
+    my $goal_img = $goal_link->appendChild( $session->make_element("img", src=>$image_address, class=>"sdg_icon" ) );
+      
+};
+
+# and then get a count for all eprints in the repository matching any sd goals (but not of total sd goals)
+
+my $all_goals_sql = "SELECT COUNT(DISTINCT eprintid) FROM eprint_sd_goals;";
+my $all_goals_sth = $session->get_database->prepare_select( $all_goals_sql);
+$session->get_database->execute( $all_goals_sth, $all_goals_sql );
+my $all_goals_found = $all_goals_sth->rows();
+while ( my @row = $all_goals_sth->fetchrow_array )
+{
+    my $count = shift @row;
+
+    my $all_goals_div = $image_grid->appendChild( $session->make_element("div", class=>"item", id=>"all_goals") );
+    my $all_goals_link = $all_goals_div->appendChild( $session->make_element("a", class=>"sdg_link", href=>"/view/sd_goals" ) );
+    my $all_goals_text = $all_goals_link->appendChild( $session->make_element("h2", class=>"all_goals_text" ) );
+    $all_goals_text->appendChild($session->make_text($count) );
+    my $all_goals_img = $all_goals_link->appendChild( $session->make_element("img", src=>"/images/sdg_wheel.png", class=>"all_sdgs_icon"  ) );
+};
+
+$session->build_page( $title, $page, "sd_goals" );
+$session->send_page();
+
+$session->terminate;
