@@ -19,7 +19,7 @@ my $image_grid = $page->appendChild( $session->make_element("div", class=>"image
 
 # get a count for total eprints matching each goal
 
-my $sql = "SELECT COUNT(*), sd_goals FROM eprint_sd_goals GROUP BY sd_goals;";
+my $sql = "SELECT COUNT(*), sd_goals FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive' GROUP BY sd_goals;";
 my $sth = $session->get_database->prepare_select( $sql);
 $session->get_database->execute( $sth, $sql );
 my $found = $sth->rows();
@@ -40,7 +40,7 @@ while ( my @row = $sth->fetchrow_array )
 
 # and then get a count for all eprints in the repository matching any sd goals (but not of total sd goals)
 
-my $all_goals_sql = "SELECT COUNT(DISTINCT eprintid) FROM eprint_sd_goals;";
+my $all_goals_sql = "SELECT COUNT(DISTINCT eprintid) FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive';";
 my $all_goals_sth = $session->get_database->prepare_select( $all_goals_sql);
 $session->get_database->execute( $all_goals_sth, $all_goals_sql );
 my $all_goals_found = $all_goals_sth->rows();
