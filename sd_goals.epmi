@@ -7,6 +7,14 @@
       <files>
         <file>
           <datasetid>document</datasetid>
+          <filename>epm/sd_goals/README.md</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d6547fcebf3637f88ce446c3337f15e7</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>411</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/cfg.d/zzz_sdg.pl</filename>
           <mime_type>text/plain</mime_type>
           <hash>67b85112236e652ceadeb17f2aecb4a8</hash>
@@ -33,9 +41,9 @@
           <datasetid>document</datasetid>
           <filename>lang/en/phrases/sd_goals.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>052860e24ca80e15cc117ef2632f2553</hash>
+          <hash>b32ffd1f0758e90225471c12c560c093</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4730</filesize>
+          <filesize>8208</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -193,9 +201,9 @@
           <datasetid>document</datasetid>
           <filename>static/style/auto/sd_goals.css</filename>
           <mime_type>text/plain</mime_type>
-          <hash>55b8cc1495126f50d1cbecda7a5a5778</hash>
+          <hash>b1505bf65b8093e592a6b99c77c039e3</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1903</filesize>
+          <filesize>1120</filesize>
         </file>
       </files>
       <mime_type>text/plain</mime_type>
@@ -204,7 +212,7 @@
       <content>install</content>
     </document>
   </documents>
-  <version>0.1</version>
+  <version>0.2</version>
   <creators>
     <item>
       <name>
