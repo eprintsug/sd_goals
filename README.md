@@ -7,7 +7,6 @@ Add this to the workflow (with show_help configured to your preference):
 <field ref="sd_goals"/>
 </component>
 ```
- 
 Choose which whether you want text links or icons for the summary pages.
 For text you need:
 ```
