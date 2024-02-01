@@ -1,6 +1,28 @@
 # sd_goals
 UN Sustainable Development Goals plugin for EPrints
 
+## Installing
+
+Add this to the workflow (with show_help configured to your preference):
+```
+<component show_help="always">
+<field ref="sd_goals"/>
+</component>
+```
+Choose which whether you want text links or icons for the summary pages.
+For text you need:
+```
+<epc:foreach expr="sd_goals" iterator="goal">
+<li><epc:phrase ref="sd_goals_description_{$goal.as_string()}" />  </li>
+</epc:foreach>
+```
+For icons you need:
+```
+<epc:foreach expr="sd_goals" iterator="goal">
+<li><epc:phrase ref="sd_goals_summary_{$goal.as_string()}" />  </li>
+</epc:foreach>
+```
+
 ## Integration with Symplectic Elements
 
 Symplectic Elements supports the UN SDGs using a 'label scheme'.
@@ -50,4 +72,3 @@ The following three aspects need to be added to the deposit crosswalk:
 </xwalk:value-map>
 
 Any questions regarding the Symplectic Elements integration should be directed to the SYMPLECTIC-USERS@JISCMAIL.AC.UK mailing list.
-```
