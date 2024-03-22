@@ -1,4 +1,11 @@
+.sdg_intro {
+    display: flex;
+    justify-content: center;
+}
+
 .image_grid {
+    margin: auto;
+    max-width: 750px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -16,7 +23,6 @@
 
 .sdg_icon {
     max-height: 125px;
-    z-index: 1;
 }
 
 .all_sdgs_icon {
@@ -52,8 +58,7 @@
 }
 
 .item:hover .sdg_icon {
-    opacity: 40%;
-    z-index: 0;
+    opacity: 30%;
 }
 
 .item:hover .sdg_text {

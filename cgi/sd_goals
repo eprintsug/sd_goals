@@ -12,12 +12,14 @@ my $sd_goals_field = $ds->get_field( "sd_goals" );
 my $sd_goals = undef;
 my $sd_goal = undef;
 
-$page->appendChild( $session->html_phrase( "cgi/sd_goals:intro" ) );
+# make a div for our intro
+my $intro_div = $page->appendChild( $session->make_element("div", class=>"sdg_intro" ) );
+$intro_div->appendChild( $session->html_phrase( "cgi/sd_goals:intro" ) );
 
 # Make a div for all the goals!
 my $image_grid = $page->appendChild( $session->make_element("div", class=>"image_grid") );
 
-# get a count for total eprints matching each goal
+# get a count for total (public) eprints matching each goal
 
 my $sql = "SELECT COUNT(*), sd_goals FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive' GROUP BY sd_goals;";
 my $sth = $session->get_database->prepare_select( $sql);
@@ -38,9 +40,9 @@ while ( my @row = $sth->fetchrow_array )
       
 };
 
-# and then get a count for all eprints in the repository matching any sd goals (but not of total sd goals)
+# and then get a count for all (public) eprints in the repository matching any sd goals (but not of total sd goals)
 
-my $all_goals_sql = "SELECT COUNT(DISTINCT eprintid) FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive';";
+my $all_goals_sql = "SELECT COUNT(DISTINCT eprint.eprintid) FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive';";
 my $all_goals_sth = $session->get_database->prepare_select( $all_goals_sql);
 $session->get_database->execute( $all_goals_sth, $all_goals_sql );
 my $all_goals_found = $all_goals_sth->rows();
