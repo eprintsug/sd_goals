@@ -1,0 +1,195 @@
+(
+	(
+		(
+			( 
+				agropastoral* OR
+				agro-pastoral* OR
+				"borana" OR
+				( farm* AND household* ) OR
+				( farm* AND in AND developing countries ) OR
+				( fish* AND household* ) OR
+				"herders" OR
+				"maasai" OR
+				"nomadic pastoralism" OR
+				"pastoral system" OR
+				pastoralis* OR
+				( poor AND farm* ) OR
+				( resource-poor AND farm* ) OR
+				( resourcepoor AND farm* )" OR
+				( scale AND farm* )" OR
+				"silvo-pastoral" OR
+				"silvopastoral" OR
+				( small AND farm* ) OR
+				"small holder" OR
+				"small scale agriculture" OR
+				"small scale dairy"	OR			
+				( small AND scale AND farm* ) OR 
+				( small AND scale AND fish* ) OR 
+				( small AND scale AND forest* ) OR
+				"small scale growers" OR
+				"small scale irrigation" OR
+				"small scale producers" OR
+				"small-scale agriculture" OR
+				"small-scale dairy"	OR			
+				( small-scale AND farm* ) OR 
+				( small-scale AND fish* ) OR 
+				( small-scale AND forest* ) OR
+				"small-scale growers" OR
+				"small-scale irrigation" OR
+				"small-scale producers" OR
+				smallholder* OR
+				"smallholdings" OR
+				( smallscale AND agriculture* ) OR
+				"smallscale dairy" OR
+				( smallscale AND farm* ) OR 
+				( smallscale AND fish* ) OR
+				( smallscale AND forest* ) OR
+				"smallscale growers" OR
+				"smallscale irrigation" OR
+				"smallscale producers" OR
+				( subsistence AND farm* )
+			) 
+			AND (
+				productivit* OR 
+				performanc* OR 
+				sustainab* OR 
+				yield* OR 
+				profit* OR 
+				( cash* AND crop* ) OR 
+				( food* AND secur* ) OR 
+				"income" 
+			) 
+		) OR
+		"oil palm smallholders" OR 			
+		( small AND farm* ) OR 			
+		( small AND holder AND farm* ) OR 
+		"smallholder agriculture" OR 
+		"smallholder agroforestry" OR 
+		"smallholder cattle" OR
+		"smallholder coffee" OR 
+		"smallholder dairy" OR 
+		( smallholder AND farm* ) OR 
+		"smallholder irrigation" OR 
+		"smallholder livestock" OR 
+		"smallholder pig production" OR 			
+		"smallholder production" OR 
+		"smallholder system" OR 
+		( "family labour" AND ( farm* OR agro* OR agri* ) ) OR 
+		( herd* AND sustain* AND ( small-sc* OR ( small AND sc* ) OR ( smallsc* ) ) ) OR 
+		( ( herd* OR pastora* ) AND ( livelihood* OR household* ) ) OR 
+		( pastoralis* AND "indigenous vegetation" AND "grazing" ) OR 
+		( ( small* AND farm* ) AND ( additional* AND source* ) AND ( revenue* OR "income" ) ) OR 
+		( ( small-holder AND farm* ) OR ( smallholder AND farm* ) ) OR 
+		( ( small-scale AND farm* ) OR ( smallscale AND farm* )" ) OR 
+		( smallholder* AND product* AND ( horti* OR vegetab* ) ) OR 		
+		( ( small AND farm* ) AND ( additional* AND source* ) AND ( revenue* OR "income" ) ) OR 
+		( ( small AND farm* ) AND pluriactivit* ) OR 
+		( ( ( small-hold* OR smallhold OR small hold ) AND "value-added processing" ) ) OR 
+		( ( ( ( small-scale* OR small scale OR smallscale ) AND food* AND production ) ) ) OR
+		( 
+			( 
+				( access* AND to* AND financ* ) OR 
+				"economic empowerment" OR 
+				( financial* AND aid* ) OR 
+				( financial* AND barrier* ) OR 
+				( financial* AND service* ) OR 
+				( financial* AND support* ) OR 
+				"financing" OR 
+				( micro* AND credit* ) OR 
+				( micro* AND finance* ) OR 
+				( micro* AND lend* ) OR 
+				( rural* OR financ* ) 
+			) 
+			AND ( 
+				( agro* AND pastoral* ) OR 
+				( ( asset-poor* OR assetpoor* OR ( asset AND poor* ) ) AND famil* ) OR 
+				( ( asset-poor* OR assetpoor* OR ( asset AND poor* ) ) AND household* ) OR 
+				pastoralis* OR 
+				( poor* AND farm* ) OR 
+				( small* AND farm* AND household* ) OR 
+				( small* AND farm* ) OR 
+				( small* AND holder* AND farm* ) OR 
+				( small* AND producer* ) OR 
+				( small* AND scale* AND farm* )
+			) 
+		) OR 
+		( 
+			( 
+				( small AND farm* ) OR
+				( small AND grower* ) OR
+				( small AND holder* ) OR
+				( small AND land AND hold* ) OR
+				( small AND landhold* ) OR
+				( small AND producer* ) OR
+				( small AND scale AND farm* )" OR
+				small-farm* OR
+				small-holder* OR
+				"small-scale agriculture" OR
+				( small-scale AND farm* ) OR
+				"small-scale plantations" OR
+				smallfarm* OR
+				"smallholder system" OR
+				smallholder* OR
+				"smallholding" OR
+				( smallscale AND agriculture* ) OR
+				( smallscale AND farm* )" OR
+				"smallscale plantations"
+			) 
+			AND (
+				agricultur* OR 
+				agriculture OR 
+				"agro" OR
+				"agroforestry" OR
+				"agronomic" OR
+				"breeding" OR
+				cattle OR
+				"coffee" OR
+				"cows" OR
+				crop* OR 
+				"cropping system"
+				"cultivated" OR
+				"cultivation" OR
+				dairy OR
+				farm* OR
+				"feed" OR
+				"food production" OR
+				"forage" OR
+				"goats" OR
+				"irrigated" OR
+				irrigation OR
+				legume* OR
+				"livestock" OR 
+				"maize" OR
+				"manure" OR
+				"milk" OR
+				on-farm* OR
+				"onfarm" OR
+				"pest" OR
+				"planting" OR
+				"production system" OR
+				"rice" OR
+				soil 
+				"tillage" OR
+				vegetable*
+				) 
+			) OR 
+			(
+				( ( smallholder* AND farm* ) OR ( small AND farm* ) ) 
+				AND ( 
+					"added-value" OR 
+					"addedvalue" OR
+					( value* AND added* ) OR 
+					( new* AND opportunit* ) OR 
+					( 
+						( non-farm* OR non-agricultur* ) AND employment 
+					) 
+				) 
+			)
+	)
+	AND NOT (
+		(
+			"pine needle trees" OR 
+			"encephalitis virus" OR 
+		)
+	)
+)

@@ -15,6 +15,9 @@ sub sdg_query
       return 0;
     }
 
+    # array to store SDGs we find
+    my @sdg_values;
+
     my $ds = $repo->get_repository->get_dataset( "eprint" );
 
     # get our SD Goal Xapian Queries
@@ -56,16 +59,16 @@ sub sdg_query
             my $list = $searchexp->execute;
 	        if( $list->count > 0 )
 	        {
-		        print STDERR "SUCCESS\n";
-	        }
-	        else 
-	        {
-		        print STDERR "failure :( \n";
+		        push @sdg_values, substr($dir, rindex($dir, '/')+1);
+                last; # we've found the SDG, no need to try other queries
 	        }
         }
         closedir $sdg_dir;
     }
 
+    # now we've done our searching, set the SDGs
+    $eprint->set_value( "sd_goals", \@sdg_values );
+    $eprint->commit;
 
     return 0;
 
