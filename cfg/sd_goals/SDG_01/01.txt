@@ -1,0 +1,39 @@
+(
+	(
+		( ( development* AND aid ) AND poverty ) OR
+		( ( foreign AND aid ) AND poverty ) OR
+		( ( gender* AND inequit* ) ) OR
+		( "humanitarian aid" AND poverty ) OR
+		( "international aid" AND poverty ) OR
+		( "international cooperation" AND poverty ) OR
+		( "international development" AND poverty ) OR
+		( "international program" AND poverty ) OR
+		( "international support" AND poverty ) OR
+		( "international support" AND poverty ) OR
+		( "NGOs" AND poverty ) OR
+		( ( policy OR policies ) AND poverty ) OR
+		( "unesco" AND poverty AND program ) OR
+		( "unicef" AND poverty AND program ) OR
+		( "united nations" AND poverty AND program ) OR
+		( "world bank" AND poverty ) OR
+		( ( poverty-reducing OR povertyreducing ) AND polic* ) OR 
+		( ( Development* AND strateg* ) AND ( poverty OR ( developing AND countr* ) ) ) OR
+		( ( international* AND mobili* ) AND poverty ) OR
+		( ( ( gender* AND inequit* ) OR pro-poor OR propoor ) AND policy OR policies OR strateg* OR "strategies" ) OR
+		( food AND bank* ) OR 
+		( humanitarian* AND assist* AND poverty )
+	)
+	AND NOT (
+		"natural disaster" OR 
+		"family planning" OR 
+		( climate AND chang* ) OR 
+		"fuel poverty" OR 
+		"energy poverty" OR 
+		"outer space" OR 
+		"outer-space" OR
+		"diagnosis" OR 
+		( parental AND leave ) OR
+		( diabetic* AND patient* ) OR 		
+		( "schizophrenia" AND "treatment" )
+	)
+)
