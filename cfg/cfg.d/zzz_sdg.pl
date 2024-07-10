@@ -4,7 +4,29 @@ push @{$c->{fields}->{eprint}},
     type => 'namedset',
     set_name => 'sd_goals',
     multiple => 1,
+    render_value => 'sd_goals_render',
 };
+
+$c->{sd_goals_render} = sub {
+    my( $session, $field, $value ) = @_;
+
+    my $frag = $session->make_doc_fragment;
+    return $frag if !defined $value;
+
+    my $ul = $session->make_element( "ul", class => "sd_goals" );
+    $frag->appendChild( $ul );
+
+    foreach my $sdg ( @$value )
+    {
+        my $li = $session->make_element( "li" );
+        $li->appendChild( $session->html_phrase( "sd_goals_summary_$sdg" ) ); #renders icon
+        # $li->appendChild( $session->html_phrase( "sd_goals_description_$sdg" ) ); #would render text link
+        $ul->appendChild( $li );
+    }
+
+    return $frag;
+};
+
 
 push @{$c->{browse_views}},
 {

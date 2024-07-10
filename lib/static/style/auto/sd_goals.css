@@ -78,3 +78,17 @@
 #goal_overlay {
     background-color: #000;
 }
+
+ul.sd_goals{
+	padding-left:0;
+	list-style:none;
+	margin-left:0px;
+}
+ul.sd_goals li {
+	display: inline-block;
+	margin-left:0.5em;
+	margin-bottom: 0.5em;
+}
+ul.sd_goals img {
+	max-height:125px;
+}
