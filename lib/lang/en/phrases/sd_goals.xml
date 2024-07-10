@@ -2,6 +2,8 @@
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+    <epp:phrase id="sd_goals">Sustainable Development Goals</epp:phrase>
+
     <epp:phrase id="sd_goals_typename_01np">Goal 1: No Poverty</epp:phrase>
     <epp:phrase id="sd_goals_typename_02zh">Goal 2: Zero Hunger</epp:phrase>
     <epp:phrase id="sd_goals_typename_03ghwb">Goal 3: Good Health and Well-Being</epp:phrase>
@@ -38,29 +40,29 @@
     <epp:phrase id="sd_goals_description_16pjsi"><a href="{$config{rel_path}}/view/sd_goals/16pjsi.html">Goal 16: Peace, Justice, and Strong Institutions</a></epp:phrase>
     <epp:phrase id="sd_goals_description_17pfg"><a href="{$config{rel_path}}/view/sd_goals/17pfg.html">Goal 17: Partnerships for the Goals</a></epp:phrase>
 
-    <epp:phrase id="cgi/sd_goals:title">Sustainable Development Goals</epp:phrase>
+    <epp:phrase id="cgi/sd_goals:title" ref="sd_goals"/>
     <epp:phrase id="cgi/sd_goals:intro"><p><epc:phrase ref="archive_name"></epc:phrase> supports the Sustainable Development Goals. More information about the Goals can be found on the <a href="https://sdgs.un.org/goals">UN Website</a>.</p></epp:phrase>
 
-    <epp:phrase id="eprint_fieldname_sd_goals">Sustainable Development Goals</epp:phrase>
-    <epp:phrase id="eprint_fieldhelp_sd_goals">Please choose at least one of the sustainable development goals (SDGs) that represents most the area of your work. If you want to know more about the goals visit: <a href="https://sdgs.un.org/goals">https://sdgs.un.org/goals.</a> <em>(Note: You can select more than one goal by pressing the CTRL key while selecting.)</em></epp:phrase>
-    <epp:phrase id="viewname_eprint_sd_goals" ref="eprint_fieldname_sd_goals" />
+    <epp:phrase id="eprint_fieldname_sd_goals" ref="sd_goals"/>
+    <epp:phrase id="eprint_fieldhelp_sd_goals">Please choose at least one of the Sustainable Development Goals (SDGs) that represents most the area of your work. If you want to know more about the goals visit: <a href="https://sdgs.un.org/goals">https://sdgs.un.org/goals.</a> <em>(Note: You can select more than one goal by pressing the CTRL key while selecting.)</em></epp:phrase>
+    <epp:phrase id="viewname_eprint_sd_goals" ref="sd_goals" />
 
-    <epp:phrase id="sd_goals_summary_01np"><a href="{$config{rel_path}}/view/sd_goals/01np.html"><img src="/images/01np.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_02zh"><a href="{$config{rel_path}}/view/sd_goals/02zh.html"><img src="/images/02zh.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_03ghwb"><a href="{$config{rel_path}}/view/sd_goals/03ghwb.html"><img src="/images/03ghwb.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_04qe"><a href="{$config{rel_path}}/view/sd_goals/04qe.html"><img src="/images/04qe.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_05ge"><a href="{$config{rel_path}}/view/sd_goals/05ge.html"><img src="/images/05ge.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_06cws"><a href="{$config{rel_path}}/view/sd_goals/06cws.html"><img src="/images/06cws.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_07ace"><a href="{$config{rel_path}}/view/sd_goals/07ace.html"><img src="/images/07ace.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_08dweg"><a href="{$config{rel_path}}/view/sd_goals/08dweg.html"><img src="/images/08dweg.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_09iii"><a href="{$config{rel_path}}/view/sd_goals/09iii.html"><img src="/images/09iii.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_10ri"><a href="{$config{rel_path}}/view/sd_goals/10ri.html"><img src="/images/10ri.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_11scc"><a href="{$config{rel_path}}/view/sd_goals/11scc.html"><img src="/images/11scc.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_12rcp"><a href="{$config{rel_path}}/view/sd_goals/12rcp.html"><img src="/images/12rcp.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_13ca"><a href="{$config{rel_path}}/view/sd_goals/13ca.html"><img src="/images/13ca.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_14lbw"><a href="{$config{rel_path}}/view/sd_goals/14lbw.html"><img src="/images/14lbw.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_15lol"><a href="{$config{rel_path}}/view/sd_goals/15lol.html"><img src="/images/15lol.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_16pjsi"><a href="{$config{rel_path}}/view/sd_goals/16pjsi.html"><img src="/images/16pjsi.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_17pfg"><a href="{$config{rel_path}}/view/sd_goals/17pfg.html"><img src="/images/17pfg.png" class="sd_goals_summary_page"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_01np"><a href="{$config{rel_path}}/view/sd_goals/01np.html"><img src="/images/01np.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_01np')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_02zh"><a href="{$config{rel_path}}/view/sd_goals/02zh.html"><img src="/images/02zh.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_02zh')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_03ghwb"><a href="{$config{rel_path}}/view/sd_goals/03ghwb.html"><img src="/images/03ghwb.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_03ghwb')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_04qe"><a href="{$config{rel_path}}/view/sd_goals/04qe.html"><img src="/images/04qe.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_04qe')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_05ge"><a href="{$config{rel_path}}/view/sd_goals/05ge.html"><img src="/images/05ge.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_05ge')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_06cws"><a href="{$config{rel_path}}/view/sd_goals/06cws.html"><img src="/images/06cws.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_06cws')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_07ace"><a href="{$config{rel_path}}/view/sd_goals/07ace.html"><img src="/images/07ace.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_07ace')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_08dweg"><a href="{$config{rel_path}}/view/sd_goals/08dweg.html"><img src="/images/08dweg.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_08dweg')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_09iii"><a href="{$config{rel_path}}/view/sd_goals/09iii.html"><img src="/images/09iii.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_09iii')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_10ri"><a href="{$config{rel_path}}/view/sd_goals/10ri.html"><img src="/images/10ri.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_10ri')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_11scc"><a href="{$config{rel_path}}/view/sd_goals/11scc.html"><img src="/images/11scc.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_11scc')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_12rcp"><a href="{$config{rel_path}}/view/sd_goals/12rcp.html"><img src="/images/12rcp.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_12rcp')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_13ca"><a href="{$config{rel_path}}/view/sd_goals/13ca.html"><img src="/images/13ca.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_13ca')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_14lbw"><a href="{$config{rel_path}}/view/sd_goals/14lbw.html"><img src="/images/14lbw.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_14lbw')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_15lol"><a href="{$config{rel_path}}/view/sd_goals/15lol.html"><img src="/images/15lol.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_15lol')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_16pjsi"><a href="{$config{rel_path}}/view/sd_goals/16pjsi.html"><img src="/images/16pjsi.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_16pjsi')}"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_17pfg"><a href="{$config{rel_path}}/view/sd_goals/17pfg.html"><img src="/images/17pfg.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_17pfg')}"/></a></epp:phrase>
 
 </epp:phrases>
