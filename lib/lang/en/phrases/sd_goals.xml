@@ -46,6 +46,7 @@
     <epp:phrase id="eprint_fieldname_sd_goals" ref="sd_goals"/>
     <epp:phrase id="eprint_fieldhelp_sd_goals">Please choose at least one of the Sustainable Development Goals (SDGs) that represents most the area of your work. If you want to know more about the goals visit: <a href="https://sdgs.un.org/goals">https://sdgs.un.org/goals.</a> <em>(Note: You can select more than one goal by pressing the CTRL key while selecting.)</em></epp:phrase>
     <epp:phrase id="viewname_eprint_sd_goals" ref="sd_goals" />
+    <epp:phrase id="viewtitle_eprint_sd_goals_list"><epc:phrase ref="sd_goals"/> - <epc:pin name="value1" /></epp:phrase>
 
     <epp:phrase id="sd_goals_summary_01np"><a href="{$config{rel_path}}/view/sd_goals/01np.html"><img src="/images/01np.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_01np')}"/></a></epp:phrase>
     <epp:phrase id="sd_goals_summary_02zh"><a href="{$config{rel_path}}/view/sd_goals/02zh.html"><img src="/images/02zh.png" class="sd_goals_summary_page" alt="{phrase('sd_goals')}: {phrase('sd_goals_typename_02zh')}"/></a></epp:phrase>
