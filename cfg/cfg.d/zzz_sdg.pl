@@ -20,7 +20,7 @@ $c->{sd_goals_render} = sub {
     my $ul = $session->make_element( "ul", class => "sd_goals" );
     $frag->appendChild( $ul );
 
-    foreach my $sdg ( @$value )
+    foreach my $sdg ( sort @$value )
     {
         my $li = $session->make_element( "li" );
         $li->appendChild( $session->html_phrase( "sd_goals_summary_$sdg" ) ); #renders icon
