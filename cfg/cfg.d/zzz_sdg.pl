@@ -1,10 +1,14 @@
+# To disaply the SDGs on your item pages, you can either add them to your summary_page.xml citation
+# file, or uncomment the 'render_value' line below, and add 'sd_goals' to the list of EPrint fields
+# in the eprint_render.pl configuration.
+
 push @{$c->{fields}->{eprint}},
 {
     name => 'sd_goals',
     type => 'namedset',
     set_name => 'sd_goals',
     multiple => 1,
-    render_value => 'sd_goals_render',
+#    render_value => 'sd_goals_render',
 };
 
 $c->{sd_goals_render} = sub {
