@@ -11,7 +11,7 @@
     flex-wrap: wrap;
 }
 
-.item {
+.sdg_item {
     max-height: 125px;
 }
 
@@ -52,21 +52,21 @@
     font-weight: bold !important;
 }
 
-.item .sdg_icon {
+.sdg_item .sdg_icon {
     width: 100%;
     height: 100%;
 }
 
-.item:hover .sdg_icon {
+.sdg_item:hover .sdg_icon {
     opacity: 30%;
 }
 
-.item:hover .sdg_text {
+.sdg_item:hover .sdg_text {
     visibility: visible; 
     z-index: 1;
 }
 
-.item:hover .all_goals_text {
+.sdg_item:hover .all_goals_text {
     visibility: visible;
     z-index: 1;
 }

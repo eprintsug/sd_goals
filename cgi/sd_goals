@@ -32,7 +32,7 @@ while ( my @row = $sth->fetchrow_array )
     
     my $image_address = "/images/".$sd_goals.".png";   
        
-    my $goal_div = $image_grid->appendChild( $session->make_element("div", class=>"item" ) );
+    my $goal_div = $image_grid->appendChild( $session->make_element("div", class=>"sdg_item" ) );
     my $goal_link = $goal_div->appendChild( $session->make_element("a", class=>"sdg_link goal_overlay", href=>"/view/sd_goals/$sd_goals.html" ) );
     my $goal_text = $goal_link->appendChild( $session->make_element("h2", class=>"sdg_text" ) );
     $goal_text->appendChild( $session->make_text($count) );
@@ -50,7 +50,7 @@ while ( my @row = $all_goals_sth->fetchrow_array )
 {
     my $count = shift @row;
 
-    my $all_goals_div = $image_grid->appendChild( $session->make_element("div", class=>"item", id=>"all_goals") );
+    my $all_goals_div = $image_grid->appendChild( $session->make_element("div", class=>"sdg_item", id=>"all_goals") );
     my $all_goals_link = $all_goals_div->appendChild( $session->make_element("a", class=>"sdg_link", href=>"/view/sd_goals" ) );
     my $all_goals_text = $all_goals_link->appendChild( $session->make_element("h2", class=>"all_goals_text" ) );
     $all_goals_text->appendChild($session->make_text($count) );
