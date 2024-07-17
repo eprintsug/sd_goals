@@ -1,0 +1,410 @@
+(
+	"3D manufacturing" OR
+	"4D printing" OR
+	"5-axis CNC" OR
+	"5-axis machine" OR
+	"5-axis machining" OR
+	"5-axis NC" OR
+	"academic patenting" OR
+	"additive fabrication" OR
+	"additive manufacture" OR
+	"additive manufacturing" OR
+	"Advanced CNC" OR
+	"advanced innovation" OR
+	"advanced machining" OR
+	"advanced manufacturing" OR
+	"advanced process control" OR
+	"advanced prototyping" OR
+	"agile manufacturing" OR
+	"automated assembly line" OR
+	"automated assembly lines" OR
+	"automated assembly system" OR
+	"automated machining" OR
+	"Automated manufacturing System" OR
+	"Automated manufacturing system" OR
+	"Automatic Process control" OR
+	"cad-cam" OR
+	"CAD/CAM system" OR
+	"cadcam" OR
+	"cim system" OR
+	"cloud based manufacturing" OR
+	"cloud manufacturing" OR
+	"cobot" OR
+	"cobots" OR
+	"communities of innovation" OR
+	"composite fabrication process" OR
+	"composite fabrication processes" OR
+	"composite manufacturing" OR
+	"computer integrated manufacturing" OR
+	"computer numerical control" OR
+	"Computer-aided machining" OR
+	"Computer-aided manufacturing" OR
+	"Computer-aided Process planning" OR
+	"Computeraided machining" OR
+	"Computeraided manufacturing" OR
+	"Computeraided Process planning" OR
+	"digital factories" OR
+	"digital factory" OR
+	"digital manufacturing" OR
+	"direct manufacturing" OR
+	"discharge machining" OR
+	"disruptive innovation" OR
+	"distributed control system" OR
+	"Eco-innovation" OR
+	"Ecoinnovation" OR
+	"edm process" OR
+	"electron-beam melting" OR
+	"electron-beam selective melting" OR
+	"electronbeam melting" OR
+	"Factory automation" OR
+	"fast manufacturing" OR
+	"fast prototyping" OR
+	"fast-tool servo" OR
+	"fasttool servo" OR
+	"fdm 3d" OR
+	"fdm parts" OR
+	"five-axis CNC" OR
+	"five-axis machine" OR
+	"five-axis machining" OR
+	"five-axis NC" OR
+	"fiveaxis machine" OR
+	"flexible fabrication" OR
+	"flexible machining" OR
+	"flexible manufacturing" OR
+	"Flexible robotic" OR
+	"Flexible robotics" OR
+	"fourth industrial revolution" OR
+	"freeform fabrication" OR
+	"Fused filament fabrication" OR
+	"global innovation index" OR
+	"inclusive innovation" OR
+	"Industrial Automation" OR
+	"industrial control system" OR
+	"industrial innovation" OR
+	"industrial internet" OR
+	"industrial iot" OR
+	"industrial process control" OR
+	"industries process control" OR
+	"industry 4.0" OR
+	"industry automation" OR
+	"industry innovation" OR
+	"industry iot" OR
+	"industry process control" OR
+	"innovation knowledge" OR
+	"innovation policies" OR
+	"innovation policy" OR
+	"innovation strategies" OR
+	"innovation strategy" OR
+	"innovation system" OR
+	"innovative industrial process" OR
+	"innovative industrial processes" OR
+	"innovative manufacturing" OR
+	"Integrated manufacturing" OR
+	"Intelligent manufacturing" OR
+	"laser cladding" OR
+	"laser sintering" OR
+	"layer manufacturing" OR
+	"layered manufacturing" OR
+	"manufacturing automation" OR
+	"manufacturing innovation" OR
+	"manufacturing IoT" OR
+	"Manufacturing system management" OR
+	"manufacturing" OR
+	"micro edm" OR
+	"Micro-electro-Discharge Machining" OR
+	"micro-fabrication" OR
+	"micro-machining" OR
+	"Micro-manufacturing" OR
+	"Microelectro-Discharge Machining" OR
+	"microfabrication" OR
+	"micromachining" OR
+	"Micromanufacturing" OR
+	"mixed-model assembly" OR
+	"mixed-model scheduling" OR
+	"mixed-model sequencing" OR
+	"mixedmodel assembly" OR
+	"mixedmodel sequencing" OR
+	"model of innovation" OR
+	"modern CNC" OR
+	"nano-architectonics" OR
+	"nano-fabrication" OR
+	"nano-machining" OR
+	"nano-manufacturing" OR
+	"nanoarchitectonics" OR
+	"nanofabrication" OR
+	"nanomachining" OR
+	"nanomanufacturing" OR
+	"national innovation" OR
+	"new CNC" OR
+	"new industrial process" OR
+	"new industrial processes" OR
+	"new machining" OR
+	"new manufacturing" OR
+	"novel CNC" OR
+	"novel industrial process" OR
+	"novel industrial processes" OR
+	"novel machining" OR
+	"novel manufacturing" OR
+	"Open innovation" OR
+	"powder bed fusion" OR
+	"precision manufacturing" OR
+	"process innovation" OR
+	"product innovation" OR
+	"rapid manufacturing" OR
+	"rapid prototyping" OR
+	"rapid tooling" OR
+	"research spin-off" OR
+	"research spinoff" OR
+	"robot assembly system" OR
+	"robot automation" OR
+	"robot machining" OR
+	"robot process automation" OR
+	"robotic automation" OR
+	"robotic cell" OR
+	"robotic cells" OR
+	"robotic machining" OR
+	"robotic process automation" OR
+	"Selective laser melting" OR
+	"smart factories" OR
+	"Smart factories" OR
+	"Smart factory" OR
+	"smart factory" OR
+	"smart industries" OR
+	"smart industry" OR
+	"smart manufacturing" OR
+	"step-nc" OR
+	"stepnc" OR
+	"sustaining innovation" OR
+	"technological capabilities" OR
+	"technological capability" OR
+	"Technological monitoring" OR
+	"tecnomatix" OR
+	"ultra-precision machining" OR
+	"ultra-precision manufacturing" OR
+	"ultra-precision turning" OR
+	"ultraprecision machining" OR
+	"ultraprecision manufacturing" OR
+	"ultraprecision turning" OR
+	"university spin-off" OR
+	"university spinoff" OR
+	"university-industry" OR
+	"universityindustry" OR
+	"vertical innovation" OR
+	"virtual factories" OR
+	"virtual factory" OR
+	"virtual manufacturing" OR
+	"Virtual prototyping" OR
+	"wedm" OR
+	"wire electrical discharge machining" OR
+	( "CAD/CAM" AND manufactur* ) OR
+	( "e-manufacturing" AND NOT "i e manufacturing" ) OR
+	( "emanufacturing" AND NOT "i e manufacturing" ) OR
+	( "manufacturing process" AND "sensors" ) OR
+	( "manufacturing" AND robot* )
+	( "process control" AND "manufacturing" ) OR
+	( robotic AND ( "manufacturing system" OR "manufacturing systems" ) ) OR
+	( ( "CAD" OR "aided design" ) AND "product design process" ) OR
+	(
+		( "Computer-aided design" OR "Computeraided design" ) AND (
+			"CNC machine" OR
+			"CNC machines" OR
+			"CNC machining" OR
+			"industrial" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing"
+		)
+	) OR
+	( ( "mixed-model" OR "mixedmodel" ) AND ( "assembly line" OR "assembly lines" ) ) OR
+	(
+		( "research and development" OR "R&D" OR "innovative R & D" ) AND (
+			"agroindustrial" OR
+			"agroindustries" OR
+			"agroindustry" OR
+			"automotive assembly" OR
+			"pulp and paper" OR
+			"refinery plant" OR
+			( production AND technolog* )
+		)
+	) OR
+	(
+		( "SCADA" OR "Supervisory control and data acquisition" ) AND (
+			"automated" OR
+			"automation" OR
+			"fabrication" OR
+			"industrial" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing" OR
+			"process control" OR
+			"sensors"
+		)
+	) OR
+	(
+		(
+			"embedded sensor" OR
+			"embedded sensors" OR
+			"Innovation and Development" OR
+			"innovation development" OR
+			"innovation developments" OR
+			"innovation policies" OR
+			"innovation policy" OR
+			"innovative activities" OR
+			"innovative activity" OR
+			"innovative capacities" OR
+			"innovative capacity" OR
+			"innovative development" OR
+			"innovative developments" OR
+			"innovative process" OR
+			"innovative processes" OR
+			"intelligent sensor" OR "intelligent sensors" OR
+			"process innovation" OR
+			"process innovations" OR
+			"R & D" OR
+			"R and D" OR
+			"R&D" OR
+			"research and development" OR
+			"scientific development" OR
+			"scientific developments" OR
+			"scientific innovation" OR
+			"scientific innovations" OR
+			"scientific progress" OR
+			"smart sensor" OR
+			"smart sensors" OR
+			"technological capabilities" OR
+			"technological capability" OR
+			"technological development" OR
+			"technological developments" OR
+			"technological innovation" OR
+			"technological innovations" OR
+			"technological progress" OR
+			"technological upgrading" OR
+			(
+				( "internet of things" OR "web of things" ) AND NOT (
+					"cities" OR
+					"city" OR
+					"home" OR
+					"homes" OR
+					building
+				)
+			) OR
+			( advanced AND technolog* ) OR
+			( innovative AND technolog* ) OR
+			( new AND technolog* ) OR
+			( novel AND technolog* )
+		) AND (
+			"industry" OR
+			"industries" OR
+			"industrial" OR
+			"manufacturing"
+		)
+	) OR
+	( ( "ultra-precision" OR "ultraprecision" ) AND "manufacturing" ) OR
+	(
+		( advanced AND industrial ) AND (
+			"application" OR
+			"manufacturing" OR
+			"process" OR
+			"processes" OR
+			technolog*
+		)
+	) OR
+	(
+		( industrial AND technolog* ) AND (
+			"innovative" OR
+			"R & D" OR
+			"R&D" OR
+			"research and development" OR
+			innovation
+		)
+	) OR
+	( ( rapid* AND prototyp* ) AND manufactur* ) OR
+	( ( robot* AND "machining" ) AND NOT ( ( "surgery" OR "surgical" ) ) ) OR
+	( 3d-print* AND manufactur* ) OR
+	( CNC AND "manufacturing" ) OR
+	( CNC AND ( "machine" OR "machine" OR "machining" ) ) OR
+	( Collaborative* AND mobile* AND robot* ) OR
+	( Collaborative* AND robot* ) OR
+	( composite AND fabrication AND technolog* ) OR
+	( domestic AND technolog* ) OR
+	( efficien* AND machining ) OR
+	( efficien* AND manufacturing ) OR
+	( fdm* AND process* )OR
+	( freeform* AND fabricat* ) OR
+	( fused* AND deposition* ) OR
+	( fused* AND deposition* AND model* ) OR
+	( industr* AND "iiot" ) OR
+	( Industrial* AND robot* ) OR
+	(
+		innovat* AND (
+			"industrial development" OR
+			"industrial" OR
+			"industrialization" OR
+			"industries" OR
+			"industry development" OR
+			"industry" OR
+			"manufacturing development" OR
+			"manufacturing"
+		)
+	) OR
+	( innovative AND industrial AND technolog* ) OR
+	( machin* AND technolog* ) OR
+	( manufactur* AND technolog* ) OR
+	( mechatronic* AND "manufacturing" ) OR
+	( micro-Stereolithograph* AND NOT ( ( "surgery" OR "surgical" OR "prosthesis" OR "Dental" ) ) ) OR
+	( new AND industrial AND technolog* ) OR
+	( new AND manufacturing AND technolog* ) OR
+	( novel AND industrial AND technolog* ) OR
+	( robot* AND ( "manufacturing process" OR "manufacturing processes" ) ) OR
+	(
+		robot* AND industr* AND (
+			application* OR
+			manipulat* OR
+			operation*  OR
+			process* OR
+			system*
+		)
+	) OR
+	( robotic* AND "assembly" AND manufactur* ) OR
+	(
+		stereolithograph* AND NOT (
+			"Dental" OR
+			"prosthesis" OR
+			"surgery" OR
+			"surgical"
+		)
+	) OR
+	innovations
+) AND NOT (
+	"bone" OR
+	"bones" OR
+	"cranial" OR
+	"cranioplasty" OR
+	"Dental" OR
+	"dentist" OR
+	"dentistry" OR
+	"facial" OR
+	"femoral" OR
+	"femur" OR
+	"health industry" OR
+	"health-care industry" OR
+	"healthcare industry" OR
+	"implant" OR
+	"implants" OR
+	"knee" OR
+	"mandibular " OR
+	"Maxillofacial" OR
+	"oro-facial" OR
+	"orofacial" OR
+	"orthopaedic" OR
+	"orthopaedics" OR
+	"orthopedic" OR
+	"orthopedics" OR
+	"prostheses" OR
+	"prosthesis" OR
+	"prosthodontic" OR
+	"prosthodontics" OR
+	"surgery" OR
+	"surgical" OR
+	"teeth"
+)

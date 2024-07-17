@@ -1,0 +1,97 @@
+"benefits of biodiversity" OR
+"Biopiracy" OR
+"Biotrade initiative" OR
+"cartagena protocol" OR
+"Nagoya Protocol" OR
+(
+	"Biobank" AND (
+		"benefit sharing" OR
+		"benefitsharing" OR
+		"distribution of benefits" OR
+		"equitable access" OR
+		"equitable sharing" OR
+		"ethics and governance" OR
+		"share of benefits" OR
+		"shared benefits"
+	)
+) OR
+(
+	"convention on biological diversity" AND (
+		"benefit sharing" OR
+		"benefitsharing" OR
+		"distribution of benefits" OR
+		"equal share" OR
+		"equitable access" OR
+		"equitable sharing" OR
+		"share of benefits" OR
+		"shared benefits" OR
+		equitable
+	)
+) OR
+( "Genetic resource" AND ( "Biological Diversity" OR "international treaty" ) ) OR
+( "plant genetic resource" AND rights ) OR
+(
+	"plant genetic" AND (
+		"benefit-sharing" OR
+		"benefitsharing" OR
+		"sharing of benefits" OR
+		access
+	)
+) OR
+(
+	( "benefit sharing" OR "shared benefits" OR "share of benefits" ) AND (
+		"genetic resource" OR
+		"local communities" OR
+		"wildlife" OR
+		( farm* AND genetic* ) OR
+		biodiversity OR
+		conserv* OR
+		farming OR
+		forest* OR
+		genetic
+	)
+) OR
+(
+	(
+		"benefit sharing" OR
+		"benefit-sharing" OR
+		"benefitsharing" OR
+		"equal share" OR
+		"equitable access" OR
+		"equitable sharing" OR
+		"share of benefits" OR
+		"shared benefits" OR
+	) AND indigenous
+) OR
+(
+	( "Biobank governance" OR "Biomedical" ) AND (
+		"benefit sharing" OR
+		"benefitsharing" OR
+		"distribution of benefits" OR
+		"equitable access" OR
+		"equitable sharing" OR
+		"share of benefits" OR
+		"shared benefits" OR
+	)
+) OR
+(
+	(
+		"bioprospecting" OR
+		"DNA" OR
+		"Genetically modified" OR
+		"TRANSGENIC" OR
+		gene OR
+	) AND (
+		"benefit sharing" OR
+		"benefitsharing" OR
+		"distribution of benefits" OR
+		"equal share" OR
+		"equitable access" OR
+		"equitable sharing" OR
+		"share of benefits" OR
+		"shared benefits"
+	)
+) OR
+( ( "gene bank" OR "genetics" ) AND "food security" ) OR
+( ( "Intellectual property rights" OR "sharing the benefits" ) AND ( biodiversity OR genetic* ) ) OR
+( genetic* AND "Convention on Biological Diversity" ) OR

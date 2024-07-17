@@ -1,0 +1,118 @@
+"Policy for the Small Scale Fisheries Sector" OR
+( 
+	( "small-scale fisheries" OR "smallscale fisheries" ) AND ( 
+		"access to infrastructure" OR
+		"access to resource" OR
+		"co-management" OR
+		"comanagement OR
+		"Community-based management" OR
+		"cooperative management" OR
+		"Interactive governance" OR
+		"ownership rights" OR
+		"tragedy of the commons" OR
+		( access* AND control* ) OR
+		( decision* AND mak* ) OR
+		( manag* AND overcapacity* ) OR
+		( Power* AND asymmetr* ) OR
+		( use* AND control* ) OR
+		policies OR
+		policy OR
+		poverty
+	) 
+) OR
+( 
+	( artisanal* AND fish* ) AND ( 
+		"co-management" OR
+		"comanagement OR
+		"Community-based management" OR
+		"Communitybased management" OR
+		"fisheries management" OR
+		"food security" OR
+		"Interactive governance" OR
+		"tragedy of the commons" OR
+		( access* AND 'to' AND fish* ) OR
+		( access* AND control* ) OR
+		( decision* AND mak* ) OR
+		( decision* AND power* ) OR
+		( Power* AND asymmetr* ) OR
+		( sustainable* AND livelihood* ) OR
+		community-based OR
+		communitybased OR
+		educat* OR
+		gender OR
+		governance OR
+		income OR
+		knowledge OR
+		policies OR
+		policy OR
+		poverty OR
+		woman OR
+		women
+	) 
+) OR
+( 
+	( fishing* AND house* ) AND ( 
+		"co-management" OR
+		"comanagement OR
+		"Community-based management" OR
+		"Communitybased management" OR
+		"fisheries management" OR
+		"food security" OR
+		"ownership rights" OR
+		( access* AND 'to' AND fish* ) OR
+		( decision* AND mak* ) OR
+		( sustainable* AND livelihood* ) OR
+		community-based OR
+		communitybased OR
+		educat* OR
+		gender OR
+		governance OR
+		income OR
+		knowledge OR
+		policies OR
+		policy OR
+		poverty OR
+		women OR
+	) 
+) OR
+( 
+	( ( small-scale OR smallscale ) AND fish* ) AND ( 
+		"co-management" OR
+		"fisheries management" OR
+		"food security" OR
+		"Interactive governance" OR
+		( external* AND pressure* ) OR
+		( sustain* AND livelihood* ) OR
+		gender OR
+		governance OR
+		knowledge OR
+		poverty OR
+		woman OR
+		women
+	) 
+) OR
+( 
+	( subsistence* AND fish* ) AND (
+		"co-management" OR
+		"comanagement OR
+		"Community-based management" OR
+		"Communitybased management" OR
+		"fisheries management" OR
+		"food security" OR
+		"tragedy of the commons" OR
+		( access* AND 'to' AND fish* ) OR
+		( decision* AND mak* ) OR
+		( sustainable* AND livelihood* ) OR
+		community-based OR
+		communitybased OR
+		educat* OR
+		gender OR
+		governance OR
+		income OR
+		knowledge OR
+		policies OR
+		policy OR
+		poverty OR
+		women
+	) 
+)

@@ -1,0 +1,85 @@
+(
+	( ( "fully protected" OR "locally managed" OR protected ) AND marine AND area ) OR
+	( marine AND ( ( protected AND area ) OR sanctuar* ) ) OR
+	( "mpa" AND ( "design" OR "management" OR "network" ) ) OR
+	(
+		( "no-take OR "notake" ) AND (
+			area OR
+			mpa OR
+			reserve OR
+			zone
+		)
+	) OR
+	( ocean AND ( sanctuar* OR conservation ) OR
+	(
+		( conservation AND intervention ) AND (
+			marine OR
+			estuar* OR
+			mangrove OR
+			ocean
+		)
+	) OR
+	(
+		( protected AND area ) AND (
+			"coast ecosystem" OR
+			"coastal ecosystem" OR
+			"estuaries" OR
+			"estuary" OR
+			"mangrove" OR
+			"mangroves" OR
+			marine OR
+			ocean
+		)
+	) OR
+	(
+		(
+			( marine AND ( park OR reserve ) ) AND (
+				( environmental AND ( impact OR planning ) OR
+				conserv* OR
+				ecosystem OR
+				manag* OR
+				planning OR
+				protect* OR
+				sanctuar*
+			)
+		) AND NOT ( "soil conservation" )
+	) OR
+) AND NOT (
+	"Calymmian" OR
+	"Cambrian" OR
+	"Carboniferous" OR
+	"Cenozoic" OR
+	"Cretaceous" OR
+	"Cryogenian" OR
+	"Devonian" OR
+	"Dinosaur" OR
+	"Dinosaurs" OR
+	"Ectasian" OR
+	"Ediacaran" OR
+	"Eocene" OR
+	"Jurassic" OR
+	"Mesoproterozoic" OR
+	"Mesozoic" OR
+	"Miocene" OR
+	"Mississippian" OR
+	"Neogene" OR
+	"Neoproterozoic" OR
+	"Oligocene" OR
+	"ordovician" OR
+	"orosirian" OR
+	"Paleocene" OR
+	"Paleogene" OR
+	"Paleoproterozoic" OR
+	"Paleozoic" OR
+	"Pennsylvanian" OR
+	"Permian" OR
+	"Pliocene" OR
+	"Proterozoic" OR
+	"Rhyacian" OR
+	"Siderian" OR
+	"Silurian" OR
+	"Statherian" OR
+	"Stenian" OR
+	"Tonian" OR
+	"Triassic"
+)

@@ -1,0 +1,606 @@
+(
+	( "climate change" AND impact* AND "on crop production" ) OR
+	( climate AND impact* AND "on agriculture" ) OR
+	"resilient agriculture" OR
+	(
+		"adapt to climate change" AND
+		grazier AND
+		resilien*
+	) OR
+	(
+		"adaptation and mitigation" AND
+		agriculture
+	) OR
+	(
+		"adaptation to climate change" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		adaptation AND "food security" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		( agricultur* AND emission* ) AND
+		adapt*
+	) OR
+	(
+		agriculture AND
+		resilienc*
+	) OR
+	(
+		agroforest* AND (
+			carbon AND ( 
+				emission OR 
+				sequestration 
+			)
+		)
+	) OR
+	( agroforest* NEAR/2 management ) OR
+	(
+		"Better soil quality" AND (
+			( crop AND ( 
+				yield* OR 
+				germination" OR
+				growth OR
+				sowing
+				)
+			)	OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		( Bioenergy AND crop* ) AND
+		( strateg* NEAR/2 mitigat* ) AND
+		emission*
+	) OR
+	(
+		"Carbon sequestration" AND
+		agricultur*
+	) OR
+	(
+		"climate action" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		( climate AND chang* ) AND
+		"C sequestration" AND (
+			agricultur* OR
+			cropland OR
+			farm*
+		)
+	) OR
+	(
+		"Climate information" AND
+		"risk management" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		"Climate mitigation" AND (
+			( 
+				crop AND ( 
+					germination OR
+					growth OR
+					sowing OR
+					yield*
+				) 
+			) OR
+			agricultur* OR
+			crop* OR
+			farm* OR
+		)
+	) OR
+	(
+		"Climate policy" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		( climate AND proof ) AND
+		agricultur*
+	) OR
+	(
+		"climate resilient" AND
+		agriculture
+	) OR
+	(
+		"Climate risk management" AND (
+			farm* OR
+			agricultur*
+		)
+	) OR
+	(
+		"Climate variability" AND
+		(
+			affect* OR
+			impact*
+		) AND
+		(
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		"Climate variability" AND
+		"farm management"
+	) OR
+	(
+		"Climate-smart" AND (
+			farm* OR
+			agricultur*
+		)
+	) OR
+	(
+		"Crop management" AND
+		environmental
+	) OR
+	(
+		"changing climate" AND
+		drought AND
+		risk AND
+		(
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		drought AND
+		(
+			agricultur* OR
+			farm*
+		) AND
+		(
+			adapt* OR
+			mitigat* OR
+			rehab*
+		) AND
+		manag*
+	) OR
+	(
+		drought-tolerant AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		( Environmental AND impact* ) AND (
+			agricultur* OR
+			farm*
+		) AND (
+			adapt* OR
+			mitigat* OR
+			rehab*
+		)
+		AND manag*
+	) OR
+	( "Farmers's response" NEAR/2 Climate ) OR
+	(
+		"Fire management" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		"Fish farming" AND
+		( environmental AND problem* ) AND (
+			(
+			adapt* OR
+			mitigat* OR
+			rehab*
+			) AND manag*
+		)
+	) OR
+	( "Forest mitigation" AND agro-ecological ) OR
+	( 
+		impact* AND 
+		( rainy AND season* ) AND 
+		"food crop production" 
+	) OR
+	( "impact of climate change" NEAR/3 agricultur* ) OR
+	(
+		management AND "sequester carbon" AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		( water* AND "resource management" ) AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			"adaptation to drought" OR
+			"adaptation to water" OR
+			"drought adaptability" OR
+			"drought adaptation" OR
+			"drought adaptations"
+		) AND (
+		agri* OR
+		agro* OR
+		crop* OR
+		farm*
+		)
+	) OR
+	(
+		(
+			adaptation NEAR/2 "environmental stress"
+		) AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			adaptation NEAR/3 strateg*
+		) AND agricultur*
+	) OR
+	(
+		(
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		) NEAR/5 ( climate AND smart* )
+	) OR
+	(
+		(
+			( climate AND chang* ) AND
+			( counter AND measur* ) AND
+			agricultur*
+		) AND NOT (
+			malaria
+		)
+	) OR
+	(
+		(
+			Climate NEAR/2 change
+		) AND
+		"adaptation to" AND
+		(
+			agricultur* OR
+			farm* OR
+			(
+			crop AND ( 
+				germination OR 
+				growth OR 
+				sowing OR 
+				yield* 
+			)
+			) OR
+			crop* OR
+			farm* OR
+		)
+	) OR
+	(
+		( Climate NEAR/2 change ) AND (
+			"farm management" OR
+			( farming AND communit* ) OR
+			"grazing management" OR (
+				impact AND
+				( agricultur* AND production )
+			) OR (
+				impact AND
+				"crop growth"
+			) OR
+			"sustainable biofuel production" OR (
+				( intervention AND strateg* ) AND (
+					agricultur* OR
+					farm*
+				)
+			) OR (
+				mitigation AND farm*
+			) OR (
+				"pest control" AND
+				strateg* AND (
+					agricultur* OR
+					crop OR
+					farm*
+				)
+			) OR (
+				(
+					farm* OR
+					( crop AND response* )
+				) AND
+				adaptation
+			)
+		)
+	) OR
+	(
+		(
+			Climate NEAR/2 change
+		) AND (
+			impact*
+		) AND (
+			( 
+				crop AND ( 
+					germination OR 
+					growth OR 
+					sowing OR 
+					yield* 
+				)
+			) OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			Climate NEAR/2 risk
+		) AND (
+			agricultur* OR farm*
+		)
+	) OR
+	(
+		(
+			Climate NEAR/3 chang*
+		) AND (
+			adaptation OR
+			management OR
+			mitigation
+		) AND (
+			agricultur* OR
+			farm*
+	)
+	) OR
+	"climate-smart agriculture" OR
+	"climate smart agriculture" OR
+	"climatesmart agriculture" OR
+	(
+		(
+			drought NEAR/3 impact*
+		) AND (
+			(
+				crop AND ( 
+					germination OR 
+					growth OR 
+					sowing OR 
+					yield* 
+				)
+			) OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			ecosystem* NEAR/3 resilien*
+		) AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			farm NEAR/2 strateg*
+		) AND
+		reduc* AND
+		( global AND emission* )
+	) OR
+	(
+		(
+			"gas" NEAR/2 emission*
+		) AND
+		agricultur* AND
+		( mitigation AND ( policy OR policies ) )
+	) OR
+	(
+		(
+			"Global change" OR
+			drought
+		) AND adaptation AND (
+			agricultur* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			impact* NEAR/2 agricultur*
+		) AND (
+			rainfall NEAR/2 "distribution"
+		)
+	) OR
+	(
+		(
+			improve* NEAR/2 "soil quality"
+		) AND (
+			strateg* NEAR/2 mitigat*
+		) AND (
+			"crop germination" OR
+			"crop growth" OR
+			"crop sowing" OR
+			( crop AND yield* ) OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			increas* NEAR/2 "rain"
+		) AND
+		resilien* AND (
+			farm* OR agricultur*
+		)
+	) OR
+	(
+		resilien* NEAR/2 (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		resilien* NEAR/3 (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		resilien* NEAR/4 (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			(
+				"adapt to" NEAR/3 chang*
+			) AND (
+				agricultur* OR
+				farm*
+			)
+		) AND NOT (
+			timber
+		)
+	) OR
+	(
+		( adapt* NEAR/4 (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+		) AND (
+			( climate AND chang* ) OR
+			drought* OR
+			( ecological AND change* ) OR
+			( extreme AND weather* ) OR
+			( global AND change* ) OR (
+				environ* NEAR/1 chang*
+			)
+		)
+	) OR
+	(
+		(
+			(
+				mitigation NEAR/3 strateg*
+			) AND agricultur*
+		) AND NOT (
+			malaria
+		)
+	) OR
+	(
+		( adapt* NEAR/4 (
+				agri* OR
+				agro* OR
+				crop* OR
+				farm*
+			)
+		)
+		NEAR/4 (
+			( climate AND chang* ) OR
+			flood
+		)
+	) OR
+	(
+		(
+			(
+				(
+					change OR
+					( Climate AND risk ) OR
+					Climate
+				) NEAR/2 variabilit*
+			)
+		) NEAR/2 Climate
+		AND (
+			adaptation NEAR/2 strateg*
+		) AND (
+			pastoralis* OR livestock
+		)
+	) OR
+	(
+		(
+			(
+				(
+					(
+						change OR
+						( Climate AND risk ) OR
+						Climate
+					) NEAR/2 "variability"
+				)
+			) NEAR/2 Climate
+		) AND vulnerabilit* AND (
+			(
+				crop AND ( 
+					germination OR 
+					growth OR 
+					sowing OR 
+					yield* 
+				)
+			) OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			(
+				(
+					(
+						change OR
+						( Climate AND risk ) OR
+						Climate
+					) NEAR/2 "variability"
+				)
+			) NEAR/2 Climate
+		) AND (
+			adaptation NEAR/2 strateg*
+		) AND (
+			(
+				crop AND ( 
+					germination OR 
+					growth OR 
+					sowing OR 
+					yield* 
+				)
+			) OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			(
+				(
+					(
+						agri* OR
+						agro* OR
+						crop* OR
+						farm*
+					) NEAR/15 global*
+				) NEAR/1 chang*
+			)
+		) NEAR/1 (
+			adapt* OR resilien*
+		)
+	) OR
+	(
+		"farming system" AND
+		"reusing wastewater"
+	)
+) AND NOT (
+	 "encephalitis virus" OR
+	 "pine needle trees" OR
+	 "turfgrass"
+)

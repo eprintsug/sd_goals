@@ -1,0 +1,235 @@
+"arterial streets" OR
+"bicycle commuting" OR
+"bicycle infrastructure" OR
+"bus rapid transit" OR
+"car pool" OR
+"car-free" OR
+"carfree" OR
+"carpool" OR
+"carpooling" OR
+"carsharing" OR
+"commuter cycling" OR
+"congestion pricing" OR
+"congestion traffic" OR
+"cycle lanes" OR
+"cycling safety" OR
+"cyclist safety" OR
+"helmet legislation" OR
+"highway capacity" OR
+"Highway traffic" OR
+"intelligent transit" OR
+"Intelligent transport system" OR
+"intelligent transport" OR
+"Intelligent transportation system" OR
+"intelligent transportation" OR
+"land use and transport" OR
+"land use and transportation" OR
+"landuse and transportation" OR
+"lane enforcement" OR
+"metro system" OR
+"parking policy" OR
+"parking price" OR
+"pedestrian safety" OR
+"public transit" OR
+"public transportation" OR
+"rail transit" OR
+"rapid bus" OR
+"real-time traffic flow" OR
+"realtime traffic flow" OR
+"road network capacity" OR
+"road network" OR
+"road pricing" OR
+"road safety" OR
+"road traffic congestion" OR
+"road traffic safety" OR
+"safe cycling" OR
+"short-term traffic flow" OR
+"shortterm traffic flow" OR
+"signalised intersection" OR
+"signalised intersections" OR
+"signalized intersection" OR
+"signalized intersections" OR
+"Traffic and transportation" OR
+"tramway" OR
+"transit accessibility" OR
+"transit agencies" OR
+"transit oriented development" OR
+"transit-oriented development" OR
+"transitoriented development" OR
+"transport in urban areas" OR
+"transport policies" OR
+"transport policy" OR
+"transportation planning and traffic" OR
+"travel time saving" OR
+"travel time savings" OR
+"underground transport" OR
+"underground transportation" OR
+"walking and cycling" OR
+( "arterial roadways" AND "urban" ) OR
+( "Automobile" AND "air pollution" ) OR
+( "cycle path" AND transport* ) OR
+( "cycle paths" AND transport* ) OR
+(
+	"cycling" AND (
+		"accidents" OR
+		"collisions" OR
+		"infrastructure" OR
+		"injuries"
+	)
+) OR
+( "flow prediction" AND "transit" ) OR
+( "Freeway speed" AND urban* ) OR
+( "intelligent traffic" AND ( "urban" OR car OR vehicle* ) ) OR
+( "metropolitan" AND ( "transit network" OR train ) ) OR
+( "motorised traffic" AND "urban" ) OR
+( "parking pricing" AND ( "transit" OR urban* ) ) OR
+( "parking" AND ( "traffic" OR "transit" ) ) OR
+(
+	"passengers" AND ( "vehicles" OR bus OR vehicle* ) AND (
+		"cities" OR
+		"city" OR
+		"metropolitan" OR
+		"urban"
+	)
+) OR
+( "rapid transit" AND ( "cities" OR "city" OR "urban" ) ) OR
+( "road safety" AND urban* ) OR
+( "sustainable transport" AND "cities" ) OR
+( "traffic accident" AND safety ) OR
+(
+	"traffic accidents" AND (
+		"cities" OR
+		"city" OR
+		"pedestrian" OR
+		"urban"
+	)
+) OR
+( "traffic congestion" AND "urban" ) OR
+( "traffic congestion" AND NOT ( communication* OR network* ) ) OR
+( "traffic crash" AND urban* ) OR
+( "traffic flow" AND street* ) OR
+( "traffic information" AND urban* ) OR
+( "traffic light" AND urban* ) OR
+(
+	"traffic noise" AND (
+		"cities" OR
+		"city" OR
+		"metropolitan" OR
+		"urban"
+	)
+) OR
+(
+	"traffic safety" AND (
+		"cities" OR
+		"city" OR
+		"metropolitan" OR
+		"pedestrian" OR
+		"street" OR
+		"streets" OR
+		"urban"
+	)
+) OR
+(
+	"traffic simulation" AND (
+		"cities" OR
+		"city" OR
+		street* OR
+		urban*
+	)
+) OR
+(
+	"traffic" AND (
+		"assignment" OR
+		"fatalities" OR
+		"flow forecasting" OR
+		"flow prediction" OR
+		"injuries" OR
+		"noise" OR
+		"safety"
+	)
+) OR
+( "urban public" AND ( "transport" OR "transportation" ) ) OR
+(
+	"urban traffic" AND (
+		"congestion" OR
+		"metro" OR
+		"metros" OR
+		"vehicles" OR
+		bus OR
+		car OR
+		vehicle* OR
+	) AND NOT drug*
+) OR
+(
+	"urban" AND (
+		"bus" OR
+		"commuting to work" OR
+		"commuting" OR
+		"cycling" OR
+		"expressways" OR
+		"freeway" OR
+		"freeways" OR
+		"freight" OR
+		"highway" OR
+		"highways" OR
+		"intersection" OR
+		"intersections" OR
+		"mobility" OR
+		"passenger transport" OR
+		"public transport" OR
+		"rail transportation" OR
+		"rail" OR
+		"railway" OR
+		"railways" OR
+		"road" OR
+		"roads" OR
+		"signalized intersection" OR
+		"signalized intersections" OR
+		"traffic congestion" OR
+		"traffic flow" OR
+		"transit network" OR
+		"transit network" OR
+		"transit" OR
+		"transport" OR
+		"transportation system" OR
+		"transportation" OR
+		( transportation* AND plan* ) OR
+		train
+	)
+) OR
+(
+	(
+		"adaptive traffic" OR
+		"commuting behavior" OR
+		"commuting behaviour" OR
+		"commuting pattern" OR
+		"commuting time" OR
+		"intersection traffic" OR
+		"traffic management" OR
+		( commuting* AND cost* ) OR
+		( sustainable* AND transport* )
+	) AND ( "cities" OR "city" OR urban* )
+) OR
+( ( "bus station" OR "bus stops" ) AND ( "transport" OR "transportation" ) ) OR
+( ( "cities" OR "city" ) AND ( "commuting to work" OR "transit network" OR ( transportation* AND plan* ) ) ) OR
+( ( "jobs–housing" OR "job–housing" ) AND "commuting" ) OR
+( ( "traffic" OR "transit" ) AND "air pollution" ) OR
+( "transport planning" AND ( "cities" OR "city" OR "urban" ) ) OR
+( ( traffic* AND signal* ) AND NOT ( network* ) ) OR
+( ( transport* AND project* ) AND urban* ) OR
+( city and ( "logistics" OR "traffic" OR "transit" ) ) OR
+( Personal* AND rapid* AND transit* ) OR
+( public AND transport* ) OR
+(
+	( public AND transport* ) AND (
+		"cities" OR
+		"city" OR
+		"metro" OR
+		"metropolitan" OR
+		"tramway" OR
+		"transit" OR
+		"urban" OR
+		"walking"
+	)
+) OR
+( public* AND mass* AND transport* )

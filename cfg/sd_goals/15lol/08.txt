@@ -1,0 +1,896 @@
+"Accipiter striatus venator" OR
+"Achatinella spp." OR
+"Acinonyx jubatus" OR
+"Adelocosa anops" OR
+"Aepyceros melampus petersi" OR
+"Agelaius xanthomus" OR
+"Ailuropoda melanoleuca" OR
+"Aipysurus fuscus" OR
+"Alauda razae" OR
+"Alcelaphus buselaphus swaynei" OR
+"Alethe choloensis" OR
+"Alligator sinensis" OR
+"Alouatta palliata" OR
+"Amazilia luciae" OR
+"Amblema neislerii" OR
+"Ameiva polops" OR
+"Ammodorcas clarkei" OR
+"amphibian conservation" OR
+"amphibians conservation" OR
+"Amytornis goyderi" OR
+"Anaea troglodyta floridalis" OR
+"Anairetes alpinus" OR
+"Anas aucklandica nesiotis" OR
+"Anas laysanensis" OR
+"Anas wyvilliana" OR
+"Anaxyrus californicus" OR
+"animal conservation" OR
+"Anodorhynchus glaucus" OR
+"Anodorhynchus leari" OR
+"Anolis roosevelti" OR
+"Antechinomys laniger" OR
+"Antilocapra americana peninsularis" OR
+"Antilocapra americana sonoriensis" OR
+"Aplodontia rufa nigra" OR
+"Aplonis pelzelni" OR
+"Apodemia mormo langei" OR
+"Ara ambiguus" OR
+"Ara glaucogularis" OR
+"Ara militaris" OR
+"Aratinga guarouba" OR
+"Arkansia wheeleri" OR
+"Assiminea pecos" OR
+"at-risk species" OR
+"Ateles geoffroyi frontatus" OR
+"Athearnia anthonyi" OR
+"Atrichornis clamosus" OR
+"atrisk species" OR
+"Aythya innotata" OR
+"Babyrousa babyrussa" OR
+"Batagur baska" OR
+"Batrisodes texanus" OR
+"bear conservation" OR
+"Bettongia gaimardi" OR
+"Bettongia lesueur" OR
+"Bettongia penicillata" OR
+"Bettongia tropica" OR
+"biodiversity extinction" OR
+"bird conservation" OR
+"birds conservation" OR
+"Blastocerus dichotomus" OR
+"Boloria acrocnema" OR
+"Bombus affinis" OR
+"Bos gaurus" OR
+"Bos javanicus" OR
+"Bos sauveli" OR
+"Brachylagus idahoensis" OR
+"Brachylophus fasciatus" OR
+"Brachylophus vitiensis" OR
+"Brachyteles arachnoides" OR
+"Bradypus torquatus" OR
+"Brychius hungerfordi" OR
+"Bubalus depressicornis" OR
+"Bubalus mindorensis" OR
+"Bubalus quarlesi" OR
+"Bufo houstonensis" OR
+"Bufo periglenes" OR
+"Bufo superciliaris" OR
+"Burramys parvus" OR
+"Buteo galapagoensis" OR
+"Buteo platypterus brunnescens" OR
+"Buteo solitarius" OR
+"butterfly conservation" OR
+"C. lupus" OR
+"Cacajao spp." OR
+"Cacatua haematuropygia" OR
+"Cacatua sulphurea" OR
+"Caiman crocodilus apaporiensis" OR
+"Caiman latirostris" OR
+"Cairina scutulata" OR
+"Callaeas cinerea" OR
+"Callimico goeldii" OR
+"Callithrix flaviceps" OR
+"Caloprymnus campestris" OR
+"Camarhynchus pauper" OR
+"Camelus bactrianus" OR
+"Campeloma decampi" OR
+"Campephilus imperialis" OR
+"Campephilus principalis" OR
+"Canis lupus baileyi" OR
+"Canis rufus" OR
+"Canis simensis" OR
+"Capra pyrenaica pyrenaica" OR
+"Capra walie" OR
+"Caprimulgus noctitherus" OR
+"Caprolagus hispidus" OR
+"Carduelis cucullata" OR
+"carnivore conservation" OR
+"Casarea dussumieri" OR
+"Catreus wallichii" OR
+"Cephalophus jentinki" OR
+"Cephalorhynchus hectori hectori" OR
+"Cephalorhynchus hectori maui" OR
+"Ceratotherium simum cottoni" OR
+"Cercocebus galeritus galeritus" OR
+"Cercocebus torquatus" OR
+"Cercopithecus diana" OR
+"Cercopithecus erythrogaster" OR
+"Cercopithecus erythrotis" OR
+"Cercopithecus lhoesti" OR
+"Cervus duvauceli" OR
+"Cervus elaphus bactrianus" OR
+"Cervus elaphus barbarus" OR
+"Cervus elaphus corsicanus" OR
+"Cervus elaphus hanglu" OR
+"Cervus elaphus wallichi" OR
+"Cervus elaphus yarkandensis" OR
+"Cervus eldi" OR
+"Cervus nippon keramae" OR
+"Cervus nippon kopschi" OR
+"Cervus nippon taiouanus" OR
+"Chaeropus ecaudatus" OR
+"Chaetocercus berlepschi" OR
+"Chaetomys subspinosus" OR
+"Charadrius melodus" OR
+"Chasiempis ibidis" OR
+"Chasmistes brevirostris" OR
+"Chasmistes cujus" OR
+"Chasmistes liorus" OR
+"chimpanzee conservation" OR
+"Chiropotes albinasus" OR
+"Chiropotes satanas satanas" OR
+"Chlamyphorus truncatus" OR
+"Chondrohierax uncinatus mirus" OR
+"Chondrohierax uncinatus wilsonii" OR
+"Chrysocyon brachyurus" OR
+"Cicindela nevadica lincolniana" OR
+"Cicindela ohlone" OR
+"Cicindelidia floridana" OR
+"Cicurina madla" OR
+"Cinclodes aricomae" OR
+"Cnemidophorus vanzoi" OR
+"Colinus virginianus ridgwayi" OR
+"Colobus satanas" OR
+"Columba inornata wetmorei" OR
+"Columba mayeri" OR
+"Columba palumbus azorica" OR
+"Conolophus pallidus" OR
+"Conserving bat populations" OR
+"Copsychus sechellarum" OR
+"Coracopsis nigra barklyi" OR
+"Corvus hawaiiensis" OR
+"Corvus kubaryi" OR
+"Corvus leucognaphalus" OR
+"Cotinga maculata" OR
+"Craseonycteris thonglongyai" OR
+"Crax alberti" OR
+"Crax blumenbachii" OR
+"Crocodylus acutus" OR
+"Crocodylus cataphractus" OR
+"Crocodylus intermedius" OR
+"Crocodylus porosus" OR
+"Crocodylus rhombifer" OR
+"Crocodylus siamensis" OR
+"Crossoptilon crossoptilon" OR
+"Crossoptilon mantchuricum" OR
+"Cryptobranchus alleganiensis bishopi" OR
+"Crystallaria cincotta" OR
+"Cumberlandia monodonta" OR
+"Cuon alpinus" OR
+"Cyanopsitta spixii" OR
+"Cyclargus thomasi bethunebakeri" OR
+"Cyclura collei" OR
+"Cyclura lewisi" OR
+"Cyclura pinguis" OR
+"Cynomys mexicanus" OR
+"Cyprinodon bovinus" OR
+"Cyprinodon diabolis" OR
+"Cyprinodon elegans" OR
+"Cyprinodon macularius" OR
+"Cyprinodon nevadensis mionectes" OR
+"Cyprinodon nevadensis pectoralis" OR
+"Cyprinodon radiosus" OR
+"Cyprogenia stegaria" OR
+"Dasyurus viverrinus" OR
+"Daubentonia madagascariensis" OR
+"Deltistes luxatus" OR
+"Dendroica chrysoparia" OR
+"Dendroica kirtlandii" OR
+"Dermatemys mawii" OR
+"Dicerorhinus sumatrensis" OR
+"Diceros bicornis" OR
+"Dinacoma caseyi" OR
+"Diomedea amsterdamensis" OR
+"Dipodomys heermanni morroensis" OR
+"Dipodomys ingens" OR
+"Dipodomys merriami parvus" OR
+"Dipodomys nitratoides nitratoides" OR
+"Discus macclintocki" OR
+"Drepanoptila holosericea" OR
+"Dromus dromas" OR
+"Drosophila heteroneura" OR
+"Ducula galeata" OR
+"Egretta eulophotes" OR
+"Elephas maximus" OR
+"Elliptio spinosa" OR
+"Elliptio steinstansana" OR
+"Emballonura semicaudata rotensis" OR
+"Emoia slevini" OR
+"Empetrichthys latos" OR
+"Empidonax traillii extimus" OR
+"Epicrates inornatus" OR
+"Epicrates monensis granti" OR
+"Epicrates subflavus" OR
+"Epioblasma brevidens" OR
+"Epioblasma capsaeformis" OR
+"Epioblasma obliquata perobliqua" OR
+"Epioblasma torulosa rangiana" OR
+"Epioblasma triquetra" OR
+"Equus africanus" OR
+"Equus hemionus" OR
+"Equus przewalskii" OR
+"Equus zebra zebra" OR
+"Eriocnemis nigrivestis" OR
+"Etheostoma akatulo" OR
+"Etheostoma chermocki" OR
+"Etheostoma chienense" OR
+"Etheostoma fonticola" OR
+"Etheostoma moorei" OR
+"Etheostoma nuchale" OR
+"Etheostoma osburni" OR
+"Etheostoma percnurum" OR
+"Etheostoma sellare" OR
+"Etheostoma susanae" OR
+"Etheostoma wapiti" OR
+"Eua zebrina" OR
+"Eulidia yarrellii" OR
+"Eumops floridanus" OR
+"Euphilotes battoides allyni" OR
+"Euphydryas editha quino" OR
+"Euphydryas editha taylori" OR
+"Eurycea sosorum" OR
+"Eurycea waterlooensis" OR
+"Eutrichomyias rowleyi" OR
+"Eutriorchis astur" OR
+"extinction and recovery" OR
+"extinction recovery" OR
+"extinction risk assessment" OR
+"extinction risks" OR
+"Falco araea" OR
+"Falco femoralis septentrionalis" OR
+"Falco peregrinus peregrinus" OR
+"Falco punctatus" OR
+"faunal extinction" OR
+"faunal extinctions" OR
+"Felis nigripes" OR
+"flagship species" OR
+"Foudia flavicans" OR
+"Foudia rubra" OR
+"Foudia sechellarum" OR
+"Francolinus ochropectus" OR
+"Fregata andrewsi" OR
+"Fulica americana alai" OR
+"Fusconaia cor" OR
+"Fusconaia cuneolus" OR
+"Gallicolumba stairi" OR
+"Gallinula chloropus guami" OR
+"Gallotia simonyi simonyi" OR
+"Gambusia gaigei" OR
+"Gambusia georgei" OR
+"Gambusia heterochir" OR
+"Gambusia nobilis" OR
+"Gavialis gangeticus" OR
+"Gazella cuvieri" OR
+"Gazella dama mhorr" OR
+"Gazella dama" OR
+"Gazella dorcas massaesyla" OR
+"Gazella dorcas saudiya" OR
+"Gazella gazella" OR
+"Gazella leptoceros" OR
+"Gazella subgutturosa marica" OR
+"Geochelone radiata" OR
+"Geochelone yniphora" OR
+"Geoclemys hamiltonii" OR
+"Geopsittacus occidentalis" OR
+"Geronticus eremita" OR
+"Gila bicolor mohavensis" OR
+"Gila bicolor snyderi" OR
+"Gila boraxobius" OR
+"Gila cypha" OR
+"Gila elegans"
+"Gila elegans" OR
+"Gila intermedia" OR
+"Gila purpurea" OR
+"Glaucomys sabrinus coloratus" OR
+"Glaucopsyche lygdamus palosverdesensis" OR
+"Gopherus flavomarginatus" OR
+"Gorilla gorilla" OR
+"Grallaria milleri" OR
+"Grus americana" OR
+"Grus canadensis nesiotes" OR
+"Grus canadensis pulla" OR
+"Grus japonensis" OR
+"Grus leucogeranus" OR
+"Grus monacha" OR
+"Grus nigricollis" OR
+"Grus vipio" OR
+"Gymnobelideus leadbeateri" OR
+"Gymnogyps californianus" OR
+"Gymnomyza samoensis" OR
+"Haematopus meadewaldoi" OR
+"Halcyon cinnamomina cinnamomina" OR
+"Haliaeetus albicilla groenlandicus" OR
+"Haliaeetus vociferoides" OR
+"Harpia harpyja" OR
+"Helminthoglypta walkeriana" OR
+"Hemignathus wilsoni" OR
+"Hemiphaga novaeseelandiae chathamensis" OR
+"Hemitragus jayakari" OR
+"Hemitriccus kaempferi" OR
+"Heraclides aristodemus ponceanus" OR
+"Heterelmis comalensis" OR
+"Himantopus novaezelandiae" OR
+"Hippocamelus antisensis" OR
+"Hippocamelus bisulcus" OR
+"Hipposideros ridleyi" OR
+"Hippotragus niger variani" OR
+"Huso dauricus" OR
+"Hybognathus amarus" OR
+"Hylaeus anthracinus" OR
+"Hypolimnas octocula marianensis" OR
+"Icaricia icarioides fenderi" OR
+"Icaricia icarioides missionensis" OR
+"insect conservation" OR
+"iucn categories" OR
+"iucn conservation" OR
+"iucn criteria" OR
+"IUCN red list" OR
+"Kinosternon sonoriense longifemorale " OR
+"Lagorchestes hirsutus" OR
+"Lagostrophus fasciatus" OR
+"Lagothrix flavicauda" OR
+"Lampsilis abrupta" OR
+"Lampsilis higginsii" OR
+"Lampsilis rafinesqueana" OR
+"Lampsilis subangulata" OR
+"Lampsilis virescens" OR
+"Lanius ludovicianus mearnsi" OR
+"Larus audouinii" OR
+"Larus relictus" OR
+"Lasiurus cinereus semotus" OR
+"Lasmigona decorata" OR
+"Laterallus tuerosi" OR
+"Leiopelma hamiltoni" OR
+"Lemiox rimosus" OR
+"Leontopithecus spp." OR
+"Leporillus conditor" OR
+"Leptasthenura xenothorax" OR
+"Leptodea leptodon" OR
+"Leptonycteris nivalis" OR
+"Leptoptilos dubius" OR
+"Leptoxis plicata" OR
+"Leucopsar rothschildi" OR
+"Lophophorus lhuysii" OR
+"Lophophorus sclateri" OR
+"Lophura edwardsi" OR
+"Lophura imperialis" OR
+"Lophura swinhoii" OR
+"Loxioides bailleui" OR
+"Loxops caeruleirostris" OR
+"Loxops coccineus" OR
+"Lycaeides melissa samuelis" OR
+"Lycaon pictus" OR
+"Macaca silenus" OR
+"Macrocephalon maleo" OR
+"Macropus parma" OR
+"Macrotis lagotis" OR
+"Macrotis leucura" OR
+"Malimbus ibadanensis" OR
+"mammal conservation" OR
+"mammal extinction" OR
+"Manduca blackburni" OR
+"Margaritifera marrianae" OR
+"Marmota vancouverensis" OR
+"Martes flavigula chrysospila" OR
+"Medionidus penicillatus" OR
+"Medionidus simpsonianus" OR
+"megafaunal extinction" OR
+"megafaunal extinctions" OR
+"Megalagrion nigrohamatum nigrolineatum" OR
+"Megalagrion pacificum" OR
+"Megalagrion xanthomelas" OR
+"Megapodius laperouse" OR
+"Melamprosops phaeosoma" OR
+"Melanochelys tricarinata" OR
+"Melanosuchus niger" OR
+"Mergus octosetaceus" OR
+"Microhexura montivaga" OR
+"Microtus californicus scirpensis" OR
+"Microtus pennsylvanicus dukecampbelli" OR
+"Mimus Graysoni" OR
+"Moho braccatus" OR
+"Morenia ocellata" OR
+"Muntiacus feae" OR
+"Mustela nigripes" OR
+"Myadestes myadestinus" OR
+"Myadestes palmeri" OR
+"Myotis grisescens" OR
+"Myotis sodalis" OR
+"Myrmecobius fasciatus" OR
+"Nasalis larvatus" OR
+"Necturus alabamensis" OR
+"Nemosia rourei" OR
+"Neofelis nebulosa" OR
+"Neomorphus geoffroyi dulcis" OR
+"Neonympha mitchellii francisci" OR
+"Neonympha mitchellii mitchellii" OR
+"Neophema chrysogaster" OR
+"Neotoma floridana smalli" OR
+"Neotoma fuscipes riparia" OR
+"Nicrophorus americanus" OR
+"Nipponia nippon" OR
+"Notomys aquilo" OR
+"Numenius borealis" OR
+"Numenius tenuirostris" OR
+"Oarisma poweshiek" OR
+"Oceanodroma castro" OR
+"Odocoileus virginianus clavium" OR
+"Odontophorus strophium" OR
+"Onychogalea fraenata" OR
+"orchid conservation" OR
+"orchids conservation" OR
+"oreomystis bairdi" OR
+"oreomystis mana" OR
+"oreophasis derbianus" OR
+"oryx dammah" OR
+"oryx leucoryx" OR
+"oryzomys palustris natator" OR
+"Osteolaemus tetraspis osborni" OR
+"Osteolaemus tetraspis tetraspis" OR
+"Otus ireneae" OR
+"Ovis ammon" OR
+"Ovis canadensis nelsoni" OR
+"Ovis canadensis sierrae" OR
+"Ovis vignei vignei" OR
+"Oxyloma haydeni kanabensis" OR
+"Ozotoceros bezoarticus" OR
+"Palmeria dolei" OR
+"Pan paniscus" OR
+"Pan troglodytes" OR
+"Panthera leo leo" OR
+"Panthera onca" OR
+"Panthera pardus" OR
+"Panthera tigris" OR
+"Papilio homerus" OR
+"Papilio hospiton" OR
+"Papustyla pulcherrima" OR
+"Paroreomyza maculata" OR
+"Partula gibba" OR
+"Pegias fabula" OR
+"Penelope albipennis" OR
+"Penelope perspicax" OR
+"penguin conservation" OR
+"Pentalagus furnessi" OR
+"Perameles bougainville" OR
+"Perognathus longimembris pacificus" OR
+"Peromyscus gossypinus allapaticola" OR
+"Peromyscus polionotus allophrys" OR
+"Peromyscus polionotus ammobates" OR
+"Peromyscus polionotus phasma" OR
+"Peromyscus polionotus trissyllepsis" OR
+"Petrogale xanthopus" OR
+"Petroica traversi" OR
+"Pezoporus wallicus" OR
+"Pharomachrus mocinno" OR
+"Phelsuma edwardnewtoni" OR
+"Phelsuma guentheri" OR
+"Phoenicoparrus andinus" OR
+"Physa natricina" OR
+"Phytotoma raimondii" OR
+"Picathartes gymnocephalus" OR
+"Picathartes oreas" OR
+"Picoides borealis" OR
+"Pionopsitta pileata" OR
+"Pipile jacutinga" OR
+"Pithecophaga jefferyi" OR
+"Pitta gurneyi" OR
+"Plagopterus argentissimus" OR
+"Planigale ingrami subtilissima" OR
+"Planigale tenuirostris" OR
+"plant conservation" OR
+"Platanista gangetica minor" OR
+"Platysteira laticincta" OR
+"Plethobasus cyphyus" OR
+"Plethodon neomexicanus" OR
+"Plethodon shenandoah" OR
+"Pleurobema clava" OR
+"Pleurobema collina" OR
+"Pleurobema decisum" OR
+"Pleurobema furvum" OR
+"Pleurobema georgianum" OR
+"Pleurobema gibberum" OR
+"Pleurobema plenum" OR
+"Pleurobema pyriforme" OR
+"Pleuronaia dolabelloides" OR
+"Ploceus golandi" OR
+"Podiceps taczanowskii" OR
+"Podocnemis expansa" OR
+"Podocnemis unifilis" OR
+"Poecilotheria fasciata" OR
+"Poecilotheria ornata" OR
+"Poecilotheria vittata" OR
+"Polyphylla barbata" OR
+"Polyplectron emphanum" OR
+"Pomarea nigra" OR
+"Pongo pygmaeus" OR
+"Popenaias popeii" OR
+"Potamilus capax" OR
+"predator-prey dynamic" OR
+"predatorprey dynamic" OR
+"primate conservation" OR
+"Priodontes maximus" OR
+"Prionodon pardicolor" OR
+"Propithecus spp." OR
+"Psammobates geometricus" OR
+"Psephotus chrysopterygius" OR
+"Psephotus pulcherrimus" OR
+"Pseudemydura umbrina" OR
+"Pseudemys alabamensis" OR
+"Pseudibis gigantea" OR
+"Pseudobulweria macgillivrayi" OR
+"Pseudocopaeodes eunus obscurus" OR
+"Pseudomys fieldi" OR
+"Pseudomys fumeus" OR
+"Pseudomys novaehollandiae" OR
+"Pseudomys shortridgei" OR
+"Pseudonestor xanthophrys" OR
+"Psittacula echo" OR
+"Psittirostra psittacea" OR
+"Psophodes nigrogularis" OR
+"Pterodroma axillaris" OR
+"Pterodroma cahow" OR
+"Pterodroma madeira" OR
+"Pterodroma magentae" OR
+"Pterodroma sandwichensis" OR
+"Pteronura brasiliensis" OR
+"Pteropus rodricensis" OR
+"Pteropus tokudae" OR
+"Ptychobranchus jonesi" OR
+"Ptychocheilus lucius" OR
+"Pudu pudu" OR
+"Pygathrix nemaeus" OR
+"Pyrgulopsis bruneauensis" OR
+"Pyrgulopsis roswellensis" OR
+"Pyrgulopsis trivialis" OR
+"Pyrgus ruralis lagunae" OR
+"Pyriglena atra" OR
+"Pyrrhura cruentata" OR
+"Python molurus molurus" OR
+"Quadrula fragosa" OR
+"Rallus longirostris levipes" OR
+"Rallus longirostris obsoletus" OR
+"Rallus longirostris yumanensis" OR
+"Ramphocinclus brachyurus" OR
+"Rana muscosa" OR
+"Rana sierrae" OR
+"Rangifer tarandus caribou" OR
+"ratio-dependent predator-prey" OR
+"ratiodependent predatorprey" OR
+"Reithrodontomys raviventris" OR
+"Rhadine persephone" OR
+"Rhaphiomidas terminatus abdominalis" OR
+"Rhinoceros sondaicus" OR
+"Rhinoceros unicornis" OR
+"Rhinopithecus avunculus" OR
+"Rhinopithecus bieti" OR
+"Rhinopithecus brelichi" OR
+"Rhinopithecus roxellana" OR
+"Rhinoptilus bitorquatus" OR
+"Rhodonessa caryophyllacea" OR
+"Rhynchopsitta pachyrhyncha" OR
+"Rhynochetos jubatus" OR
+"Romerolagus diazi" OR
+"Rostrhamus sociabilis plumbeus" OR
+"Rukia longirostra" OR
+"S. putorius" OR
+"Saguinus bicolor" OR
+"Saguinus oedipus" OR
+"Saiga tatarica mongolica" OR
+"Saimiri oerstedii" OR
+"Sauromalus varius" OR
+"Scaphirhynchus albus" OR
+"Setonix brachyurus" OR
+"Sitta ledanti" OR
+"Sminthopsis psammophila" OR
+"Solenodon cubanus" OR
+"Solenodon paradoxus" OR
+"Somatochlora hineana" OR
+"Sorex ornatus relictus" OR
+"Spheniscus demersus" OR
+"Spheniscus mendiculus" OR
+"Sphenodon guntheri" OR
+"Sphenodon punctatus" OR
+"Spilogale putorius" OR
+"Sterna antillarum browni" OR
+"Sterna antillarum" OR
+"Strigops habroptilus" OR
+"Struthio camelus syriacus" OR
+"Strymon acis bartrami" OR
+"Stygoparnus comalensis" OR
+"Sus salvanius" OR
+"Sylvilagus bachmani riparius" OR
+"Sylvilagus palustris hefneri" OR
+"Symphalangus syndactylus" OR
+"Syrmaticus ellioti" OR
+"Syrmaticus mikado" OR
+"Tamiasciurus hudsonicus grahamensis" OR
+"Tapirus bairdii" OR
+"Tapirus indicus" OR
+"Tapirus pinchaque" OR
+"Tapirus terrestris" OR
+"Tauraco bannermani" OR
+"Taurotragus derbianus derbianus" OR
+"Terpsiphone corvina" OR
+"Terrapene coahuila" OR
+"Tetrao urogallus cantabricus" OR
+"Texella reyesi" OR
+"Thamnophis sirtalis tetrataenia" OR
+"Thinornis novaeseelandiae" OR
+"Thylacinus cynocephalus" OR
+"tiger conservation" OR
+"Tinamus solitarius" OR
+"Tomistoma schlegelii" OR
+"Toxolasma cylindrellus" OR
+"Trachemys scripta callirostris" OR
+"Tragopan blythii" OR
+"Tragopan caboti" OR
+"Tragopan melanocephalus" OR
+"Trichechus inunguis" OR
+"Trichechus manatus" OR
+"Trimerotropis infantilis" OR
+"Tringa guttifer" OR
+"Trionyx gangeticus" OR
+"Troglodytes aedon mesoleucus" OR
+"Tryonia circumstriata" OR
+"Turnagra capensis" OR
+"Tympanuchus cupido attwateri" OR
+"Typhlomolge rathbuni" OR
+"Tyto soumagnei" OR
+"U. arctos" OR
+"Uratelornis chimaera" OR
+"Ursus arctos arctos" OR
+"Ursus arctos pruinosus" OR
+"Ursus arctos" OR
+"Ursus thibetanus gedrosianus" OR
+"Vagrans egistina" OR
+"Varanus bengalensis" OR
+"Varanus flavescens" OR
+"Varanus griseus" OR
+"Varanus komodoensis" OR
+"Vermivora bachmanii" OR
+"Vicugna vicugna" OR
+"Villosa choctawensis" OR
+"Villosa fabalis" OR
+"Villosa perpurpurea" OR
+"Villosa trabalis" OR
+"Vipera latifii" OR
+"Vireo bellii pusillus" OR
+"Vulpes macrotis mutica" OR
+"Vultur gryphus" OR
+"Wyulda squamicaudata" OR
+"Xenicus longipes" OR
+"Xeromys myoides" OR
+"Xyrauchen texanus" OR
+"Zapus hudsonius luteus" OR
+"Zosterops albogularis" OR
+"Zosterops rotensis" OR
+"Zyzomys pedunculatus" OR
+( "canis lupus" AND NOT ( "familiaris" OR "dog" OR dogs ) ) OR
+( "conservation status" AND ( "bear" OR "tiger" ) ) OR
+( "extinction" AND "trichechus manatus" ) OR
+( "panda" AND "extinction" ) OR
+( "panthera" AND ( "endangered" OR "extinction" ) ) OR
+( "Predation" AND "threat" AND "population" ) OR
+( "rare species" AND ( "threat" OR "threatened" OR "threats" ) ) OR
+( "threatened species" AND ( "terrestrial" OR "inland" OR freshwater* ) ) OR
+( "threatened" AND "extinction" AND animal ) OR
+(
+	"wolves" AND (
+		"endangered" OR
+		"extinction" OR
+		"hunt" OR
+		"hunting"
+	)
+) OR
+( ( "asian elephant" OR "nycticebus" OR "panthera" ) AND conserv* ) OR
+(
+	(
+		"conservation education" OR
+		"critically endanger" OR
+		"endangered plant" OR
+		"endangered status" OR
+		"extinction model" OR
+		"extinction recovery" OR
+		"extinction thresholds" OR
+		"predicting extinction" OR
+		"probability of extinction" OR
+		"rare and endangered" OR
+		"recovery plan" OR
+		"recovery planning" OR
+		"recovery plans" OR
+		"threat assessment" OR
+		"threatened status" OR
+		"threatened" OR
+		recovery
+	) AND "Species"
+) OR
+(
+	(
+		"conservation of biodiversity" OR
+		"critically endangered" AND "species" OR
+		"predator-prey dynamics" OR
+		"predator-prey interaction" OR
+		"predator-prey interactions" OR
+		"predatorprey dynamics" OR
+		"predatorprey interaction" OR
+		"predatorprey interactions" OR
+		"risk of extinction" AND "species" OR
+		"species at risk" OR
+		"species conservation" OR
+		"Species survival" OR
+		"turtle conservation" OR
+		"wildlife conservation" OR
+		(
+			"extinction" AND (
+				"predation" OR
+				"species" OR
+				"turtles" OR
+				biodiversity OR
+				predator OR
+				prey OR
+				risk OR
+				wildlife
+			)
+		) OR
+		( "Predation" AND "threat" AND "species" ) OR
+		( "species" AND "endangered" AND ( "predation" OR "predator" ) ) OR
+		( "threatened" AND "extinction" ) OR
+		( "threatened" AND "extinction" AND "species" ) OR
+		( extinction AND probabilit* AND "species" ) OR
+	) AND ( "inland" OR "terrestrial" OR "forest" )
+) OR
+(
+	(
+		"conservation of biodiversity" OR
+		"endangered species" OR
+		"endangered status" OR
+		"endangered subspecies" OR
+		"extinction risk" OR
+		"heavily hunted" OR
+		"predator-prey dynamics" OR
+		"predator-prey interaction" OR
+		"predator-prey interactions" OR
+		"predatorprey dynamics" OR
+		"predatorprey interaction" OR
+		"predatorprey interactions" OR
+		"species at risk" OR
+		"species conservation" OR
+		"Species extinction" OR
+		"Species survival" OR
+		"threatened species" OR
+		"turtle conservation" OR
+		"wildlife conservation" OR
+		( "captive breeding" AND ( "endangered" OR "status of" OR "threatened" ) ) OR
+		( "conservation status" AND "species" ) OR
+		( "critically endangered" AND "species" ) OR
+		( "extinction" AND ( "predation" OR "species" OR "turtles" OR "predator" OR "prey" OR "predators" OR "preys" ) ) OR
+		( "IUCN" AND "species" ) OR
+		( "overhunting" AND conserv* ) OR
+		( "Predation" AND "threat" AND "species" ) OR
+		( "risk of extinction" AND "species" ) OR
+		( "species" AND "endangered" AND ( "predation" OR "predator" ) ) OR
+		( "threatened" AND "extinction" AND "species" ) OR
+		( "wildlife" AND "extinction" ) OR
+		( ( "captive breeding" AND "endangered" ) AND ( animal* OR "species" ) ) OR
+		( ( Population* AND decline* ) AND ( animal* OR "species" ) ) OR
+		( biodiversity AND "extinction" ) OR
+		( extinction AND probabilit* ) OR
+	) AND NOT ( marine OR ocean OR sea )
+) OR
+( ( "florida panther" OR "giant panda" OR "grizzly" ) AND ( "endangered" OR conserv* ) ) OR
+( ( "threatened" AND "extinction" AND "species" ) AND NOT ( ( marine OR "ocean" OR "oceans" ) ) ) OR
+( ( predator-prey OR predatorprey ) AND ( "model" OR relation OR "system" ) ) OR
+(
+	Acipenser AND (
+		"brevirostrum" OR
+		"mikadoi" OR
+		"naccarii" OR
+		"sinensis" OR
+		"transmontanus"
+	)
+) OR
+( Acrocephalus AND ( "familiaris kingi" OR "luscinia" ) ) OR
+( Alasmidonta AND ( "heterodon" OR "raveneliana" ) ) OR
+(
+	Amazona AND (
+		"arausiaca" OR
+		"brasiliensis" OR
+		"guildingii" OR
+		"imperialis" OR
+		"leucocephala" OR
+		"rhodocorytha" OR
+		"versicolor" OR
+		"vinacea" OR
+		"vittata"
+	)
+) OR
+(
+	Ambystoma AND (
+		"bishopi" OR
+		"californiense" OR
+		"macrodactylum croceum" OR
+		"tigrinum stebbinsi"
+	)
+) OR
+( Ammodramus AND ( "maritimus mirabilis" OR "savannarum floridanus" ) ) OR
+( Castor AND ( fiber OR fibre ) AND birulai ) OR
+(
+	conservation AND (
+		"breeding" OR
+		"of bats" OR
+		"of birds" OR
+		"of species"
+	)
+) OR
+(
+	endangered AND (
+		"amphibian" OR
+		"amphibians" OR
+		"animal" OR
+		"animals" OR
+		"bird" OR
+		"birds" OR
+		"butterflies" OR
+		"butterfly" OR
+		"dolphins" OR
+		"endemic species" OR
+		"frog" OR
+		"frogs" OR
+		"lizard" OR
+		"lizards" OR
+		"lynx" OR
+		"marsupial" OR
+		"marsupials" OR
+		"medicinal herb" OR
+		"medicinal plant" OR
+		"orchid" OR
+		"orchids" OR
+		"plant" OR
+		"primate" OR
+		"primates" OR
+		"shrub" OR
+		"shrubs" OR
+		"snake" OR
+		"tree" OR
+		"trees" OR
+		"trichechus manatus" OR
+		"tropical" OR
+		"turtle" OR
+		"turtles" OR
+		"wildlife" OR
+		freshwater*
+	)
+) OR
+(
+	threatened AND (
+		"bird" OR
+		"birds" OR
+		"butterflies" OR
+		"butterfly" OR
+		"flora" OR
+		"medicinal plant" OR
+		"orchid" OR
+		"orchids" OR
+		"plant" OR
+	)
+) OR

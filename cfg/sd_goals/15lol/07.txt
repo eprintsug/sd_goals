@@ -1,0 +1,240 @@
+"Agenda 21" OR
+"carbon finance" OR
+"convention on biological diversity" OR
+"ecological valuation" OR
+"environmental accounting" OR
+"Environmental and Economic Accounting" OR
+"environmental finance" OR
+"environmental valuation" OR
+"Environmental-Economic Accounting" OR
+"EnvironmentalEconomic Accounting" OR
+"environmentally extended input-output" OR
+"environmentally extended inputoutput" OR
+"forest valuation" OR
+"forest valuations" OR
+"global environmental agenda" OR
+"global strategy for plant conservation" OR
+"green climate fund" OR
+"local Agenda 21" OR
+"managementstrategy evaluation" OR
+"marine strategy framework directive" OR
+"marine strategy framework" OR
+"national strategy for plant conservation" OR
+"natural capital accounting" OR
+"rio+20" OR
+"Social and Environmental Reporting" OR
+"sustainable development indicator" OR
+"sustainable development indicators" OR
+"sustainable development strategy" OR
+"systematic conservation planning" OR
+"UN Convention on Biodiversity" OR
+"valuation of biodiversity" OR
+"valuation of ecosystem" OR
+"valuation of water" OR
+(
+	"Agenda 21" AND (
+		"governments" OR
+		"implementation" OR
+		"indicators" OR
+		"management" OR
+		government* OR
+		planning OR
+		policy
+	)
+) OR
+(
+	"aichi AND (
+		"Biodiversity Target" OR
+		"Biodiversity Targets" OR
+		"biodiversity" OR
+		"biological diversity" OR
+		"conservation measures" OR
+		"protected areas" OR
+		target
+	)
+) OR
+( "ecosystem valuation" OR "ecosystem valuation" OR
+( "national strategy" AND ( "ecosystem" OR biodiversity OR ecosystem ) ) OR
+(
+	"public investment" AND (
+		environmental OR
+		biodiversity OR
+		ecosystem OR
+		forest OR
+		"natural" OR
+		marine OR
+		"reef" OR
+		forest OR
+		Climate OR
+	)
+) OR
+( "SEEA" AND "Accounting" ) OR
+(
+	"total economic value" AND (
+		"natural" OR
+		"park" OR
+		"reef" OR
+		biodiversity OR
+		conserv* OR
+		ecosystem OR
+		environment OR
+		environmental OR
+		forest OR
+		marine OR
+		water*
+	)
+) OR
+(
+	(
+		"contingent valuation" OR
+		"economic valuation" OR
+		"non-market evaluation" OR
+		"non-market valuation" OR
+		"nonmarket evaluation" OR
+		"nonmarket valuation" OR
+		"Policy Scenario" OR
+		"Policy Scenarios"
+	) AND (
+		"natural" OR
+		"reef" OR
+		biodiversity OR
+		ecosystem OR
+		environment OR
+		environmental OR
+		forest OR
+		marine
+	)
+) OR
+(
+	( "contingent valuation" OR "economic valuation" OR "valuation framework" ) AND (
+		"natural resource" OR
+		"renewable energy" OR
+		bio-mass OR
+		biodiversity OR
+		biomass OR
+		ecosystem OR
+		environmental OR
+		forest
+	)
+) OR
+(
+	(
+		"contingent valuation" OR
+		"monetary valuation" OR
+		"non-market valuation" OR
+		"nonmarket valuation"
+	) AND (
+		"farmer" OR
+		"farmers" OR
+		"fish" OR
+		"fishery" OR
+		"fishing" OR
+		"preservation of parks" OR
+		"wood" OR
+		agricultur* OR
+		Climate OR
+		farm OR
+		farming OR
+		forest OR
+		nature OR
+		rural OR
+	)
+) OR
+(
+	(
+		"economic account" OR
+		"economic accounts" OR
+		"general equilibrium" OR
+		"input-output analysis" OR
+		"input-output model" OR
+		"inputoutput analysis" OR
+		"inputoutput model" OR
+		"national accounting" OR
+		"national accounts" OR
+		"public resource" OR
+		"social accounting"
+	) AND (
+		"reef" OR
+		biodiversity OR
+		ecosystem OR
+		environment OR
+		environmental OR
+		forest OR
+		marine
+	)
+) OR
+(
+	(
+		"local planning" OR
+		"municipal planning" OR
+		"national planning" OR
+		"regional planning" OR
+		"strategic planning"
+	) AND "ecosystem"
+) OR
+(
+	(
+		"local policies" OR
+		"local policy" OR
+		"national policies" OR
+		"national policy"
+	) AND biodiversity
+) OR
+(
+	( "public funding" OR "public funds" )  AND (
+		"natural" OR
+		"reef" OR
+		biodiversity OR
+		Climate OR
+		ecosystem OR
+		environmental OR
+		forest OR
+		marine OR
+		nature
+	)
+) OR
+(
+	(
+		"reef" OR
+		biodiversity OR
+		Climate OR
+		ecosystem OR
+		forest OR
+		marine
+	) AND (
+		"public policies" OR
+		"public policy" OR
+		"public-private partnership" OR
+		"publicprivate partnership" OR
+		"funding sources" OR
+		"funding programs"
+	)
+) OR
+(
+	biodiversity AND (
+		"development agenda" OR
+		"valuation" OR
+		"evaluation" OR
+		"policy" OR
+		target
+	)
+) OR
+( climate AND ( "change finance" OR "finance" OR "fund" ) ) OR
+(
+	conservation AND (
+		"finance" OR
+		"funding" OR
+		"investment" OR
+		target
+	)
+) OR
+(
+	ecosystem AND (
+		"accounting" OR
+		"service evaluation" OR
+		"service indicators" OR
+		"service valuation" OR
+		"valuation"
+	)
+) OR
+( water* AND "management Accounting" ) OR

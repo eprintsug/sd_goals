@@ -1,0 +1,193 @@
+"balanced growth path" OR
+"capital income" OR
+"conditional convergence" OR
+"conditional-convergence" OR
+"construction productivity" OR
+"crop productivity" OR
+"cross-country growth" OR
+"crosscountry growth" OR
+"drivers of economic growth" OR
+"economic productivity" OR
+"farm productivity" OR
+"fast economic growth" OR
+"firm productivity" OR
+"gross capital formation" OR
+"income convergence" OR
+"industrial productivity" OR
+"industry productivity" OR
+"institutions and growth" OR
+"labor productivity" OR
+"labour productivity" OR
+"land productivity" OR
+"malmquist productivity" OR
+"manufacturing productivity" OR
+"per capita gdp growth" OR
+"rapid economic growth" OR
+"schumpeterian growth" OR
+"skill transferability" OR
+"soil productivity" OR
+"solow model" OR
+"sources of economic growth" OR
+"sustained per capita growth" OR
+"technolog* shock" OR
+"technological spillover" OR
+"tfp growth" OR
+"total factor productivity" OR
+( "(TFP)ND economic* ) OR
+( "competitiveness index" AND ( ( economic AND development ) OR ( economic AND growth ) ) ) OR
+( "Crop productivity" AND econom* ) OR
+( "direct investment" AND ( economic AND growth ) ) OR
+( "economic performance" AND productivity ) OR
+( "economies of scale" AND industr* ) OR
+( "economies of scope" AND industr* ) OR
+( "endogenous growth" AND econom* ) OR
+( "human capital" AND productivity ) OR
+( "labor productivity" AND economic* ) OR
+( "labour productivity" AND economic* ) OR
+( "longrun growth" AND economic* ) ) OR
+( "longterm" AND "growth rate" AND "economics" ) OR
+( "modern growth" AND economic* ) OR
+( "per capita income" AND growth ) OR
+( "per capita" AND growth AND innovation ) OR
+( "productivity growth" AND economic* ) OR
+( "rapid technological change" AND ( econ* OR industr* ) ) OR
+( "regional income" AND ( capita* OR growth OR economy ) ) OR
+( "scale and scope" AND industr* ) OR
+( "Schooling" AND economic* AND productivity ) OR
+( "scope economies" AND industr* ) OR
+( "sustained growth" AND economic* ) OR
+( 
+	"technological progress" AND ( 
+		econom* OR
+		industr* OR
+		innovation OR
+		patent*
+	) 
+) OR
+( "total factor" AND productivity ) OR
+( 
+	( 
+		"fdi" OR
+		"human capital" OR
+		"knowledge accumulation" OR
+		"knowledge creation" OR
+		"long-run development" OR
+		"long-term" OR
+		"longrun development" OR
+		"longterm" OR
+		"quality of government" OR
+		( demographic AND transition ) OR
+		( Knowledge AND Based AND Econom* ) OR
+		( new AND technolog* ) OR
+		infrastructure OR
+		logistics OR
+		long-run OR
+		schumpeterian
+	) AND ( economic AND growth ) 
+) OR
+( 
+	( 
+		"agriculture" OR
+		( skill AND biased ) OR
+		accelerat* OR
+		disruptive OR
+		economic OR
+		impact OR
+		innovation OR
+		investment-specific OR
+		investmentpecific
+	) AND ( technological AND change ) 
+) OR
+( 
+	( economic AND growth ) AND ( 
+		"added value" OR
+		"ardl" OR
+		"capital accumulation" OR
+		"co integration" OR
+		"cointegration" OR
+		"competitiveness" OR
+		"developing countries" OR
+		"fiscal policy" OR
+		"human capital" OR
+		"labor intensive" OR
+		"labour intensive" OR
+		"labour mobility" OR
+		"labour productivity" OR
+		"long run" OR
+		"longrun" OR
+		"neoclassical" OR
+		"new jobs" OR
+		"physical capital" OR
+		"regional income" OR
+		"solow" OR
+		"sustained" OR
+		"technical change" OR
+		"technical progress" OR
+		"technological" OR
+		"value added" OR
+		( error AND correction ) OR
+		( female AND labour ) OR
+		( job AND creation ) OR
+		( labour AND force ) OR
+		( labour AND suppl* ) OR
+		( labour* AND market* ) OR
+		( labour* AND migration* ) OR
+		( labour* AND right* ) OR
+		( regional AND income AND inequalit* ) OR
+		innovation OR
+		productivity OR
+		technolog*
+	) 
+) OR
+( ( endogenous AND growth ) AND ( model OR theories OR theory ) ) OR
+( ( endogenous AND technological ) AND change ) OR
+( ( exogenous AND technological ) AND ( change OR progress ) ) OR
+( 
+	( GDP AND growth ) AND ( 
+		"ardl" OR
+		"capital accumulation" OR
+		"co integration" OR
+		"cointegration" OR
+		"human capital" OR
+		"labour mobility" OR
+		"labour productivity" OR
+		"long run" OR
+		"physical capital" OR
+		"value added" OR
+		( error AND correction ) OR
+		( female AND labour ) OR
+		( labour AND force ) OR
+		( labour AND suppl* ) OR
+		( labour* AND market* ) OR
+		innovation
+	) 
+) OR
+( ( growth* AND model* ) AND ( labour OR labor ) AND "economics" ) OR
+( ( industrialising OR industrializing ) AND productivity ) OR
+( ( productive AND efficien* ) AND economic* ) OR
+( ( regional AND convergence ) AND growth ) OR
+( ( regional AND inequalit* ) AND growth ) OR
+( agricultur* AND productivity ) OR
+( convergence AND club ) OR
+( economic AND growth AND pattern ) OR
+( growth AND economic* ) OR
+( 
+	productivity AND ( 
+		"business cycle" OR
+		"competitiveness" OR
+		"GDP" OR
+		growth OR
+		shock OR
+		technolog*
+	) 
+) OR
+( 
+	regional AND ( 
+		"economic performance" OR
+		( economic AND growth ) OR
+		( income AND disparit* ) OR
+		( income AND inequalit* ) OR
+		growth
+	) 
+) OR
+( unified* AND growth* AND theor* )

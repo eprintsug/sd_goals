@@ -1,0 +1,364 @@
+(
+	"Agrarian women" OR
+	( Female* AND agricultur* AND worker* ) OR
+	( Female AND farm AND household* ) OR
+	"Smallholder farm women" OR
+	"Women and agriculture" OR
+	"Women in agriculture" OR
+	"women's gardening" OR
+	( Women* AND in* AND agrarian* AND context* ) OR
+	( Women* AND laborer* ) OR
+	( Women* AND labourer* ) OR
+	(
+		Agrarian AND
+		gender* AND (
+			labor OR
+			labour OR
+			production
+		)
+	) OR
+	(
+		( agricultur* AND production ) AND (
+			"role of women" OR
+			( women* AND role* )
+		)
+	) OR
+	(
+		( agricultur* AND productivity ) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		agricultur* AND
+		"Chicken production" AND
+		women
+	) OR
+	(
+		"farm women" OR
+		( female* AND farm* AND worker* )
+	) OR
+	(
+		farm AND
+		gender* AND
+		women
+	) OR
+	(
+		agricultur* AND
+		( female* AND head* )
+	) OR
+	(
+		"feminisation of agriculture" OR
+		"feminization of agriculture"
+	) OR
+	(
+		"female exposure" AND
+		Pesticide* AND (
+			agricultur* OR
+			farming
+		)
+	) OR
+	(
+		agricultur* AND
+			( gender AND gap ) OR
+			( gender* AND parity ) OR
+			( Gender* AND bias* ) OR
+			gender* OR
+			( Opportunit* AND for AND women ) OR
+			"participation of women" OR
+			"place of women" OR
+			"Proportion of women"
+			"state of women" OR
+			( status AND women ) OR
+			women OR
+			"Women's land rights"
+			"Women's participation" OR
+			"Women's status" OR
+			"Women's trade" OR
+			"Women's work" OR
+			( Women's* AND movement* ) OR
+			( Women's* AND opportunit* ) OR
+			( Women* AND entrepreneur* )
+			(
+				"milk production" AND
+				women
+			) OR
+			(
+				( rural* AND household* ) AND
+				women
+			) OR
+			(
+				(
+					micro-credit OR
+					microcredit
+				) AND
+				women
+			)
+	) OR
+	(
+		"Rural women" AND (
+			Agrarian OR
+			agricultur*
+		)
+	) OR
+	(
+		( smallholder* AND agricultur* ) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		"Women as owner" AND (
+			agriculture OR
+			plantation
+		)
+	) OR
+	( "Women in" AND ( agricultur* AND science ) ) OR
+	(
+		women AND (
+			( agrarian AND econom* ) OR
+			( agrarian AND movement ) OR
+			( agrarian AND communit* ) OR
+			"agribusiness" OR
+			(
+				agricultur* AND (
+					communit* OR
+					compan* OR
+					econom* OR
+					efforts OR
+					employment OR
+					imperialism OR
+					labor OR
+					labour OR
+					land* OR
+					modernisation OR
+					occupation* OR
+					seasonality OR
+					task* OR
+					technolog*
+				)
+			) OR
+			( chicken* AND flock* ) OR
+			"crop production" OR
+			"ethnobotany" OR
+			"farm income" OR
+			"farming rights" OR
+			"Kitchen garden" OR
+			"land tenure" OR
+			( new* AND agricultur* ) OR
+			"Periurban agriculture" OR
+			"traditional agriculture" OR
+			(
+				Agrarian AND
+				( gender* AND role* )
+			) OR
+			(
+				agricultur* AND
+				( decision* AND mak* )
+			) OR
+			(
+				agricultur* AND
+				empower*
+			) OR
+			(
+				agricultur* AND
+				entrepreneur*
+			) OR
+			(
+				agricultur* AND "famine"
+			) OR
+			(
+				agricultur* AND
+				( labour AND force )
+			) OR
+			(
+				agricultur* AND
+				land AND
+				opportunit*
+			) OR
+			(
+				agricultur* AND
+				"micro credit"
+			) OR
+			(
+				agricultur* AND
+				payment*
+			) OR
+			(
+				agricultur* AND
+				( production* AND constraint* )
+			) OR
+			(
+				agricultur* AND
+				unpaid
+			) OR
+			(
+				agricultur* AND
+				wage
+			) OR
+			(
+				agricultur* AND (
+					marginalis* OR marginaliz*
+				)
+			) OR
+			(
+				( agricultur* AND reform ) AND
+				"land rights"
+			) OR
+			(
+				( agricultur* AND domain* ) AND
+				leader*
+			) OR
+			(
+				agricultur* AND
+				vulnerable
+			) OR
+			(
+				farming AND
+				opportunit*
+			) OR
+			(
+				farm AND
+				( labour* AND system* )
+			) OR
+			(
+				gender AND
+				property AND (
+					agri* OR
+					farm*
+				)
+			) OR
+			(
+				household AND
+				"sheep production"
+			) OR
+			(
+				involvement AND
+				"livestock production"
+			) OR
+			(
+				labor AND
+				land
+			) OR
+			(
+				"Rights of land" AND
+				rural
+			) OR
+			(
+				"work force" AND (
+					( agricultur* AND production ) OR
+					agriculture
+				)
+			)
+		)
+	) OR
+	(
+		"agrarian reform" AND
+		"Women's rights to land"
+	) OR
+	(
+		( female* AND farmer* ) OR
+		( woman* AND farmer* ) OR
+		( women* AND farmer* )
+	) OR
+	(
+		agricultur* AND
+		production AND
+		women AND
+		( Working* AND condition* )
+	) OR
+	(
+		(
+			( agricultur* AND development ) OR
+			( agricultur* AND production ) OR
+			( agricultur* AND household* ) OR
+			( agricultur* AND practice ) OR (
+				agriculture AND
+				workload
+			)
+		) AND
+		women
+	) OR
+	(
+		(
+			farm OR
+			farmer* OR
+			farms
+		) AND
+		( under* AND represent* ) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			( access* AND to AND finance* ) OR
+			"economic empowerment" OR
+			( financial* AND aid* ) OR
+			( financial* AND barrier* ) OR
+			( financial* AND service ) OR
+			( financial* AND support ) OR
+			financing OR
+			( micro* AND credit* ) OR
+			( micro* AND finance* ) OR
+			( micro* AND lend* ) OR
+			( rural* OR financ* )
+		) AND (
+			( female* AND farmer* ) OR (
+				farm* AND
+				women
+			)
+		)
+	) OR
+	(
+		women AND (
+			decisionmak* OR
+			decision-mak*
+		) AND (
+			Agrarian OR
+			agricultur*
+		)
+	) OR
+	(
+		participat* AND
+		decisionmaking AND
+		women AND (
+			Agrarian OR
+			agricultur*
+		)
+	) OR
+	(
+		(
+			farm* AND
+			( female* AND head* )
+		) OR
+		( women* AND farm* AND head* )
+	) OR
+	(
+		(
+			( micro* AND farm* ) OR
+			microfarm* OR
+			"Urban agriculture"
+		) AND
+		women
+	) OR
+	(
+		(
+			farm* AND
+			women
+		) AND (
+			added-value OR
+			( new* AND opportunit* ) OR
+			( value* AND added* ) OR (
+				employment AND (
+					non-agricultur* OR
+					"non-farm"
+				)
+			)
+		)
+	)
+)
+AND NOT (
+	"encephalitis virus" OR
+	"pine needle trees"
+)

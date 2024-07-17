@@ -1,0 +1,185 @@
+(
+	( ante-natal OR antenatal ) AND (
+		care OR
+		death OR
+		health OR
+		healthcare OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+( birth AND complication ) OR
+"bleeding during pregnancy" OR
+"bleeding in pregnancy" OR
+( complicated AND birth ) OR
+( complication AND of AND pregnancy ) OR
+"death in utero" OR
+(
+	( fetal OR foetal ) AND (
+		bleeding OR
+		complication OR
+		death OR
+		demise OR
+		haemorrhage OR
+		health OR
+		hemorrhage OR
+		morbidit* OR
+		mortalit*
+	)
+) OR
+( fetomaternal AND ( haemorrhage OR hemorrhage ) ) OR
+(
+	infant AND (
+		death OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+( intrauterine AND ( death OR demise ) ) OR
+(
+	maternal AND (
+		bleeding OR
+		complication OR
+		death OR
+		haemorrhage OR
+		health OR
+		healthcare OR
+		hemorrhage OR
+		morbidit* OR
+		mortalit* OR
+		safety
+	)
+) OR
+( maternity AND ( care OR health OR healthcare ) ) OR
+"midwife" OR
+"midwifery" OR
+"midwives" OR
+( miscarriage AND NOT ( miscarriage AND of AND justice ) ) OR
+(
+	neonatal AND (
+		care OR
+		complication OR
+		death OR
+		demise OR
+		health OR
+		healthcare OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+( neonate AND ( morbidit* OR mortalit* ) ) OR
+(
+	newborn AND (
+		care OR
+		death OR
+		health OR
+		healthcare OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+(
+	obstetric* AND (
+		bleeding OR
+		care OR
+		complication OR
+		death OR
+		emergenc* OR
+		haemorrhage OR
+		health OR
+		healthcare OR
+		hemorrhage OR
+		morbidit* OR
+		mortalit*
+	)
+) OR
+(
+	( peri-natal OR perinatal ) AND (
+		care OR
+		death OR
+		health OR
+		healthcare OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+(
+	( peri-partum OR peripartum ) AND (
+		bleeding OR
+		( blood AND loss* ) OR
+		care OR
+		haemorrhage OR
+		health OR
+		hemorrhage OR
+		morbidit* OR
+		mortalit*
+	)
+) OR
+(
+	( post-natal OR postnatal ) AND (
+		care OR
+		death OR
+		health OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+(
+	( post-neonatal OR postneonatal ) AND (
+		care OR
+		death OR
+		health OR
+		healthcare OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+(
+	( post-partum OR postpartum ) AND (
+		bleeding OR
+		( blood AND loss* ) OR
+		care OR
+		haemorrhage OR
+		hemorrhage OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+(
+	( pre-natal OR prenatal ) AND (
+		care OR
+		death OR
+		health OR
+		healthcare OR
+		morbidit* OR
+		mortalit* OR
+		survival
+	)
+) OR
+(
+	pregnancy AND (
+		care OR
+		failure OR
+		health OR
+		healthcare OR
+		loss* OR
+		morbidit* OR
+		mortalit*
+	)
+) OR
+( ( pregnancy-associated OR pregnancyassociated OR pregnancy-related OR pregnancyrelated ) AND ( death OR morbidit* OR mortalit* ) ) OR
+( reproductive AND ( morbidit* OR mortalit* ) ) OR
+"safe maternity" OR
+"safe motherhood" OR
+"skilled birth" OR
+stillbirth OR
+"survival of infants" OR
+( ( under-5 OR under-five OR under5 OR underfive ) AND ( mortalit* ) )

@@ -1,0 +1,93 @@
+(
+	( agricultur* AND "food prices" ) OR
+	( agricultur* AND commodity AND price* ) OR
+	( agricultur* AND "price volatility" ) OR
+	"commodity price stabilization" OR
+	"domestic food price" OR
+	"food price crisis" OR
+	"food price fluctuations" OR
+	"food price hikes" OR
+	"food price inflation" OR
+	"food price instability" OR
+	"food price shocks" OR
+	"food price spikes" OR
+	"food price stabilization" OR
+	"food price variability" OR
+	"food price volatility" OR
+	"maize price volatility" OR
+	"rising food prices" OR
+	"volatile food prices" OR
+	"volatility of food prices" OR
+	( agricultur* AND food AND reserve* AND information ) OR
+	( agricultur* AND "agricultur* market information" ) OR
+	(
+		"commodity price" AND (
+			stabili* OR 
+			"volatility" 
+		) AND ( 
+			agri* OR 
+			agro* OR 
+			crop* OR 
+			food*
+		) 
+	) OR
+	( 
+		"food price" AND ( 
+			policies OR 
+			policy OR 
+			reform* 
+		) 
+	) OR
+	( "market information" AND agricultur* ) OR
+	( "price fairness" AND food ) OR
+	( price AND volatility AND risk AND agricultur* ) OR
+	( 
+		"reformed Common agricultural Policy" OR ( 
+			"price stabilization policy" AND ( 
+				agricultur* OR 
+				food
+			) 
+		) 
+	) OR
+	( 
+		"supply and demand" AND ( 
+			export* OR 
+			import* OR 
+			production 
+		) AND 
+		food 
+	) OR
+	( 
+		( 
+			( agricultur* AND policy ) OR
+			"food demand" OR
+			"food markets" OR
+			"food policy" OR
+			"food safety regulation" OR
+			"food security" OR
+			"policy food"
+		) AND 
+		"price" 
+	) OR
+	( 
+		( 
+			"information on market price" OR 
+			"market information system" 
+		) AND (
+			agricultur* OR 
+			food 
+		) 
+	)
+) AND NOT (
+	"encephalitis virus" OR
+	"forestry" OR
+	"labour market information" OR
+	"obesity" OR
+	"pine needle trees" OR
+	"rental land" OR
+	"steel" OR
+	"urban green space" OR
+	"water supply and demand" OR
+	( agricultur* AND worker* ) OR
+	( energy* AND crop* )
+)

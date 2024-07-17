@@ -1,0 +1,172 @@
+(
+	(
+		bicycling OR
+		bus OR
+		crashworthiness OR
+		( ( alcohol-related OR alcoholrelated ) AND crash* ) OR
+		( ( crash AND risk ) AND NOT ( stock AND price ) ) OR
+		(
+			(
+				dangerous OR
+				distracted OR
+				drowsy OR
+				drugged OR
+				drunk OR
+				fatigue OR
+				impaired
+			) AND
+			driv*
+		) OR
+		( aggressive AND driv* ) OR
+		(
+			bicycle AND (
+				accident OR
+				collision OR
+				crash OR
+				injur* OR
+				safety
+			)
+		) OR
+		( bus AND ( accident OR safety ) ) OR
+		(
+			car AND (
+				accident OR
+				collision OR
+				crash OR
+				safety OR
+				security
+			)
+		) OR
+		( collision AND ( avoidance OR injur* ) ) OR
+		(
+			crash* AND (
+				casualt* OR
+				fatalit* OR
+				injur* OR
+				nonfatal OR
+				performance OR
+				safety OR
+				simulation OR
+				test OR
+				victim
+			)
+		) OR
+		(
+			cycling AND (
+				accident OR
+				collision OR
+				injur* OR
+				safety
+			)
+		) OR
+		(
+			cyclist AND (
+				accident OR
+				collision OR
+				crash* OR
+				fatalit* OR
+				injur*
+			)
+		) OR
+		(
+			driv* AND (
+				"under the influence" OR
+				( while AND intoxicated ) OR
+				alertness OR
+				distraction OR
+				drowsiness OR
+				fatalit* OR
+				fatigue OR
+				impairment OR
+				injur* OR
+				reckless OR
+				risky OR
+				safe OR
+				safety OR
+				sleepiness OR
+				sleepy OR
+				unsafe OR
+			)
+		) OR
+		( drowsiness AND detection ) OR
+		( fatal AND ( collision OR crash* ) ) OR
+		( freeway AND safety ) OR
+		( frontal AND ( collision OR crash* ) ) OR
+		( highway AND safety ) OR
+		(
+			motorcycle AND (
+				accident OR
+				collision OR
+				crash* OR
+				death OR
+				fatalit* OR
+				injur* OR
+				safety
+			)
+		) OR
+		( motorcyclist AND ( fatalit* OR injur* OR safety ) ) OR
+		( passenger AND safety ) OR
+		(
+			pedestrian AND (
+				accident OR
+				casualt* OR
+				collision OR
+				crash* OR
+				distracted OR
+				fatalit* OR
+				injur* OR
+				protection OR
+				safety
+			)
+		) OR
+		(
+			road AND (
+				accident OR
+				casualt* OR
+				collision OR
+				crash* OR
+				death OR
+				fatalit* OR
+				injur* OR
+				mortalit* OR
+				rage OR
+				safety
+			)
+		) OR
+		( safety AND seat ) OR
+		( sobriety AND ( checkpoint OR test ) ) OR
+		( texting AND while AND driv* ) OR
+		(
+			traffic AND (
+				accident OR
+				casualt* OR
+				collision OR
+				crash* OR
+				death OR
+				fatalit* OR
+				injur* OR
+				mortalit* OR
+				safety
+			)
+		) OR
+		(
+			vehicle AND (
+				accident OR
+				collision OR
+				crash* OR
+				death OR
+				fatalit* OR
+				injur* OR
+				mortalit* OR
+				safety
+			)
+		) OR
+		( vehicular AND ( accident OR crash* OR death ) )
+	)
+	AND NOT (
+		ecology OR
+		roadkill* OR
+		sport* OR
+		wildlife
+	)
+)

@@ -1,0 +1,223 @@
+(
+	"Angola" OR
+	"Antigua and Barbuda" OR
+	"Aruba" OR
+	"Bahamas" OR
+	"Bangladesh" OR
+	"Barbados" OR
+	"Belize" OR
+	"Benin" OR
+	"British Virgin Islands" OR
+	"Cambodia" OR
+	"Cape Verde" OR
+	"Cayman Islands" OR
+	"Comoros" OR
+	"Cook Islands" OR
+	"Cuba" OR
+	"Curaçao" OR
+	"Democratic Republic of the Congo" OR
+	"Djibouti" OR
+	"Dominica" OR
+	"Dominican Republic" OR
+	"Equatorial Guinea" OR
+	"Eritrea" OR
+	"Federated States of Micronesia" OR
+	"Fiji" OR
+	"Gambia" OR
+	"Grenada" OR
+	"Guinea" OR
+	"Guinea-Bissau" OR
+	"Guyana" OR
+	"Haiti" OR
+	"Island Developing State" OR
+	"Island Developing States" OR
+	"Jamaica" OR
+	"Kiribati" OR
+	"Least Developed Countries" OR
+	"Least Developed Country" OR
+	"Liberia" OR
+	"Madagascar" OR
+	"Maldives" OR
+	"Marshall Islands" OR
+	"Mauritania" OR
+	"Mauritius" OR
+	"Montserrat" OR
+	"Mozambique" OR
+	"Myanmar" OR
+	"Nauru" OR
+	"New Caledonia" OR
+	"Niue" OR
+	"Palau" OR
+	"Papua New Guinea" OR
+	"Saint Kitts and Nevis" OR
+	"Saint Lucia" OR
+	"Saint Vincent and the Grenadines" OR
+	"Samoa" OR
+	"Sao Tome and Principe" OR
+	"Senegal" OR
+	"Seychelles" OR
+	"Sierra Leone" OR
+	"Singapore" OR
+	"Sint Maarten" OR
+	"Small Island Developing State" OR
+	"Solomon Islands" OR
+	"Somalia" OR
+	"St. Kitts and Nevis" OR
+	"St. Lucia" OR
+	"St. Vincent and the Grenadines" OR
+	"Sudan" OR
+	"Suriname" OR
+	"São Tomé and Principe" OR
+	"Timor-Leste" OR
+	"Timor-Lesté" OR
+	"Togo" OR
+	"Tokelau" OR
+	"Tonga" OR
+	"Trinidad and Tobago" OR
+	"Tuvalu" OR
+	"United Republic of Tanzania" OR
+	"Vanuatu" OR
+	"Yemen" OR
+) AND (
+	"blue economy" OR
+	"blue growth" OR
+	"cargo ship" OR
+	"cargo vessel" OR
+	"coastal resource" OR
+	"coastal tourism" OR
+	"cruise tourism" OR
+	"dive tourism" OR
+	"economically important fish" OR
+	"EEZ" OR
+	"exclusive economic zone" OR
+	"fish farm" OR
+	"fisheries" OR
+	"fishery" OR
+	"fishing" OR
+	"freighter" OR
+	"hilsa" OR
+	"ICZM" OR
+	"integrated coastal management" OR
+	"integrated coastal zone management" OR
+	"mariculture" OR
+	"marine conservation" OR
+	"marine current power" OR
+	"marine energy" OR
+	"marine industry" OR
+	"marine management" OR
+	"marine material" OR
+	"marine materials" OR
+	"marine reserve" OR
+	"marine resource" OR
+	"marine spatial planning" OR
+	"marine tourism" OR
+	"maritime economy" OR
+	"maritime shipping" OR
+	"maritime transport" OR
+	"ocean freight" OR
+	"ocean monitoring" OR
+	"ocean shipping" OR
+	"ocean transport" OR
+	"offshore gas" OR
+	"offshore oil" OR
+	"offshore wind" OR
+	"oil rig" OR
+	"osmotic energy" OR
+	"osmotic power" OR
+	"overfishing" OR
+	"recreational diver" OR
+	"resort tourism" OR
+	"sea shipping" OR
+	"shrimp culture" OR
+	"shrimp farm" OR
+	"shrimp farming" OR
+	"tidal energy" OR
+	"tidal power" OR
+	( "benefits" AND ( marine OR "ocean" ) ) OR
+	( "fisher" OR "fishers" AND NOT ( "Fisher's exact test" OR "Fisher's test" ) ) OR
+	( "sustainable use" AND ( marine* AND resource* ) ) OR
+	(
+		"tanker" AND NOT (
+			"Angola Palanca" OR
+			"BAHAMAS flag tanker" OR
+			"BAHAMAS tanker" OR
+			"ITLOS" OR
+			"tanker BAHAMAS"
+		)
+	) OR
+	(
+		( economic OR "benefit cost" OR ( economic AND development ) ) AND (
+			"gulf" OR
+			"gulfs" OR
+			"mangrove" OR
+			"mangroves" OR
+			"maritime" OR
+			"ocean" OR
+			"oceans" OR
+			sea OR
+			"seas" OR
+			estuaries OR
+			estuary
+		)
+	) OR
+	(
+		( socioeconomic* AND impact* ) OR ( socio-economic* AND benefit* ) AND (
+			"fish" OR
+			"fisher" OR
+			"fishers" OR
+			"fishes" OR
+			"gulf" OR
+			"gulfs" OR
+			"mangrove" OR
+			"mangroves" OR
+			"maritime" OR
+			"ocean" OR
+			"oceans" OR
+			sea OR
+			"seas" OR
+			estuaries OR
+			estuary
+		)
+	) OR
+	( marine AND biotechnolog* ) OR
+	aquacultur* OR
+	desalination OR
+) AND NOT (
+	"Calymmian" OR
+	"Cambrian" OR
+	"Carboniferous" OR
+	"Cenozoic" OR
+	"Cretaceous" OR
+	"Cryogenian" OR
+	"Devonian" OR
+	"Dinosaur" OR
+	"Dinosaurs" OR
+	"Ectasian" OR
+	"Ediacaran" OR
+	"Eocene" OR
+	"Jurassic" OR
+	"Mesoproterozoic" OR
+	"Mesozoic" OR
+	"Miocene" OR
+	"Mississippian" OR
+	"Neogene" OR
+	"Neoproterozoic" OR
+	"Oligocene" OR
+	"ordovician" OR
+	"orosirian" OR
+	"Paleocene" OR
+	"Paleogene" OR
+	"Paleoproterozoic" OR
+	"Paleozoic" OR
+	"Pennsylvanian" OR
+	"Permian" OR
+	"Pliocene" OR
+	"Proterozoic" OR
+	"Rhyacian" OR
+	"Siderian" OR
+	"Silurian" OR
+	"Statherian" OR
+	"Stenian" OR
+	"Tonian" OR
+	"Triassic"
+)

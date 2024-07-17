@@ -1,0 +1,212 @@
+(
+	( developing AND countr* ) OR
+	( poor AND countr* ) OR
+	( emerging AND countr* ) OR
+	( developing AND world ) OR
+	( developing AND nation ) OR
+	( developing AND state ) OR
+	( low AND income AND countr* ) OR
+	( middle AND income AND countr* ) OR
+	( low AND income AND nation ) OR
+	( middle AND income AND nation ) OR
+	( low AND income AND state ) OR
+	( middle AND income AND state ) OR
+	( least AND developed AND countr* ) OR
+	( least AND developed AND nation ) OR
+	( least AND developed AND state ) OR
+	"Afghanistan" OR
+	"Albania" OR
+	"Algeria" OR
+	"American Samoa" OR
+	"Angola" OR
+	"Antigua and Barbuda" OR
+	"Argentina" OR
+	"Armenia" OR
+	"Azerbaijan" OR
+	"Bangladesh" OR
+	"Belarus" OR
+	"Belize" OR
+	"Benin" OR
+	"Bhutan" OR
+	"Bolivia" OR
+	"Bosnia" OR
+	"Herzegovina" OR
+	"Botswana" OR
+	"Brazil" OR
+	"Bulgaria" OR
+	"Burkina Faso" OR
+	"Burundi" OR
+	"Cambodia" OR
+	"Cameroon" OR
+	"Cape Verde" OR
+	"Central African Republic" OR
+	"Chad" OR
+	"Chile" OR
+	"China" OR
+	"Colombia" OR
+	"Comoros" OR
+	"Congo" OR
+	"Costa Rica" OR
+	"Côte d'Ivoire" OR
+	"Cuba" OR
+	"Djibouti" OR
+	"Dominica" OR
+	"Dominican Republic" OR
+	"Ecuador" OR
+	"Egypt" OR
+	"El Salvador" OR
+	"Eritrea" OR
+	"Ethiopia" OR
+	"Fiji" OR
+	"Gabon" OR
+	"Gambia" OR
+	"Georgia" OR
+	"Ghana" OR
+	"Grenada" OR
+	"Guatemala" OR
+	"Guinea" OR
+	"Guinea-Bisau" OR
+	"Guyana" OR
+	"Haiti" OR
+	"Honduras" OR
+	India OR
+	"Indonesia" OR
+	"Iran" OR
+	"Iraq" OR
+	"Jamaica" OR
+	"Jordan" OR
+	"Kazakhstan" OR
+	"Kenya" OR
+	"Kiribati" OR
+	"North Korea" OR
+	"Kosovo" OR
+	"Kyrgyz Republic" OR
+	"Lao" OR
+	"Latvia" OR
+	"Lebanon" OR
+	"Lesotho" OR
+	"Liberia" OR
+	"Libya" OR
+	"Lithuania" OR
+	"Macedonia" OR
+	"Madagascar" OR
+	"Malawi" OR
+	"Malaysia" OR
+	"Maldives" OR
+	"Mali" OR
+	"Marshall Islands" OR
+	"Mauritania" OR
+	"Mauritius" OR
+	"Mayotte" OR
+	"Mexico" OR
+	"Micronesia" OR
+	"Moldova" OR
+	"Mongolia" OR
+	"Montenegro" OR
+	"Morocco" OR
+	"Mozambique" OR
+	"Myanmar" OR
+	"Namibia" OR
+	Nepal OR
+	"Nicaragua" OR
+	"Niger" OR
+	"Nigeria" OR
+	"Pakistan" OR
+	"Palau" OR
+	"Panama" OR
+	"Papua New Guinea" OR
+	"Paraguay" OR
+	"Peru" OR
+	"Philippines" OR
+	"Romania" OR
+	"Russia" OR
+	"Rwanda" OR
+	"Samoa" OR
+	"São Tomé and Principe" OR
+	"Senegal" OR
+	"Serbia" OR
+	"Seychelles" OR
+	"Sierra Leone" OR
+	"Solomon Islands" OR
+	"Somalia" OR
+	"South Africa" OR
+	"Sri Lanka" OR
+	"Saint Kitts and Nevis" OR
+	"Saint Lucia" OR
+	"Saint Vincent and the Grenadines" OR
+	"Sudan" OR
+	"Suriname" OR
+	"Swaziland" OR
+	"Syrian Arab Republic" OR
+	"Tajikistan" OR
+	"Tanzania" OR
+	"Thailand" OR
+	"Timor-Leste" OR
+	"Togo" OR
+	"Tonga" OR
+	"Tunisia" OR
+	"Turkey" OR
+	"Turkmenistan" OR
+	"Tuvalu" OR
+	"Uganda" OR
+	"Ukraine" OR
+	"Uruguay" OR
+	"Uzbekistan" OR
+	"Vanuatu" OR
+	"Venezuela" OR
+	"Vietnam" OR
+	"West Bank" OR
+	"Gaza" OR
+	"Yemen" OR
+	"Zambia" OR
+	"Zimbabwe" OR
+	"BRICS" OR
+	Africa OR
+	"South America" OR
+	"latin America"
+)
+AND (
+	"belt & road initiative" OR
+	"belt and road initiative" OR
+	"capital flight" OR
+	"cross-border e-commerce" OR
+	"EDB" OR
+	"FDI" OR
+	"import competition" OR
+	"ISDS" OR
+	"nafta" OR
+	"north american free trade agreement" OR
+	"RCEP" OR
+	"regional integration" OR
+	"world trade organisation" OR
+	"world trade organization" OR
+	"WTO accession" OR
+	"WTO" OR
+	( bilateral AND investment AND ( treaty OR treaties ) ) OR
+	(
+		economic AND (
+			"development board" OR
+			cooperation OR
+			integration OR
+			statecraft
+		)
+	) OR
+	( fdi AND inflow ) OR
+	( foreign AND ( investment OR trade OR ( direct AND investment ) ) ) OR
+	( free AND trade AND agreement ) OR
+	( international AND ( trade OR trading OR investment OR ( trade AND law ) ) 	) OR
+	( investment AND ( treaty OR treaties OR regime ) OR
+	( promot* AND regime ) OR
+	(
+		trade AND (
+			investment OR
+			liberal OR
+			openness OR
+			promotion OR
+			regime OR
+			relation OR
+			rule OR
+			shock
+		)
+	)
+)

@@ -1,0 +1,361 @@
+( 
+	( 
+		doctor AND ( 
+			education OR 
+			recruitment OR 
+			retention OR 
+			shortage OR 
+			trainee OR 
+			training OR 
+			turnover 
+		) 
+	) OR
+	(
+		( education AND of ) AND (
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctor OR
+			medical OR
+			nurses OR
+			physician
+		) 
+	) OR
+	( financing AND ( health OR healthcare OR health-care ) ) OR
+	( 
+		( lack AND of ) AND (
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR
+			nurses OR
+			physician
+		) 
+	) OR
+	( medical AND ( education OR trainee OR training ) ) OR
+	(
+		nurse AND ( 
+			education OR 
+			recruitment OR 
+			retention OR 
+			shortage OR 
+			trainee OR 
+			training OR 
+			turnover 
+		) 
+	) OR
+	( 
+		nursing AND ( 
+			education OR 
+			retention OR 
+			shortage OR 
+			training OR 
+			turnover 
+		) 
+	) OR
+	( 
+		physician AND (
+			education OR 
+			recruitment OR 
+			retention OR 
+			shortage OR 
+			trainee OR 
+			training OR 
+			turnover 
+		) 
+	) OR
+	(
+		recruiting AND (
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR
+			medical OR
+			nurses OR
+			physician
+		) 
+	) OR
+	(
+		"recruitment of" AND ( 
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR
+			medical OR
+			nurses OR
+			physician
+		)
+	) OR
+	( 
+		retaining AND ( 
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR
+			nurses OR
+			physician
+		) 
+	) OR
+	(
+		"retention of" AND (
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR
+			nurses OR
+			physician
+		) 
+	) OR
+	(
+		( shortage AND of ) AND (
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR
+			nurses OR
+			physician
+		) 
+	) OR
+	( 
+		training AND (
+			( health AND personnel ) OR
+			( health AND professionals ) OR
+			( health AND workers ) OR
+			( health-care AND personnel ) OR
+			( health-care AND professionals ) OR
+			( health-care AND workers ) OR
+			( healthcare AND personnel ) OR
+			( healthcare AND professionals ) OR
+			( healthcare AND workers ) OR
+			doctors OR physician OR
+			medical OR
+			nurses
+		) 
+	) OR
+	( 
+		"training of" AND ( 
+			doctors OR 
+			( health AND personnel ) OR 
+			( health AND professionals ) OR 
+			( health AND workers ) OR 
+			( healthcare AND personnel ) OR 
+			( health-care AND personnel ) OR 
+			( healthcare AND professionals ) OR 
+			( health-care AND professionals ) OR
+			( healthcare AND workers ) OR 
+			( health-care AND workers ) OR 
+			medical OR 
+			nurses OR 
+			physician
+		) 
+	)
+) AND 
+(
+	"Afghanistan" OR
+	Africa OR
+	( African AND ( countr* OR nation ) ) OR
+	"Albania" OR
+	"Algeria" OR
+	"Angola" OR
+	"Antigua and Barbuda" OR
+	"Argentina" OR
+	"Armenia" OR
+	"Azerbaijan" OR
+	"Bangladesh" OR
+	"Belarus" OR
+	"Belize" OR
+	"Benin" OR
+	"Bhutan" OR
+	"Bolivia" OR
+	"Bosnia and Herzegovina" OR
+	"Botswana" OR
+	"Brazil" OR
+	"Burkina Faso" OR
+	"Burundi" OR
+	"Cambodia" OR
+	"Cameroon" OR
+	"Cape Verde" OR
+	"Central African Republic" OR
+	"Chad" OR
+	"China" OR
+	"Colombia" OR
+	"Comoros" OR
+	"Congo" OR
+	"Cook Islands" OR
+	"Costa Rica" OR
+	"countries with limited resource" OR
+	"country with limited resource" OR
+	"Cuba" OR
+	"Côte d'Ivoire" OR
+	( 
+		( 
+			"least developed" OR
+			"less developed" OR
+			"middle-income" OR
+			developing OR
+			emerging OR
+			low-income OR
+			middleincome OR
+		) AND ( 
+			countr* OR
+			economies OR
+			economy OR
+			nation OR
+			world
+		) 
+	) OR
+	"Djibouti" OR
+	"Dominica" OR
+	"Dominican Republic" OR
+	"Ecuador" OR
+	"Egypt" OR
+	"Equatorial Guinea" OR
+	"Eritrea" OR
+	"Eswatini" OR
+	"Ethiopia" OR
+	"Fiji" OR
+	"Gabon" OR
+	"Gambia" OR
+	"Georgia" OR
+	"Ghana" OR
+	"Grenada" OR
+	"Guatemala" OR
+	"Guinea" OR
+	"Guinea-Bissau" OR
+	"GuineaBissau" OR
+	"Guyana" OR
+	"Haiti" OR
+	"Honduras" OR
+	India OR
+	"Indonesia" OR
+	"Iran" OR
+	"Iraq" OR
+	"Jamaica" OR
+	"Jordan" OR
+	"Kazakhstan" OR
+	"Kenya" OR
+	"Kiribati" OR
+	"Kosovo" OR
+	"Kyrgyzstan" OR
+	"Lao" OR
+	"Lebanon" OR
+	"Lesotho" OR
+	"Liberia" OR
+	"Libya" OR
+	"Macedonia" OR
+	"Madagascar" OR
+	"Malawi" OR
+	"Malaysia" OR
+	"Maldives" OR
+	"Mali" OR
+	"Marshall Islands" OR
+	"Mauritania" OR
+	"Mauritius" OR
+	"Mexico" OR
+	"Micronesia" OR
+	"Moldova" OR
+	"Mongolia" OR
+	"Montenegro" OR
+	"Morocco" OR
+	"Mozambique" OR
+	"Myanmar" OR
+	"Namibia" OR
+	"Nauru" OR
+	Nepal OR
+	"Nicaragua" OR
+	"Niger" OR
+	"Nigeria" OR
+	"Niue" OR
+	"North Korea" OR
+	"Pakistan" OR
+	"Palau" OR
+	"Palestine" OR
+	"Panama" OR
+	"Papua New Guinea" OR
+	"Paraguay" OR
+	"Peru" OR
+	"Philippines" OR
+	"poor countries" OR
+	"poor country" OR
+	"poor nation" OR
+	"Rwanda" OR
+	"Saint Lucia" OR
+	"Saint Vincent and the Grenadines" OR
+	"Salvador" OR
+	"Samoa" OR
+	"Senegal" OR
+	"Serbia" OR
+	"Sierra Leone" OR
+	"Solomon Islands" OR
+	"Somalia" OR
+	"South Africa" OR
+	"South Sudan" OR
+	"Sri Lanka" OR
+	"Sudan" OR
+	"Suriname" OR
+	"Syria" OR
+	"São Tomé and Príncipe" OR
+	"Tajikistan" OR
+	"Tanzania" OR
+	"Thailand" OR
+	"third world" OR
+	"Timor-Leste" OR
+	"TimorLeste" OR
+	"Togo" OR
+	"Tonga" OR
+	"Tunisia" OR
+	"Turkey" OR
+	"Turkmenistan" OR
+	"Tuvalu" OR
+	"Uganda" OR
+	"Ukraine" OR
+	"Uzbekistan" OR
+	"Vanuatu" OR
+	"Venezuela" OR
+	"Viet Nam" OR
+	"Yemen" OR
+	"Zambia" OR
+	"Zimbabwe"
+)

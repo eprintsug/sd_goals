@@ -1,0 +1,59 @@
+"Base Erosion And Profit Shifting" OR
+"money laundering" OR
+"Slippery Slope Framework" OR
+"taxation of capital" OR
+"transfer pricing" OR
+"VAT fraud" OR
+"VAT gap" OR
+( "BEPS" AND ( Tax* OR financ* ) ) OR
+( "endogenous growth" AND "public capital" )
+( ( "under declared" OR underdeclared ) AND employ* ) OR
+( ( fiscal OR monetary ) AND ( policy OR policies ) ) OR
+( 
+	( 
+		black OR
+		hidden OR
+		informal OR
+		shadow OR
+		underground
+	) AND ( economy OR economies ) 
+) OR
+( currency AND demand AND approach* ) OR
+( cycle AND money ) OR
+( envelope AND wage* ) OR
+( 
+	excise AND ( 
+		duties OR
+		duty OR
+		tax OR
+		taxes
+	) 
+) OR
+( informal AND ( employ* OR sector OR job ) ) OR
+( revenue AND collection* ) OR
+( 
+	tax and ( 
+		"value added" OR
+		administration OR
+		avoidance OR
+		behavior OR
+		behaviour OR
+		business OR
+		corporate OR
+		efficien* OR
+		evasion OR
+		inheritance OR
+		international OR
+		law OR
+		morale OR
+		policies OR
+		policy OR
+		system OR
+		transition OR
+		treaties OR
+		treaty OR
+		value-added
+	) 
+) OR
+( undeclared AND work* ) OR
+( underground AND sector* )

@@ -1,0 +1,181 @@
+(
+	"Amorphous silicon PV" OR
+	"concentrated solar thermal" OR
+	"domestic PV" OR
+	"domestic solar" OR
+	"focus collector" OR
+	"focus collectors" OR
+	"Integrated Solar Combined Cycle" OR
+	"mc-Si cell" OR
+	"mc-Si cells" OR
+	"mc-Si solar" OR
+	"Molten Salt Central Receiver" OR
+	"organic PV" OR
+	"parabolic solar concentrators" OR
+	"parabolic solar" OR
+	"Parabolic trough" OR
+	"Parabolic troughs" OR
+	"photo-electro-chemical cell" OR
+	"photo-electro-chemical cells" OR
+	"photo-electrochemical cell" OR
+	"photo-electrochemical cells" OR
+	"photo-electrochemical generation of hydrogen" OR
+	"photoelectro-chemical cell" OR
+	"photoelectro-chemical cells" OR
+	"photoelectrolysis water splitting" OR
+	"PV energy" OR
+	"PV power" OR
+	"solar and wind energy" OR
+	"Solar Beam Down Tower" OR
+	"Solar Beam Down Towers" OR
+	"solar calcination plant" OR
+	"solar cavity receiver" OR
+	"solar chimney power plant" OR
+	"solar chimney" OR
+	"solar combined cycle power plant" OR
+	"solar combisystems" OR
+	"solar concentrating power" OR
+	"solar desalination" OR
+	"solar dish" OR
+	"solar Domestic Hot Water" OR
+	"solar farm" OR
+	"solar farms" OR
+	"Solar Gas Turbine" OR
+	"Solar Gas Turbines" OR
+	"solar hot water" OR
+	"solar parabolic concentrator" OR
+	"solar powered Stirling" OR
+	"solar reforming" OR
+	"solar thermal" OR
+	"Solar thermionic" OR
+	"solar trough" OR
+	"Solar updraft" OR
+	"Solar-driven Gas Turbine" OR
+	"Solar-driven Gas Turbines" OR
+	"solar-grade silicon" OR
+	"STE plant" OR
+	"thin-film solar" OR
+	( "a-Si:H" AND "PV module" ) OR
+	(
+		"Amorphous silicon" AND (
+			"PV module" OR
+			"PV modules" OR
+			"solar" OR
+			( "PV" AND "film" )
+		)
+	) OR
+	( "cigs" AND "cell" ) OR
+	( "Copper indium gallium selenide" AND "cell" ) OR
+	( "CSP plant" AND "solar" ) OR
+	( "Desiccants" AND "solar energy" ) OR
+	( "DSSC" AND "dye" ) OR
+	( "Maximum Power Point Tracking" AND ( "PV module" OR "solar" ) OR
+	( "mc-Si" AND "PV" ) OR
+	( "Molten Salt" AND "solar" ) OR
+	( "open-circuit voltage" AND "solar" ) OR
+	( ( "p3ht" OR "pcbm" AND "solar" OR "pedot" ) AND "solar" ) OR
+	( "photocatalyst" AND "water splitting" ) OR
+	( "Poly(3,4-ethylenedioxythiophene)" AND "solar" ) OR
+	( "Poly(3-hexylthiophene)" AND "solar" ) OR
+	( "rankine" AND "solar" ) OR
+	( "solar chimney" AND "plant" ) OR
+	( "solar power" AND NOT ( "space solar power" ) ) OR
+	( "solar" AND ( ( clean AND energy ) OR ( building AND "glass" ) ) )OR
+	( "solar-powered" AND NOT ( "space solar powered" ) ) OR
+	( "Stirling" AND ( "dish" OR "solar" ) ) OR
+	( "Trough" AND ( solar AND collector* ) ) OR
+	(
+		(
+			"Mono-crystalline silicon" OR
+			"Monocrystalline silicon" OR
+			"Poly-crystalline silicon" OR
+			"Polycrystalline silicon"
+		) AND ( "PV" OR "solar" )
+	) OR
+	(
+		( "multicrystalline silicon" OR "multi-crystalline silicon" ) AND (
+			cell OR
+			PV OR
+			solar OR
+			wafer*
+		)
+	) OR
+	( ( "parabolic dish" AND "solar" ) AND NOT ( ( antenna* OR radio ) ) ) OR
+	( ( "solar" AND "renewable energy" ) AND NOT ( "satellite" OR "solar mission" OR "national renewable energy" ) ) OR
+	( ( fresnel AND lens* ) AND "solar" ) OR
+	( ( parabolic AND concentrator* ) AND "solar" ) OR
+	(
+		( ( PV OR solar ) AND panel* ) AND NOT (
+			"ISS" OR
+			"rover" OR
+			"satellite" OR
+			"space"
+		)
+	) OR
+	( ( solar AND cell* ) AND NOT ( ( "cosmology" OR "cosmic" ) ) ) OR
+	(
+		( solar AND energy ) AND (
+			application* OR
+			collector* OR
+			concentrator* OR
+			conver* OR
+			plant* OR
+			project* OR
+			resource* OR
+			system*
+		)
+	) OR
+	(
+		( solar AND thermal ) AND (
+			collector* OR
+			Electric OR
+			Electricity OR
+			energy OR
+			"power plant"
+		)
+	) OR
+	( dish AND concentrator* ) OR
+	( dish AND solar AND collector* ) OR
+	( fresnel AND collector* ) OR
+	( parabolic AND collector* ) OR
+	( parabolic AND dish AND collector* ) OR
+	( photoelectrochemical AND cell* ) OR
+	( PV AND ( batter* OR cell* OR hybrid* ) ) OR
+	(
+		solar AND (
+			( absorbing AND surface* ) OR
+			( air AND heater* ) OR
+			( assisted AND heat* ) OR
+			( box AND cooker* ) OR
+			( control AND coating* ) OR
+			( heat AND system* ) OR
+			( parabolic AND collector* ) OR
+			( powered AND ventilator* ) OR
+			( water AND heat* ) OR
+			collector* OR
+			cooker* OR
+			furnace* OR
+			park* OR
+			plant* OR
+			still* OR
+			track* OR
+		)
+	) OR
+	( thermal AND solar AND collector* ) OR
+	( Trough AND concentrator* ) OR
+	heliostat* OR
+	photovoltaic* OR
+	thermophotovoltaic* OR
+) AND NOT (
+	"deep space" OR
+	"MARS" OR
+	"Moon" OR
+	"orbit" OR
+	rocket* OR
+	rover* OR
+	"space exploration" OR
+	"space mission" OR
+	"space missions" OR
+	"space station" OR
+	spacecraft* OR
+)

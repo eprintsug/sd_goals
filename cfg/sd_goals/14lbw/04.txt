@@ -1,0 +1,62 @@
+(
+	"decrease in seawater pH" OR
+	"marine pH" OR
+	"ocean acidification" OR
+	"pH of the ocean" OR
+	"seawater acidification" OR
+	"seawater pH decrease" OR
+	( "acidification of seawater" AND NOT ( "pre-treatment" OR "pretreatment" ) ) OR
+	( "aragonite saturation" AND ( "pH decrease" OR acidif* ) ) OR
+	( "carbonate chemistry" AND "ocean" AND "acidification" ) OR
+	( "coral bleaching" AND "acidification" ) OR
+	( "coral calcification" AND "acidification" ) OR
+	(
+		"ocean" AND (
+			"acidification" OR
+			"carbonic acid" OR
+			"decrease in pH" OR
+			"pH decrease" OR
+			( pco2ND AND acid* )
+		) AND NOT (
+			"acid-base" OR
+			"acidbase" OR
+			"base regulation" OR
+			"pre-treatment" OR
+			"pretreatment" OR
+			desalination
+		)
+	) OR
+	( ocean AND acid* ) OR
+) AND NOT (
+	"calymmian" OR
+	"cambrian" OR
+	"Carboniferous" OR
+	"cenozoic" OR
+	"cretaceous" OR
+	"cryogenian" OR
+	"devonian" OR
+	"ectasian" OR
+	"ediacaran" OR
+	"eocene" OR
+	"jurassic" OR
+	"mesozoic" OR
+	"miocene" OR
+	"Neoproterozoic" OR
+	"oligocene" OR
+	"ordovician" OR
+	"orosirian" OR
+	"paleocene" OR
+	"paleogene" OR
+	"paleozoic" OR
+	"peak glacial" OR
+	"permian" OR
+	"pliocene" OR
+	"proterozoic" OR
+	"rhyacian" OR
+	"siderian" OR
+	"silurian" OR
+	"statherian" OR
+	"stenian" OR
+	"tonian" OR
+	"triassic"
+)

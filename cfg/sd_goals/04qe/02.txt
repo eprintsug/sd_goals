@@ -1,0 +1,280 @@
+(
+	( acquisition AND alphabetic AND writing ) OR
+	( adult* AND literacy* AND program* ) OR
+	( alphabet AND knowledge ) OR
+	( ( comprehension OR development ) AND reading ) OR
+	( early AND reading ) OR
+	( ( early* AND literacy* ) AND ( develop* OR learning* OR skill* ) ) OR
+	(
+		education* AND (
+			effectiveness OR
+			quality OR
+			reform OR
+			strateg*
+		)
+	) OR
+	( emergent AND ( literacy" OR reading OR writing ) ) OR
+	( first AND graders' AND development ) OR
+	( ( high-quality OR highquality ) AND education ) OR
+	( knowledge AND skill AND development ) OR
+	( ( learning AND to ) AND ( count OR read ) ) OR
+	( letter AND knowledge ) OR
+	(
+		literacy AND (
+			catch-up OR
+			catchup OR
+			development OR
+			disorder* OR
+			education OR
+			teaching
+)
+	) OR
+	( mathematical* AND skill* ) OR
+	( morphological AND awareness ) OR
+	( numeracy AND development ) OR
+	( performance AND in AND reading ) OR
+	( phonemic AND awareness ) OR
+	( phonological AND ( awareness OR disorder* ) ) OR
+	( ( Quality AND of ) AND ( teaching OR teacher* ) ) OR
+	(
+		reading AND (
+			acquisition" OR
+			comprehension OR
+			difficulties OR
+			difficulty OR
+			fluency OR
+			achievement* OR
+			competence* OR
+			development* OR
+			intervention* OR
+			skill*
+		)
+	) OR
+	( school AND achievement ) OR
+	( speech* AND sound* AND disorder* ) OR
+	( struggling* AND reader* ) OR
+	( syntactic AND awareness ) OR
+	( teacher* AND ( quali* OR effectiveness ) ) OR
+	(
+		teaching AND (
+			effectiveness OR
+			improvement* OR
+			quali* OR
+			( young* AND child* )
+		)
+	) OR
+	( writing* AND skill* ) OR
+	(
+		( active AND learning ) AND
+		effectiveness
+	) OR
+	(
+		( alphabetisation OR alphabetization ) AND (
+			( early AND child* ) OR
+			education* OR
+			school*
+		)
+	) OR
+	(
+		childhood AND
+		( teaching* AND strateg* )
+	) OR
+	(
+		( childhood AND care ) AND
+		quality
+	) OR
+	(
+		( cognitive* AND abilit* ) AND
+		motivat* AND
+		school*
+	) OR
+	(
+		drawing AND
+		strateg* AND
+		teaching
+	) OR
+	(
+		( early AND childhood AND education ) AND (
+			better OR
+			improve* OR
+			"improving"
+		)
+	) OR
+	(
+		( early AND child* ) AND
+		( inclusive AND environment ) AND
+		teacher*
+	) OR
+	(
+		( increas* AND competenc* ) AND (
+			education* OR
+			school*
+		)
+	) OR
+	(
+		knowledge AND
+		learning AND
+		( preschool* AND child* )
+	) OR
+	(
+		( learning* AND disabilit* ) AND (
+			education* OR
+			school* OR
+			student*
+		)
+	) OR
+	(
+		( learning* AND tool* ) AND (
+			better OR
+			improve* OR
+			"improving"
+		) AND (
+			education* OR
+			school* OR
+			student
+		)
+	) OR
+	(
+		motivat* AND
+		school* AND
+		student* AND
+		Teach*
+	) OR
+	(
+		( nursery AND education ) AND
+		quality
+	) OR
+	(
+		( preschool* AND child* ) AND
+		( learning* AND activit* )
+	) OR
+	(
+		( primary AND education ) AND (
+			literacy OR
+			numeracy
+		)
+	) OR
+	(
+		( Quality AND of AND learning ) AND (
+			( higher* AND education ) OR
+			school*
+		)
+	) OR
+	(
+		( reading* AND abilit* ) AND (
+			better OR
+			improve* OR
+			"improving"
+		) AND (
+			education* OR
+			school
+		)
+	) OR
+	(
+		( student* AND achievement* ) AND (
+			better OR
+			improve* OR
+			"improving" OR
+			increase* OR
+			"increasing"
+		)
+	) OR
+	(
+		( word AND reading ) AND
+		strateg* AND
+		student*
+	) OR
+	(
+		( word AND reading ) AND (
+			education* OR
+			school
+		)
+	) OR
+	(
+		(
+			( academic* AND ( achievement* OR performance* ) ) OR
+			( reading* AND performance* )
+		) AND (
+			better OR
+			"early" OR
+			improve* OR
+			"improving" OR
+			increase* OR
+			"increasing"
+		)
+	) OR
+	(
+		(
+			child* OR
+			student*
+		) AND
+		( word AND learning ) AND
+		school*
+	) OR
+	(
+		(
+			( cognitive* AND abilit* ) OR
+			( learning* AND ( activit* OR motivation* ) ) OR
+			( Student AND experiencing AND difficult* )
+		) AND
+		school* AND (
+			achievement OR
+			better OR
+			improve* OR
+			"improving" OR
+			increase* OR
+			"increasing" OR
+			"performance"
+		)
+	) OR
+	(
+		(
+			( ( day* AND care* ) OR
+			( early* AND childhood* ) OR
+			kindergarten* ) AND program*
+		) AND
+		quality
+	) OR
+	(
+		(
+			learning AND ( effectiveness OR gains )
+		)
+		AND (
+			education* OR
+			school* OR
+			student*
+		)
+	) OR
+	(
+		(
+			( mathematical OR reading OR writing ) AND performance
+		) AND (
+			better OR
+			improve* OR
+			"improving" OR
+			increase* OR
+			"increasing"
+		) AND (
+			education* OR
+			school OR
+			Teach*
+		)
+	) OR
+	(
+		(
+			( "student's" OR student OR "students'" ) AND learning
+		) AND (
+			better OR
+			improve* OR
+			"improving"
+		)
+	) OR
+	( early AND writing ) OR
+) AND NOT (
+	( breast* AND cancer* ) OR
+	( dry AND eye ) OR
+	( health AND ( literacy OR promotion ) ) OR
+	hiv OR
+	( medical AND education ) OR
+	( recycling AND facilities )
+)

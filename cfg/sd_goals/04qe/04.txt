@@ -1,0 +1,83 @@
+(
+	( african* AND scholarship* ) OR
+	( education AND in AND developing AND countr* ) OR
+	(
+		( international AND development ) AND
+		scholarship
+	) OR
+	(
+		(
+			Africa* OR
+			( developing* AND countr* ) OR
+			( least* AND developed* AND countr* ) OR
+			( poor* AND countr* ) OR
+			( small* AND island* )
+		) AND (
+			( participat* AND higher AND education ) OR
+			( qualified* AND teacher* ) OR
+			(
+				teacher* AND (
+					competence* OR
+					development OR
+					education OR
+					learning* OR
+					training
+				)
+			) OR
+			(
+				( graduation AND rate ) AND
+				( higher* AND education )
+			) OR (
+				(
+					enrollment OR
+					"enrolment"
+				) AND (
+					engineering OR
+					( graduate* AND stud* ) OR
+					( higher* AND education ) OR
+					( ICT* AND program* ) OR
+					( information* AND communications* AND program* ) OR
+					( scientific AND program ) OR
+					( technical* AND education ) OR
+					( technical* AND program* ) OR
+					vocational
+				)
+			) OR (
+				(
+					( financial AND ( aid OR support )
+					) AND student*
+				) OR (
+					(
+						( improv* AND access )
+					) AND (
+						( graduate* AND stud* ) OR
+						( higher* AND education ) OR
+						( scientific AND program ) OR
+						vocational
+					)
+				) OR (
+					(
+						increas* AND access
+					) AND (
+						( graduate* AND stud* ) OR
+						( higher* AND education ) OR
+						( scientific AND program ) OR
+						vocational
+					)
+				)
+			) OR (
+				(
+					underrepresent* OR
+					under-represent*
+				) AND (
+					( graduate* AND stud* ) OR
+					( professional* AND degree* ) OR
+					universit*
+				)
+			)
+		)
+	)
+) AND NOT (
+	( african AND american* ) OR
+	( symbiotic AND star )
+)

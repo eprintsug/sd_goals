@@ -1,0 +1,23 @@
+(
+	"2030 Agenda" OR
+	"Agenda 2030" OR
+	"Agenda2030" OR
+	( millennium AND development AND goal* ) OR
+	( sustainable AND development AND goal* ) OR
+	SDG
+)
+AND (
+	"capacity building" OR
+	"development co-operation" OR
+	"globalisation" OR
+	"globalization" OR
+	"metagovernance" OR
+	( ( north-south OR south-north OR south-south ) AND ( co-operation OR collab* OR cooperation ) ) OR
+	( development AND cooperation ) OR
+	( global AND ( development OR partnership OR governance OR scale ) ) OR
+	( international AND ( co-operation OR collab* OR communit* OR cooperation* ) ) OR
+	co-operation OR
+	collaborat* OR
+	cooperation OR
+	partnership
+)

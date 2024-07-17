@@ -1,0 +1,116 @@
+"affected by urbanization" OR
+"compact cities" OR
+"creative cities" OR
+"development of cities" OR
+"development of city" OR
+"development/revitalization" OR
+"gentrification" OR
+"human settlement planning" OR
+"integrated urban" OR
+"intermunicipal cooperation" OR
+"mapping urban" OR
+"mega cities" OR
+"metropolitan governance" OR
+"metropolitan planning" OR
+"new town" OR
+"new towns" OR
+"New urbanism" OR
+"participatory geographical information system" OR
+"participatory gis" OR
+"participatory landscape planning" OR
+"public participation gis" OR
+"regional development plan" OR
+"regional development planning" OR
+"regional development plans" OR
+"shrinking cities" OR
+"shrinking city" OR
+"slum clearance" OR
+"smart cities" OR
+"smart city" OR
+"sustainable urbanization" OR
+"town planning" OR
+"town-planning" OR
+"townplanning" OR
+"urbanization policy" OR
+(
+	"city" AND (
+		"application" OR
+		"compact" OR
+		"concept" OR
+		"creative" OR
+		"development" OR
+		"planning"
+	)
+) OR
+( "ppgis" AND geograp* ) OR
+( "public participation" AND ( urban* AND ( design* OR  plan* ) ) ) OR
+( "regeneration project" AND urban* ) OR
+(
+	"urban AND (
+		"densification" OR
+		"design and planning" OR
+		"development" OR
+		"form" OR
+		"forms" OR
+		"governance" OR
+		"infrastructure" "infrastructure" OR
+		"land expansion" OR
+		"land" OR
+		"plan" OR
+		"planning" OR
+		"policy" OR
+		"public participation" OR
+		"regeneration" OR
+		"renewal policies" OR
+		"renewal policy" OR
+		"renewal program" OR
+		"renewal programs" OR
+		"renewal project" OR
+		"renewal strategies" OR
+		"renewal strategy" OR
+		"renewal" OR
+		"settlement planning" OR
+		"sustainability" OR
+		"transformation"
+	)
+) OR
+(
+	"urban design" AND (
+		"citizen" OR
+		"participative" OR
+		"participatory" OR
+		accessibility OR
+		inclusive*
+	)
+) OR
+(
+	"urban expansion" AND (
+		"sprawl" OR
+		"urbanization" OR
+		environment* OR
+		sustainab*
+	)
+) OR
+( "urban land-use" OR "urban landuse" ) OR
+( "urban renewal" AND ( "redevelopment" OR "slum" OR "slums" ) ) OR
+( "urban sprawl" AND "urbanization" ) OR
+(
+	( "land use planning" OR "land-use planning" OR "landuse planning" ) AND (
+		"cities" OR
+		"city" OR
+		"housing" OR
+		"metropolitan" OR
+		"periurban" OR
+		"sub urban" OR
+		"suburban" OR
+		urban*
+	)
+) OR
+(
+	( landscape* AND plan* ) AND (
+		"cities" OR
+		"city" OR
+		suburb* OR
+		urban*
+	)
+)

@@ -19,9 +19,9 @@ $intro_div->appendChild( $session->html_phrase( "cgi/sd_goals:intro" ) );
 # Make a div for all the goals!
 my $image_grid = $page->appendChild( $session->make_element("div", class=>"image_grid") );
 
-# get a count for total (public) eprints matching each goal
+# get a count for total eprints matching each goal - we only want ones in the public archive that have been approved by an admin
 
-my $sql = "SELECT COUNT(*), sd_goals FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive' GROUP BY sd_goals;";
+my $sql = "SELECT COUNT(*), sd_goals FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE ( ( eprint.eprint_status = 'archive' ) AND ( eprint.sd_goals_checked = 'TRUE' ) ) GROUP BY sd_goals;";
 my $sth = $session->get_database->prepare_select( $sql);
 $session->get_database->execute( $sth, $sql );
 my $found = $sth->rows();
@@ -31,30 +31,31 @@ while ( my @row = $sth->fetchrow_array )
     $sd_goals = $sd_goals_field->value_from_sql_row( $session, \@row );
     
     my $image_address = "/images/".$sd_goals.".png";   
-       
+    my $alt_text = "sd_goals_alt_".$sd_goals;
+
     my $goal_div = $image_grid->appendChild( $session->make_element("div", class=>"item" ) );
     my $goal_link = $goal_div->appendChild( $session->make_element("a", class=>"sdg_link", id=>"goal_overlay", href=>"/view/sd_goals/$sd_goals.html" ) );
     my $goal_text = $goal_link->appendChild( $session->make_element("h2", class=>"sdg_text" ) );
     $goal_text->appendChild( $session->make_text($count) );
-    my $goal_img = $goal_link->appendChild( $session->make_element("img", src=>$image_address, class=>"sdg_icon" ) );
+    my $goal_img = $goal_link->appendChild( $session->make_element("img", src=>$image_address, class=>"sdg_icon", alt=>$session->html_phrase( $alt_text ) ) );
       
 };
 
-# and then get a count for all (public) eprints in the repository matching any sd goals (but not of total sd goals)
+# and then get a count for all (public and approved) eprints in the repository matching any sd goals (but not of total sd goals)
 
-my $all_goals_sql = "SELECT COUNT(DISTINCT eprint.eprintid) FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE eprint.eprint_status = 'archive';";
+my $all_goals_sql = "SELECT COUNT(DISTINCT eprint.eprintid) FROM eprint_sd_goals LEFT JOIN eprint ON eprint_sd_goals.eprintid = eprint.eprintid WHERE ( ( eprint.eprint_status = 'archive' ) AND ( eprint.sd_goals_checked = 'TRUE' ) );";
 my $all_goals_sth = $session->get_database->prepare_select( $all_goals_sql);
 $session->get_database->execute( $all_goals_sth, $all_goals_sql );
 my $all_goals_found = $all_goals_sth->rows();
 while ( my @row = $all_goals_sth->fetchrow_array )
 {
     my $count = shift @row;
-
+  
     my $all_goals_div = $image_grid->appendChild( $session->make_element("div", class=>"item", id=>"all_goals") );
     my $all_goals_link = $all_goals_div->appendChild( $session->make_element("a", class=>"sdg_link", href=>"/view/sd_goals" ) );
     my $all_goals_text = $all_goals_link->appendChild( $session->make_element("h2", class=>"all_goals_text" ) );
     $all_goals_text->appendChild($session->make_text($count) );
-    my $all_goals_img = $all_goals_link->appendChild( $session->make_element("img", src=>"/images/sdg_wheel.png", class=>"all_sdgs_icon"  ) );
+    my $all_goals_img = $all_goals_link->appendChild( $session->make_element("img", src=>"/images/sdg_wheel.png", class=>"all_sdgs_icon", alt=>$session->html_phrase( "sd_goals_alt_all_goals" ) ) );
 };
 
 $session->build_page( $title, $page, "sd_goals" );

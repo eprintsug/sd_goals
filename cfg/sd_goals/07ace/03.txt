@@ -1,0 +1,140 @@
+OR
+(
+	"access to electricity" OR
+	"clean cooking" OR
+	"electricity access" OR
+	"energy access" OR
+	"grid of the future" OR
+	"high-voltage dc" OR
+	"high-voltage direct current" OR
+	"highvoltage dc" OR
+	"highvoltage direct current" OR
+	"peak load shifting" OR
+	(
+		"access" AND (
+			"affordable electricity" OR
+			"affordable energy" OR
+			"clean cooking" OR
+			"clean fuels" OR
+			"low-cost electricity" OR
+			"lowcost electricity" OR
+			"modern cooking" OR
+			"modern electricity" OR
+			"modern energy" OR
+			"reliable electricity" OR
+			"reliable energy" OR
+			"renewable energy" OR
+			"sustainable electricity" OR
+			"sustainable energy" OR
+			( clean AND electricity ) OR
+			( clean AND energy )
+		)
+	) OR
+	(
+		"Economic cooperation" AND (
+			( clean AND energy ) OR
+			( energy* AND efficien* ) OR
+			"modern energy" OR
+			"renewable energy" OR
+			"sustainable energy"
+		)
+	) OR
+	(
+		"international" AND "cooperation" AND (
+			"modern energy" OR
+			"renewable energy" OR
+			"sustainable energy" OR
+			( clean AND energy ) OR
+			( clean* AND fuel* ) OR
+			( energy* AND efficien* )
+		)
+	) OR
+	(
+		"investment " AND (
+			"modern energy" OR
+			"renewable energy" OR
+			( clean AND energy ) OR
+			( electricity AND "GDP" ) OR
+			( energy AND "GDP" )
+		)
+	) OR
+	( "rural" AND ( "electrification" OR electricity OR energy ) ) OR
+	(
+		"supply" AND (
+			"affordable energy" OR
+			"low-cost electricity" OR
+			"lowcost electricity" OR
+			"modern electricity" OR
+			"modern energy" OR
+			"reliable electricity" OR
+			"reliable energy" OR
+			"renewable electricity" OR
+			"renewable energy"
+		)
+	) OR
+	( "universal access" AND ( electricity OR energy ) ) OR
+	(
+		( "knowledge transfer" OR ( technolog* AND transfer ) ) AND (
+			( clean AND energy ) OR
+			( clean* AND fuel* ) OR
+			( energy* AND efficien* ) OR
+			"modern energy" OR
+			"renewable energy"
+		)
+	) OR
+	(
+		(
+			"modern electricity" OR
+			"modern energy" OR
+			"sustainable electricity" OR
+			"sustainable energy"
+		) AND (
+			"off-grid" OR
+			"offgrid" OR
+			develop* countr* OR
+			( small* AND island* )
+		)
+	) OR
+	( ( "renewable energy" OR "renewable electricity" ) AND ( "off-grid" OR "offgrid" ) ) OR
+	(
+		( electricity AND ( "access" OR "supply" ) ) AND (
+			"affordable" OR
+			"clean" OR
+			"geothermal" OR
+			"green" OR
+			"low cost" OR
+			"modern" OR
+			"renewable" OR
+			"solar" OR
+			"sustainable" OR
+			"wind" OR
+			( energy AND efficien* ) OR
+			hydro*
+		)
+	) OR
+	( develop* countr* AND "electrification" ) OR
+	(
+		hvdc* AND (
+			"power transmission" OR
+			"transmission" OR
+			cable* OR
+			converter* OR
+			grid* OR
+			line* OR
+			network* OR
+			system*
+		)
+	) OR
+	( modern* AND cooking* AND fuel* ) OR
+	(
+		poor AND "electrification" AND (
+			"district" OR
+			"the poor" OR
+			"urban" OR
+			customer* OR
+			hous* OR
+			neighborhood* OR
+			neighbourhood*
+		)
+	)
+)

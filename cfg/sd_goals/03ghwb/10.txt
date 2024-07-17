@@ -1,0 +1,643 @@
+(
+	(
+		aids AND (
+			awareness OR
+			control OR
+			education OR
+			epidemic OR
+			knowledge OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	( anthrax AND ( epidemic OR outbreak OR pandemic ) ) OR
+	"anti-malaria" OR
+	"anti-malarial" OR
+	"anti-tuberculosis" OR
+	"antimalaria" OR
+	"antimalarial" OR
+	"antituberculosis" OR
+	"bacille-calmette-guerin vaccination" OR
+	"bacille-calmette-guerin vaccine" OR
+	"bacillecalmetteguerin vaccination" OR
+	"bacillecalmetteguerin vaccine" OR
+	( ( basic AND reproducti* ) AND ( number OR ratio ) ) OR
+	"bcg vaccination" OR
+	"bcg vaccine" OR
+	"black death" OR
+	( botulism AND ( epidemic OR outbreak ) ) OR
+	( chikungunya AND ( epidemic OR outbreak OR pandemic ) ) OR
+	(
+		cholera AND (
+			control OR
+			epidemic OR
+			model OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		( control AND of ) AND (
+			epidemic OR
+			( infectious AND disease ) OR
+			mrsa OR
+			outbreak OR
+			pandemic OR
+			salmonella OR
+			tuberculosis
+		)
+	) OR
+	( coronavirus AND ( epidemic OR outbreak OR pandemic ) ) OR
+	(
+		dengue AND (
+			control OR
+			epidemic OR
+			model OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			transmission OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	( denv AND ( epidemic OR outbreak ) ) OR
+	(
+		( detection AND of ) AND (
+			epidemic OR
+			( infectious AND disease ) OR
+			norovirus OR
+			outbreak
+		)
+	) OR
+	(
+		disease AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			propagation OR
+			spread OR
+			spreading OR
+			transmission
+		)
+	) OR
+	(
+		(
+			disease-free OR
+			diseasefree OR
+			endemic OR
+			infection-free OR
+			infectionfree OR
+			virus-free OR
+			virusfree
+		) AND equilibrium
+	) OR
+	(
+		ebola AND (
+			control OR
+			epidemic OR
+			model OR
+			outbreak OR
+			pandemic OR
+			response OR
+			treatment OR
+			vaccine
+		)
+	) OR
+	"elimination of measles" OR
+	(
+		epidemic AND (
+			control OR
+			detection OR
+			disease OR
+			forecast OR
+			forecasting OR
+			forecasts OR
+			gastroenteritis OR
+			management OR
+			meningitis OR
+			model OR
+			modeling OR
+			modelling OR
+			outbreak OR
+			planning OR
+			preparedness OR
+			prevention OR
+			propagation OR
+			response OR
+			spread OR
+			spreading OR
+			surveillance OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine OR
+			wave
+		)
+	) OR
+	"eradication of hcv" OR
+	( evd AND ( epidemic OR outbreak OR pandemic ) ) OR
+	(
+		flu AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	( fmd AND ( epidemic OR outbreak OR vaccine ) ) OR
+	( ( food-borne OR foodborne ) AND outbreak ) OR
+	( gastroenteritis AND ( epidemic OR outbreak OR pandemic ) ) OR
+	(
+		h1n1 AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		hcv AND (
+			elimination OR
+			epidemic OR
+			eradication OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			therapy OR
+			transmission OR
+			treatment
+		)
+	) OR
+	(
+		"hepatitis c" AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			transmission OR
+			treatment OR
+			( virus AND treatment )
+		)
+	) OR
+	(
+		hiv AND (
+			awareness OR
+			control OR
+			education OR
+			epidemic OR
+			knowledge OR
+			model OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		( infectious AND disease ) AND (
+			control OR
+			detection OR
+			prevention OR
+			surveillance OR
+			treatment
+		)
+	) OR
+	( infectious AND ( epidemic OR outbreak OR pandemic ) ) OR
+	(
+		influenza AND (
+			control OR
+			detection OR
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			preparedness OR
+			prevention OR
+			spread OR
+			surveillance OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	( ( influenza AND virus ) AND detection OR vaccine ) OR
+	( knowledge AND ( aids OR hiv OR malaria ) ) OR
+	( listeriosis AND ( epidemic OR outbreak ) ) OR
+	(
+		malaria* AND (
+			awareness OR
+			control OR
+			drug OR
+			elimination OR
+			epidemic OR
+			eradication OR
+			knowledge OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			therapy OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		manag* AND (
+			epidemic OR
+			( infectious AND disease ) OR
+			outbreak OR
+			pandemic
+		)
+	) OR
+	(
+		measles AND (
+			control OR
+			elimination OR
+			epidemic OR
+			eradication OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			transmission OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		meningitis AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			surveillance OR
+			vaccine
+		)
+	) OR
+	(
+		meningococcal AND (
+			( conjugate AND vaccine ) OR
+			( polysaccharide AND vaccine ) OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	( mers AND ( epidemic OR outbreak OR pandemic ) ) OR
+	( mmr AND ( vaccination OR vaccine ) ) OR
+	(
+		( modeling of OR modelling of ) AND (
+			epidemic OR
+			( infectious AND disease ) OR
+			outbreak OR
+			pandemic
+		)
+	) OR
+	(
+		mrsa AND (
+			control OR
+			epidemic OR
+			eradication OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			transmission
+		)
+	) OR
+	( next AND generation AND matrix ) OR
+	( ( non-linear OR nonlinear ) AND (incidence AND rate ) ) OR
+	(
+		norovirus AND (
+			detection OR
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			transmission
+		)
+	) OR
+	(
+		outbreak AND (
+			control OR
+			detection OR
+			gastroenteritis OR
+			management OR
+			meningitis OR
+			model OR
+			modeling OR
+			modelling OR
+			planning OR
+			preparedness OR
+			prevention OR
+			response OR
+			surveillance OR
+			treatment OR
+			tuberculosis OR
+			vaccination OR
+			vaccine OR
+			zika
+		)
+	) OR
+	(
+		pandemic AND (
+			control OR
+			detection OR
+			h1n1 OR
+			influenza OR
+			management OR
+			model OR
+			modeling OR
+			modelling OR
+			outbreak OR
+			planning OR
+			preparedness OR
+			prevention OR
+			response OR
+			surveillance OR
+			treatment OR
+			vaccination OR
+			vaccine OR
+			virus OR
+			wave
+		)
+	) OR
+	(
+		pertussis AND (
+			epidemic OR
+			outbreak OR
+			transmission OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	"ph1n1" OR
+	(
+		plague AND (
+			control OR
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			surveillance OR
+			transmission OR
+			vaccine
+		)
+	) OR
+	(
+		( prevention AND of ) AND (
+			aids OR
+			epidemic OR
+			hcv OR
+			"hepatitis c" OR
+			hiv OR
+			( infectious AND disease ) OR
+			influenza OR
+			malaria OR
+			mrsa OR
+			outbreak OR
+			pandemic OR
+			tuberculosis
+		)
+	) OR
+	(
+		( propagation AND of ) AND (
+			disease OR
+			epidemic OR
+			( infectious AND disease ) OR
+			viruses
+		)
+	) OR
+	( protection AND against AND pertussis ) OR
+	(
+		( response AND to ) AND (
+			epidemic OR
+			( infectious AND disease ) OR
+			outbreak OR
+			pandemic
+		)
+	) OR
+	(
+		rubella AND (
+			control OR
+			elimination OR
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			transmission OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		salmonella AND (
+			control OR
+			epidemic OR
+			outbreak OR
+			surveillance
+		)
+	) OR
+	( sars AND ( epidemic OR outbreak OR pandemic ) ) OR
+	( seir AND ( model OR epidemic ) ) OR
+	( sir AND ( epidemic OR model ) ) OR
+	( sis AND ( epidemic OR sis model ) ) OR
+	(
+		( spread AND of ) AND (
+			aids OR
+			disease OR
+			ebola OR
+			epidemic OR
+			hcv OR
+			hiv OR
+			( infectious AND disease ) OR
+			mrsa OR
+			outbreak OR
+			pandemic OR
+			viruses
+		)
+	) OR
+	(
+		( surveillance AND of ) AND (
+			epidemic OR
+			( infectious AND disease ) OR
+			influenza OR
+			mrsa OR
+			outbreak
+		)
+	) OR
+	(
+		(
+			susceptible-exposed-infectious-recovered OR
+			susceptible-exposed-infectious-recovered-susceptible OR
+			susceptible-infected-recovered OR
+			susceptible-infected-recovered-susceptible OR
+			susceptible-infected-susceptible OR
+			susceptibleexposedinfectiousrecovered OR
+			susceptibleexposedinfectiousrecoveredsusceptible OR
+			susceptibleinfectedrecovered OR
+			susceptibleinfectedrecoveredsusceptible OR
+			susceptibleinfectedsusceptible
+		) AND model
+	) OR
+	(
+		tb AND (
+			control OR
+			drug OR
+			elimination OR
+			epidemic OR
+			outbreak OR
+			prevention OR
+			surveillance OR
+			therapy OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	"therapy of tuberculosis" OR
+	(
+		( transmission AND of ) AND (
+			aids OR
+			disease OR
+			ebola OR
+			epidemic OR
+			hcv OR
+			"hepatitis c" OR
+			hiv OR
+			( infectious AND disease ) OR
+			outbreak OR
+			tuberculosis OR
+			viruses OR
+			zika
+		)
+	) OR
+	(
+		treatment AND (
+			"chronic hepatitis c" OR
+			epidemic OR
+			"hepatitis c" OR
+			( infectious AND disease ) OR
+			malaria OR
+			outbreak OR
+			pandemic OR
+			tb OR
+			tuberculosis
+		)
+	) OR
+	(
+		tuberculosis AND (
+			control OR
+			drug OR
+			elimination OR
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			prevention OR
+			therapy OR
+			transmission OR
+			treatment OR
+			vaccination OR
+			vaccine
+		)
+	) OR
+	(
+		( vaccin* AND against ) AND
+		(
+			influenza OR
+			measles OR
+			( infectious AND disease ) OR
+			tuberculosis
+		)
+	) OR
+	(
+		viral AND (
+			epidemic OR
+			( infection AND model ) OR
+			outbreak OR
+			pandemic OR
+			propagation OR
+			spread OR
+			spreading OR
+			transmission
+		)
+	) OR
+	( virological AND surveillance ) OR
+	(
+		virus AND (
+			epidemic OR
+			( infection AND model ) OR
+			outbreak OR
+			pandemic OR
+			propagation OR
+			spread OR
+			spreading OR
+			surveillance OR
+			transmission
+		)
+	) OR
+	( ( water-borne OR waterborne ) AND outbreak ) OR
+	( "whooping cough" AND ( epidemic OR outbreak ) ) OR
+	(
+		( wnv OR "west nile virus" ) AND (
+			epidemic OR
+			outbreak OR
+			surveillance OR
+			transmission
+		)
+	) OR
+	(
+		zika AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			vaccine
+		)
+	) OR
+	(
+		zikv AND (
+			epidemic OR
+			outbreak OR
+			pandemic OR
+			vaccine
+		)
+	) OR
+	( ( aids AND model ) AND NOT ( "almost ideal demand system" ) )
+) AND NOT (
+	( computer AND virus ) OR
+	Alzheimer OR
+	animal OR
+	avian OR
+	bovine OR
+	cancer OR
+	cattle
+	cattle OR
+	cell-to-cell OR
+	chemotherapy OR
+	crop OR
+	diabetes OR
+	ecology OR
+	obesity OR
+	Parkinson OR
+	plant OR
+	poultry OR
+	wildlife
+)

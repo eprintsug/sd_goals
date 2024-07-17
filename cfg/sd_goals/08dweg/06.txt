@@ -1,0 +1,96 @@
+"industrial policy" OR
+"regional development policies" OR
+"regional development policy" OR
+"regional economic development" OR
+"state-level economic development" OR
+"unemployment growth" OR
+( "cluster policy" AND economic* ) OR
+( "development bank" AND growth ) OR
+(
+	"development policy" AND (
+		"environmental OR
+		"public policy" OR
+		"regional" OR
+		"small and medium" OR
+		"sme" OR
+		"smes" OR
+		"social" OR
+		( sustainable AND development ) OR
+		economic
+	)
+) OR
+( "economic policy" AND sustainab* ) OR
+(
+	"informal employment" AND (
+		"entrepreneur" OR
+		"formalisation" OR
+		"formalization" OR
+		"SME" OR
+		( economic AND development )
+	)
+) OR
+( "innovation policy" AND ( "development" OR economic* ) ) OR
+( "regional development" AND ( econom* OR inequalit* OR policies ) ) OR
+( "regional policy" AND ( econom* OR industr* OR inequalit* ) ) OR
+( "urban policy" AND economic* ) OR
+( "wage policy" AND "development" ) OR
+(
+	( economic AND development ) AND (
+		agenc* OR
+		policies OR
+		policy OR
+		program* OR
+		strateg*
+	)
+) OR
+(
+	( economic AND development ) AND (
+		"fiscal policy" OR
+		( "funding" AND innovation ) OR
+		( ( micro OR small ) AND enterprise ) OR
+		( financial AND service ) OR
+		( policy AND innovation ) OR
+		( tax AND incentive ) OR
+		communit* OR
+		employment OR
+		entrepreneur* OR
+		inequalit* OR
+		inequalit* OR
+		job OR
+		policies OR
+		SME* OR
+		unemployment
+	)
+) OR
+(
+	( economic AND growth ) AND (
+		"kuznets" OR
+		( tax AND incentive ) OR
+		employment OR
+		inequalit* OR
+		SME*
+	)
+) OR
+( ( economic AND impact ) AND ( economic AND development ) ) OR
+( ( economic AND inequalit* ) AND "kuznets" ) OR
+( ( entrepreneur* AND policy ) AND "development" ) OR
+( ( GDP AND growth ) AND inequalit* ) OR
+( ( job AND creation ) AND "development" ) OR
+( ( policy AND recommendation ) AND "development" ) OR
+( ( selfemploy* OR self-employ* ) AND ( ( economic AND development ) OR ( economic AND growth ) ) ) OR
+( ( small AND business ) AND "development" AND ( policy OR policies ) ) OR
+( ( tax AND incentive ) AND econom* ) OR
+( development-oriented* AND ( policy OR policies ) ) OR
+( developmentoriented* AND ( policy OR policies ) ) OR
+( employment AND growth ) OR
+( entrepreneur* AND policy ) OR
+( formal AND job ) OR
+( formal AND sector AND employment ) OR
+( inequalit* AND growth ) OR
+( informal AND ( economy OR job OR enterprise* OR firm* ) ) OR
+( job AND creation ) OR
+( local AND economic AND development ) OR
+( policy AND ( economic AND development ) ) OR
+( state AND local AND economic AND development ) OR
+( statelevel AND economic AND development ) OR
+( wage* AND ( economic AND development ) )

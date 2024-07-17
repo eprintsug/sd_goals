@@ -1,0 +1,28 @@
+anticancer OR
+asthma OR
+"black lung" OR
+cancer OR
+carcinoma OR
+"cystic fibrosis" OR
+"deep vein thrombosis" OR
+diabetes OR
+lymphoma OR
+melanoma OR
+neuroblastoma OR
+obesity OR
+osteosarcoma OR
+"pulmonary embolism" OR
+"pulmonary hypertension" OR
+retinoblastoma OR
+stroke OR
+suicide OR
+( artery AND disease ) OR
+( cardiovascular AND disease ) OR
+( cerebrovascular AND disease ) OR
+( heart AND ( attack OR disease ) ) OR
+( kidney AND disease ) OR
+( lung AND disease ) OR
+( non-communicable AND disease ) OR
+( noncommunicable AND disease ) OR
+( respiratory disease ) OR
+( "leukemia" AND NOT "leukemia virus" )

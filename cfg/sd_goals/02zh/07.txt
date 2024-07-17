@@ -1,0 +1,252 @@
+(
+	( Access* AND to AND cropping* AND land* ) OR
+	( Access* AND to AND farm* ) OR
+	( Access* AND to AND rural* AND land* ) OR
+	"Accessing and using land" OR
+	"Agrarian Reform and Rural Development" OR
+	"agricultur* intensification" OR
+	"agricultur* modernisation" OR
+	( agricultur* AND productivity ) OR
+	"inequitable access to land" OR
+	"increasing food production" OR
+	(
+		"access to land" AND (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm* OR
+			food
+		)
+	) OR
+	( "Access to" AND "farmers' markets" ) OR
+	(
+		access AND
+		( training* AND facilit* ) AND (
+			agricultur* OR
+			farm* OR
+			"fishermen" OR
+			smallholder*
+		)
+	) OR
+	( ( Access* AND land* ) AND Agrarian ) OR
+	(
+		( access AND to AND input* ) AND (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		) OR (
+			farm* AND (
+				fertiliser* OR
+				fertilizer*
+			)
+		)
+	) OR
+	( "Agrarian reform program" AND land ) OR
+	( "Agrarian reform" AND "access to land" ) OR
+	(
+		"Agrarian reform" AND
+		equity AND
+		growth
+	) OR
+	( ( agricultur* AND development ) AND access ) OR
+	( ( agricultur* AND land ) AND ownership ) OR
+	(
+		agritourism AND
+		farmer* AND
+		"sources of income"
+	) OR
+	(
+		"Alternative production" AND
+		equitable AND
+		producer*
+	) OR
+	( farm* AND expropri* ) OR
+	( farm* AND "improve access" ) OR
+	(
+		farm* AND
+		"improve access" AND (
+			fertiliser* OR
+			fertilizer*
+		)
+	) OR
+	( Increasing* AND ( agricultur* AND development )	) OR
+	(
+		"inequitable access" AND (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm* OR
+			input*
+		)
+	) OR
+	( "land issues" AND poverty ) OR
+	( "land policies" AND poverty ) OR
+	(
+		access AND (
+			"high-value market" OR
+			"highvalue market"
+		) AND (
+				agricultur* OR
+				farm* OR
+				"fishermen" OR
+				smallholder*
+		)
+	) OR
+	(
+		(
+			"access to asset" OR
+			"access to capital" OR
+			"access to credit" OR
+			"access to energy" OR
+			"access to finance" OR
+			"access to financial service" OR
+			"access to formal credit" OR
+			"access to genetic resource" OR
+			"access to information" OR
+			"access to knowledge" OR
+			"access to land and resource" OR
+			"access to loans" OR
+			"access to local markets" OR
+			"access to microfinance" OR
+			"access to modern energy service" OR
+			"access to natural resource" OR
+			"access to pasture" OR
+			"access to seed" OR
+			"access to the land" OR
+			"access to the market" OR
+			"access to water" OR
+			"accessibility to credit" OR
+			"better access" OR
+			"capital access" OR
+			"credit access" OR
+			"customary land" OR
+			"differential access to resource" OR
+			"disparities in access" OR
+			"equal access" OR
+			"equality in access" OR
+			"equitable access" OR
+			"equity in access" OR
+			"export market access" OR
+			"fair access" OR
+			"farmers' access" OR
+			"genetic access" OR
+			"greater access" OR
+			"inequalities in access" OR
+			"inferior access" OR
+			"input access" OR
+			"international market access" OR
+			"labour market access" OR
+			"lack of access" OR
+			"land market access" OR
+			"land reform" OR
+			"limited access" OR
+			"market and credit accesses" OR
+			"mechanization access" OR
+			"ownership and access" OR
+			"resource access" OR
+			"rural access obstacles" OR
+			"secure access" OR
+			"seed access" OR
+			"unequal access" OR
+			"water access" OR
+			( access AND agricultur* AND information ) OR
+			( access AND market* ) OR
+			( access AND to AND market* ) OR
+			( access AND to AND resource* ) OR
+			( access* AND to AND international* AND market* ) OR
+			( customary* AND system* ) OR
+			( improve* AND access ) OR
+			( increas* AND access ) OR
+			( inequalit* AND access ) OR
+			( land AND access* ) OR
+			( land* AND development* AND program* ) OR
+			( market AND access* )
+		) AND (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			"Access to capital" OR
+			"Access to electricity" OR
+			"Access to rural sources of income" OR
+			"Expropriation" OR
+			"Land tenure " OR
+			"Landowning" OR
+			"Microfinance" OR
+			"Road access" OR
+			"Rural development" OR
+			"rural finance" OR
+			"Sustainable intensification" OR
+			( access AND "Market development" ) OR
+			( Access* AND to AND export* AND market* ) OR
+			( agricultur* AND biodiversity ) OR
+			( Emerging* AND market* ) OR
+			( Land* AND market* ) OR
+		) AND (
+			agricultur* OR
+			farm* OR
+			"fishermen" OR
+			smallholder*
+		)
+	) OR
+	(
+		(
+			( Access* AND to AND key* AND asset* ) OR
+			( Access* AND to AND political* AND office* ) OR
+			( agricultur* AND credit* ) OR
+			( Credit* AND program* )
+		) AND (
+			agricultur* OR
+			farm OR
+			"fishermen"
+		)
+	) OR
+	(
+		(
+			"equitable access" OR
+			( farm AND input AND subsid* )
+		) AND (
+			Agrarian OR
+			agricult* OR
+			agro* OR
+			agroforest* OR
+			farm* OR
+			( food* AND produc* ) OR
+			"irrigating" OR
+			irrigation* OR
+			( land* AND resource* ) OR
+			pastoral* OR
+			( rural* AND produc* )
+		)
+	) OR
+	(
+		(
+			(
+				( Non-farming* AND activit* ) OR
+				( Non farming* AND activit* ) OR
+				( Nonfarming* AND activit* )
+			) AND (
+				( farming* AND communit* ) OR
+				agricultur* OR
+				farm OR
+				farmer* OR
+				fishermen OR
+				smallholder*
+			)
+		)
+	) OR
+) AND NOT (
+	"carbon uptake" OR
+	"encephalitis virus" OR
+	"movement to slaughter" OR
+	"phytoremediation" OR
+	"pine needle trees" OR
+	"selection markers" OR
+	( intellectual* AND property* AND right* ) OR
+	( pollution* AND control* AND option* )
+)

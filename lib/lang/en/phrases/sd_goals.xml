@@ -45,22 +45,70 @@
     <epp:phrase id="eprint_fieldhelp_sd_goals">Please choose at least one of the sustainable development goals (SDGs) that represents most the area of your work. If you want to know more about the goals visit: <a href="https://sdgs.un.org/goals">https://sdgs.un.org/goals.</a> <em>(Note: You can select more than one goal by pressing the CTRL key while selecting.)</em></epp:phrase>
     <epp:phrase id="viewname_eprint_sd_goals" ref="eprint_fieldname_sd_goals" />
 
-    <epp:phrase id="sd_goals_summary_01np"><a href="{$config{rel_path}}/view/sd_goals/01np.html"><img src="/images/01np.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_02zh"><a href="{$config{rel_path}}/view/sd_goals/02zh.html"><img src="/images/02zh.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_03ghwb"><a href="{$config{rel_path}}/view/sd_goals/03ghwb.html"><img src="/images/03ghwb.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_04qe"><a href="{$config{rel_path}}/view/sd_goals/04qe.html"><img src="/images/04qe.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_05ge"><a href="{$config{rel_path}}/view/sd_goals/05ge.html"><img src="/images/05ge.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_06cws"><a href="{$config{rel_path}}/view/sd_goals/06cws.html"><img src="/images/06cws.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_07ace"><a href="{$config{rel_path}}/view/sd_goals/07ace.html"><img src="/images/07ace.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_08dweg"><a href="{$config{rel_path}}/view/sd_goals/08dweg.html"><img src="/images/08dweg.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_09iii"><a href="{$config{rel_path}}/view/sd_goals/09iii.html"><img src="/images/09iii.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_10ri"><a href="{$config{rel_path}}/view/sd_goals/10ri.html"><img src="/images/10ri.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_11scc"><a href="{$config{rel_path}}/view/sd_goals/11scc.html"><img src="/images/11scc.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_12rcp"><a href="{$config{rel_path}}/view/sd_goals/12rcp.html"><img src="/images/12rcp.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_13ca"><a href="{$config{rel_path}}/view/sd_goals/13ca.html"><img src="/images/13ca.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_14lbw"><a href="{$config{rel_path}}/view/sd_goals/14lbw.html"><img src="/images/14lbw.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_15lol"><a href="{$config{rel_path}}/view/sd_goals/15lol.html"><img src="/images/15lol.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_16pjsi"><a href="{$config{rel_path}}/view/sd_goals/16pjsi.html"><img src="/images/16pjsi.png" class="sd_goals_summary_page"/></a></epp:phrase>
-    <epp:phrase id="sd_goals_summary_17pfg"><a href="{$config{rel_path}}/view/sd_goals/17pfg.html"><img src="/images/17pfg.png" class="sd_goals_summary_page"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_01np"><a href="{$config{rel_path}}/view/sd_goals/01np.html"><img src="/images/01np.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_02zh"><a href="{$config{rel_path}}/view/sd_goals/02zh.html"><img src="/images/02zh.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_03ghwb"><a href="{$config{rel_path}}/view/sd_goals/03ghwb.html"><img src="/images/03ghwb.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_04qe"><a href="{$config{rel_path}}/view/sd_goals/04qe.html"><img src="/images/04qe.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_05ge"><a href="{$config{rel_path}}/view/sd_goals/05ge.html"><img src="/images/05ge.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_06cws"><a href="{$config{rel_path}}/view/sd_goals/06cws.html"><img src="/images/06cws.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_07ace"><a href="{$config{rel_path}}/view/sd_goals/07ace.html"><img src="/images/07ace.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_08dweg"><a href="{$config{rel_path}}/view/sd_goals/08dweg.html"><img src="/images/08dweg.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_09iii"><a href="{$config{rel_path}}/view/sd_goals/09iii.html"><img src="/images/09iii.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_10ri"><a href="{$config{rel_path}}/view/sd_goals/10ri.html"><img src="/images/10ri.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_11scc"><a href="{$config{rel_path}}/view/sd_goals/11scc.html"><img src="/images/11scc.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_12rcp"><a href="{$config{rel_path}}/view/sd_goals/12rcp.html"><img src="/images/12rcp.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_13ca"><a href="{$config{rel_path}}/view/sd_goals/13ca.html"><img src="/images/13ca.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_14lbw"><a href="{$config{rel_path}}/view/sd_goals/14lbw.html"><img src="/images/14lbw.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_15lol"><a href="{$config{rel_path}}/view/sd_goals/15lol.html"><img src="/images/15lol.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_16pjsi"><a href="{$config{rel_path}}/view/sd_goals/16pjsi.html"><img src="/images/16pjsi.png" class="sdg_summary_icon"/></a></epp:phrase>
+    <epp:phrase id="sd_goals_summary_17pfg"><a href="{$config{rel_path}}/view/sd_goals/17pfg.html"><img src="/images/17pfg.png" class="sdg_summary_icon"/></a></epp:phrase>
+    
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals:title">Sustainable Development Goals</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/All_Goals:title">All Goals</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_01:title">Goal 1: No Poverty</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_02:title">Goal 2: Zero Hunger</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_03:title">Goal 3: Good Health and Well-Being</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_04:title">Goal 4: Quality Education</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_05:title">Goal 5: Gender Equality</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_06:title">Goal 6: Clean Water and Sanitation</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_07:title">Goal 7: Affordable and Clean Energy</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_08:title">Goal 8: Decent Work and Economic Growth</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_09:title">Goal 9: Industry, Innovation, and Infrastructure</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_10:title">Goal 10: Reduced Inequalities</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_11:title">Goal 11: Sustainable Cities and Communities</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_12:title">Goal 12: Responsible Consumption and Production</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_13:title">Goal 13: Climate Action</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_14:title">Goal 14: Life Below Water</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_15:title">Goal 15: Life on Land</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_16:title">Goal 16: Peace, Justice, and Strong Institutions</epp:phrase>
+    <epp:phrase id="Plugin/Screen/Report/SD_Goals/SDG_17:title">Goal 17: Partnerships for the Goals</epp:phrase>
 
+    <epp:phrase id="approve_sdgs">Approve addition of all goals for this EPrint</epp:phrase>
+    <epp:phrase id="edit_sdg">Edit this record to change SDGs</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_sd_goals_checked">Goals checked by repository staff</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_sd_goals_checked">Goals will not be displayed publicly until a member of repository staff has approved them. If checked, this EPrint will not be included in future SDG searches</epp:phrase>
+
+    <epp:phrase id="sd_goals_alt_01np">Goal 1: No Poverty</epp:phrase>
+    <epp:phrase id="sd_goals_alt_02zh">Goal 2: Zero Hunger</epp:phrase>
+    <epp:phrase id="sd_goals_alt_03ghwb">Goal 3: Good Health and Well-Being</epp:phrase>
+    <epp:phrase id="sd_goals_alt_04qe">Goal 4: Quality Education</epp:phrase>
+    <epp:phrase id="sd_goals_alt_05ge">Goal 5: Gender Equality</epp:phrase>
+    <epp:phrase id="sd_goals_alt_06cws">Goal 6: Clean Water and Sanitation</epp:phrase>
+    <epp:phrase id="sd_goals_alt_07ace">Goal 7: Affordable and Clean Energy</epp:phrase>
+    <epp:phrase id="sd_goals_alt_08dweg">Goal 8: Decent Work and Economic Growth</epp:phrase>
+    <epp:phrase id="sd_goals_alt_09iii">Goal 9: Industry, Innovation, and Infrastructure</epp:phrase>
+    <epp:phrase id="sd_goals_alt_10ri">Goal 10: Reduced Inequalities</epp:phrase>
+    <epp:phrase id="sd_goals_alt_11scc">Goal 11: Sustainable Cities and Communities</epp:phrase>
+    <epp:phrase id="sd_goals_alt_12rcp">Goal 12: Responsible Consumption and Production</epp:phrase>
+    <epp:phrase id="sd_goals_alt_13ca">Goal 13: Climate Action</epp:phrase>
+    <epp:phrase id="sd_goals_alt_14lbw">Goal 14: Life Below Water</epp:phrase>
+    <epp:phrase id="sd_goals_alt_15lol">Goal 15: Life on Land</epp:phrase>
+    <epp:phrase id="sd_goals_alt_16pjsi">Goal 16: Peace, Justice, and Strong Institutions</epp:phrase>
+    <epp:phrase id="sd_goals_alt_17pfg">Goal 17: Partnerships for the Goals</epp:phrase>
+    <epp:phrase id="sd_goals_alt_all_goals">All Goals</epp:phrase>
+    
+    <epp:phrase id="approve_all_sdgs">Approve all SDGs</epp:phrase>
+
+    <epp:phrase id="exportfields:sdg_report_core">Export Fields</epp:phrase>
 </epp:phrases>

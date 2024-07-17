@@ -1,0 +1,319 @@
+"deterministic seismic hazard" OR
+"drought monitoring" OR
+"flooding risk management" OR
+"geologic disaster" OR
+"geological hazards" OR
+"hurricane loss estimation" OR
+"Hyogo Framework" OR
+"landslide and debris flow" OR
+"meteorological disaster" OR
+"meteorological disasters" OR
+"national flood insurance program" OR
+"post earthquake" OR
+"regional seismic hazard" OR
+"Sendai Framework" OR
+"snow disaster" OR
+"snow disasters" OR
+"typhoon disaster" OR
+"typhoon monitoring" OR
+"wsud" OR
+( "aid" AND ( natural AND disaster ) ) OR
+( "city disaster" AND ( "reduction" OR mitigation ) ) OR
+(
+	"debris flow" AND (
+		"cities" OR
+		"death" OR
+		"deaths" OR
+		damage* OR
+		injur* OR
+		metropoli* OR
+		urban
+	)
+) OR
+( "disaster management" AND "built environment" ) OR
+( "disaster reduction" AND ( death* OR injur* ) ) OR
+( "earthquake disaster" AND ( "emergency" OR "management" ) OR
+( "earthquake hazard" AND mitigation ) OR
+(
+	"earthquake prediction" AND (
+		"cities" OR
+		"city" OR
+		metropoli* OR
+		urban*
+	)
+) OR
+(
+	"el nino" AND (
+		"cities" OR
+		"city" OR
+		loss* OR
+		metropol* OR
+		urban*
+	)
+) OR
+(
+	"ENSO" AND (
+		"cities" OR
+		"city" OR
+		"damage" OR
+		"urban" OR
+		loss
+	)
+) OR
+(
+	"estimates of" AND (
+		"earthquake" OR
+		"flood" OR
+		"flooding" OR
+		"floods" OR
+		"hurricane" OR
+		"seismic" OR
+		"tornado" OR
+		"tsunami"
+	)
+) OR
+( "flood disaster" AND ( "urban" OR death* ) ) OR
+( "flood hazard" AND ( "vulnerability" OR forecast* ) ) OR
+( "flood risk" AND "vulnerability" ) OR
+(
+	"flood" AND (
+		"hazard analysis" OR
+		"hazard area" OR
+		"hazard areas" OR
+		"hazard map" OR
+		"hazard mapping" OR
+		"hazard maps" OR
+		"hazard mitigation" OR
+		"hazard vulnerability" OR
+		"hazard warning" OR
+		"hazard zone" OR
+		"hazard zones" OR
+		"hazard zoning" OR
+		"loss estimation" OR
+		"management" OR
+		"mapping" OR
+		"mitigation" OR
+		"modelling" OR
+		"risk analysis" OR
+		"risk assessment" OR
+		"risk governance" OR
+		"risk management" OR
+		"risk map" OR
+		"risk mapping" OR
+		"risk mitigation" OR
+		"risk modelling" OR
+		"risk perception" OR
+		"risk reduction" OR
+		damage OR
+		risk
+	)
+) OR
+(
+	"natural disasters" AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		"urbanization" OR
+		damage OR
+		injur*
+	)
+) OR
+( "pluvial" ADN ( "flood" OR "flooding" OR "floods" ) ) OR
+( "post disaster" AND reconstruction ) OR
+( "risk assessment" AND ( "hurricane" OR "seismic" OR earthquake ) ) OR
+( "runoff" AND urban* ) OR
+( "seismic capacity" AND ( "engineering" OR building OR concrete ) ) OR
+(
+	"seismic" AND (
+		"cities" OR
+		"city" OR
+		"fragility analysis" OR
+		"hazard analyses" OR
+		"hazard analysis" OR
+		"hazard and risk" OR
+		"hazard estimation" OR
+		"hazard evaluation" OR
+		"hazard map" OR
+		"hazard maps" OR
+		"hazard mitigation" OR
+		"hazard model" OR
+		"loss estimation" OR
+		"metropolitan" OR
+		"risk analysis" OR
+		"risk assessment" OR
+		"risk management" OR
+		"risk mitigation" OR
+		"urban" OR
+		"vulnerability analysis" OR
+		"vulnerability assessment" OR
+		damage
+	)
+) OR
+( "shelters" AND "disaster" ) OR
+( "urbanization" AND "disaster" ) OR
+(
+	( disaster AND risk ) AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		"urbanisation" OR
+		"urbanization"
+	)
+) OR
+( ( meteorological* AND station* ) AND ( disaster OR prevent* ) ) OR
+(
+	( natural AND disaster ) AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		"urbanization" OR
+		( built AND environment ) OR
+		( risk AND assessment ) OR
+		death OR
+		management OR
+		mitigat* OR
+		prevent* OR
+		reduc* OR
+		resilien* OR
+		vulnerab*
+	)
+) OR
+(
+	( natural AND hazard ) AND (
+		"cities" OR
+		"city" OR
+		life OR
+		live OR
+		loss OR
+		metropol* OR
+		urban
+	)
+) OR
+(
+	disaster AND (
+		"mitigation" OR
+		"monitoring" OR
+		"prevention" OR
+		"reconstruction" OR
+		"risk assessment" OR
+		"risk management" OR
+		"risks management" OR
+		"system"
+		loss OR
+	)
+) OR
+( drought* AND disaster ) OR
+(
+	earthquake AND (
+		"building damage" OR
+		"building damages" OR
+		"building structure" OR
+		"building structures" OR
+		"concrete building" OR
+		"early warning" OR
+		"emergency" OR
+		"engineering" OR
+		"hazard mitigation" OR
+		"hazard" OR
+		"isolated building" OR
+		"loss" OR
+		"losses" OR
+		"mitigate" OR
+		"mitigation" OR
+		"prediction" OR
+		"prediction" OR
+		"preparedness" OR
+		"resistant" OR
+		"risk management" OR
+		"risk mitigation" OR
+		"risk reduction" OR
+		"steel building" OR
+		"tall building" OR
+		"warning" OR
+		"warnings" OR
+		damage OR
+		metropoli* OR
+		mitigation OR
+		prevention OR
+		urban*
+	)
+) OR
+(
+	earthquake AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		death OR
+		reconstruction
+	)
+) OR
+(
+	flood AND (
+		"cities" OR
+		"city" OR
+		"prediction" OR
+		"urban" OR
+		earthquake
+	)
+) OR
+( flooding AND "prediction" ) OR
+( geological* AND disaster ) OR
+(
+	hurricane AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		death* OR
+		prediction
+	)
+) OR
+( impact AND ( natural AND disaster ) ) OR
+( loss* AND ( ( natural AND disaster ) OR flood ) ) OR
+(
+	mitigation AND (
+		( natural AND hazard ) OR
+		hurricane OR
+		tornado* OR
+		tsunami
+	)
+) OR
+( natural AND disaster AND risk ) OR
+(
+	rainstorm* AND (
+		"cities" OR
+		"city" OR
+		metropoli* OR
+		urban*
+	)
+) OR
+( storm* AND prediction* ) OR
+(
+	thunderstorm* AND (
+		damage OR
+		death OR
+		loss OR
+		warning*
+	)
+) OR
+(
+	tornado AND (
+		"cities" OR
+		"city" OR
+		"metropolitan" OR
+		"risk assessment" OR
+		death* OR
+		loss OR
+		prediction* OR
+		urban
+	)
+) OR
+( tsunami AND ( "early warning" OR warning OR death ) ) OR
+(
+	urban AND (
+		"emergency shelters" OR
+		"water logging" OR
+		disaster OR
+		stormwater* OR
+	)
+) OR
+( water* AND sensitive AND urban AND design )

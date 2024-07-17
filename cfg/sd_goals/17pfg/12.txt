@@ -1,0 +1,201 @@
+(
+	"AFCFTA" OR
+	"anti-dumping" OR
+	"antidumping" OR
+	"comparative advantage" OR
+	"comprehensive and progressive agreement for trans-pacific partnership" OR
+	"CPTPP" OR
+	"duty free"or
+	"NAFTA" OR
+	"north american free trade agreement" OR
+	"quota free" OR
+	"RCEP" OR
+	"regional comprehensive economic partnership" OR
+	"trans-pacific partnership" OR
+	"united states-mexico-canada agreement" OR
+	"USMCA" OR
+	(
+		( trade OR trading ) AND (
+			barrier OR
+			embargo* OR
+			facilit* OR
+			injunction OR
+			liberali* OR
+			preference OR
+			restriction OR
+			sanction
+		)
+	) OR
+	( access AND to AND market* ) OR
+	( export AND ban* ) OR
+	( foreign AND entry AND mode* ) OR
+	( free AND trad* ) OR
+	( general* AND system AND preference* ) OR
+	( global AND value AND chain* ) OR
+	( market AND ( access OR participation ) ) OR
+	( non-tariff AND measure* ) OR
+	( preferential AND ( trade OR trading ) AND agreement ) OR
+	protectionis* OR
+)
+AND (
+	"Afghanistan" OR
+	"Albania" OR
+	"Algeria" OR
+	"American Samoa" OR
+	"Angola" OR
+	"Antigua and Barbuda" OR
+	"Argentina" OR
+	"Armenia" OR
+	"Azerbaijan" OR
+	"Bangladesh" OR
+	"Belarus" OR
+	"Belize" OR
+	"Benin" OR
+	"Bhutan" OR
+	"Bolivia" OR
+	"Bosnia" OR
+	"Botswana" OR
+	"Brazil" OR
+	"BRICS" OR
+	"Bulgaria" OR
+	"Burkina Faso" OR
+	"Burundi" OR
+	"Cambodia" OR
+	"Cameroon" OR
+	"Cape Verde" OR
+	"Central African Republic" OR
+	"Chad" OR
+	"Chile" OR
+	"China" OR
+	"Colombia" OR
+	"Comoros" OR
+	"Congo" OR
+	"Costa Rica" OR
+	"Cuba" OR
+	"Côte d'Ivoire" OR
+	"Djibouti" OR
+	"Dominica" OR
+	"Dominican Republic" OR
+	"Ecuador" OR
+	"Egypt" OR
+	"El Salvador" OR
+	"Eritrea" OR
+	"Ethiopia" OR
+	"Fiji" OR
+	"Gabon" OR
+	"Gambia" OR
+	"Gaza" OR
+	"Georgia" OR
+	"Ghana" OR
+	"Grenada" OR
+	"Guatemala" OR
+	"Guinea" OR
+	"Guinea-Bisau" OR
+	"Guyana" OR
+	"Haiti" OR
+	"Herzegovina" OR
+	"Honduras" OR
+	"Indonesia" OR
+	"Iran" OR
+	"Iraq" OR
+	"Jamaica" OR
+	"Jordan" OR
+	"Kazakhstan" OR
+	"Kenya" OR
+	"Kiribati" OR
+	"Kosovo" OR
+	"Kyrgyz Republic" OR
+	"Lao" OR
+	"latin America" OR
+	"Latvia" OR
+	"Lebanon" OR
+	"Lesotho" OR
+	"Liberia" OR
+	"Libya" OR
+	"Lithuania" OR
+	"Macedonia" OR
+	"Madagascar" OR
+	"Malawi" OR
+	"Malaysia" OR
+	"Maldives" OR
+	"Mali" OR
+	"Marshall Islands" OR
+	"Mauritania" OR
+	"Mauritius" OR
+	"Mayotte" OR
+	"Mexico" OR
+	"Micronesia" OR
+	"Moldova" OR
+	"Mongolia" OR
+	"Montenegro" OR
+	"Morocco" OR
+	"Mozambique" OR
+	"Myanmar" OR
+	"Namibia" OR
+	"Nicaragua" OR
+	"Niger" OR
+	"Nigeria" OR
+	"North Korea" OR
+	"Pakistan" OR
+	"Palau" OR
+	"Panama" OR
+	"Papua New Guinea" OR
+	"Paraguay" OR
+	"Peru" OR
+	"Philippines" OR
+	"Romania" OR
+	"Russia" OR
+	"Rwanda" OR
+	"Saint Kitts and Nevis" OR
+	"Saint Lucia" OR
+	"Saint Vincent and the Grenadines" OR
+	"Samoa" OR
+	"Senegal" OR
+	"Serbia" OR
+	"Seychelles" OR
+	"Sierra Leone" OR
+	"Solomon Islands" OR
+	"Somalia" OR
+	"South Africa" OR
+	"South America" OR
+	"Sri Lanka" OR
+	"Sudan" OR
+	"Suriname" OR
+	"Swaziland" OR
+	"Syrian Arab Republic" OR
+	"São Tomé and Principe" OR
+	"Tajikistan" OR
+	"Tanzania" OR
+	"Thailand" OR
+	"Timor-Leste" OR
+	"Togo" OR
+	"Tonga" OR
+	"Tunisia" OR
+	"Turkey" OR
+	"Turkmenistan" OR
+	"Tuvalu" OR
+	"Uganda" OR
+	"Ukraine" OR
+	"Uruguay" OR
+	"Uzbekistan" OR
+	"Vanuatu" OR
+	"Venezuela" OR
+	"Vietnam" OR
+	"West Bank" OR
+	"Yemen" OR
+	"Zambia" OR
+	"Zimbabwe" OR
+	( developing AND ( countr* OR nation OR state OR world ) ) OR
+	( emerging AND countr* ) OR
+	( least AND developed AND ( countr* OR nation OR state ) ) OR
+	( low AND income AND ( countr* OR nation OR state ) ) OR
+	( middle AND income AND ( countr* OR nation OR state ) ) OR
+	( poor AND countr* ) OR
+	Africa OR
+	India OR
+	Nepal
+	)
+AND NOT (
+	television OR
+	( tropical AND cyclone* )
+)

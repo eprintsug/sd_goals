@@ -1,0 +1,209 @@
+(
+	"SODIS" OR
+	( accessible AND drink* AND water* ) OR
+	( accessible AND potable AND water* ) OR
+	( affordable AND drink* AND water* ) OR
+	( affordable AND potable AND water* ) OR
+	( Bank AND filtration ) OR
+	( clean AND drink* AND water* ) OR
+	( clean AND potable AND water* ) OR
+	( contaminat* AND drink* AND water* ) OR
+	( contaminat* AND potable AND water* ) OR
+	( decontaminat* AND drink* AND water* ) OR
+	( decontaminat* AND potable AND water* ) OR
+	( disinfect* AND drink* AND water* ) OR
+	( disinfect* AND potable AND water* ) OR
+	( drink* AND water* ) OR
+	(
+		drink* AND water* AND (
+			act OR
+			distribution OR
+			guideline* OR
+			infrastructure* OR
+			quality OR
+			resource* OR
+			safety OR
+			source* OR
+			standard* OR
+			suppl* OR
+			treatment
+		)
+	) OR
+	( healthy AND drink* AND water* ) OR
+	( household AND drink* AND water* ) OR
+	( household AND potable AND water* ) OR
+	( household AND water* AND treatment ) OR
+	( low AND cost AND drink* AND water* ) OR
+	( low AND cost AND potable AND water* ) OR
+	( potable AND water* ) OR
+	(
+		potable AND water* AND (
+			distribution OR
+			guideline* OR
+			infrastructure* OR
+			quality OR
+			resource* OR
+			source* OR
+			standard* OR
+			supply OR
+			treatment
+		)
+	) OR
+	( quality AND drink* AND water* ) OR
+	( quality AND potable AND water* ) OR
+	( safe AND drink* AND water* ) OR
+	( safe AND potable AND water* ) OR
+	( secure AND drink* AND water* ) OR
+	( secure AND potable AND water* ) OR
+	( treatment AND drink* AND water* ) OR
+	( treatment AND potable AND water* ) OR
+	( universal AND access AND drinking ) OR
+	( water* AND safety AND plan* ) OR
+	Chloramination OR
+	(
+		( bottled AND water* ) AND NOT
+		recycl*
+	) OR
+	(
+		defluoridation AND
+		groundwater*
+	) OR
+	(
+		drinking AND
+		( healthy AND water* )
+	) OR
+	(
+		water* AND (
+			( clean AND drinking ) OR
+			defluoridation OR
+			( safe AND drinking ) OR
+			( solar AND disinfection )
+		)
+	) OR
+	(
+		(
+			( drink* AND water* ) OR
+			( potable AND water* )
+		) AND (
+			arsenic OR
+			contaminat* OR
+			( exposure AND to AND lead ) OR
+			nitrate* OR
+			purification OR
+			rural OR
+			( water* AND contaminat* ) OR
+			waterborne OR
+			"water borne" OR
+			water-borne OR
+			( water* AND contaminant ) OR
+			(
+				(
+					contaminat* OR
+					contaminat*
+				) AND
+				groundwater*
+			)
+		)
+	) OR
+	(
+		(
+			drinkable OR
+			drinking OR
+			potable
+		) AND (
+			( Activated AND Carbon ) OR
+			( advanced AND oxidation AND process ) OR
+			( affordable AND water* ) OR
+			aquifer* OR
+			arsenic OR
+			Biofilter* OR
+			chlorinated OR
+			Chlorination OR
+			( clean AND water* ) OR
+			"dbps" OR
+			( deep AND well* ) OR
+			Desalinated OR
+			( disinfection AND by-product ) OR
+			( disinfection AND byproduct ) OR
+			( fluoride AND removal ) OR
+			fluoride OR
+			fluorine OR
+			Fluorosis OR
+			( ground AND water* ) OR
+			( groundwater* AND well* ) OR
+			Haloacetic OR
+			Haloaceto-nitrile* OR
+			Haloacetonitrile* OR
+			( harvest* AND rainwater* ) OR
+			( harvest* AND rain AND water* ) OR
+			ozonation OR
+			point-of-use OR
+			pointofuse OR
+			( rain AND water* AND harvest* ) OR
+			( rain AND water* ) OR
+			( rainwater* AND harvest* ) OR
+			reservoir* OR
+			( reverse AND osmosis ) OR
+			( safe AND water* ) OR
+			( solar AND disinfection ) OR
+			standpipe OR
+			( sustainable AND water* ) OR
+			"THMs" OR
+			trihalomethane* OR
+			( Tube AND well ) OR
+			( underground AND water* ) OR
+			( water* AND analyses ) OR
+			( water* AND analysis ) OR
+			( water* AND quality ) OR
+			( well AND water* ) OR
+			well* OR
+			(
+				(
+					filter* OR
+					filtration OR
+					microfiltration OR
+					nanofiltration OR
+					( water* AND treatment ) OR
+					ultrafiltration
+				) AND
+				ceramic
+			) OR (
+				nitrate* AND (
+					groundwater* OR
+					removal
+				)
+			) OR (
+				groundwater* AND
+				well*
+			) OR (
+				(
+					filter* OR
+					filtration OR
+					microfiltration OR
+					nanofiltration OR
+					( water* AND treatment ) OR
+					ultrafiltration
+				) AND NOT (
+					cardiovascular OR
+					mice OR
+					mouse OR
+					rat OR
+					rats OR
+					renal
+				)
+			)
+		)
+	) OR
+	(
+		desalination AND NOT (
+			Brain OR
+			Esophagus OR
+			Heart OR
+			Intestine OR
+			oesophagus OR
+			renal
+		)
+	)
+) AND NOT (
+	"non potable"
+)

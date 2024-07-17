@@ -1,0 +1,442 @@
+(
+	( agricultur* AND biodiversity ) OR
+	agrobiodiversity OR
+	( Collection NEAR/2 landraces ) OR
+	( 
+		crop* AND (
+			( genetic AND diversity ) OR
+			( genetic AND resource* ) OR
+			( wild AND relative* ) OR
+			( wild AND relative* AND cwr ) OR
+			biodivers* OR
+			diversity OR
+			evolution OR
+			varieties
+		) 
+	) OR
+	( ( crop-to-wild OR croptowild ) AND gene AND flow ) OR
+	crop-wild OR
+	"crop wild" OR
+	cropwild OR
+	"cultivar evolution" OR
+	( farm* AND animal AND genetic AND resource* ) OR
+	( farm* AND varieties ) OR
+	"heirloom varieties" OR
+	( indigen* AND rice* AND var* ) OR
+	"indigenous pig breeds" OR
+	"landrace accessions" OR
+	"landrace diversity" OR
+	"landrace populations" OR
+	"wheat genetic diversity" OR
+	"wheat landraces OR
+	"wild barley" OR
+	( wild AND crop* AND relative ) OR
+	"wild potato" OR
+	"wild rice" OR
+	( wild AND soybean* ) OR
+	( Wild AND wheat AND relative* )
+	(
+		(
+			(
+				(
+					(
+						ficus OR
+						fig OR
+						peanut
+					) AND carica
+				) OR
+				( edible AND mushroom ) OR
+				( faba AND bean ) OR
+				( field AND pea ) OR
+				( fruit AND tree ) OR
+				( greater AND yam ) OR
+				( kidney AND bean ) OR
+				( lolium AND temulentum ) OR
+				( meadow AND fescue ) OR
+				( oryza AND sativa ) OR
+				( pasture AND grass ) OR
+				( Turf AND grass ) OR
+				( Zea AND mays ) OR
+				apple OR
+				banana OR
+				barley OR
+				bean OR
+				carrot OR
+				celery OR
+				cereal OR
+				chickpea OR
+				coconut
+				corn OR
+				cucumber
+				date OR
+				eggplant OR
+				ginseng OR
+				grain OR
+				guizotia OR
+				legume OR
+				lettuce OR
+				lycopersicum OR
+				maize OR
+				mango OR
+				melon OR
+				melongena OR
+				Millet OR
+				nut OR
+				okra OR
+				onion OR
+				peach OR
+				pear OR
+				pepper OR
+				plantain OR
+				potato OR
+				sugarcane OR
+				tallgrass OR
+				tomato OR
+				triticum
+				tuberosum OR
+				vigna OR
+				wheat
+			)
+			AND (
+				(
+					"Crop introduction" OR
+					"diverse germplasm" OR
+					"germplasm diversity" OR
+					( genetic AND resource ) OR
+					( wild AND species ) OR
+					( wild AND type ) OR
+					biodiversity OR
+					diversity OR
+					genebank
+				)
+				AND (
+					"gene conservation" OR
+					"genetic diversity" OR
+					"genetic variability" OR
+					( breeding AND program ) OR
+					( conservation NEAR/2 variet ) OR
+					( crop* AND evolution ) OR
+					( genetic AND variation ) OR
+					( native AND variet* ) OR
+					( resistan* NEAR/2 variet* ) OR
+					( seed AND vault* ) OR
+					( tradional AND variet* ) OR
+					( wild AND germplasm* ) OR
+					( wild AND relative* ) OR
+					( wild AND variet* )
+				)
+			)
+		)
+		AND NOT (
+			(
+			"genetically engineered" OR
+			transgen*
+			)
+		)
+	) OR
+	(
+		"germplasm diversity" AND (
+			agricultur* OR
+			aquacultur* OR
+			beef OR
+			cattle OR
+			chicken OR
+			crop* OR
+			farm* OR
+			food OR
+			fruit OR
+			goat* OR
+			millet OR
+			orchard* OR
+			poultry OR
+			salmon* OR
+			sorghum OR
+			soybean OR
+			vegetable* OR
+			wheat
+		)
+	) OR
+	( germplasm AND conservation AND effort* ) OR
+	(
+		(
+			( fish AND farm* ) OR
+			angus OR
+			aquacultur* OR
+			beef OR
+			buffalo OR
+			cattle OR
+			chicken OR
+			cow OR
+			goat* OR
+			Holstein OR
+			lamb OR
+			mutton OR
+			piglet OR
+			ruminal OR
+			sow OR
+			veal OR
+			zebu
+		)
+		AND domestication 
+	) OR
+	(
+		(
+			( domestication OR ( wildtype AND cultivar* ) )
+			AND (
+				( edible AND mushroom ) OR
+				( ficus AND carica ) OR
+				( field AND pea ) OR
+				( greater AND yam ) OR
+				( lolium AND temulentum ) OR
+				( meadow AND fescue ) OR
+				( oryza AND sativa ) OR
+				( pasture AND grass ) OR
+				( Turf AND grass ) OR
+				( Zea AND mays ) OR
+				apple OR
+				Banana OR
+				barley OR
+				bean* OR
+				carrot OR
+				celery OR
+				cereal OR
+				chickpea OR
+				coconut OR
+				crop* OR
+				cucumber OR
+				eggplant OR
+				Fig OR
+				fruit OR
+				ginseng OR
+				Grain OR
+				guizotia OR
+				legume OR
+				lettuce OR
+				lycopersicum OR
+				Maize OR
+				mango OR
+				melon OR
+				melongena OR
+				Millet OR
+				nut OR
+				okra OR
+				Opuntia OR
+				orchard* OR
+				peach OR
+				peanut OR
+				pear OR
+				pepper OR
+				plantain OR
+				Potato OR
+				rice OR
+				sorghum OR
+				soybean OR
+				sugarcane OR
+				tallgrass OR
+				tomato OR
+				triticum OR
+				tuberosum OR
+				vegetable* OR
+				Vigna OR
+				wheat OR
+				wine
+			)
+		) AND NOT (
+			"genetically engineered" OR
+			transgen* OR
+			virus
+		)
+	) OR
+	( "Germplasm collection" AND "genetic variability" ) OR
+	( "Genetic diversity" AND olive AND conserv* ) OR
+	(
+		(
+			"breeding and conservation" OR
+			"diverse germplasm" OR
+			genebank OR
+			( genetic AND resource* ) OR
+			( germplasm AND collection* )
+			"germplasm conservation" OR
+			( plant AND genetic AND resource* )
+			( seed AND vault* ) OR
+			( traditional AND variet* ) OR
+			( wild AND germplasm* ) OR
+			( wild AND relative* )
+		)
+		AND (
+			agricultur* OR
+			aquacultur* OR
+			beef OR
+			cattle OR
+			chicken OR
+			crop* OR
+			farm* OR
+			food OR
+			fruit OR
+			goat* OR
+			millet OR
+			orchard* OR
+			poultry OR
+			salmon* OR
+			sorghum OR
+			soybean OR
+			vegetable* OR
+			wheat
+		)
+	) OR
+	( seed* AND "genetic delivery" AND agricult* ) OR
+	( "Phenotypic diversity" AND eggplant ) OR
+	( "Cultivated and wild species AND "variability" ) OR
+	( "Medicago truncatula" AND "genetic diversity" ) OR
+	( 
+		Fruit AND 
+		seed AND 
+		conserv* AND 
+		"morphological trait" 
+	) OR
+	( 
+		"Genetic diversity" AND 
+		chestnut AND 
+		( 
+			preserv* OR 
+			conserv* 
+		) 
+	) OR
+	(
+		(
+			Genetic AND 
+			relationship* 
+		) AND 
+		"cultivated species" 
+	) OR
+	(
+		(
+			(
+				angus OR
+				aquacultur* OR
+				beef OR
+				buffalo OR
+				cattle OR
+				chicken OR
+				cow OR
+				( fish AND farm* ) OR
+				goat* OR
+				Holstein OR
+				lamb OR
+				mutton OR
+				piglet OR
+				ruminal OR
+				sow OR
+				sow OR
+				veal OR
+				zebu
+			) AND (
+				(
+					variet* OR
+					( resistan* NEAR/2 variet* ) OR
+					"genetic diversity" OR
+					( breeding AND program ) OR
+					"genetic variability" OR
+					( genetic AND variation ) OR
+					( production AND trait* ) OR
+					( breeding AND value* ) OR
+					( breeding AND objective* ) OR
+					"genetic trend"
+				) NEAR/2 (
+					genebank* OR
+					( wild AND type ) OR
+					( wild AND species ) OR biodiversity OR
+					( genetic AND resource ) OR
+					( wild AND variet* ) OR
+					( native AND variet* ) OR
+					( wild AND relative* ) OR
+					"gene conservation" OR
+					conserv*
+				)
+			)
+		) AND NOT ( 
+			"genetically engineered" OR
+			cloning OR
+			transgen*
+		)
+	) OR
+	(
+		(
+			(
+				(
+					"gene conservation" OR
+					conserv* OR
+					diversity OR
+					genetic
+				) NEAR/2 (
+					"variet" OR
+					resistan*
+				)
+			) AND ( 
+				barley OR
+				oryza OR
+				potato OR
+				rice OR
+				rufipogon OR
+				soybean
+			) 
+			) AND NOT ( 
+				"genetically engineered" OR 
+				transgen* 
+			)
+	) OR
+	( ( Wild AND food AND plant* ) AND tradition* ) OR
+	( ( Genetic AND relationship* ) AND ( wild AND progenitor* ) ) OR
+	( promote AND "management for biodiversity" AND agricultur* ) OR
+	( vigna AND "wild species" AND "genetic relationships" ) OR
+	( ( Rice OR wheat ) AND ( wildtype AND cultivar* ) ) OR
+	(
+		(
+			"genetic diversity" OR
+			( genetic AND resource* )
+		) AND (
+			( agri-horticultural AND crop* ) OR
+			crop* OR
+			"farm animal" OR
+			livestock OR
+			cattle OR
+			beef OR
+			pig OR
+			chicken OR
+			poultry OR
+			goat* OR
+			cow OR
+			"animal husbandry" OR
+			farm*
+		) AND (
+			conserve OR
+			preserve OR
+			save OR
+			bank OR
+			restor*
+		)
+	) OR
+	( 
+		"large white" AND 
+		pig AND ( 
+			genetic* AND ( 
+				conserv* OR
+				divers*
+			) 
+		) 
+	)
+)
+AND NOT (
+	"carrot fly" OR
+	"encephalitis virus" OR
+	"latin american" OR
+	"molecular domestication" OR
+	"piglet mortality" OR
+	"pine needle trees" OR
+	"pineal gland" OR
+	( "rat species" OR "bat species" OR ( energy* AND crop* ) ) OR
+	( gilt AND "feed intake" ) OR
+	( goat* AND manure ) OR
+	( grain* AND beetle* ) OR
+	nematode*
+)

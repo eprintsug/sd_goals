@@ -1,0 +1,198 @@
+(
+	"biodegradation of plastics" OR
+	"Ideonella sakaiensis" OR
+	"mangrove planting" OR
+	"mangrove reforestation" OR
+	"microbial degradation of microplastics" OR
+	( ocean AND ( cleanup OR restor* ) ) OR
+	"oil sorption" OR
+	"oil spill cleanup" OR
+	( restore* AND mangrove* AND forest* ) OR
+	( 
+		"habitat restoration" AND ( 
+			"Albacore" OR
+			"Amberjack" OR
+			"Atlantic Bonito" OR
+			"baiji" OR
+			"Barracuda" OR
+			"Black Drum" OR
+			"Bluefish" OR
+			"Butterfish" OR
+			"Cobia" OR
+			"Croaker" OR
+			"Dolphin" OR
+			"Dolphin" OR
+			"Flounder" OR
+			"Grouper" OR
+			"Hammerhead" OR
+			"Hickory Shad" OR
+			"Hogfish" OR
+			"Jumping Mullet" OR
+			"King Mackerel" OR
+			"Knobbed Porgy" OR
+			"Little Tunny" OR
+			"Lizardfish" OR
+			"Mackerel" OR
+			"Mako Shark" OR
+			"Manta Ray" OR
+			"Marlin" OR
+			"Menhaden" OR
+			"Northern Puffer" OR
+			"otter" OR
+			"Pigfish" OR
+			"Pinfish" OR
+			"Pompano" OR
+			"Red Drum" OR
+			"Sailfish" OR
+			"Scamp" OR
+			"Sea Bass" OR
+			"sea lion" OR
+			"sea mink" OR
+			"Sea Mullet" OR
+			"SeaBass" OR
+			"seal" OR
+			"Searobin" OR
+			"Shark" OR
+			"Sheepshead" OR
+			"Silver Perch" OR
+			"Silver Snapper" OR
+			"Skate" OR
+			"Snapper" OR
+			"Spadefish" OR
+			"Speckled Hind" OR
+			"Spot" OR
+			"Spotted Trout" OR
+			"Stingray" OR
+			"Striped Bass" OR
+			"Sunfish" OR
+			"Swordfish" OR
+			"Tarpon" OR
+			"Tilefish" OR
+			"Toadfish" OR
+			"Triggerfish" OR
+			"Tuna" OR
+			"Wahoo" OR
+			"walrus" OR
+			"Whale" OR
+			"White Grunt" OR
+			"Yellowedge Grouper" OR
+			( marine* AND mammal* ) OR
+			( ocean AND fish* )
+		) 
+	) OR
+	( "microplastics" AND "solutions" ) OR
+	( "ocean" AND restor* AND ecosystem ) OR
+	( 
+		restoration AND ( 
+			"mangrove" OR
+			"mangroves" OR
+			coast OR
+			marine OR
+			ocean
+		) AND NOT ( 
+			"image data processing" OR
+			"INMS" OR
+			"processing of image data" OR
+			"signal restoration" OR
+			archaeol*
+		) 
+	) OR
+	( 
+		( 
+			"beach" OR
+			"beaches" OR
+			"coastal ecosystem" OR
+			"dune" OR
+			"dunes" OR
+			"eelgrass" OR
+			"fish habitat" OR
+			"island" OR
+			"islands" OR
+			"mangrove forests" OR
+			"mangrove" OR
+			"mangroves" OR
+			"marine ecosystem" OR
+			"marine" OR
+			"ocean" OR
+			"Oil Spill" OR
+			"oyster reef" OR
+			"oyster reefs" OR
+			"oyster" OR
+			"reef" OR
+			"reefs" OR
+			"salmon habitat" OR
+			"salt marsh" OR
+			"seagrass" OR
+			"shoreline" OR
+			"wetland" OR
+			"wetlands"
+		) AND	restoration 
+	) OR
+	( 
+		( 	
+			"bioleaching" OR
+			"bioremediation" OR
+			"Biosurfactant" OR
+			"bioventing" OR
+			"ecosystem recovery" OR
+			"ecosystem rehabilitation" OR
+			"ecosystem restoration" OR
+			"habitat rehabilitation" OR
+			"large-scale restoration" OR
+			"largescale restoration" OR
+			"mycoremediation" OR
+			"phytoremediation" OR
+			"remediation" OR
+			"restoration activities" OR
+			"restoration efforts" OR
+			"restoration program" OR
+			"restoration programs" OR
+			"restoration project" OR
+			( restore* AND ecosystem* ) 	
+		) AND ( 
+			ocean OR
+			coast OR
+			"mangrove" OR
+			"mangroves" OR
+			marine 
+		) 
+	) OR
+) AND NOT (
+	"Calymmian" OR
+	"Cambrian" OR
+	"Carboniferous" OR
+	"Cenozoic" OR
+	"Cretaceous" OR
+	"Cryogenian" OR
+	"Devonian" OR
+	"Dinosaur" OR
+	"Dinosaurs" OR
+	"Ectasian" OR
+	"Ediacaran" OR
+	"Eocene" OR
+	"Jurassic" OR
+	"Mesoproterozoic" OR
+	"Mesozoic" OR
+	"Miocene" OR
+	"Mississippian" OR
+	"Neogene" OR
+	"Neoproterozoic" OR
+	"Oligocene" OR
+	"ordovician" OR
+	"orosirian" OR
+	"Paleocene" OR
+	"Paleogene" OR
+	"Paleoproterozoic" OR
+	"Paleozoic" OR
+	"Pennsylvanian" OR
+	"Permian" OR
+	"Pliocene" OR
+	"Proterozoic" OR
+	"Rhyacian" OR
+	"Siderian" OR
+	"Silurian" OR
+	"Statherian" OR
+	"Stenian" OR
+	"Tonian" OR
+	"Triassic"
+) 

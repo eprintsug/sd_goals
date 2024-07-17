@@ -1,0 +1,106 @@
+"arsenic exposure" OR
+"health and the environment" OR
+( 
+	( 
+		"PM 10" OR
+		"PM 2.5" OR
+		"PM" OR
+		"PM10" OR
+		"PM2.5"
+	) AND 
+	exposure 
+) OR
+( ( exposure AND to AND traffic ) AND NOT ( traffic AND noise ) ) OR
+( 
+	( 
+		mercury AND (
+			exposure OR 
+			intoxication OR 
+			poisoning 
+		) OR (
+			hg AND 
+			poisoning 
+		) 
+	) AND NOT (
+		dental AND 
+		amalgam 
+	) 
+) OR
+( "hg exposure" AND NOT ( "dental amalgam" OR "dental amalgams" ) ) OR
+( "mercury exposure" AND NOT ( "dental amalgam" OR "dental amalgams" ) ) OR
+( environment* AND ( health OR ( human AND health ) ) ) OR
+( environmental AND ( epidemiology OR health OR ( public AND health ) ) ) OR
+( 
+	exposure AND (
+		"PM 10" OR
+		"PM 2.5" OR
+		"PM10" OR
+		"PM2.5" OR
+		( fine AND particulate AND matter ) OR
+		air pollution OR
+		arsenic OR
+		lead OR
+		pollutant OR
+		pollution
+	) 
+) OR
+( exposure AND to AND air AND pollutant ) OR
+( hg AND intoxication ) OR
+( lead AND ( exposure OR intoxication OR poisoning ) ) OR
+( mehg AND ( intoxication OR poisoning ) ) OR
+( methylmercury AND ( exposure OR poisoning ) ) OR
+( particulate AND matter AND exposure ) OR
+( pb AND ( exposure OR intoxication OR poisoning ) ) OR
+( pollutant AND exposure ) OR
+( pollution AND (  health OR epidemiology OR exposure ) ) OR
+(
+	( 
+		aerosol OR
+		( air AND quality ) OR
+		arsenic OR
+		( contaminat* AND ( groundwater* OR ground-water* OR soil OR water* ) ) OR 
+		( contamination AND ( of AND ( groundwater* OR ground-water* OR water* ) ) ) OR
+		( drink* AND water* ) OR
+		( ( e. coli OR faecal OR fecal ) AND contamination ) OR
+		( groundwater* AND quality ) OR
+		( hazardous AND ( chemical OR substance OR waste ) ) OR
+		"nitrogen dioxide" OR
+		"NO 2" OR
+		"NO2" OR
+		ozone OR
+		"particulate matter" OR
+		pesticide OR
+		"PM10" OR
+		"PM2.5" OR
+		pollutant OR
+		pollut* OR
+		pollution OR
+		"SO 2" OR
+		"SO2" OR
+		"soil contamination" OR
+		"soil quality" OR
+		"sulfur dioxide" OR
+		"sulphur dioxide" OR
+		( toxic AND ( chemical OR substance OR waste ) ) OR
+		wastewater* OR
+		waste-water* OR
+		( water* contamination ) OR
+		( water* AND quality ) OR
+		( well AND contamination )
+	 ) AND (
+		asthma OR
+		bronchitis OR
+		cancer OR
+		disease OR
+		health OR
+		( hospital AND admission ) OR
+		hospitalization OR
+		hospitalisation OR
+		illness OR
+		morbidity OR
+		mortalit* OR
+		poisoning OR
+		( premature AND death ) OR
+		sickness
+	) 
+)

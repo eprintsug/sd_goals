@@ -1,0 +1,388 @@
+"ADITYA Tokamak" OR
+"Alcator C-Mod" OR
+"Archimedes Wave Swing" OR
+"Archimedes Waveswing" OR
+"ASDEX Upgrade" OR
+"COMPASS Upgrade" OR
+"cross-flow tidal" OR
+"diii-d" OR
+"ECRH" OR
+"Edge localized mode" OR
+"Electron Cyclotron Resonance Heating" OR
+"ELM Coil" OR
+"enercon" OR
+"EXTRAP T2R" OR
+"flinabe" OR
+"fusion power" OR
+"Globus-M" OR
+"GOLEM" OR
+"H-1NF" OR
+"HBT-EP" OR
+"Heliotron J" OR
+"HL-2A" OR
+"HT-7U" OR
+"HYBTOK-II" OR
+"IGNITOR Tokamak" OR
+"Inertial confinement fusion" OR
+"international thermonuclear experimental reactor" OR
+"ISTTOK" OR
+"ITER" OR
+"J-TEXT" OR
+"Joint European Torus" OR
+"JT-60SA" OR
+"Keda Torus eXperiment" OR
+"Korea Superconducting tokamak Advanced Research" OR
+"KSTAR" OR
+"KTM" OR
+"Lawson criterion" OR
+"LTX-ß" OR
+"marine energy" OR
+"mdsplus" OR
+"MEDUSA-CR" OR
+"N-NBI" OR
+"National Spherical Torus Experiment" OR
+"neutral beam injection" OR
+"NOVA-UNICAMP" OR
+"NSTX" OR
+"NSTX" OR
+"Ocean Thermal Energy" OR
+"off shore wind" OR
+"Offshore hydroelectric" OR
+"offshore wind" OR
+"on shore wind" OR
+"onshore wind" OR
+"OTEC plant" OR
+"OTEC Power plant" OR
+"OTEC Power" OR
+"OWC plant" OR
+"OWC Power Plant" OR
+"OWC Power" OR
+"P-NBI" OR
+"PEGASUS" OR
+"plasma facing components" OR
+"power wind applications" OR
+"power wind system" OR
+"Proto-SPHERA" OR
+"renewable ocean energy" OR
+"renewable tidal energy" OR
+"renewable wave energy" OR
+"RFX" OR
+"seagull airfoil" OR
+"shutdown dose rate" OR
+"Solar-wind generation system" OR
+"Solar-wind power system" OR
+"SPARC (concept)" OR
+"SST-1 Tokamak" OR
+"stellarator" OR
+"SUNIST" OR
+"TCA-Br" OR
+"TCV Tokamak" OR
+"TEXTOR" OR
+"thermonuclear fusion" OR
+"thermonuclear reactor" OR
+"TJ-II" OR
+"TJ-K" OR
+"TORE SUPRA-WEST" OR
+"tritium breeding" OR
+"TST-2" OR
+"vestas" OR
+"wave renewable energy" OR
+"Wendelstein 7-X" OR
+"wind-lens" OR
+( "blanket" AND ( "fusion" OR "tritium" ) ) OR
+( "cross-flow turbine" AND "tidal" ) OR
+( "Current Drive" AND "fusion" ) OR
+( "deuterium" AND "fusion" AND "reactor" ) OR
+( "divertor" AND "fusion" ) OR
+( "energy converter" AND "tidal" ) OR
+( "first wall" AND ( "fusion" OR "plasma" ) ) OR
+( "gearbox" AND "wind" ) OR
+( "magnetic confinement" AND "fusion" ) OR
+( "magnetohydrodynamic" AND "fusion" ) OR
+(
+	"micro wind" AND (
+		energy OR
+		"generation" OR
+		power OR
+		"system" OR
+		technolog*
+	)
+) OR
+( "monopile" AND "wind" ) OR
+( "nuclear fusion" AND NOT ( ( "DNA" OR "gene" OR "solar" ) ) ) OR
+( "ocean current" AND ( conver* OR energy OR power ) ) OR
+(
+	"ocean energy" AND (
+		conver* OR
+		"development" OR
+		"exploitation" OR
+		extract* OR
+		farm OR
+		farms OR
+		generat* OR
+		harvest* OR
+		plant* OR
+		"production" OR
+		resource* OR
+		"sector" OR
+		system* OR
+		technolog*
+	)
+) OR
+( "ocean power" AND ( generat* OR plant* OR technolog* ) ) OR
+( "ocean renewable" AND ( energy OR power ) ) OR
+( "ocean wave" AND ( conver* OR energy OR power OR technolog* ) ) OR
+( "OWC" AND "wave" ) OR
+( "pedestal" AND ( "fusion" OR "plasma" OR "h-mode" ) ) OR
+( "poloidal" AND "fusion" ) OR
+( "power plant" AND "fusion" ) OR
+( "Power-Take-Off" AND ( "ocean" OR "tidal" OR "wave" ) ) OR
+( "PTO system" AND "wave" ) OR
+( "rotor side converter" AND "wind" ) OR
+( "stream generator" AND "tidal" ) OR
+( "tf coil" AND ( "fusion" OR "tokamak" OR "reactor" ) ) OR
+( "tfmc" AND NOT ( "Monte Carlo" ) ) OR
+( "tokamak" AND "fusion" ) OR
+( "toroidal field" AND ( "fusion" OR "tokamak" OR "reactor" ) ) OR
+( "tritium" AND "fusion" AND "reactor" ) OR
+( "vacuum vessel" AND ( "fusion" OR "tokamak" OR "reactor" ) ) OR
+(
+	"wells turbine" AND (
+		"ocean" OR
+		"OWC" OR
+		"water column" OR
+		"wave"
+	)
+) OR
+( "wind AND ( electric OR energy OR power ) AND NOT ( "solar wind" ) ) OR
+( "wind generation" AND ( energy OR power ) ) OR
+(
+	"wind" AND (
+		"batteries" OR
+		"battery" OR
+		"converter" "integrated power" OR
+		"doubly-fed" OR
+		"electrification" OR
+		"energy plant" OR
+		"fed induction" OR
+		"hybrid energy" OR
+		"hybrid power" OR
+		"nacelle" OR
+		"penetration" OR
+		"plant" OR
+		"potential" OR
+		"power generator" OR
+		"power plant" OR
+		"power system" OR
+		"PV energy" OR
+		"PV generation" OR
+		"PV power" OR
+		"renewable energy" OR
+		"rotor" OR
+		"SEIG" OR
+		"self excited induction" OR
+		"solar generation power system" OR
+		"solar generation system" OR
+		"solar power system" OR
+		"Stand-alone ENERGY" OR
+		"Stand-alone hybrid" OR
+		"Stand-alone power" OR
+		( clean AND energy ) OR
+		( conversion AND system* ) OR
+		( driven AND ventilator* ) OR
+		( fuel AND cell* ) OR
+		( hybrid AND system* ) OR
+		( induction AND generator* ) OR
+		( power AND converter* ) OR
+		blade* OR
+		emulator* OR
+		farm* OR
+		generator* OR
+		park* OR
+		resource*
+	)
+) OR
+( ( "High-confinement mode" OR "H-mode" ) AND ( "fusion" OR "tokamak" OR "reactor" ) )
+(
+	( "salinity gradient energy" OR "salinity gradient power" ) AND (
+		marine OR
+		"ocean" OR
+		"tidal" OR
+		"wave"
+	)
+) OR
+( ( fusion AND react* ) AND NOT ( ( "solar" OR star* OR "membrane" ) ) ) OR
+( ( nuclear AND fusion AND react* ) AND NOT ( ( "solar" OR star* ) ) ) OR
+( ( oscillating AND water AND column* ) AND "ocean" ) OR
+( ( oscillating AND water AND column* ) AND wave* ) OR
+( ( plasma AND focus* ) AND "fusion" ) OR
+( ( savonius AND turbine* ) AND NOT ( ( "water" OR "wave" OR "tidal" ) ) ) OR
+( ( stream AND turbine* ) AND "tidal" ) OR
+(
+	( wave AND energy ) AND (
+		conver* OR
+		"development" OR
+		"exploitation" OR
+		extract* OR
+		farm* OR
+		generat* OR
+		harvest* OR
+		plant* OR
+		"production" OR
+		resource* OR
+		"sector" OR
+		system* OR
+		technolog*
+	)
+) OR
+( ( wave AND energy AND conver* ) AND NOT ( ( air AND turbine* ) ) ) OR
+(
+	( wave AND power ) AND (
+		conver* OR
+		"exploitation" OR
+		extract* OR
+		farm* OR
+		generat* OR
+		harvest* OR
+		plant* OR
+		resource* OR
+		station* OR
+		system* OR
+		technolog*
+	)
+) OR
+(
+	( wind AND energy ) AND (
+		"conversion" OR
+		"generation" OR
+		"harvesting" OR
+		"potential" OR
+		source* OR
+		system*
+	)
+) OR
+(
+	( wind AND generat* ) AND (
+		electr* OR
+		"energy" OR
+		"power" OR
+		"wind generating" OR
+		facilit* OR
+		resource* OR
+		system*
+	)
+) OR
+(
+	( wind AND power* ) AND (
+		"applications" OR
+		"electricity" OR
+		facilit* OR
+		"generating" OR
+		"generation" OR
+		"generator" OR
+		"penetration" OR
+		source* OR
+		device* OR
+		energy* OR
+		generator* OR
+		system*
+	)
+) OR
+( blade* AND "wind" AND turbine* AND rotor* ) OR
+( fusion AND device* ) OR
+( oscillating AND water AND column* ) OR
+(
+	tidal AND (
+		"current energy" OR
+		"current power" OR
+		"energy development" OR
+		"energy exploitation" OR
+		"energy production" OR
+		"power development" OR
+		"power exploitation" OR
+		"renewable energy" OR
+		"renewable power" OR
+		"stream energy development" OR
+		"stream energy exploitation" OR
+		"stream generator" OR
+		"wave energy" OR
+		"wave power" OR
+		( current AND conver* ) OR
+		( energy AND (
+				conver* OR
+				extract* OR
+				farm* OR
+				generat* OR
+				harvest* OR
+				plant* OR
+				resource* OR
+				system* OR
+				technolog*
+			)
+		) OR
+		( power AND (
+				conver* OR
+				extract* OR
+				farm* OR
+				generat* OR
+				plant* OR
+				resource* OR
+				station* OR
+				system* OR
+				technolog*
+			)
+		) OR
+		( stream AND energy AND (
+				conver* OR
+				extract* OR
+				farm* OR
+				generat* OR
+				harvest* OR
+				resource* OR
+				technolog*
+			)
+		) OR
+		( stream AND energy* ) OR
+		( stream AND power* ) OR
+		( stream AND turbine* ) OR
+		electricity OR
+		turbine*
+	)
+) OR
+(
+	turbine* AND (
+		"ocean energy" OR
+		"tidal energy" OR
+		"tidal stream" OR
+		"wave energy" OR
+		( counter AND rotating* ) OR
+		( Horizontal AND axis AND wind* ) OR
+		( tidal AND barrage* ) OR
+		( vertical AND axis* ) OR
+		current OR
+		cycloturbine* OR
+		darrieus* OR
+		floating* OR
+		marine* OR
+		ocean OR
+		wells* OR
+		wind
+	)
+) OR
+( wave AND farm* ) OR
+( wave AND surge AND converter* ) OR
+(
+	wind-solar AND (
+		"energy generation" OR
+		"energy system" OR
+		"hybrid energy" OR
+		"hybrid power" OR
+		"hybrid system" OR
+		"power generation"
+	)
+) OR
+giromill* OR
+monopile* OR
+windfarm* OR
+windpark* OR
+windturbine*

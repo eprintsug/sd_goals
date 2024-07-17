@@ -1,0 +1,380 @@
+(
+	( asynchronous* AND learning* AND system* ) OR
+	( education* AND (
+			building* OR
+			hypermedia* OR
+			infrastructure 
+		) 
+	) OR
+	( effective* AND learning* AND environment* ) OR
+	( interactive* AND learning* AND environment* ) OR
+	( learning* AND assistance* AND tool* ) OR
+	( learning* AND infrastructure* ) OR
+	( safety AND in AND school ) OR
+	( school AND ( 
+			building* OR
+			design* OR
+			environment OR
+			facilit* OR
+			infrastructure* OR
+			ventilation OR
+		) 
+	) OR
+	( ubiquitous AND learning ) OR
+	( universal AND design AND for AND learning ) OR
+	( virtual* AND learning* AND environment* ) OR
+	(
+		access AND
+		( barrier AND to AND learning )
+	) OR
+	(
+		child* AND
+		( learning* AND with* AND technolog* )
+	) OR
+	(
+		(
+			child-friendly OR
+			childfriendly
+		) AND school
+	) OR
+	(
+		( communication* AND technolog* ) AND
+		( improved AND learning ) AND (
+			school* OR
+			student*
+		)
+	) OR
+	( school AND ( construction OR renovation ) ) OR
+	(
+		( course* AND material* ) AND (
+			disabled OR
+			disabilit*
+		)
+	) OR
+	(
+		design AND
+		( learning* AND space ) AND (
+			disabled OR
+			disabilit* OR
+			gender OR
+			inclusive OR
+			( increase* AND access )
+		)
+	) OR
+	(
+		distance AND (
+			learning OR
+			education
+		)
+	) OR
+	(
+		( Educational* AND support ) AND (
+			disabled OR
+			disabilit*
+		)
+	) OR
+	(
+		(
+			e-learning OR
+			elearning
+		) AND
+		(
+			environment* OR
+			platform* OR
+			system*
+		)
+	) OR
+	(
+		( education AND budget ) AND
+		infrastructure
+	) OR
+	(
+		education* AND facilit* AND design*
+	) OR
+	(
+		"internet safety" AND
+		school*
+	) OR
+	(
+		( learning* AND environment* ) AND (
+			( architectur* AND design ) OR
+			gender OR
+			inclusive OR
+			( increased AND access )
+		)
+	) OR
+	(
+		( learning* AND environment* ) AND (
+			better OR
+			facilitat* OR
+			improv*
+		) AND (
+			infrastructure OR
+			material OR
+			tool*
+		)
+	) OR
+	(
+		"safe environment" AND (
+			education* OR
+			school
+		)
+	) OR
+	(
+		school* AND (
+			( drinking AND water* ) OR
+			handwashing OR
+			( hand AND washing ) OR
+			sanitation
+		)
+	) OR
+	(
+		school* AND (
+			lead-free OR
+			leadfree OR
+			potable
+		) AND
+		water*
+	) OR
+	(
+		( School* AND ground* AND environment* ) AND
+		learning AND
+		child*
+	) OR
+	(
+		student* AND (
+			disabled OR
+			disabilit*
+		) AND
+		barrier*
+	) OR
+	(
+		tele-learning OR
+		telelearning
+	) OR
+	(
+		( tobacco-free OR
+		tobaccofree ) AND 
+		education
+	) OR
+	(
+		( virtual AND classroom ) AND (
+			disabled OR
+			disabilit* OR
+			gender OR
+			inclusive OR
+			( increased AND access )
+		)
+	) OR
+	(
+		( web-based* OR
+		webbased* ) AND 
+		( learning* AND system* )
+	) OR
+	(
+		(
+			( Educational AND technolog* ) OR
+			"Learning tools"
+		) AND (
+			disabled OR
+			disabilit* OR
+			gender OR
+			inclusive OR
+			( increased AND access ) OR
+			rural
+		)
+	) OR
+	(
+		(
+			( Indoor* AND air* AND quality* ) OR
+			( Indoor* AND environment* AND quality* ) 
+		) AND (
+			classroom* OR
+			college* OR
+			school*
+		)
+	) OR
+	(
+		(
+			( academic* AND institution* ) OR
+			( education* AND institution* ) OR
+			universit* OR
+			school*
+		) AND (
+			adequacy OR
+			"appropriateness" OR
+			"inadequacy" OR
+			quality
+		) AND
+		( teaching AND material )
+	) OR
+	(
+		access AND (
+			armed-conflict* OR
+			armedconflict* OR
+			( armed AND conflict* )
+		) AND
+		education*
+	) OR
+	(
+		(
+			child* OR
+			people OR
+			student
+		) AND (
+			disabilit* OR
+			disabled
+		) AND (
+			learning OR
+			school
+		) AND (
+			access OR
+			environment
+		)
+	) OR
+	(
+		(
+			computer-supported OR
+			computersupported OR
+			( computer AND supported )
+		) AND (
+			education* OR
+			school OR
+			student
+		) AND (
+			disabilit* OR
+			disabled OR
+			gender OR
+			( increased AND access )
+		)
+	) OR
+	(
+		(
+			( digital* AND resource* ) OR
+			( education* AND material* ) OR
+			( education* AND technolog* )
+		) AND
+		( poverty AND
+		school )
+	) OR
+	(
+		(	education* OR
+			school
+		) AND (
+			( access AND to ) AND 
+			( changing AND technolog* ) OR
+			internet OR
+			( technolog* AND material* ) 
+		)
+	) OR
+	(
+		(
+			hypermedia OR
+			multimedia
+		) AND
+		education* AND
+		system
+	) OR
+	(
+		(
+			learning OR
+			school*
+		) AND (
+			safe AND
+			environment OR
+			( physical AND environment )
+		)
+	) OR
+	(
+		(
+			remote AND ( experimentation OR laboratory )
+		) AND (
+			education* OR
+			learning OR
+			school OR
+			student
+		) AND (
+			disabled OR
+			disabilit* OR
+			gender OR
+			inclusive OR
+			( increased AND access )
+		)
+	) OR
+	(
+			( school OR
+			student*
+		) AND (
+			( internet-based OR
+			internetbased ) AND
+			( learning AND environment )
+		)
+	) OR
+	(
+		( (
+			learning AND
+			school*
+		) OR
+		( learning AND environment )
+		) AND
+		( adequate* AND resource* )
+	)
+) AND NOT (
+	(
+		( clinical AND trial* ) OR
+		(
+			alcohol* OR
+			alzheimer OR
+			( ambulatory AND child* ) OR
+			( animal AND model* ) OR
+			asthma* OR
+			cancer* OR
+			cardiac* OR
+			cardiovascul* OR
+			( care AND facilit* ) OR
+			( cerebral AND palsy* ) OR
+			dementia OR
+			dental* OR
+			dentist* OR
+			diarrhea* OR
+			disease* OR
+			( energy AND poverty ) OR
+			epidemiolog* OR
+			gas* OR
+			gene* OR
+			genetic* OR
+			health AND NOT (
+				( healthcare AND educat* ) OR
+				( health care AND educat* )
+			) OR
+			healthcare* OR
+			( heart AND damag* ) OR
+			( heart AND disease* ) OR
+			( mental AND illness* ) OR
+			mice OR
+			mouse OR
+			oil OR
+			patient* OR
+			( poor AND mental AND health ) OR
+			( ( randomised OR randomized ) AND controlled AND trial* ) OR
+			sepsis* OR
+			undernutrition* OR
+			vaccin*
+		)
+		AND NOT (
+			learning* OR
+			skill* OR
+			student* OR
+			teaching* OR
+			trainee* OR
+			training* OR
+			(
+				education* AND
+				inequal*
+			)
+		)
+	) OR
+	cancer OR
+	( mental* AND health* AND service ) OR
+	( patient AND education )
+)

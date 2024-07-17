@@ -1,0 +1,198 @@
+"19th century paintings" OR
+"acropolis sculptures" OR
+"ancient paintings" OR
+"ancient wall paintings" OR
+"architectural heritage" OR
+"architecture heritage" OR
+"art and archaeology" OR
+"artistic heritage" OR
+"artwork conservation" OR
+"bohemian panel paintings" OR
+"built heritage" OR
+"colonial art" OR
+"danish golden age paintings" OR
+"earthen architecture" OR
+"egyptian wall painting" OR
+"egyptian wall paintings" OR
+"geoheritage" OR
+"geologic heritage" OR
+"geological heritage" OR
+"geomorphological heritage" OR
+"monument restoration" OR
+"monuments restoration" OR
+"national heritage" OR
+"natural heritage" OR
+"nineteenth century painting" OR
+"nineteenth-century painting" OR
+"palaeontological heritage" OR
+"paleontological heritage" OR
+"preservation of heritage" OR
+"qing dynasty painting" OR
+"renaissance glass" OR
+"renaissance glasses" OR
+"restoration mortars" OR
+"rock art sites" OR
+"roman wall painting" OR
+"roman wall paintings" OR
+"traditional chinese painting" OR
+"unesco world heritage" OR
+"urban archaeology" OR
+"urban conservation" OR
+"urban heritage" OR
+"world cultural heritage" OR
+"world heritage areas" OR
+"world natural heritage" OR
+( 
+	"cultural heritage" AND ( 
+		archaeolog* OR
+		artifact* OR
+		building* OR
+		building OR
+		"cities" OR
+		"city" OR
+		museum OR
+		painting OR
+		site OR
+		stone OR
+		"urban" 
+	) 
+) OR
+( "heritage conservation" AND ( protect* OR unesco ) ) OR
+( "heritage" AND unesco ) OR
+( "historic urban" AND "heritage" ) OR
+( 
+	"natural heritage" AND ( 
+		"cities" OR
+		"city" OR
+		"town" OR
+		"urban"
+	) 
+) OR
+( 
+	"urban conservation" AND ( 
+		"cultural" OR
+		"culture" OR
+		"heritage" OR
+		"historic"
+	) 
+) OR
+( 
+	"world heritage" AND ( 
+		"area" OR
+		"areas" OR
+		"convention" OR
+		"cultural" OR
+		"list" OR
+		"listing" OR
+		"site" OR
+		"sites" OR
+		conserv* OR
+		landscape OR
+		tourism"
+	) 
+) OR
+( ancient* AND building* ) OR
+( 
+	archaeological AND ( 
+		"artefact" OR
+		"artefacts" OR
+		"artifact" OR
+		"artifacts" OR
+		"heritage"
+	) 
+) OR
+( conserv* AND ( ( historic AND area ) OR "modern architecture" ) ) OR
+( cultural AND heritage AND ( material OR object ) ) OR
+( 
+	heritage AND ( 
+		"artefacts" OR
+		"building" OR
+		"building" OR
+		"city" OR
+		"collection" OR
+		"collections" OR
+		"conservation" OR
+		"education" OR
+		"institution" OR
+		"institutions" OR
+		"management" OR
+		"place" OR
+		"places" OR
+		"preservation" OR
+		"sector" OR
+		"site" OR
+		"sites" OR
+		"tourism"
+	) 
+) OR
+( 
+	historic AND ( 
+		"architecture" OR
+		"building" OR
+		"building" OR
+		"cities" OR
+		"city" OR
+		"monument protection" OR
+		"urban landscape"
+	) 
+) OR
+( 
+	historical AND ( 
+		"artifacts" OR
+		"building" OR
+		"building" OR
+		"centers" OR
+		"cities" OR
+		"city" OR
+		"heritage" OR
+		"masonry" OR
+		"mortars" OR
+		"painting" OR
+		"paintings"
+	) 
+) OR
+( 
+	medieval AND ( 
+		"architecture" OR
+		"building" OR
+		"building" OR
+		"ceramic" OR
+		"ceramics" OR
+		"construction" OR
+		"constructions" OR
+		"monument" OR
+		"monuments" OR
+		"painting" OR
+		"paintings" OR
+		"sculpture" OR
+		"stained glasses" OR
+		"wall painting" OR
+		"wall paintings" OR
+		archaeological
+	) 
+) OR
+( 
+	restoration AND ( 
+		"historic landscape" OR
+		"historic landscapes" OR
+		"historic masonry" OR
+		"historic monument" OR
+		"historic monuments" OR
+		"historic monuments" OR
+		"historic preservation" OR
+		"historical architecture" OR
+		"historical bridge" OR
+		"historical garden" OR
+		"historical gardens" OR
+		"historical landscape" OR
+		"historical landscapes" OR
+		"historical monument" OR
+		"historical monuments" OR
+		"historical reconstruction" OR
+		"historical site" OR
+		"historical sites" OR
+		"historical structures" OR
+		( building AND "historic" ) OR
+		( building AND "historical" )
+	) 
+)

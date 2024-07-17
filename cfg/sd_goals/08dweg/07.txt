@@ -1,0 +1,77 @@
+"absence of credit markets" OR
+"affordable credit" OR
+"chain financing" OR
+"cooperative banks" OR
+"crop insurance" OR
+"farm credit" OR
+"group lending" OR
+"informal credit" OR
+"lending to small" OR
+"micro credit" OR
+"micro insurance" OR
+"micro lending" OR
+"microinsurance" OR
+"small business lending" OR
+"smallloan OR
+"sme lending" OR
+"targeted credit" OR
+"unbanked" OR
+( "cooperativism" AND ( credit OR loan ) ) OR
+( "inclusive" AND ( banking OR financ* ) ) OR
+( ( "micro-finance" OR microenterprise ) AND ( credit OR loan ) ) OR
+( ( financial AND service ) AND ( inclusive* OR access OR youth ) ) OR
+( 
+	access AND ( 
+		"formal credit" OR
+		credit OR
+		financ* OR
+		financing
+	) 
+) OR
+( agribusiness AND loan ) OR
+( 
+	agricultur* AND ( 
+		"lending" OR
+		credit OR
+		financ* OR
+		insurance OR
+		loan
+	) 
+) OR
+( 
+	credit AND ( 
+		"program targeted" OR
+		( income AND inequalit* ) OR
+		( small AND business ) OR
+		access OR
+		accessibility OR
+		constrain* OR
+		cooperative OR
+		empowerment OR
+		need OR
+		poverty OR
+		union OR
+		women
+	)
+) OR
+( female AND borrower ) OR
+( financ* AND inclusive ) OR
+( 
+	financial AND ( 
+		"illiteracy" OR
+		"inclusion" OR
+		"knowledge" OR
+		"literacy" OR
+		access OR
+		education
+	) 
+) OR
+( loan AND access ) OR
+( rural AND bank ) OR
+( SME* AND loan ) OR
+( weather* AND derivative* ) OR
+fintech* OR
+microcredit OR
+microfinanc* OR
+microlending OR
+microloan

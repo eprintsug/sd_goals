@@ -1,0 +1,957 @@
+(
+	"conservation hatchery" OR
+	"ecosystem approach to fisheries" OR
+	"Ecosystem-based Fisheries management" OR
+	"Ecosystembased Fisheries management" OR
+	"end overfishing" OR
+	"Fisheries conservation" OR
+	"fisheries forensics " OR
+	"fisheries management" OR
+	"Fisheries mismanagement" OR
+	"forbid overfishing" OR
+	"integrated aquaculture" OR
+	"Integrated Fisheries management" OR
+	"Integrated multi-trophic aquaculture" OR
+	"Integrated multitrophic aquaculture" OR
+	"limit overfishing" OR
+	"limits on the fishing" OR
+	"manage fisheries" OR
+	"marine stewardship council" OR
+	"overfishing" OR
+	"protect fish population" OR
+	"protect fish populations" OR
+	"protect fish stocks" OR
+	"stop overfishing" OR
+	"sustainability of bycatch" OR
+	"sustainable fisheries management" OR
+	"sustainable fishing" OR
+	( "Fisheries management" AND ( "responsible" OR sustainab* OR sustainability ) ) OR
+	( "fisheries" AND "catch share" ) OR
+	( "fisheries" AND ( Individual* AND fishing* AND quota* ) ) OR
+	( "MSY" AND ( fish* OR ocean OR marine ) ) OR
+	( "repopulate" AND ( fish* OR ocean OR marine ) ) OR
+	( "stock assessment" AND ( "fishery" OR "fisheries" OR "ocean" OR marine ) ) OR
+	(
+		(
+			"Acrophoca longirostris" OR
+			"Adriatic Sea" OR
+			"Aegean Sea" OR
+			"Alboran Sea" OR
+			"alexandrium" OR
+			"Alosa" OR
+			"anabas testudineus" OR
+			"anarhichas" OR
+			"Aqua-culture" OR
+			"aquarium" OR
+			"Arafura Sea" OR
+			"arctic grayling" OR
+			"Arctocephalus" OR
+			"Argentine Sea" OR
+			"ayu" OR
+			"Baltic Sea" OR
+			"Banda Sea" OR
+			"barbodes altus" OR
+			"barbodes gonionotus" OR
+			"Barbus" OR
+			"barramundi" OR
+			"bass" OR
+			"bathyal" OR
+			"bathypelagic" OR
+			"Bay of Biscay" OR
+			"Bay of Bothnia" OR
+			"Bay of Campeche" OR
+			"Bay of Fundy" OR
+			"Beaked Whale" OR
+			"Beaked Whales" OR
+			"Bearded Seal" OR
+			"Bearded Seals" OR
+			"belontiidae" OR
+			"benthic" OR
+			"benthos" OR
+			"Berardius arnuxii" OR
+			"Berardius bairdii" OR
+			"Bering Sea" OR
+			"bioturbation" OR
+			"Bismarck Sea" OR
+			"Black Sea" OR
+			"blackfish" OR
+			"Blue Whale" OR
+			"Blue Whales" OR
+			"Bohai Sea" OR
+			"Bohol Sea (Mindanao Sea)" OR
+			"Bonamia exitosa" OR
+			"Bonamia ostreae" OR
+			"Bothnian Sea" OR
+			"Boto" OR
+			"Bottlenose Dolphin" OR
+			"Bottlenose Dolphins" OR
+			"Bottlenose Whale" OR
+			"Bottlenose Whales" OR
+			"Bowhead Whale" OR
+			"Bowhead Whales" OR
+			"Brachionus" OR
+			"bream" OR
+			"breams" OR
+			"Brevoortia" OR
+			"brown bullhead" OR
+			"Buccinum undatum" OR
+			"cabbeling" OR
+			"Callophoca" OR
+			"Callorhinus" OR
+			"Camotes Sea" OR
+			"capelin" OR
+			"Caperea marginata" OR
+			"Carassius Carassius" OR
+			"carassius" OR
+			"Caribbean Sea" OR
+			"carp" OR
+			"carps" OR
+			"Caspian Seal" OR
+			"Caspian Seals" OR
+			"catla" OR
+			"Catla" OR
+			"Catostomid" OR
+			"Catostomus" OR
+			"Caulerpa" OR
+			"Celebes Sea" OR
+			"Celtic Sea" OR
+			"Central Baltic Sea" OR
+			"Cephalorynchus" OR
+			"Ceram Sea" OR
+			"Chilean Dolphin" OR
+			"Chilean Dolphins" OR
+			"Chilean Sea" OR
+			"chlorella" OR
+			"Chondrus crispus" OR
+			"cichlid" OR
+			"Cirrhinus" OR
+			"cirrhinus" OR
+			"clam" OR
+			"clams" OR
+			"clarias" OR
+			"clupea harengus" OR
+			"Clupea" OR
+			"Clymene Dolphin" OR
+			"Clymene Dolphins" OR
+			"coastal" OR
+			"cockle" OR
+			"cod" OR
+			"cods" OR
+			"coho" OR
+			"Colossoma" OR
+			"columnaris" OR
+			"commercial fishing" OR
+			"Common Dolphin" OR
+			"Common Dolphins" OR
+			"Common Seal" OR
+			"Common Seals" OR
+			"continental shelf" OR
+			"Coral Sea" OR
+			"coral" OR
+			"corals" OR
+			"Crabeater Seal" OR
+			"Crabeater Seals" OR
+			"crabs" OR
+			"Crassostrea" OR
+			"Cyprinus" OR
+			"cyprinus" OR
+			"Cyprinus" OR
+			"Cystophora cristata" OR
+			"deep sea" OR
+			"Delphinapterus leucas" OR
+			"Delphinidae" OR
+			"Delphinus" OR
+			"dicentrarchus" OR
+			"discidae" OR
+			"Dolly Varden" OR
+			"Dusky Dolphin" OR
+			"Dusky Dolphins" OR
+			"East China Sea" OR
+			"eel" OR
+			"eels" OR
+			"Elephant Seal" OR
+			"Elephant Seals" OR
+			"English Channel" OR
+			"Engraulis" OR
+			"epicontinental" OR
+			"epilimnion" OR
+			"epinephelus" OR
+			"Erignathus barbatus" OR
+			"Eriocheir" OR
+			"Eschrichtius robustus" OR
+			"esox" OR
+			"Eubalaena australis" OR
+			"Eubalaena glacialis" OR
+			"Eubalaena japonica" OR
+			"Eucheuma" OR
+			"Eumetopias" OR
+			"Feresa attenuata" OR
+			"Fin Whale" OR
+			"Fin Whales" OR
+			"first year ice" OR
+			"Fish species" OR
+			"fisheries" OR
+			"fishery" OR
+			"fundulus" OR
+			"Fur Seal" OR
+			"Fur Seals" OR
+			"furunculosis" OR
+			"gadus" OR
+			"Gambusia affinis" OR
+			"Gambusia holbrooki" OR
+			"gammarus" OR
+			"gariepinus" OR
+			"Gelidium" OR
+			"gill" OR
+			"gills" OR
+			"Globicephala" OR
+			"gobiidae" OR
+			"goby" OR
+			"Gracilaria" OR
+			"Grampus griseus" OR
+			"Gray Whale" OR
+			"Gray Whales" OR
+			"great lakes" OR
+			"green lipped" OR
+			"Grey Seal" OR
+			"Grey Seals" OR
+			"Gryphoca" OR
+			"Gulf of Alaska" OR
+			"Gulf of Bothnia" OR
+			"Gulf of California (Sea of Cort's)" OR
+			"Gulf of Carpentaria" OR
+			"Gulf of Finland" OR
+			"Gulf of Sidra" OR
+			"Gulf of St. Lawrence" OR
+			"Gulf of Thailand" OR
+			"Gulf of Venezuela" OR
+			"gulf stream" OR
+			"guppies" OR
+			"guppy" OR
+			"gyre" OR
+			"gyres" OR
+			"Halichoerus grypus" OR
+			"haliotis" OR
+			"Halmahera Sea" OR
+			"Haplosporidum nelsoni" OR
+			"Harbor Seal" OR
+			"Harbor Seals" OR
+			"Harbour Seal" OR
+			"Harbour Seals" OR
+			"harengus" OR
+			"Harp Seal" OR
+			"Harp Seals" OR
+			"henicorhynchus siamensis" OR
+			"heteroclitus" OR
+			"Heteropneustes" OR
+			"hippoglossus" OR
+			"Histriophoca fasciata" OR
+			"Homiphoca capensis" OR
+			"Hooded Seal" OR
+			"Hooded Seals" OR
+			"Hump-backed Dolphin" OR
+			"Hump-backed Dolphins" OR
+			"Humpback Whale" OR
+			"Humpback Whales" OR
+			"Humpbacked Dolphin" OR
+			"Humpbacked Dolphins" OR
+			"hydro power" OR
+			"hydropower" OR
+			"Hydrurga leptonyx" OR
+			"Hyperoodon ampullatus" OR
+			"Hyperoodon planifrons" OR
+			"hypolimnion" OR
+			"Hypophthalmichthys" OR
+			"icebreaker" OR
+			"Ictalurus punctatus" OR
+			"ictalurus" OR
+			"Illex" OR
+			"Imagotaria downsi" OR
+			"Indopacetus pacificus" OR
+			"Inia geoffrensis" OR
+			"Ionian Sea" OR
+			"Irish Sea" OR
+			"Irminger" OR
+			"Java Sea" OR
+			"Kawas benegasorum" OR
+			"Killer Whale" OR
+			"Killer Whales" OR
+			"Kogia breviceps" OR
+			"Kogia sima" OR
+			"Koro Sea" OR
+			"Kudoa" OR
+			"Kuroshio" OR
+			"labeo" OR
+			"labrax" OR
+			"Lagenodelphis" OR
+			"Lagenorhyncus" OR
+			"Laminaria japonica" OR
+			"lancelet" OR
+			"land fast ice" OR
+			"Larga Seal" OR
+			"Larga Seals" OR
+			"largemouth" OR
+			"Lateolabrax" OR
+			"Lates" OR
+			"Leopard Seal" OR
+			"Leopard Seals" OR
+			"lepeophtheirus" OR
+			"leptobarbus hoeveni" OR
+			"Leptonychotes weddellii" OR
+			"Leptophoca lenis" OR
+			"Leuciscus" OR
+			"Ligurian Sea" OR
+			"Lipotes vexillifer" OR
+			"Lissodelphis" OR
+			"litopenaeus" OR
+			"loach" OR
+			"Lobodon carcinophaga" OR
+			"Lobodontini" OR
+			"Lutjanus" OR
+			"macrobrachium" OR
+			"Mallotus villosus" OR
+			"Marmara Sea" OR
+			"marsh" OR
+			"marshes" OR
+			"Marteilia refringens" OR
+			"Marteilioides chungmuensis" OR
+			"Mediterranean Sea" OR
+			"Megaptera novaeangliae" OR
+			"melanogrammus" OR
+			"Melanotaenia" OR
+			"Menidia" OR
+			"Merluccius" OR
+			"Mesoplodon bahamondi" OR
+			"Mesoplodon bidens" OR
+			"Mesoplodon bowdoini" OR
+			"Mesoplodon carlhubbsi" OR
+			"Mesoplodon densirostris" OR
+			"Mesoplodon europaeus" OR
+			"Mesoplodon ginkgodens" OR
+			"Mesoplodon grayi" OR
+			"Mesoplodon hectori" OR
+			"Mesoplodon layardii" OR
+			"Mesoplodon mirus" OR
+			"Mesoplodon perrini" OR
+			"Mesoplodon peruvianus" OR
+			"Mesoplodon stejnegeri" OR
+			"Mesotaria" OR
+			"Messiphoca" OR
+			"Micromesistius" OR
+			"Mikrocytos mackini" OR
+			"Minke Whale" OR
+			"Minke Whales" OR
+			"Mirounga leonina" OR
+			"Miroungini" OR
+			"Mirtoon Sea" OR
+			"Molucca Sea" OR
+			"Monachinae" OR
+			"Monachini" OR
+			"Monachopsis" OR
+			"Monachus monachus" OR
+			"Monachus schauinslandi" OR
+			"Monachus tropicalis" OR
+			"Monk Seal" OR
+			"Monk Seals" OR
+			"Monodon monoceros" OR
+			"Monotherium wymani" OR
+			"mooring" OR
+			"morulius chrysophekadion" OR
+			"Mosquito fish" OR
+			"Mugil" OR
+			"mullidae" OR
+			"mullus" OR
+			"muskellunge" OR
+			"Mysticeti" OR
+			"mystus wyckioides" OR
+			"Mystus" OR
+			"mytilus" OR
+			"Myxobolus cerebralis" OR
+			"Narwhal" OR
+			"Neophoca" OR
+			"Neophocaena" OR
+			"neritic" OR
+			"Nerpa seal" OR
+			"nerpa seals" OR
+			"Nocardia seriolae" OR
+			"north atlantic" OR
+			"North Sea" OR
+			"notopterus notopterus" OR
+			"Notropis" OR
+			"oceanic dolphin" OR
+			"oceanic dolphins" OR
+			"Odobenidae" OR
+			"Odobenus rosmarus" OR
+			"Odontoceti" OR
+			"offshore gas" OR
+			"offshore oil" OR
+			"Ommatophoca rossi" OR
+			"oncorhynchus" OR
+			"Oplegnathus" OR
+			"orca" OR
+			"orcaella" OR
+			"orcas" OR
+			"orcinus orca" OR
+			"oreochromis" OR
+			"oryzias" OR
+			"Osmerus" OR
+			"osphronemus gourami" OR
+			"osteochilus melanopleurus" OR
+			"Otaria" OR
+			"Otariidae" OR
+			"Overfishing" OR
+			"Oyashio" OR
+			"Pagophilus groenlandica" OR
+			"pagrus" OR
+			"Pandalus" OR
+			"paneus" OR
+			"pangasius bocourti" OR
+			"pangasius hypophthalmus" OR
+			"pangasius larnaudiei" OR
+			"paralichthys" OR
+			"pasteurella piscicida" OR
+			"Penaeus japonicus" OR
+			"Penaeus monodon" OR
+			"Penaeus vannamei" OR
+			"Peponocephala" OR
+			"perch" OR
+			"perches" OR
+			"Percina" OR
+			"Perkinsus olseni" OR
+			"perna" OR
+			"Philippine Sea" OR
+			"Phoca caspica" OR
+			"Phoca fasciata" OR
+			"Phoca groenlandicus" OR
+			"Phoca hispida" OR
+			"Phoca largha" OR
+			"Phoca sibirica" OR
+			"Phoca vitulina" OR
+			"Phocanella" OR
+			"Phocarctos" OR
+			"Phocidae" OR
+			"Phocinae" OR
+			"Phocini" OR
+			"Phocoena dioptrica" OR
+			"Phocoena phocoena" OR
+			"Phocoena sinus" OR
+			"Phocoena spinipinnis" OR
+			"Phocoenidae" OR
+			"Phocoenoides" OR
+			"Physeter macrocephalus" OR
+			"phytobenthos" OR
+			"Piaractus" OR
+			"Pilot Whale" OR
+			"Pilot Whales" OR
+			"Pimelodus" OR
+			"Pimephales" OR
+			"pisces" OR
+			"Piscophoca pacifica" OR
+			"Piscrickettsiosis" OR
+			"Placopecten " OR
+			"Platanista gangetica" OR
+			"Platanista minor" OR
+			"Platanistoidea" OR
+			"Platyphoca" OR
+			"plecoglossus" OR
+			"Pleistophora" OR
+			"Pliophoca" OR
+			"Pollachius virens" OR
+			"Pomatomus" OR
+			"Pontophoca" OR
+			"Pontoporia blainvillei" OR
+			"Porpoise" OR
+			"Porpoises" OR
+			"Portunus" OR
+			"Pramoeba perniciosa" OR
+			"prawn" OR
+			"prawns" OR
+			"Preapusa" OR
+			"Pristiphoca" OR
+			"Properiptychus" OR
+			"Pseudorca crassidens" OR
+			"Psorospermium" OR
+			"Ptychocheilus" OR
+			"Pusa caspica" OR
+			"Pusa hispida" OR
+			"Pusa sibirica" OR
+			"recreational fishing" OR
+			"red drum" OR
+			"Rhinichthys" OR
+			"Ribbon Seal" OR
+			"Ribbon Seals" OR
+			"Right Whale" OR
+			"Right Whales" OR
+			"Rightwhale Dolphin" OR
+			"Rightwhale Dolphins" OR
+			"Ringed Seal" OR
+			"Ringed Seals" OR
+			"river dolphin" OR
+			"river dolphins" OR
+			"Ross Seal" OR
+			"Ross Seals" OR
+			"Rough-Toothed Dolphin" OR
+			"Rough-Toothed Dolphins" OR
+			"Ruditapes" OR
+			"Rutilus" OR
+			"salar" OR
+			"Salish Sea" OR
+			"salvelinus" OR
+			"Sardina pilchardus" OR
+			"Sardinella" OR
+			"Sardinops" OR
+			"Sargasso Sea" OR
+			"Savu Sea" OR
+			"scophthalmus" OR
+			"sculpin" OR
+			"scuticociliatosis" OR
+			"Sea Lion" OR
+			"Sea Lions" OR
+			"Sea of Azov" OR
+			"Sea of Crete" OR
+			"Sea of Japan" OR
+			"Sea of Okhotsk" OR
+			"Sea of the Hebrides" OR
+			"seafloor" OR
+			"seas" OR
+			"Sei Whale" OR
+			"Sei Whales" OR
+			"seriola" OR
+			"Seto Inland Sea" OR
+			"shark" OR
+			"sharks" OR
+			"shi drum" OR
+			"Silurus" OR
+			"solea" OR
+			"Solomon Sea" OR
+			"Sotalia" OR
+			"Sousa" OR
+			"South China Sea" OR
+			"sparus" OR
+			"spawning" OR
+			"species of fish" OR
+			"Sperm whale" OR
+			"Sperm whales" OR
+			"Spinner Dolphin" OR
+			"Spinner Dolphins" OR
+			"Spotted Dolphin" OR
+			"Spotted Dolphins" OR
+			"Spotted Seal" OR
+			"Spotted Seals" OR
+			"Sprattus " OR
+			"Stenella" OR
+			"Steno bredanensis" OR
+			"Striped Dolphin" OR
+			"Striped Dolphins" OR
+			"Sulu Sea" OR
+			"Swan-necked Seal" OR
+			"Swan-necked Seals" OR
+			"Takifugu" OR
+			"tambaqui" OR
+			"Tasmacetus shepherdi" OR
+			"Tasman Sea" OR
+			"tench" OR
+			"Terebrasabella heterouncinata" OR
+			"Theragra" OR
+			"thermohaline" OR
+			"Thracian Sea" OR
+			"thunnus" OR
+			"Thymallus arcticus" OR
+			"tide gauge" OR
+			"tide gauges" OR
+			"Todarodes" OR
+			"tomcod" OR
+			"tomcods" OR
+			"Toothed whale" OR
+			"Toothed whales" OR
+			"Trachurus" OR
+			"transgenic fish" OR
+			"trichogaster pectoralis" OR
+			"Trichogaster" OR
+			"trout" OR
+			"trouts" OR
+			"Tucuxi" OR
+			"Tucuxis" OR
+			"tunas" OR
+			"Tursiops" OR
+			"Tyrrhenian Sea" OR
+			"Umbrina cirrosa" OR
+			"Undaria" OR
+			"upwelling" OR
+			"Vaquita" OR
+			"vibrio anguillarum" OR
+			"vibrio salmonicida" OR
+			"Vibrio tapetis" OR
+			"walrus" OR
+			"watershed management" OR
+			"Weddell Seal" OR
+			"Weddell Seals" OR
+			"White Dolphin" OR
+			"White Dolphins" OR
+			"White-Beaked Dolphin" OR
+			"White-Beaked Dolphins" OR
+			"Xenohaliotis californiensis" OR
+			"yabbies" OR
+			"yabby" OR
+			"Yellow Sea" OR
+			"Zalophus" OR
+			"Ziphius cavirostris" OR
+			"zoobenthos" OR
+			( "Chesapeake Bay" AND ecosystem* ) OR
+			( "Chesapeake Bay" AND water* ) OR
+			( "crab" AND NOT ( "pulsar" ) ) OR
+			( "fishing" AND by-catch* ) OR
+			( "Gulf of Guinea" AND water* ) OR
+			( "Gulf of Mexico" AND water* ) OR
+			( "mercury" AND "fish" ) OR
+			( "methylmercury" AND "fish" ) OR
+			( "mya" AND NOT ( "million year ago" ) ) OR
+			( "pacu" AND NOT ( post* ) ) OR
+			( sea AND NOT ( "sea level" ) ) OR
+			( "tuna" AND NOT ( prostat* ) ) OR
+			( "zebrafish" AND tox* ) OR
+			( ( dam AND construct* ) AND NOT ( "merkle" ) ) OR
+			( ( fish AND farm* ) ) OR
+			( alga AND culture* ) OR
+			( algal AND bloom* ) OR
+			( beluga AND whale* ) OR
+			( bottom AND water* )OR
+			( Brown AND Ring AND Disease* ) OR
+			( Brown AND tide* ) OR
+			( caged AND fish* ) OR
+			( Commerson AND Dolphin* ) OR
+			( cooling AND water* ) OR
+			( deep AND water* ) OR
+			( fish AND (
+					assemblage OR
+					catch OR
+					communit* OR
+					disease* OR
+					ecotox OR
+					growth OR
+					habitat OR
+					habitat* OR
+					hatch* OR
+					invas* OR
+					ladder* OR
+					parasite* OR
+					pathogen* OR
+					pond* OR
+					population* OR
+					protection* OR
+					stock OR
+					wildlife
+				)
+			) OR
+
+			( Fraser AND Dolphin* ) OR
+			( greenland AND shark* ) OR
+			( Haplosporidium AND costale* ) OR
+			( Heaviside AND Dolphin* ) OR
+			( Hector AND Dolphin* ) OR
+			( high AND tide* ) OR
+			( Hourglass AND Dolphin* ) OR
+			( inland AND water* ) OR
+			( Intermediate AND water* ) OR
+			( Irrawaddy AND Dolphin* ) OR
+			( lake AND ecosystem* ) OR
+			( Long-line AND fishing* ) OR
+			( low AND tide* ) OR
+			( marginal AND ice AND zone* ) OR
+			( Melon-headed AND Whale* ) OR
+			( nautical AND chart* ) OR
+			( navigational AND chart* ) OR
+			( neap AND tide* ) OR
+			( northern AND pike* ) OR
+			( oil AND tanker* ) OR
+			( otter AND trawl* ) OR
+			( pacific AND water* ) OR
+			( Peale AND Dolphin* ) OR
+			( produced AND water AND oil* ) OR
+			( puntioplites AND falcifer* ) OR
+			( red AND tide* ) OR
+			( Risso AND Dolphin* ) OR
+			( river AND ecosystem* ) OR
+			( river AND habitat* ) OR
+			( Sabellid AND Polychaete* ) OR
+			( salmo* AND NOT ( salmonella* ) ) OR
+			( sea AND level AND ris* ) OR
+			( seabed AND pipeline* ) OR
+			( Snubfin AND Dolphin* ) OR
+			( storm AND surge* ) OR
+			( stream AND habitat* ) OR
+			( surf AND zone* ) OR
+			( Taura AND syndrome* ) OR
+			( tidal AND ( channel* OR current OR flat* OR flow* OR inlet* OR marsh* OR mudflat* OR "power" OR region* OR water* ) ) OR
+			( tsunami AND risk ) OR
+			( tsunami* AND model* ) OR
+			( underwater* AND autonomous AND vehicle ) OR
+			( underwater* AND pipeline* ) OR
+			( water* AND column ) OR
+			( water* AND quality AND ( management OR model ) ) OR
+			( Whirling AND disease* ) OR
+			( White AND spot AND ( disease  OR syndrome ) ) OR
+			( White-Sided AND Dolphin* ) OR
+			( yersinia AND ruckeri* ) OR
+			abalone* OR
+			acipenser* OR
+			anadrom* OR
+			anguilla* OR
+			anthozoa* OR
+			aquacultur* OR
+			argopecten* OR
+			artemia* OR
+			atherinid* OR
+			atractoscion* OR
+			bathymetr* OR
+			bivalv* OR
+			broodstock* OR
+			carpio* OR
+			catfish* OR
+			Cetacea* OR
+			chanidae* OR
+			Channa OR
+			Chanos OR
+			charr* OR
+			Cherax OR
+			chinook* OR
+			cnidaria* OR
+			copepod* OR
+			coregon* OR
+			crassostrea* OR
+			crayfish* OR
+			crustacea* OR
+			Cryptophoca OR
+			Ctenopharyngodon OR
+			cuttlefish* OR
+			cyprin* OR
+			cyprinid* OR
+			daphnia* OR
+			decapod* OR
+			dinoflagellat* OR
+			epipelagic* OR
+			estuar* OR
+			euphotic* OR
+			finfish* OR
+			fishway* OR
+			fjord* OR
+			flavobacterium* OR
+			Flores Sea OR
+			flounder* OR
+			foraminifer* OR
+			freshwater* OR
+			gadoid* OR
+			Gelbstoff* OR
+			geostroph* OR
+			gilthead* OR
+			goldfish* OR
+			goodeid* OR
+			grouper* OR
+			Gyrodactyl* OR
+			haddock* OR
+			halibut* OR
+			halocline* OR
+			hemipelagic* OR
+			herring* OR
+			hydroecolog* OR
+			hydroelectric* OR
+			hydrograph* OR
+			intertidal* OR
+			isopycnal* OR
+			killifish* OR
+			kuruma* OR
+			lagoon* OR
+			limnolo* OR
+			limnoperna* OR
+			lobster* OR
+			mackerel* OR
+			marine OR
+			masquinong* OR
+			microplankton* OR
+			milkfish* OR
+			minnow* OR
+			mollusc* OR
+			monodon* OR
+			morhua* OR
+			mosquitofish* OR
+			mussel* OR
+			mykiss* OR
+			mytilidae* OR
+			nanoplankton* OR
+			Narwhal* OR
+			nearshore* OR
+			nekton* OR
+			oyster* OR
+			paleolimnolo* OR
+			pecten* OR
+			pelagic* OR
+			penaeid* OR
+			phagotrophic* OR
+			phytoplankton* OR
+			pinctada* OR
+			plankton* OR
+			pleuronect* OR
+			porphyra* OR
+			psychrosphere* OR
+			pycnocline* OR
+			pycnostad* OR
+			radiolaria* OR
+			reef* OR
+			rhodophyta* OR
+			rockbream* OR
+			rockfish* OR
+			saltmarsh* OR
+			scallop* OR
+			Scomber* OR
+			seabass* OR
+			seabream* OR
+			SeaSoar* OR
+			seawater* OR
+			seaweed* OR
+			sebaste* OR
+			seiche* OR
+			shellfish* OR
+			shrimp* OR
+			sockeye* OR
+			sparid* OR
+			sphyrna* OR
+			squid* OR
+			steelhead* OR
+			stickleback* OR
+			sturgeon* OR
+			sunfish* OR
+			surfclam* OR
+			swimbladder* OR
+			teleost* OR
+			teleostei* OR
+			thermocline* OR
+			tilapia* OR
+			trutta* OR
+			tshawytscha* OR
+			turbot* OR
+			vannamei* OR
+			walleye* OR
+			wetland* OR
+			whitefish* OR
+			wolffish* OR
+			wssv* OR
+			zooplankton* OR
+		) AND NOT (
+			"Staphylococcal enterotoxin A" OR
+			"sea of change" OR
+			"coral gables" OR
+			"oceanside publications" OR
+			"Pleurotus ostreatus" OR
+			( oyster AND mushroom* 	)
+		)
+	) OR
+	( ( "maximum sustainable yield" OR "sustainability of populations" ) AND ( fish* OR ocean OR marine ) ) OR
+	( ( "stock enhancement" OR ( sustainable* AND ( develop* OR exploit OR manag* ) ) ) AND ( "fishery" OR "fisheries" ) ) OR
+	( ( "sustainable use" OR "sustainable yield" OR "sustainable yields" ) AND ( fish* AND stock* ) ) OR
+	( ( fish* AND stock* ) AND ( biologically* AND sustainable* AND level* ) ) OR
+	( ( shrimp* AND farm* ) AND sustainab* ) OR
+	( aquacultur* AND sustainab* ) OR
+	( marine* AND fish* AND resource* ) OR
+	( prevent* AND overfishing* ) OR
+	( sustainability AND "fisheries" ) OR
+	( sustainable* AND fish* AND stock* ) OR
+) AND (
+	(
+		(
+			"farmed and wild fish" OR
+			"fish nutrition" OR
+			(
+				(
+					"Anarhichas lupus" OR
+					"Anarhichas minor" OR
+					"Anguilla japonica" OR
+					"Argopecten irradians" OR
+					"black cod" OR
+					"carp" OR
+					"Catla catla" OR
+					"Chanos chanos" OR
+					"chinook" OR
+					"Chlamys islandica" OR
+					"Chondrus crispus" OR
+					"coho" OR
+					"Cyprinus carpio" OR
+					"Eriocheir sinensis" OR
+					"flatfish" OR
+					"gadus morhua" OR
+					"haddock" OR
+					"Hippoglossus" OR
+					"Hypophthalmichthys" OR
+					"Labeo rohita" OR
+					"laminaria saccharina" OR
+					"Melanogrammus aeglefinus" OR
+					"Mugil cephalus" OR
+					"mussel" OR
+					"Mytilus edulis" OR
+					"Oncorhynchus mykiss" OR
+					"Patinopecten yessoensis" OR
+					"Penaeus monodon" OR
+					"Penaeus vannamei" OR
+					"Perca flavescens" OR
+					"Placopecten magellanicus" OR
+					"Porphyra" OR
+					"rockfish" OR
+					"salmon" OR
+					"scallop OR
+					"sea bream" OR
+					"sea lettuce" OR
+					"sea urchin" OR
+					"Spisula solidissima" OR
+					"Stizostedion vitreum" OR
+					"sturgeon" OR
+					"tilapia" OR
+					"trout" OR
+					"turbot" OR
+					"Ulva lactuca" OR
+					"walleye" OR
+					( arctic AND char* ) OR
+					bivalve* OR
+					cockle* OR
+					mussel* OR
+					oyster* OR
+					shrimp*
+				) AND ( farm* OR culture* )
+			) OR
+			(
+				(
+					"abalone" OR
+					"bass" OR
+					"Crassostrea gigas" OR
+					"gracilaria" OR
+					"halibut" OR
+					"kelp" OR
+					"oreochromis niloticus" OR
+					"Paralichthys olivaceus" OR
+					"prawn" OR
+					"steelhead" OR
+					clam*
+				) AND ( farm* OR culture* OR cultiv* )
+			) OR
+			( eel AND farm* ) OR
+		) AND NOT (
+			( ( cell AND culture* ) OR soil* )
+		)
+	) OR
+	(
+		(
+			"transgenic" AND (
+				carp OR
+				catfish OR
+				fish OR
+				mollus* OR
+				prawn* OR
+				salmo* OR
+				shrimp OR
+				tilapia OR
+				trout
+			)
+		) AND NOT (
+			medaka OR
+			zebra*
+		)
+	)
+)

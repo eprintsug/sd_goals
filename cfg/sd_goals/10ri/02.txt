@@ -1,0 +1,181 @@
+(
+	"landlocked developing country" OR
+	"landlocked developing countries" OR
+	"least developed country" OR
+	"least developed countries" OR
+	"least developed nation" OR
+	"least developed nations" OR
+	"least developed economy" OR
+	"least developed economies" OR
+	"less developed country" OR
+	"less developed countries" OR
+	"less developed nation" OR
+	"less developed nations" OR
+	"less developed economy" OR
+	"less developed economies" OR
+	"low-income country" OR
+	"low-income countries" OR
+	"low-income nation" OR
+	"low-income nations" OR
+	"lowincome country" OR
+	"lowincome countries" OR
+	"lowincome nation" OR
+	"lowincome nations" OR
+	"poor country" OR
+	"poor countries" OR
+	"poor nation" OR
+	"poor nations" OR
+	"small island developing" OR
+	"third world" OR
+	Africa OR
+	"African country" OR
+	"African contries" OR
+	"African nation" OR
+	"African nations" OR
+	"Afghanistan" OR
+	"Algeria" OR
+	"American Samoa" OR
+	"Angola" OR
+	"Anguilla" OR
+	"Antigua and Barbuda" OR
+	"Armenia" OR
+	"Aruba" OR
+	"Azerbaijan" OR
+	"Bahamas" OR
+	"Bahrain" OR
+	"Bangladesh" OR
+	"Barbados" OR
+	"Belize" OR
+	"Benin" OR
+	"Bermuda" OR
+	"Bhutan" OR
+	"Bolivia" OR
+	"Botswana" OR
+	"Burkina Faso" OR
+	"Burundi" OR
+	"Cabo Verde" OR
+	"Cambodia" OR
+	"Cameroon" OR
+	"Cape Verde" OR
+	"Cayman Islands" OR
+	"Central African Republic" OR
+	"Chad" OR
+	"Comoros" OR
+	"Congo" OR
+	"Cook Islands" OR
+	"Cuba" OR
+	"Curacao" OR
+	"Djibouti" OR
+	"Dominica" OR
+	"Dominican Republic" OR
+	"Egypt" OR
+	"Equatorial Guinea" OR
+	"Eritrea" OR
+	"Eswatini" OR
+	"Ethiopia" OR
+	"Fiji" OR
+	"French Polynesia" OR
+	"Gabon" OR
+	"Gambia" OR
+	"Ghana" OR
+	"Grenada" OR
+	"Guadeloupe" OR
+	"Guam" OR
+	"Guinea" OR
+	"Guinea-Bissau" OR
+	"Guyana" OR
+	"Haiti" OR
+	"Ivory Coast" OR
+	"Jamaica" OR
+	"Kazakhstan" OR
+	"Kenya" OR
+	"Kiribati" OR
+	"Kyrgyzstan" OR
+	"Lao" OR
+	"Lesotho" OR
+	"Liberia" OR
+	"Libya" OR
+	"Macedonia" OR
+	"Madagascar" OR
+	"Malawi" OR
+	"Maldives" OR
+	"Mali" OR
+	"Marshall Islands" OR
+	"Martinique" OR
+	"Mauritania" OR
+	"Mauritius" OR
+	"Micronesia" OR
+	"Moldova" OR
+	"Mongolia" OR
+	"Montserrat" OR
+	"Morocco" OR
+	"Mozambique" OR
+	"Myanmar" OR
+	"Namibia" OR
+	"Nauru" OR
+	Nepal OR
+	"New Caledonia" OR
+	"Niger" OR
+	"Niue" OR
+	"Northern Marianas" OR
+	"Palau" OR
+	"Papua New Guinea" OR
+	"Paraguay" OR
+	"Puerto Rico" OR
+	"Rwanda" OR
+	"Samoa" OR
+	"São Tomé and Príncipe" OR
+	"Senegal" OR
+	"Seychelles" OR
+	"Sierra Leone" OR
+	"Singapore" OR
+	"Sint Maarten" OR
+	"Solomon Islands" OR
+	"Somalia" OR
+	"South Africa" OR
+	"South Sudan" OR
+	"Saint Kitts and Nevis" OR
+	"Saint Lucia" OR
+	"Saint Vincent and the Grenadines" OR
+	"Sudan" OR
+	"Suriname" OR
+	"Tajikistan" OR
+	"Tanzania" OR
+	"Gambia" OR
+	"Timor-Leste" OR
+	"Togo" OR
+	"Tonga" OR
+	"Trinidad and Tobago" OR
+	"Tunisia" OR
+	"Turkmenistan" OR
+	"Turks and Caicos Islands" OR
+	"Tuvalu" OR
+	"Uganda" OR
+	"Uzbekistan" OR
+	"Vanuatu" OR
+	"Virgin Islands" OR
+	"Yemen" OR
+	"Zambia" OR
+	"Zimbabwe"
+) AND (
+	"Doctors Without Borders" OR
+	"donor country" OR
+	"environmental aid" OR
+	"hunger relief" OR
+	"Médecins Sans Frontières" OR
+	"overseas development" OR
+	( ( capital OR financial OR investment ) AND flow* ) OR
+	( ( development OR food ) AND ( "aid" OR "assistance" OR "bank" OR "banks" ) ) OR
+	( ( economic OR financial OR military ) AND ( "aid" OR "assistance" ) ) OR
+	( ( foreign OR international ) AND ( "aid" OR "assistance" OR "direct investment" OR "donor" OR "donors" OR "investment" OR "investor" OR "investors" ) ) OR
+	( aid AND ( "agency" OR agencies" OR "allocation" OR "allocations" OR distribution* OR flow* OR "for development" OR organization* OR organisation* OR "relief" OR worker* ) ) OR
+	( bilateral AND ( "aid" OR "development" OR "donor" OR "donors" OR "investment" ) ) OR
+	( debt AND ( "cancellation" OR "forgiveness" OR "reduction" OR "relief" ) ) OR
+	( disaster AND ( "aid" OR "relief" OR "responder" OR "responders" OR "response" ) ) OR
+	( donor AND countr* ) OR
+	( emergency AND ( "aid" OR "relief" ) ) OR
+	( humanitarian AND ( "aid" OR "agency" OR "agencies" OR "assistance" OR "action" OR "actions" OR "intervention" OR "interventions" OR organization* OR organisation* OR "relief" OR "response" OR "work" OR worker* ) ) OR
+	( medical AND ( "aid" OR "assistance" OR "relief" ) ) OR
+	( multilateral AND ( "aid" OR "donor" OR "donors" ) ) OR
+	( relief AND ( "agency" OR "agencies" OR organization* OR organisation* OR "response" OR "work" OR worker* ) ) OR
+)

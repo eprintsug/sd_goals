@@ -1,8 +1,7 @@
 (
-	("access to ownership" OR
-	( agricultur* AND finance ) OR
+	"access to ownership" OR
 	"asset poverty" OR
-	"Black economic empowerment" OR 
+	"Black economic empowerment" OR
 	"community banking model" OR
 	"economic empowerment" OR
 	"energy poverty" OR
@@ -10,127 +9,388 @@
 	"financial inclusion" OR
 	"income poverty" OR
 	"income stratification" OR
+	"land redistribution" OR
+	"land restitution" OR
+	"micro lending" OR
 	"village banking" OR
 	"wealth distribution" OR
 	"women's land" OR
-	( "access to land" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( poor* AND communit* ) OR ( developing* AND countr* ) OR rights ) ) OR
-	( access AND ( natural* AND resource* ) AND ( poor* OR poverty ) ) OR
-	( electricity AND "developing countries" AND access ) OR
-	( "financial barriers" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( developing* AND countr* ) ) ) OR
-	( "food insecurity" AND ( "low-income" OR "lowincome" OR poverty OR "rural poor" OR ( poor* AND people ) OR ( developing* AND countr* ) OR "aboriginal" OR migrant* OR "refugee" OR "indigenous" ) ) OR
-	( ( gender* AND wage ) AND ( discrimination OR inequit* OR inequalit* ) ) OR
-	( "Gini coefficient" AND ( inequalit* OR inequit* OR women OR ( developing* AND countr* ) OR poverty ) ) OR
-	( "grameen bank" AND "poor" ) OR
-	( "grameen bank" AND poverty ) OR
-	( inequalit* AND "living standard" ) OR
-	( "internet service" AND access AND ( "developing countries" OR poverty OR rural ) ) OR 
-	( "land alienation" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( poor* AND communit* ) OR ( developing* AND countr* ) ) ) OR
-	( "land restitution" OR "land redistribution" ) OR
+	(
+		"access to land" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			poverty OR
+			rights
+		)
+	) OR
+	(
+		"financial barriers" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			poverty
+		)
+	) OR
+	(
+		"food insecurity" AND (
+			"rural poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			aboriginal OR migrant* OR
+			indigenous OR
+			low-income OR
+			lowincome OR
+			poverty OR
+			refugee
+		)
+	) OR
+	(
+		"Gini coefficient" AND (
+			( developing* AND countr* ) OR
+			inequalit* OR
+			inequit* OR
+			poverty OR
+			women
+		)
+	) OR
+	(
+		"grameen bank" AND (
+			poor OR
+			poverty
+		)
+	) OR
+	(
+		"internet service" AND
+		access AND (
+			"developing countries" OR
+			poverty OR
+			rural
+		)
+	) OR
+	(
+		"land alienation" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			poverty
+		)
+	) OR
 	( "land rights" AND poverty ) OR
-	( "minimum wage" AND ( poverty OR ( poor* AND people ) OR "the poor" OR ( poor* AND communit* ) OR ( developing* AND countr* ) ) ) OR
-	( ownership AND poverty ) OR
-	( "racial bias" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( developing* AND countr* ) ) ) OR
-	( "racism" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( developing* AND countr* ) ) ) OR
-	( "rural finance" AND poverty ) OR
-	( rural AND "infrastructure" AND water* AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( poor* AND communit* ) OR ( developing* AND countr* ) ) ) OR
-	( "saving groups" AND poverty ) OR
-	( "social exclusion" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( developing* AND countr* ) OR ( poor* AND communit* ) OR rights OR "racial" OR "racism" OR women ) ) OR
-	( telecommunication* AND access AND poverty ) OR
-	( telecommunication* AND "developing countries" ) OR
-	( "unbanked AND ( "poor" OR poverty ) ) OR
-	( "unbanked" AND "income" ) OR
-	( ( water* AND rights ) AND poverty ) OR
-	( water* AND access AND ( poverty OR rural OR "the poor" OR ( poor* AND people ) OR ( developing* AND countr* ) OR rights ) ) OR 
-	( water* AND "developing countries" AND access ) OR
-	( women AND "access to credit" ) OR 
-	( women AND "landholding" ) OR
-	( women AND ( "economic independence" OR ( income* AND ratio* ) ) ) OR
-	( "women's employment" AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( developing* AND countr* ) ) ) OR
-	( ( access OR "provision" ) AND "basic service" AND ( poverty OR rural OR "the poor" OR ( poor* AND people ) OR ( poor* AND communit* ) OR rights ) ) OR
-	( ( "houseownership" OR "home ownership" ) AND ( ( financial* AND fragilit* ) OR ( financial* AND insecurit* ) OR poverty OR ( poor* AND people ) OR gender OR "rural people" OR migrant* OR "aboriginal" OR "indigenous" ) ) OR
-	( ( "Lorenz dominance" OR "Lorenz curve" ) AND ( "income" OR inequal* OR "poor" OR poverty OR "the poor" OR ( poor* AND people ) OR ( poor* AND communit* ) OR ( developing* AND countr* ) ) ) OR
-	( ( "low-income" AND access AND "quality education" ) OR( "lowincome" AND access AND "quality education" ) ) OR
-	( ( ( market AND access ) OR "access to market" ) AND ( poverty OR "the poor" OR ( poor* AND people ) OR ( poor* AND communit* ) OR ( developing* AND countr* ) OR "village" OR "poor producer" ) ) OR
-	( ( "microlending" OR "micro lending" OR "micro-lending" ) OR ( "microlending" OR "micro lending" OR "microlending" ) ) OR 
-	( ( ( provision AND drink* AND water* ) OR sanitation ) AND ( "low-income" OR "lowincome" OR poverty OR ( poor* AND people ) OR "rural poor" OR ( rural* AND communit* ) OR ( urban* AND dweller* ) OR "ghettos" ) ) OR
+	(
+		"minimum wage" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			poverty OR
+		)
+	) OR
+	(
+		"racial bias" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			poverty
+		)
+	) OR
+	(
+		racism AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			poverty
+		)
+	) OR
+	(
+		(
+			"rural finance" OR
+			"saving groups"
+		) AND
+		poverty
+	) OR
+	(
+		"social exclusion" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			poverty OR
+			racial OR
+			racism OR
+			rights OR
+			women
+		)
+	) OR
+	(
+		unbanked AND (
+			income OR
+			poor OR
+			poverty
+		)
+	) OR
+	(
+		"women's employment" AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			poverty
+		)
+	) OR
+	(
+		( houseownership OR "home ownership" ) AND (
+			"rural people" OR
+			( financial* AND fragilit* ) OR
+			( financial* AND insecurit* ) OR
+			( poor* AND people ) OR
+			aboriginal OR
+			gender OR
+			indigenous OR
+			migrant* OR
+			poverty
+		)
+	) OR
+	(
+		( "Lorenz dominance" OR "Lorenz curve" ) AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			income OR
+			inequal* OR
+			poor OR
+			poverty
+		)
+	) OR
+	( ( low-income OR lowincome ) AND access AND "quality education" ) OR
 	( ( "resource-poor farmer" OR "resourcepoor farmer" ) AND access ) OR
 	( ( "the poor" OR poverty ) AND inequ* ) OR
 	( ( ( high-technolog* OR hightechnolog* ) AND access AND poverty ) ) OR
-	( ( access* AND to* AND new* AND technolog* ) AND "poor" ) OR
-	( ( asset-poor* OR assetpoor* OR asset poor* ) AND ( household* OR famil* ) ) OR
-	( ( disadvantaged* AND famil* ) AND ( "access to food" OR "food insecurity" OR "access to water" OR "access to land" OR ownership* OR "financing" OR ( access* AND to financ* ) ) ) OR
+	(
+		( ( market AND access ) OR "access to market" ) AND (
+			"poor producer" OR
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			poverty OR
+			village
+		)
+	) OR
+	(
+		(
+			( provision AND drink* AND water* ) OR
+			sanitation
+		) AND (
+		"rural poor" OR
+		( poor* AND people ) OR
+		( rural* AND communit* ) OR
+		( urban* AND dweller* ) OR
+		ghettos OR
+		low-income OR
+		lowincome OR
+		poverty
+		)
+	) OR
+	(
+		( access OR "provision" ) AND "basic service" AND (
+			"the poor" OR
+			( poor* AND communit* ) OR
+			( poor* AND people ) OR
+			poverty OR
+			rights OR
+			rural
+		)
+	) OR
+	( ( access* AND to AND new* AND technolog* ) AND poor ) OR
+	(
+		(
+			asset poor* OR
+			asset-poor* OR
+			assetpoor* OR
+		) AND (
+			famil* OR
+			household* OR
+		)
+	) OR
+	(
+		( disadvantaged* AND famil* ) AND (
+			"access to food" OR
+			"access to land" OR
+			"access to water" OR
+			"food insecurity" OR
+			( access* AND to financ* ) OR
+			financing OR
+			ownership*
+		)
+	) OR
 	( ( economic* AND resource* ) AND access* ) OR
-	( ( financial* AND fragilit* ) AND access AND ( ( financial* AND service* ) OR "credit" ) ) OR
-	( ( inequitit* OR inequalit* ) AND "permanent income" ) OR
-	( ( inequitit* OR inequalit* ) AND ( income OR earning* ) ) OR
-	( ( migrant* OR refugee* OR aboriginal OR indigenous OR gender OR ethnic* ) AND ( "income" OR "wealth" OR "wage" ) AND ( inequit* OR inequalit* OR distribution* OR redistribution* ) ) OR
-	( ( property* AND right* ) AND access ) OR
-	( ( property-rights OR "propertyrights" OR ( property* AND right* ) ) AND poverty ) OR
-	( ( racial* AND inequalit* ) AND ( "low-income" OR "lowincome" OR poverty OR "rural poor" OR ( poor* AND people ) OR "poorer people" OR ( developing* AND countr* ) OR "aboriginal" OR migrant* OR "refugee" OR "indigenous"	) ) OR 
-	( access* AND to* AND sanitation* AND facilit* ) OR
+	( ( financial* AND fragilit* ) AND access AND ( ( financial* AND service ) OR credit ) ) OR
+	(
+		( gender* AND wage ) AND (
+			discrimination OR
+			inequalit* OR
+			inequit*
+		)
+	) OR
+	(
+		(
+			inequalit* OR
+			inequitit*
+		) AND (
+			"permanent income" OR
+			earning* OR
+			income
+		)
+	) OR
+	(
+		(
+			aboriginal OR
+			ethnic* OR
+			gender OR
+			indigenous OR
+			migrant* OR
+			refugee*
+		) AND (
+			income OR
+			wage OR
+			"wealth"
+		) AND (
+			distribution* OR
+			inequalit* OR
+			inequit* OR
+			redistribution*
+		)
+	) OR
+	( ( property-rights OR propertyrights OR ( property* AND right* ) ) AND ( access OR poverty ) ) OR
+	(
+		( racial* AND inequalit* ) AND
+		(
+			"rural poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			aboriginal OR
+			indigenous OR
+			low-income OR
+			lowincome OR
+			migrant* OR
+			poverty OR
+			refugee
+		)
+	) OR
+	( ( water* AND rights ) AND poverty ) OR
+	( access AND ( natural* AND resource* ) AND ( poor* OR poverty ) ) OR
+	( access AND to AND sanitation* AND facilit* ) OR
+	( agricultur* AND finance ) OR
 	( earnings* AND inequ* ) OR
-	( Equality* of opportunit* ) OR
-	( income* AND disparit* ) OR
-	( income* AND distribution* ) OR 
-	( income* AND inequalit* ) OR 
-	( income* AND inequit* ) OR 
-	( income* AND redistribution* ) OR
+	( electricity AND "developing countries" AND access ) OR
+	( equality of opportunit* ) OR
+	(
+		income* AND (
+			disparit* OR
+			distribution* OR
+			inequalit* OR
+			inequit* OR
+			redistribution*
+		)
+	) OR
+	( inequalit* AND "living standard" ) OR
 	( micro* AND credit* ) OR
 	( micro-financ* OR microfinanc* OR ( micro* AND financ* ) ) OR
-	( right* AND to AND land ) OR
-	( right* AND to* AND inherit* ) OR
-	( rural AND ( bank* OR finance ) ) OR
-	( wage AND inequalit* ) OR 
-	( wealth* AND disparit* ) OR
-	( wealth* AND inequalit* ) OR
-	micro-credit* OR 
-	microcredit* OR 
-	underbanked
-	)
-	AND NOT(
-		( clinical AND trial* ) OR
-		health AND NOT (
-			( healthcare AND educat* ) OR 
-			( health care AND educat* )
-			) OR 
-		vaccin* OR 
-		epidemiolog* OR 
-		sepsis* OR 
-		mice OR 
-		mouse OR 
-		( animal AND model* ) OR
-		rat OR 
-		diarrhea* OR
-		diarrhoea* OR 							
-		( randomized AND controlled AND trial* ) OR 
-		( randomised AND controlled AND trial* ) OR 
-		cardiovascul* OR 
-		cardiac* OR 
-		( heart AND disease* ) OR 
-		( heart AND damag* ) OR 
-		healthcare* OR 
-		disease* OR 
-		dental* OR 
-		dentist* OR 
-		undernutrition* OR 
-		gene* OR 
-		cancer* OR 
-		( mental AND illness* ) OR 
-		"energy poverty" OR 
-		( poor AND mental AND health ) OR 
-		dementia OR 
-		alzheimer OR 
-		( care AND facilit* ) OR 
-		alcohol* OR 
-		asthma* OR 
-		( ambulatory AND child* ) OR
-		( cerebral AND palsy* ) OR 
-		oil* OR 
-		gas* OR 
-		patient*
-		AND NOT (
+	( ownership AND poverty ) OR
+	( right* AND to AND ( land OR  inherit* ) ) OR
+	(
+		rural AND "infrastructure" AND water* AND (
+			poverty OR
 			"the poor" OR
-			poverty
+			( poor* AND people ) OR
+			( poor* AND communit* ) OR
+			( developing* AND countr* )
 		)
-	) 
+	) OR
+	( rural AND ( bank* OR finance ) ) OR
+	(
+		telecommunication* AND (
+			"developing countries" OR
+			( access AND poverty )
+		)
+	) OR
+	( wage AND inequalit* ) OR
+	( water* AND "developing countries" AND access ) OR
+	(
+		water* AND access AND (
+			"the poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			poverty OR
+			rights OR
+			rural
+		)
+	) OR
+	(
+		wealth* AND (
+			disparit* OR
+			inequalit*
+		)
+	) OR
+	(
+		women AND (
+			"access to credit" OR
+			"economic independence" OR
+			( income* AND ratio* ) OR
+			landholding
+		)
+	) OR
+	micro-credit* OR
+	microcredit* OR
+	microlending OR
+	underbanked
+)
+AND NOT (
+	( clinical AND trial* ) OR
+	health AND NOT (
+		( healthcare AND educat* ) OR
+		( health care AND educat* )
+	) OR
+	"energy poverty" OR
+	( ambulatory AND child* ) OR
+	( animal AND model* ) OR
+	( care AND facilit* ) OR
+	( cerebral AND palsy* ) OR
+	( heart AND damag* ) OR
+	( heart AND disease* ) OR
+	( mental AND illness* ) OR
+	( poor AND mental AND health ) OR
+	( randomised AND controlled AND trial* ) OR
+	( randomized AND controlled AND trial* ) OR
+	alcohol* OR
+	alzheimer OR
+	asthma* OR
+	cancer* OR
+	cardiac* OR
+	cardiovascul* OR
+	dementia OR
+	dental* OR
+	dentist* OR
+	diarrhea* OR
+	diarrhoea* OR
+	disease* OR
+	epidemiolog* OR
+	gas* OR
+	gene* OR
+	healthcare* OR
+	mice OR
+	mouse OR
+	oil* OR
+	patient*
+	rat OR
+	sepsis* OR
+	undernutrition* OR
+	vaccin* OR
+	AND NOT (
+		"the poor" OR
+		poverty
+	)
 )

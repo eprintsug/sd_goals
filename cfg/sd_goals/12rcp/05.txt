@@ -1,0 +1,90 @@
+"business and human rights" OR
+"climate change levy" OR
+"Global Reporting Initiative" OR
+"incentives for sustainability" OR
+"integrated reporting" OR
+"ISO 14001" OR
+"ISO 26000" OR
+"ISO14001" OR
+"ISO26000" OR
+"legitimacy theory" OR
+"organisational legitimacy" OR
+"organizational legitimacy" OR
+"people, planet, and profit" OR
+"social responsibility disclosure" OR
+"social value analysis" OR
+"sustainable public procurement" OR
+"triple bottom line" OR
+"triple-bottom-line" OR
+"triplebottomline" OR
+(
+	"corporate environmental" AND (
+		"behavior" OR
+		"behaviour" OR
+		"management" OR
+		"strategies" OR
+		"strategy"
+	)
+) OR
+(
+	"corporate social responsibility" AND (
+		"consumption" OR
+		"ecological" OR
+		environment* OR
+		production OR
+		sustainab* OR
+		sustainability
+	)
+) OR
+(
+	"CSR" AND "corporate" AND (
+		"consumption" OR
+		"ecological" OR
+		environment* OR
+		production OR
+		sustainab* OR
+		sustainability
+	)
+) OR
+(
+	(
+		"corporate citizenship" OR
+		"corporate responsibility" OR
+		"stakeholder engagement" OR
+		( company* AND behav* )
+	) AND (
+		"social" OR
+		"societal"
+		environment* OR
+		sustainab* OR
+	)
+) OR
+(
+	(
+		"green procurement" OR
+		"green public procurement" OR
+		"sustainable procurement" OR
+		"sustainable public procurement"
+	) AND ( policy OR policies )
+) OR
+( ( incentive OR corporate OR ( tax AND break*) ) AND sustainability* ) OR
+( corporate AND ( "social report" OR "climate change" OR "social performance" ) ) OR
+( CSR AND ( agenda OR report OR reporting ) ) OR
+(
+	environmental AND (
+		"management system" OR
+		disclosure OR
+		reporting OR
+		strategy
+	)
+) OR
+( social* AND responsibility* AND report* ) OR
+(
+	sustainability AND (
+		accounting OR
+		assurance OR
+		disclosure OR
+		incentive* OR
+		report*
+	)
+)

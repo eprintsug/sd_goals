@@ -1,0 +1,488 @@
+(
+	( ( access AND to ) AND ( ( higher AND education ) OR "university" OR "university education" ) ) OR
+	( Affordable AND ( education OR ( higher AND education ) ) ) OR
+	( ( barrier AND to ) AND "basic education" OR education ) OR
+	( ( Barrier-free OR Barrierfree ) AND education ) OR
+	"disabilities education improvement act" OR
+	( Early AND school AND leav* ) OR
+	(
+		education* AND (
+			exclusion OR
+			fees OR
+			( for AND free ) OR
+			inclusion OR
+			equal OR
+			equalit* OR
+			equit* OR
+			gratuit* OR
+			free OR
+			( free AND basic ) OR
+			inequalit* OR
+			inequit* OR
+			right* OR
+			enrollment OR
+			exclusion OR
+			exclusive OR
+			inclusion OR
+			marginalisation OR
+			marginalization equalit* OR
+			equit* OR
+			inequalit* OR
+			right*
+		)
+	) OR
+	( ( equalit* OR equit* OR Exclusion ) AND in AND education ) OR
+	( higher AND education AND access ) OR
+	( inclusion AND in AND education ) OR
+	(
+		inclusive AND (
+			education OR
+			pedagogy OR
+			school* OR
+			classroom* OR
+			( education* AND programme* )
+		)
+	) OR
+	( ( inequalit* OR inequiti* ) AND ( in AND education ) ) OR
+	( integrated* AND community* AND school* ) OR
+	( right AND to AND education ) OR
+	(
+		school AND (
+			accessibility OR
+			attendance OR
+			enrolment OR
+			fee OR
+			( for AND free )
+		)
+	) OR
+	( special AND ( education OR school* ) ) OR
+	( student* AND with* AND disabilit* ) OR
+	"Teaching disability" OR
+	( universal AND design AND for AND learning ) OR
+	(
+		( aboriginal AND learn* ) AND
+		school*
+	) OR
+	(
+		( disability* AND inclusion* ) AND
+		education*
+	) OR
+	(
+		education* AND (
+			aboriginal OR
+			ethnic* OR
+			migrant OR
+			refugee
+		) AND
+		( sociocultural AND learning )
+	) OR
+	(
+		education* AND
+		( Right AND to AND learn )
+	) OR
+	(
+		( educational AND environment ) AND
+		inclusion AND
+		school*
+	) OR
+	(
+		( educational AND gap ) AND (
+			( disabled AND people ) OR
+			migrant* OR
+			( people* AND with* AND disabilit* ) OR
+			refugee*
+		)
+	) OR
+	(
+		( educational* AND need* ) AND
+		inclusion
+	) OR
+	(
+		( educational AND ( policy OR policies ) ) AND (
+			access* OR
+			equality OR
+			equity OR
+			inclusion OR
+			inequalit*
+		)
+	) OR
+	(
+		( ( exclusion AND from ) AND school ) OR
+		(
+			school* AND (
+				exclusion OR
+				inclusion OR
+				( drop* AND out* ) OR
+				drop-out* OR
+				dropout*
+			)
+		) OR
+		school-attending OR
+		schoolattending
+	) OR
+	(
+		( flexible* AND learning* AND option* ) AND
+		inclusion
+	) OR
+	(
+		(
+			( full AND inclusion ) OR
+			( Permanent AND Exclusion )
+		) AND
+		school*
+	) OR
+	(
+		( immigrant* AND student* ) AND
+		school* AND (
+			inclusion OR
+			"support to"
+		)
+	) OR
+	(
+		inclusion AND
+		school* AND (
+			autism OR
+			autist*
+		)
+	) OR
+	(
+		inclusion AND (
+			( educational AND culture ) OR
+			( learning* AND disabilit* ) OR (
+				learning* difficult* AND
+				school*
+			)
+		)
+	) OR
+	(
+		inclusive AND
+		school AND
+		( teaching* AND strateg* )
+	) OR
+	(
+		( indigenous AND education ) AND
+		school
+	) OR
+	(
+		( higher* AND education ) AND
+		mother* AND
+		school AND
+		success
+	) OR
+	(
+		( mother AND tongue ) AND
+		( Newly* AND arrived* AND student* )
+	) OR
+	(
+		( public* AND ( policy OR policies ) ) AND (
+			( education* AND program* )
+		) AND (
+			indigenous OR
+			migrant* OR
+			refugee*
+		)
+	) OR
+	(
+		( school AND failure ) AND (
+			inclusion OR
+			integration
+		)
+	) OR
+	(
+		school* AND (
+			( equity AND issue ) OR (
+				ADHD AND inclusion
+			) OR (
+				inclusion AND (
+					migrant OR
+					( racial AND discrimination ) OR
+					refugee
+				)
+			) OR (
+				(
+					inclusion OR
+					inclusive
+				) AND ( social AND justice )
+			) OR (
+				( inclusion* AND initiative* )
+			) OR (
+				(
+					marginality OR
+					marginalised OR
+					marginalized
+				) AND inclusion
+			) OR (
+				segregated OR
+				segregation
+			) OR (
+				(
+					( academic AND success ) OR
+					( student AND achievement )
+				) AND (
+					disabillit* OR
+					ethnic* OR
+					gender OR
+					migrant OR
+					refugee
+				)
+			) OR (
+				(
+					discrimination OR
+					( systemic* AND barrier* )
+				) AND (
+					disabilit* OR
+					disabled OR
+					gender OR
+					migrant* OR
+					minorit* OR
+					refugee*
+				)
+			)
+		)
+	) OR
+	(
+		school* AND
+		student* AND
+		( work AND for AND inclusion )
+	) OR
+	(
+		Social AND
+		class AND
+		bias AND
+		school*
+	) OR
+	(
+		Social AND
+		inclusion AND
+		exclusion AND
+		school*
+	) OR
+	(
+		student* AND (
+			disabilit* OR
+			disabled
+		) AND
+		education* AND
+		inclusion
+	) OR
+	(
+		Teach* AND (
+			inclusive* AND ( approach* OR attitude* )
+		)
+	) OR
+	(
+		women AND (
+			underrepresent* OR
+			under-represent*
+		) AND (
+			( graduate* AND stud* ) OR
+			( higher* AND education ) OR
+			(
+				( post secondary OR post-secondary* ) AND
+				( education OR degree* )
+			) OR
+			( professional* AND degree* ) OR
+			( technical AND ( formation OR degree* ) ) OR
+			universit* OR
+			vocational
+		)
+	) OR
+	(
+		(
+			( ( access AND to ) AND ( education OR school ) ) OR
+			( education AND access )
+		) AND (
+			aboriginal OR
+			( disabled AND people ) OR
+			gender OR
+			migrant* OR
+			( people* AND with* AND disabilit* ) OR
+			refugee*
+		)
+	) OR
+	(
+		(
+			( african AND american ) OR
+			latino OR
+			minorit*
+		) AND (
+			underrepresent* OR
+			under-represent*
+		) AND (
+			( graduate* AND stud* ) OR
+			( higher* AND education ) OR
+			( professional* AND degree* ) OR
+			( technical AND ( degree* OR formation ) )
+		)
+	) OR
+	(
+		(
+			( classroom AND environment ) OR
+			school*
+		) AND (
+			( need* AND of AND student* ) OR
+			( ( student* OR special* ) AND need* )
+		)
+	) OR
+	(
+		(
+			disabilit* OR
+			Disable*
+		) AND (
+			( educational* AND need* ) OR
+			( pedagogical* AND environment* )
+		)
+	) OR
+	(
+		(
+			( school AND distance )
+		) AND (
+			attendance OR
+			rural
+		)
+	) OR
+	(
+		(
+			drop-out* OR
+			( drop* AND out* ) OR
+			dropout*
+		) AND
+		prevention AND
+		school*
+	) OR
+	(
+		(
+			 elearning OR
+			 e-learning OR
+			 ( online AND learning )
+		) AND (
+			disadvantaged OR
+			disabilit* OR
+			( disabled* AND child* )
+		)
+	) OR
+	(
+		(
+			( educational* AND framework* ) OR
+			( educational* AND setting* )
+		) AND
+		( school AND (
+			disabilit* OR
+			( disabled* AND child* ) OR
+			disadvantaged )
+		)
+	) OR
+	(
+		(
+			discrimination OR
+			equable OR
+			equitability OR
+			equitable OR
+			equity
+		) AND (
+			access AND education
+		)
+	) OR
+	(
+		(
+			exclusion OR
+			exclusive OR
+			inclusion OR
+			inclusive
+		) AND
+		( educational* AND system* ) AND (
+			aboriginal OR
+			ADHD OR
+			disabilit* OR
+			disabled OR
+			discrimination OR
+			EBD OR
+			gender OR
+			indigenous OR
+			migrant* OR
+			minorit* OR
+			multicultural* OR
+			needs OR
+			racism OR
+			refugee*
+		)
+	) OR
+	(
+		(
+			exclusion OR
+			inclusion
+		) AND
+		( school* AND (
+			bisexual OR
+			disabilit* OR
+			( disabled* AND child* ) OR
+			disadvantaged OR
+			gay OR
+			indigenous OR
+			lesbian
+			)
+		)
+	) OR
+	(
+		(
+			school* OR
+			Teach*
+		) AND
+		( integration* AND barrier* )
+	)
+) AND NOT (
+	(
+		( clinical AND trial* ) OR (
+			alcohol* OR
+			alzheimer OR
+			( ambulatory AND child* ) OR
+			( animal AND model* ) OR
+			asthma* OR
+			cancer* OR
+			cardiac* OR
+			cardiovascul* OR
+			( care AND facilit* ) OR
+			( cerebral AND palsy* ) OR
+			dementia OR
+			dental* OR
+			dentist* OR
+			diarrhea* OR
+			disease* OR
+			( energy AND poverty ) OR
+			epidemiolog* OR
+			gas* OR
+			gene OR
+			genetic* OR
+			health AND NOT (
+				( healthcare AND educat* ) OR
+				( health care AND educat* )
+			) OR
+			healthcare* OR
+			( heart AND damag* ) OR
+			( heart AND disease* ) OR
+			( mental AND illness* ) OR
+			mice OR
+			mouse OR
+			oil* OR
+			patient* OR
+			( poor AND mental AND health ) OR
+			( ( randomised OR randomized ) AND controlled AND trial* ) OR
+			sepsis* OR
+			undernutrition* OR
+			vaccin*
+		) AND NOT (
+			learning* OR
+			skill* OR
+			student* OR
+			teaching* OR
+			trainee* OR
+			training* OR
+			(
+				education* AND
+				inequal*
+			)
+		)
+	) OR
+	pelagic OR
+	tobacco OR
+)

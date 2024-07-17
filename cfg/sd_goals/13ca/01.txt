@@ -1,0 +1,155 @@
+(
+	"carbon mitigation" OR
+	"mitigating carbon" OR
+	"zero-emission" OR
+	"zeroemission" OR
+	(
+		"methane" AND (
+			"global warming" OR
+			( climate AND chang* ) OR
+			( emission AND (
+					"agro" OR
+					"pollution" OR
+					agricultur* OR
+					livestock OR
+					rice
+				)
+			)
+			( environmental AND impact ) OR
+			( impact AND environment ) OR
+		)
+	) OR
+	( "reforestation" AND ( mitigation OR ( climate AND chang* ) ) ) OR
+	(
+		"Urban forestry" AND (
+			"global warming" OR
+			"pollution" OR
+			( environmental AND impact ) OR
+			Climate
+		)
+	) OR
+	(
+		( agricultur* OR industrial OR industry ) AND (
+			( "carbon dioxide" AND emission ) OR
+			( "CO 2" AND emission ) OR
+			( "CO2" AND emission ) OR
+			( "GHG" AND emission ) OR
+			( green AND gas AND emission ) OR
+			( green AND house AND gas AND emission ) OR
+			( greenhouse AND gas AND emission )
+		)
+	) OR
+	(
+		( "carbon dioxide" OR "CO2" OR "CO 2" ) AND (
+			"global warming" OR
+			( climate AND chang* ) OR
+			( environmental AND impact ) OR
+			emission
+		)
+	) OR
+	(
+		(
+			"carbon dioxide" OR
+			"CO 2" OR
+			"CO2" OR
+			"fossil fuel" OR
+			"fossil fuels" OR
+			"methane"
+		) AND ( emission AND mitigation )
+	) OR
+	(
+		(
+			"chloro-fluoro-carbon" OR
+			"chloro-fluoro-carbons" OR
+			"chloro-fluorocarbon" OR
+			"chloro-fluorocarbons" OR
+			"chlorofluoro-carbon" OR
+			"chlorofluoro-carbons" OR
+			"chlorofluorocarbon" OR
+			"chlorofluorocarbons"
+		) AND ( ( climate AND chang* ) OR "global warming" OR ( environmental AND impact ) )
+	) OR
+	(
+		( "fossil fuels" OR "fossil fuel" ) AND (
+			"global warming" OR
+			( climate AND chang* ) OR
+			( environmental AND impact ) OR
+			emission
+		)
+	) OR
+	(
+		( "GHG" OR "GHGs" ) AND (
+			"global warming" OR
+			( climate AND chang* ) OR
+			( environmental AND impact ) OR
+			emission OR
+			mitigation
+		)
+	) OR
+	(
+		(
+			"green gas" OR
+			"green gases" OR
+			"green house gas" OR
+			"green house gases" OR
+			"greenhouse gas" OR
+			"greenhouse gases" OR
+			"greenhousegas" OR
+			"greenhousegases"
+		) AND (
+			"global warming" OR
+			( climate AND chang* ) OR
+			emission OR
+			mitigation
+		)
+	) OR
+	(
+		(
+			"carbon dioxide" OR
+			"CO 2" OR
+			"CO2" OR
+			"green gas" OR
+			"green gases" OR
+			"green house gas" OR
+			"green house gases" OR
+			"greenhouse gas" OR
+			"greenhouse gases" OR
+			"greenhousegas" OR
+			"greenhousegases"
+		) AND ( environment AND impact)
+	) OR
+	(
+		decreas* AND (
+			"GHG" OR
+			"GHGs" OR
+			"green gas" OR
+			"green gases" OR
+			"green house gas" OR
+			"green house gases" OR
+			"greenhouse gas" OR
+			"greenhouse gases" OR
+			"greenhousegas" OR
+			"greenhousegases"
+		)
+	) OR
+	(
+		reduc* AND (
+			"GHG" OR
+			"GHGs" OR
+			"green gas" OR
+			"green gases" OR
+			"green house gas" OR
+			"green house gases" OR
+			"greenhouse gas" OR
+			"greenhouse gases" OR
+			"greenhousegas" OR
+			"greenhousegases" OR
+			( CH4 AND emission ) OR
+			( methane AND emission )
+		)
+	) OR
+) AND NOT (
+	( Triassic AND climate ) OR
+	( paleoclimat* AND NOT anthropogen* ) OR
+	( Prehistoric AND climate )
+)

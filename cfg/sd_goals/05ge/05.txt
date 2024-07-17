@@ -1,0 +1,207 @@
+(
+	"fertility awareness" OR
+	"healthy sexuality" OR
+	"HIV education" OR
+	"hiv-infected pregnant women" OR
+	"hivinfected pregnant women" OR
+	"mtct" OR
+	"Pmtct" OR
+	"sex and relationship education" OR
+	"sexual and reproductive health" OR
+	"sexual health" OR
+	"STDs education" OR
+	"Teaching sexuality" OR
+	( abortion* AND right* ) OR
+	( access AND ( condom OR contracepti* ) ) OR
+	( AIDS AND education ) OR
+	( arranged* AND marriage* ) OR
+	( barrier* AND to AND condom AND us* ) OR
+	( child* AND marriage* ) OR
+	( condom* AND ( use OR usage OR availabilit* ) ) OR
+	( contracept* AND ( educat* OR decision* ) ) OR
+	( early AND sex* AND initiation ) OR
+	( female* AND circumcision* ) OR
+	( forced* AND marriage* ) OR
+	( mother-to-child AND HIV AND transmission ) OR
+	( mother-to-child AND transmission* ) OR
+	( mothertochild AND HIV AND transmission ) OR
+	( mothertochild AND transmission* ) OR
+	( prevention AND mother-to-child AND transmission ) OR
+	( prevention AND mothertochild AND transmission ) OR
+	( reproductive* AND right* ) OR
+	( Right* AND contracept* ) OR
+	( sex* AND education ) OR
+	( Unintended* AND pregnanc* ) OR
+	AIDS-prevention OR
+	AIDSprevention OR
+	hyper-sexual* OR
+	hypersexual* OR
+	(
+		abortion AND ( women* AND right* )
+	) OR
+	(
+		access AND (
+			( family* AND planning* AND service ) OR
+			( reproductive AND (
+					education OR
+					information OR
+					( health* AND care* ) OR
+					healthcare*
+				)
+			) OR
+			( sex* AND (
+				education OR
+				information OR
+				healthcare* OR
+				( health* AND care* )
+				)
+			)
+		)
+	) OR
+	(
+		"birth control" AND (
+			 access OR
+			 education OR
+			 ( right* AND to )
+		)
+	) OR
+	(
+		( Contraceptive* AND use ) AND
+		(
+			education* OR
+			information OR
+			Teenager*
+		)
+	) OR
+	(
+		education* AND
+		( early AND sexual AND intercourse )
+	) OR
+	(
+		( Emergency AND contracepti* ) AND
+		(
+			risk AND ( habit* OR behavior* OR behaviour* )
+		) AND
+		education
+	) OR
+	(
+		"Family planning" AND (
+			education OR
+			"multiparous women" OR
+			preventing OR
+			prevention OR
+			transmission
+		)
+	) OR
+	(
+		"Menstrual hygiene" AND
+		program* AND
+		( reproducti* AND health )
+	) OR
+	(
+		( reproducti* AND health ) AND
+		(
+			education OR
+			service OR
+			violence
+		)
+	) OR
+	(
+		( sexual* AND risk ) AND
+		(
+			behav* OR
+			education OR
+			prevention
+		)
+	) OR
+	(
+		(
+			( divorce AND right* ) OR
+			( reproducti* AND ( right* OR choice* OR decision* ) ) OR
+			( sex* AND right* )
+		) AND (
+			girl* OR
+			female OR
+			woman OR
+			women
+		)
+	) OR
+	(
+		(
+			education OR
+			prevention OR
+			transmission
+		) AND
+		(
+			"HIV" OR
+			( Sex* AND transmi* AND disease* ) OR
+			"STD" OR
+			"STDs"
+		)
+	) OR
+	(
+		(
+			genital* AND ( cutting* OR mutilation* )
+		) AND
+		(
+			child* OR
+			girl* OR
+			female OR
+			woman OR
+			women
+		)
+	) OR
+	(
+		(
+			"pregnant women" OR
+			( risk AND behavior* )
+		) AND
+		(
+			"STDs" OR
+			( Sex* AND transmi* AND disease* )
+		)
+	) OR
+	(
+		(
+			"pre-exposure prophylaxis" OR
+			"preexposure prophylaxis"
+		) AND
+		(
+			( Sex* AND transmi* AND disease* ) OR
+			"STDs"
+		)
+	) OR
+	(
+		(
+			( Sexual* AND function* ) OR
+			sexuality
+		) AND
+		postpartum
+	) OR
+	(
+		(
+			(
+				own OR
+				informed
+			) AND
+			decision
+		) AND (
+			abortion OR
+			contracepti* OR
+			"family planning" OR
+			( parenting* AND plan* ) OR
+			reproducti* OR
+			sexual
+		)
+	)
+) AND NOT (
+	alzheimer OR
+	Atherosclerosis OR
+	( callosal AND tissue ) OR
+	"Cardiovascular Health" OR
+	( childless* AND marriage* ) OR
+	"medical education" OR
+	( Parkinson* AND disease ) OR
+	( pregnant AND baboon ) OR
+	( televised AND sport )
+)

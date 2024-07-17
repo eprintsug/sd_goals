@@ -1,0 +1,108 @@
+(
+	(
+		( action AND plan* ) OR
+		( ( decision OR policy ) AND mak* ) OR
+		accountability OR
+		decisionmak* OR
+		policies OR
+		policy OR
+		policymak* OR
+		regulation
+	)
+	OR (
+		framework
+		AND (
+			countr* OR
+			federal OR
+			government OR
+			international OR
+			legal OR
+			nation OR
+			public OR
+			state
+		)
+	)
+)
+AND (
+	(
+		"Agenda 2030" OR
+		"Agenda2030" OR
+		"UNFCCC" OR
+		( millenium AND development AND goal* ) OR
+		(
+			sustainable AND (
+				development OR
+				engineering OR
+				forestry OR
+				solution OR
+				transport
+			)
+		) OR
+		SDG* OR
+	)
+	OR (
+		(
+			sustainability OR
+			sustainab*
+		)
+		AND (
+			"energy performance" OR
+			"forest land" OR
+			"forestry" OR
+			"GHG" OR
+			"greenhouse gas" OR
+			"urban planning" OR
+			(
+				(
+					( carbon AND dioxide ) OR
+					carbon OR
+					CO-2 OR
+					CO2 OR
+					reduced OR
+					reducing
+				) AND emission
+			) OR
+			( ( forest OR waste ) AND management ) OR
+			( ( natural OR renewable ) AND resource* ) OR
+			( clean AND development AND mechanism* ) OR
+			( continous AND cover AND forest* ) OR
+			( ethical AND consumption ) OR
+			( food AND system* ) OR
+			(
+				green AND (
+					( development AND mechanism* ) OR
+					building OR
+					cities OR
+					city OR
+					energ* OR
+					engineering OR
+					technolog*
+				)
+			) OR
+			( land AND ( consumption OR management OR use ) ) OR
+			( Renewable AND ( Energy OR energies ) ) OR
+			agricultur* OR
+			bio-energ* OR
+			bioenerg* OR
+			deforestation OR
+			desalination OR
+			ecosystem* OR
+			environment* OR
+			governance OR
+			innovation* OR
+			pollutant* OR
+			pollution OR
+			resilien* OR
+			transportation OR
+			urbanisation OR
+			urbanization
+		)
+	)
+	AND NOT (
+		"artificial regulation" OR
+		"auto-bidding" OR
+		"cheat" OR
+		"cheating" OR
+		"intellectual capital"
+	)
+)

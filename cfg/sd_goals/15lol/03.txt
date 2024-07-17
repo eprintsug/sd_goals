@@ -1,0 +1,48 @@
+"anti-desertification" OR
+"antidesertification" OR
+(
+	"desert" AND (
+		"sustainable land" OR
+		"overgrazing" OR
+		"vegetation restoration" AND (
+			"agro forest" OR
+			"agro forestry" OR
+			"agroforest" OR
+			"agroforestry"
+		)
+	)
+) OR
+( ( land* AND cover* AND change* ) AND ( "desert" OR "deserts" OR "desertification" ) ) OR
+(
+	desertification AND (
+		"aeolian" OR
+		"assessment of" OR
+		"assessment" OR
+		"causes of" OR
+		"combat" OR
+		"combating" OR
+		"control" OR
+		"controlling" OR
+		"degradation and" OR
+		"ecological restoration" OR
+		"hazard" OR
+		"indicator of" OR
+		"indicators of" OR
+		"land degradation" OR
+		"land management" OR
+		"lead to" OR
+		"led to" OR
+		"mitigation" OR
+		"monitoring" OR
+		"prevention" OR
+		"process" OR
+		"processes" OR
+		"reversion" OR
+		"risk of" OR
+		"risk" OR
+		"sandy" OR
+		"unccd" OR
+		"vegetation degradation" OR
+		land
+	)
+)

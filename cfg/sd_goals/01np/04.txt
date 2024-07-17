@@ -1,0 +1,584 @@
+(
+	"adequate social welfare" OR
+	"afdc" OR
+	"Aid to Families with Dependent Children" OR
+	"DC pension" OR
+	"defined contribution pension" OR
+	"defined-contribution pension" OR
+	"definedcontribution pension" OR
+	"disabled people" OR
+	"funded pension" OR
+	"government spending on social protection" OR
+	"health care for the poor" OR
+	"income insurance" OR
+	"income protection" OR
+	"low income people" OR
+	"medicaid for the poor" OR
+	"pay-as-you-go pension" OR
+	"payasyougo pension" OR
+	"payg" OR
+	"pension plan" OR
+	"pension reform" OR
+	"pension system" OR
+	"Personal Responsibility and Work Opportunity Reconciliation Act" OR
+	"private pension" OR
+	"prwora" OR
+	"public pension" OR
+	"retirement pension" OR
+	"social allowance" OR
+	"social assistance for the poor" OR
+	"social assistance" OR
+	"social care service" OR
+	"social investment" OR
+	"social policies for the poor" OR
+	"social programs for the poor" OR
+	"social protection" OR
+	"social safeguard" OR
+	"social safety" OR
+	"social security retirement" OR
+	"tanf" OR
+	"temporary assistance for needy families" OR
+	"temporary assistance to needy families" OR
+	"uninsurance rates" OR
+	"welfare program" OR
+	"welfare reform" OR
+	"welfare to work" OR
+	( poor* AND famil* ) OR
+	( poor* AND people ) OR
+	( social* AND program* ) OR
+	disabilit* OR
+	policies OR
+	policy OR
+	poverty AND
+	vulnerabilit* OR
+	vulnerable OR
+	welfare OR
+	welfare-to-work OR
+	welfaretowork OR
+	workfare OR
+	(
+		"dental care" AND ( access OR program ) AND (
+			"low income" OR
+			"rural poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			equitable OR
+			marginalisation OR
+			marginalization OR
+			poverty
+		)
+	) OR
+	(
+		"economic marginalisation" AND (
+			income OR
+			poverty
+		)
+	) OR
+	(
+		"economic marginalization" AND (
+			income OR
+			poverty
+		)
+	) OR
+	(
+		"economic stress" AND (
+			social* AND (
+				( policy OR policies ) OR
+				program*
+			)
+		)
+	) OR
+	(
+		"health care reform" AND
+		poverty
+	) OR
+	(
+		"health care" AND
+		"universal coverage"
+	) OR
+	(
+		"health care" AND
+		(
+			access OR
+			program
+		) AND (
+			"low income" OR
+			"rural poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			equitable OR
+			marginalisation OR
+			marginalization OR
+			poverty OR
+		)
+	) OR
+	(
+		"health insurance" AND (
+			"low income" OR
+			"rural poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			equitable OR
+			marginalisation OR
+			marginalization OR
+			poverty
+		)
+	) OR
+	(
+		medicaid AND
+		poverty
+	) OR
+	(
+		"public assistance" AND (
+			"economic status" OR
+			"low income" OR
+			"old people" OR
+			"older people" OR
+			"social security" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			aboriginal OR
+			migrant OR
+			poverty OR
+			uninsured
+		)
+	) OR
+	(
+		economic AND
+		retrenchment
+	) OR
+	(
+		"safety net" AND (
+			poor OR
+			vulnerable
+		)
+	) OR
+	(
+		"social care" AND
+		poverty
+	) OR
+	(
+		"social exclusion" AND
+		policy
+	) OR
+	(
+		"social insurance" AND (
+			"low income" OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			poverty
+		)
+	) OR
+	(
+		"social security" AND (
+			"low income" OR
+			( developing* AND countr* ) OR
+			( old* AND people ) OR
+			( poor* AND famil* ) OR
+			( poor* AND household* ) OR
+			( poor* AND people ) OR
+			aboriginal OR
+			aboriginal OR
+			Africa OR
+			african OR
+			Asia OR
+			Asian OR
+			India OR
+			indigenous OR
+			insurance OR
+			Korea OR
+			migrant OR
+			minorities OR
+			Nepal OR
+			policies OR
+			policy OR
+			uninsured
+		)
+	) OR
+	(
+		"social welfare" AND (
+			"low income" OR
+			"old people" OR
+			"older people" OR
+			"social security" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			aboriginal OR
+			Africa OR
+			Asia OR
+			India OR
+			insurance OR
+			Korea OR
+			migrant OR
+			Nepal OR
+			policies OR
+			policy OR
+			poverty OR
+			uninsured
+		)
+	) OR
+	(
+		uninsured AND (
+			"low income" OR
+			poverty
+		)
+	) OR
+	(
+		"universal coverage" AND (
+			( social* AND (
+					( policy OR policies ) OR
+					assistance* OR
+					program*
+				)
+			) OR
+			employment
+		)
+	) OR
+	(
+		welfare AND (
+			"economic status" OR
+			"income poverty" OR
+			"old people" OR
+			"older people" OR
+			"social justice" OR
+			( economic* AND inequalit* ) OR
+			( economic* AND inequit* ) OR
+			( social* AND right* ) OR
+			employment OR
+			migrant OR
+			minorities OR
+			poverty OR
+			unemployment
+		)
+	) OR
+	(
+		(
+			"health insurance" OR
+			"health security"
+		) AND (
+			"social security" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			"low income" OR
+			policies
+			policy OR
+			poverty OR
+			uninsured
+		)
+	) OR
+	(
+		(
+			homeless OR
+			homelessness OR
+			jobless
+		) AND (
+			"public assistance" OR
+			"social assistance" OR
+			( social* AND (
+					( policy OR policies ) OR
+					program* OR
+					right*
+				)
+			) OR
+			employment OR
+			welfare
+		)
+	) OR
+	(
+		(
+			"native people" OR
+			"native women"
+		) AND
+		"access" AND (
+			medical* AND
+			service
+		)
+	) OR
+	(
+		(
+			"native people" OR
+			"native women"
+		) AND (
+			"public assistance" OR
+			"social assistance" OR
+			poverty
+		)
+	) OR
+	(
+		(
+			"old-age pension" OR
+			"oldage pension"
+		) AND (
+			"low income" OR
+			"social security" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			policies OR
+			policy OR
+			poverty OR
+			uninsured
+		)
+	) OR
+	(
+		(
+			"public assistance" OR
+			"social assistance"
+		) AND poverty
+	) OR
+	(
+		(
+			"safety net" OR
+			safety-net OR
+			safetynet
+		) AND (
+			"low income" OR
+			"social security" OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			insurance OR
+			poverty OR
+			uninsured
+		)
+	) OR
+	(
+		(
+			"working poor" OR
+			"working poverty"
+		) AND (
+			(
+			government* AND plan*
+			) OR
+			( policy OR policies ) OR
+			insurance OR
+			program* OR
+			welfare OR
+		)
+	) OR
+	(
+		(
+			"working low income" OR
+			"working lowincome" OR
+			"working-low income" OR
+			"workinglow income"
+		) AND (
+			( social* AND (
+					( policy OR policies ) OR
+					program*
+				)
+			) OR
+			insurance
+		)
+	) OR
+	(
+		( aid* AND to AND famil* ) AND (
+			( poor* AND ( 
+					famil* OR
+					income OR
+					household* OR
+					people 
+				) 
+			) OR
+			poverty OR
+		)
+	) OR
+	(
+		( employment OR unemployment ) AND (
+			( social* AND (
+					( policy OR policies ) OR
+					assistance OR
+					program*
+				)
+			) OR
+		)
+	) OR
+	(
+		( 
+			Family* AND (
+				policies OR
+				policy
+			) 
+		) AND (
+			"low income" OR
+			"low income" OR
+			"old people" OR
+			"older people" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			aboriginal OR
+			Africa OR
+			african OR
+			Asia OR
+			Asian OR
+			India OR
+			indigenous OR
+			insurance OR
+			Korea OR
+			migrant OR
+			minorities OR
+			Nepal OR
+			policies OR
+			policy OR
+			uninsured
+		)
+	) OR
+	(
+		( poverty* AND intervention* ) AND (
+			"public assistance" OR
+			"social assistance" OR
+			( social* AND (
+					( policy OR policies ) OR
+					program* OR
+					right*
+				)
+			) OR
+			employment OR
+			welfare
+		)
+	)
+	(
+		( social* AND ( policy OR policies ) ) AND (
+			"low income" OR
+			"older people" OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			equality OR
+			equity OR
+			gender OR
+			income OR
+			inequalit* OR
+			marginalis* OR
+			marginaliz* OR
+			poverty OR
+			welfare
+		)
+	) OR
+	( ( social* AND service ) AND poverty ) OR
+	(
+		( welfare AND state ) AND (
+			"low income" OR
+			low-income OR
+			lowincome OR
+			poorest OR
+			poverty
+		)
+	) OR
+	(
+		( welfare* AND ( policy OR policies ) ) AND (
+			"low income" OR
+			( poor* AND people ) OR
+			"rural poor" OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* 
+				) 
+			) OR
+			equitable OR
+			marginalisation OR
+			marginalization OR
+			poverty
+		)
+	) OR
+	( disability* AND ( policy OR policies ) ) OR
+	(
+		unemployment AND (
+			"low income" OR
+			"old people" OR
+			"older people" OR
+			( social* AND (
+					( policy OR policies ) OR
+					security
+				)
+			) OR
+			( developing* AND countr* ) OR
+			( poor* AND ( 
+					famil* OR
+					household* OR
+					people 
+				) 
+			) OR
+			aboriginal OR
+			Africa OR
+			insurance OR
+			poverty OR
+			uninsured
+		)
+	) OR
+	( welfare* AND allowance* ) OR
+)
+AND NOT(
+	diagnosis OR
+	"family planning" OR
+	fertility OR
+	"game theoric" OR
+	"game theory" OR
+	"network welfare" OR
+	"network-welfare" OR
+	"networkwelfare" OR
+	( parental AND leave ) OR
+	"power flow control" OR
+	"real estate" OR
+	"road safety" OR
+	ventures OR
+	( schizophrenia AND treatment )
+	( diabetic* AND patient* ) OR
+	( economic* AND vot* ) OR
+	( electric* AND vehicle* ) OR
+	( gender* AND relation ) OR
+	( karma* AND value* ) OR
+	( motorway AND interchange ) OR
+	( multilateral* AND trading* ) OR
+	( passing* AND intersection* )
+)

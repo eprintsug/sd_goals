@@ -1,0 +1,661 @@
+(
+	"automobile electrification" OR
+	"automotive batteries" OR
+	"automotive battery" OR
+	"automotive electrification" OR
+	"bullet train electrification" OR
+	"bullettrain electrification" OR
+	"bus electrification" OR
+	"CHAdeMO" OR
+	"drive train electrification" OR
+	"drivetrain electrification" OR
+	"electrified transportation" OR
+	"electro-mobility" OR
+	"electromobility" OR
+	"fchev" OR
+	"fchevs" OR
+	"flux-switching permanent magnet" OR
+	"g2v" OR
+	"grid-to-vehicle" OR
+	"pev charging" OR
+	"pevs charging" OR
+	"phev" OR
+	"phevs" OR
+	"power train electrification" OR
+	"powertrain electrification" OR
+	"railway electrification" OR
+	"series hev" OR
+	"series hevs" OR
+	"train electrification" OR
+	"transport electrification" OR
+	"transportation electrification" OR
+	"v2g" OR
+	"v2h" OR
+	"vehicle-to-grid" OR
+	"vehicle-to-home" OR
+	"vehicular electrification" OR
+	( "e-mobility" AND NOT ( "i.e., mobility" ) ) OR
+	(
+		"hybrid" AND "electric" AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle*
+		)
+	) OR
+	(
+		"hydrogen" AND "electric" AND "hybrid" AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			engine* OR
+			fleet* OR
+			ship OR
+			train OR
+			truck OR
+			vehicle*
+		)
+	) OR
+	(
+		"solar AND (
+			aircraft* OR
+			boat* OR
+			bus OR
+			car OR
+			"planes" OR
+			vehicle*
+		)
+	) OR
+	(
+		"vehicle AND (
+			"charging" OR
+			"electrification" OR
+			"grid integration" OR
+			"photovoltaic" OR
+			( charging AND point* ) OR
+			( charging AND spot* ) OR
+			( charging AND station* ) OR
+			( double-layer AND capacitor* ) OR
+			supercapacitor* OR
+			ultracapacitor*
+		)
+	) OR
+	(
+		( "hev" OR "hevs" ) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			batter* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			engine* OR
+			fleet* OR
+			locomotive* OR
+			motor* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			system* OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		( ( charging AND infrastructure* ) OR ( recharging AND infrastructure* ) ) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			automobile* OR
+			car OR
+			motorcycl* OR
+			scooter* OR
+			truck OR
+			vehicle*
+		)
+	) OR
+	(
+		( ( charging AND station* ) OR ( charging AND spot* ) OR ( charging AND point* ) ) AND (
+			"electric" OR
+			"electrical" OR
+			"hybrid" OR
+			"plug-in"
+		) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle*
+		)
+	) OR
+	(
+		(
+			( electric AND engine ) AND (
+				"public transport" OR
+				"transportation" OR
+				( charging AND infrastructure* ) OR
+				( charging AND point* ) OR
+				( charging AND station* ) OR
+				( city AND bus* ) OR
+				( drive AND train* ) OR
+				( passenger AND bus* ) OR
+				( power AND train* ) OR
+				( public AND bus* ) OR
+				( road AND transport* ) OR
+				aircraft* OR
+				airplane* OR
+				automobile* OR
+				boat OR
+				car OR
+				drivetrain* OR
+				fleet* OR
+				locomotive* OR
+				motorcycl* OR
+				powertrain* OR
+				railway* OR
+				scooter* OR
+				ship OR
+				train OR
+				tramway* OR
+				truck OR
+				vehicle*
+			)
+		) AND NOT ( ( electric AND engineer* ) )
+	) OR
+	(
+		( ( electric AND storage* ) OR "electric energy storage" ) AND (
+			"charging point" OR
+			"public transit" OR
+			"transportation" OR
+			( charging AND infrastructure* ) OR
+			( charging AND station* ) OR
+			( city AND bus* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			( public AND transport* ) OR
+			( road AND transport* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle*
+		)
+	) OR
+	(
+		( ( fuel AND cell ) OR fuelcell ) AND (
+			"plug-in" OR
+			"plugin" OR
+			"vehicle" OR
+			"vehicles"
+		)
+	) OR
+	( ( ( hybrid AND motor* ) OR ( hybrid AND engine* ) ) AND electric* ) OR
+	(
+		( ( recharging AND station* ) OR ( recharging AND spot* ) OR ( recharging AND point* ) ) AND (
+			"electric" OR
+			"electrical" OR
+			"hybrid" OR
+			"plug-in"
+		) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		( asynchronous AND motor* ) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		( electric AND motor* ) AND (
+			"public transport" OR
+			"transportation" OR
+			( charging AND infrastructure* ) OR
+			( charging AND point* ) OR
+			( charging AND station* ) OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			( road AND transport* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		( induction AND motor* ) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		(
+			micro OR
+			mild OR
+			parallel OR
+			power-assist OR
+			power-split
+		) AND ( "hev" OR "hevs" OR hybrid* )
+	) OR
+	(
+		(
+			permanent AND
+			magnet AND
+			synchronous AND
+			machine*
+		) AND (
+			"public transit" OR
+			"transportation" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		( permanent AND magnet AND synchronous AND motor* ) AND (
+			"public transit" OR
+			"transportation" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		( plug-in OR plugin ) AND (
+			"electric" OR
+			"hev" OR
+			"hevs" OR
+			hybrid* OR
+			vehicle*
+		)
+	) OR
+	(
+		( variable AND flux AND machine* ) AND (
+			"public transit" OR
+			"transportation" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck OR
+			vehicle* OR
+		)
+	) OR
+	(
+		batter* AND ( energy AND storage ) AND (
+			"public transit" OR
+			( city AND bus* ) OR
+			( drive AND car* ) OR
+			( drive AND train* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			boat* OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			ship* OR
+			train OR
+			train* OR
+			tramway* OR
+			truck OR
+			truck* OR
+			vehicle* OR
+			vehicle*
+		)
+	) OR
+	(
+		( battery AND power* ) AND (
+			"public transit" OR
+			( "electric" AND "hybrid" AND engine* ) OR
+			( city AND bus* ) OR
+			( drive AND car* ) OR
+			( passenger AND bus* ) OR
+			( public AND bus* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			boat* OR
+			car OR
+			car* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			ship* OR
+			train OR
+			train* OR
+			tramway* OR
+			truck OR
+			truck* OR
+			vehicle* OR
+		)
+	) OR
+	( battery-assisted AND hybrid* ) OR
+	( charging AND infrastructure* ) OR
+	( charging AND spot* ) OR
+	( charging AND station* ) OR
+	(
+		electri* AND (
+			"drive" OR
+			"mobility" OR
+			"propulsion" OR
+			"public mobility" OR
+			( charging AND infrastructure* ) OR
+			( charging AND point* ) OR
+			( charging AND spot* ) OR
+			( charging AND station* ) OR
+			( city AND bus* ) OR
+			( city AND car* ) OR
+			( drive AND car* ) OR
+			( drive AND train* ) OR
+			( drive AND vehicle* ) OR
+			( passenger AND bus* ) OR
+			( passenger AND car* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			( road AND vehicle* ) OR
+			( solar AND vehicle* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat* OR
+			bus OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			hybrid* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			propel* OR
+			railway* OR
+			scooter* OR
+			ship* OR
+			traction* OR
+			train* OR
+			tramway* OR
+			truck* OR
+			vehicle*
+		)
+	) OR
+	(
+		electrification AND (
+			"public transit" OR
+			"road transport" OR
+			"road transportion" OR
+			"transport" OR
+			"transportation" OR
+			"urban transport" OR
+			"vehicular" OR
+			( power AND train* ) OR
+			( public AND transport* ) OR
+			automobile* OR
+			bus* OR
+			car OR
+			powertrain* OR
+			railway* OR
+			train* OR
+			vehicl* OR
+		)
+	) OR
+	( electrified AND ( bus OR bus OR car OR car ) ) OR
+	( electro-hydrostatic AND actuator* ) OR
+	( electrohydrostatic AND actuator* ) OR
+	(
+		ev AND (
+			"batteries" OR
+			"battery" OR
+			"charging" OR
+			"engine" OR
+			"engines" OR
+			"motor" OR
+			"motors" OR
+			( charging AND point* ) OR
+			( charging AND spot* ) OR
+			( charging AND station* ) OR
+			charger*
+		)
+	) OR
+	( fspm AND machine* ) OR
+	(
+		hybrid AND (
+			"drive car" OR
+			"drive cars" OR
+			"electric" OR
+			"hydraulic" OR
+			"propulsion" OR
+			( city AND bus* ) OR
+			( drive AND train* ) OR
+			( drive AND vehicle* ) OR
+			( passenger AND bus* ) OR
+			( power AND train* ) OR
+			( public AND bus* ) OR
+			( road AND vehicle* ) OR
+			( solar AND vehicle* ) OR
+			aircraft* OR
+			airplane* OR
+			automobile* OR
+			boat OR
+			car OR
+			drivetrain* OR
+			fleet* OR
+			locomotive* OR
+			motorcycl* OR
+			powertrain* OR
+			railway* OR
+			scooter* OR
+			ship OR
+			train OR
+			tramway* OR
+			truck* OR
+			vehicle* OR
+		)
+	) OR
+	( series AND hybrid* )
+) AND NOT (
+microbiology* OR
+( ( "permanent magnet synchronous machine" OR "permanent magnet synchronous machines" ) AND transportation* ) OR
+( ( "permanent magnet synchronous motor" OR "permanent magnet synchronous motors" ) AND transportation* )
+)

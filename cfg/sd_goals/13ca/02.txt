@@ -1,0 +1,385 @@
+(
+	"Bali Action Plan" OR
+	"cap & trade" OR
+	"cap and trade" OR
+	"CDM project" OR
+	"clean development mechanism" OR
+	"clean development mechanisms" OR
+	"Convention on Climate Change" OR
+	"eu ets" OR
+	"feed-in tariff" OR
+	"feedin tariff" OR
+	"green gas" OR
+	"green house gas" OR
+	"green house gases" OR
+	"greenhouse gas" OR
+	"greenhouse gases" OR
+	"greenhouse policies" OR
+	"greenhouse policy" OR
+	"greenhousegas tax" OR
+	"greenhousegas taxes" OR
+	"greenhousegas" OR
+	"greenhousegases" OR
+	"GWPF" OR
+	"KYOTO protocol" OR
+	"KYOTOND Climate OR
+	"Panel on Climate Change" OR
+	"Paris Agreement" OR
+	"REDD plus" OR
+	"REDD+" OR
+	"reduced emission from deforestation" OR
+	"UNFCCC" OR
+	(
+		"carbon dioxide" AND (
+			"allowance" OR
+			"allowances" OR
+			"emission credit" OR
+			"emission credits" OR
+			"market" OR
+			"markets" OR
+			"spot price" OR
+			"spot prices" OR
+			"spot pricing" OR
+			"trade" OR
+			"trading"
+		)
+	) OR
+	(
+		"Climate Change" AND (
+			"Action Plan" OR
+			"action" OR
+			"Adaptation Strategy" OR
+			"agreement" OR
+			"Conference" OR
+			"Conferences" OR
+			"convention" OR
+			"Environmental law" OR
+			"Environmental laws" OT "policyholders" OR
+			"equity" OR
+			"finance" OR
+			"governance" OR
+			"international law" OR
+			"international laws" OR
+			"investment" OR
+			"justice" OR
+			"law" OR
+			"laws" OR
+			"legislation" OR
+			"legislations" OR
+			"policies" OR
+			"policy holder" OR
+			"policy holders" OR
+			"policy maker" OR
+			"policy makers" OR
+			"policy" OR
+			"policyholder" OR
+			"policymaker" OR
+			"policymakers" OR
+			"regulation" OR
+			"summit" OR
+			"target" OR
+			"targets" OR
+			"treaties" OR
+			"treaty" OR
+			financing OR
+			policies OR
+			policy OR
+			program
+		)
+	) OR
+	(
+		"CO 2" AND (
+			"allowance" OR
+			"allowances" OR
+			"certificate" OR
+			"credits" OR
+			"market" OR
+			"markets" OR
+			"price" OR
+			"prices" OR
+			"pricing" OR
+			"spot price" OR
+			"spot prices" OR
+			"spot pricing" OR
+			"tax" OR
+			"taxes" OR
+			"trade" OR
+			"trading" OR
+			credit
+		)
+	) OR
+	(
+		"global warming" AND (
+			"legislations" OR
+			"policy holder" OR
+			"policy holders" OR
+			"policy maker" OR
+			"policy makers" OR
+			"policyholder" OR
+			"policyholders" OR
+			"policymaker" OR
+			"policymakers" OR
+			education OR
+			forum OR
+			legislation OR
+			policies OR
+			policy
+		)
+	) OR
+	( "green gases" AND ( policy OR policies ) ) OR
+	( "Green transition" AND ( policy OR policies OR Climate ) ) OR
+	(
+		"greenhouse gas" AND (
+			"policies" OR
+			"policy" OR
+			"Reduction and management Act" OR
+			"tax" OR
+			"taxes"
+		)
+	) OR
+	(
+		"ipcc" AND (
+			"ar1" OR
+			"ar2" OR
+			"ar3" OR
+			"ar4" OR
+			"ar5" OR
+			"ar6" OR
+			"carbon" OR
+			"co 2" OR
+			"co2" OR
+			"GHG" OR
+			"GHGs" OR
+			"green house" OR
+			"greenhouse" OR
+			"scenario" OR
+			"scenarios" OR
+			"SRES" OR
+			Climate OR
+			emission
+		)
+	) OR
+	(
+		"Paris Agreement" AND (
+			"climate action" OR
+			"climate actions" OR
+			"climate change action" OR
+			"climate change actions" OR
+			"climate change strategies" OR
+			"climate change strategy" OR
+			"climate strategies" OR
+			"climate strategy"
+		)
+	) OR
+	( "Paris Agreement" AND ( policy OR policies OR "legal" OR law ) ) OR
+	( "renewable energy" AND ( "legislations" OR legislation OR policy OR policies ) ) OR
+	(
+		"carbon dioxide tax" OR
+		"carbon dioxide taxation" OR
+		"carbon dioxide taxes" OR
+		"carbon taxation" OR
+		"carbon taxes" OR
+		"CO 2 tax" OR
+		"CO 2 taxation" OR
+		"CO 2 taxes" OR
+		"tax" OR
+		"taxation" OR
+		"taxes" OR
+		( carbon AND tax )
+	) OR
+	(
+		(
+			"Carbon dioxide quota" OR
+			"Carbon quota" OR
+			"CO 2 quota" OR
+			"quota"
+		) AND (
+			"price" OR
+			Climate OR
+			market OR
+			policies OR
+			policy
+		)
+	) OR
+	(
+		(
+			"carbon" OR
+			"CO 2" OR
+			"CO2" OR
+			"GHG" OR
+			"green house" OR
+			"greenhouse"
+		) AND emission AND (
+			"earth summit" OR
+			"Rio 2012" OR
+			"Rio summit" OR
+			"Rio+20"
+		)
+	) OR
+	(
+		( "green gas" OR 	"green house gas" OR 	GHG 	) 	AND (
+			"allowance" OR
+			"allowances" OR
+			"credits" OR
+			"market" OR
+			"markets" OR
+			"price" OR
+			"prices" OR
+			"pricing" OR
+			"tax" OR
+			"taxes" OR
+			"trade" OR
+			"trading" OR
+			credit OR
+		)
+	) OR
+	(
+		( ( energy AND efficien* ) OR "modern energy" OR ( clean AND energy ) OR "green energy" ) AND (
+			( climate AND chang* ) OR
+			"climate protection" OR
+			"warming" OR
+			"greenhouse" OR
+			"green house gas" OR
+			"green house gases" OR
+			"GHG"
+		) AND ( policy OR policies OR "legislations" OR legislation )
+	) OR
+	( ( clean AND energy ) AND ( policy OR policies ) ) OR
+	(
+		( climate AND chang* ) AND (
+			"awareness" OR
+			"city planning" OR
+			"Environmental law" OR
+			"Environmental laws" OR
+			"international law" OR
+			"international laws" OR
+			"national strategies" OR
+			"national strategy" OR
+			"policy holder" OR
+			"policy holders" OR
+			"policy maker" OR
+			"policy makers" OR
+			"policyholder" OR
+			"policyholders" OR
+			"policymaker" OR
+			"policymakers" OR
+			"reform" OR
+			"reforms" OR
+			"urban planning" OR
+			( national* AND plan* ) OR
+			( water* AND manag* ) OR
+			education OR
+			policies OR
+			policy OR
+		)
+	) OR
+	( ( Climate OR "global warming" ) AND ( "earth summit" OR "Rio summit" OR "Rio+20" OR "Rio 2012" ) ) OR
+	(
+		carbon AND (
+			"allowance" OR
+			"allowances" OR
+			"certificate" OR
+			"certificates" OR
+			"pricing" OR
+			"spot price" OR
+			"spot prices" OR
+			"spot pricing" OR
+			credit OR
+			tax
+		)
+	) OR
+	( carbon AND dioxide AND ( trading OR credit OR pric* OR tax ) ) OR
+	(
+		climate AND (
+			"action" OR
+			"agreement" OR
+			"capitalism" OR
+			"Conference of the Parties" OR
+			"Conference" OR
+			"convention" OR
+			"COP 22" OR
+			"COP 23" OR
+			"COP 24" OR
+			"COP 25" OR
+			"COP22" OR
+			"COP23" OR
+			"COP24" OR
+			"COP25" OR
+			"equity" OR
+			"finance" OR
+			"Fund" OR
+			"governance" OR
+			"Hyogo Framework" OR
+			"investment" OR
+			"justice" OR
+			"legislation" OR
+			"legislations" OR
+			"policies" OR
+			"policy" OR
+			"security act" OR
+			"summit" OR
+			"tax" OR
+			"taxation" OR
+			"taxes" OR
+			"treaties" OR
+			"treaty" OR
+			financing
+		)
+	) OR
+	(
+		CO2 AND (
+			"allowance" OR
+			"allowances" OR
+			"certificate" OR
+			"market" OR
+			"markets" OR
+			"price" OR
+			"prices" OR
+			"pricing" OR
+			"spot price" OR
+			"spot prices" OR
+			"spot pricing" OR
+			"tax" OR
+			"taxes" OR
+			"trade" OR
+			"trading" OR
+			credit OR
+		)
+	) OR
+	(
+		emission AND (
+			"pricing" OR
+			"tax" OR
+			"taxation" OR
+			"taxes" OR
+			"trade" OR
+			"trading" OR
+			allowance OR
+			credit OR
+			market OR
+			price
+		)
+	) OR
+	( green AND ( certificate OR fund ) ) OR
+	(
+		( price OR pricing OR taxing OR tax OR taxes OR taxation ) AND (
+			"CO 2" OR
+			"CO2" OR
+			"emission" OR
+			"GHG" OR
+			"GHGs" OR
+			"green gas" OR
+			"green gases" OR
+			"green house gas" OR
+			"green house gases" OR
+			"green housegas" OR
+			"green housegases" OR
+			"greenhouse gas" OR
+			"greenhouse gases" OR
+		)
+	) OR
+) AND NOT (
+	( Triassic AND climate ) OR
+	( paleoclimat* AND NOT anthropogen* ) OR
+	( Prehistoric AND climate )
+)

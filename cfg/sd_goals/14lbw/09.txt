@@ -1,0 +1,58 @@
+(
+	( ( fishery OR fishing OR "fishing sector" ) AND subsid* ) AND (
+		"overfishing" OR
+		"unsustainable" OR
+		sustainable OR
+		sustainability
+	)
+) OR
+(
+	( fisheries AND subsid* ) AND (
+		"overfishing" OR
+		"unsustainable" OR
+		subsid* OR
+		sustainable OR
+		sustainability
+	)
+) OR
+( ( fishery OR fisheries ) AND ( anti-dump* OR antidump* OR ( ( Countervail* AND Measure* ) AND sustainab* ) ) ) OR
+(
+	( fishery OR fisheries ) AND ( subsid* OR subsid* ) AND (
+		"overfishing" OR
+		"unsustainable" OR
+		sustainability OR
+		sustainable
+	)
+) OR
+(
+	( fishery OR fisheries OR "fishing industry" ) AND ( subsid* OR subsid* ) AND (
+		( developing* AND countr* ) OR
+		( Least* AND developed* AND countr* ) OR
+		"SIDS" OR
+		( small* AND island* )
+	)
+) OR
+(
+	fisheries AND (
+		"minimum prices" OR
+		(
+			( government* AND incentive* ) AND (
+				sustainability OR
+				sustainable OR
+				"overfishing" OR
+				"unsustainable"
+			)
+		) OR
+		( ( harmful OR overcapacity ) AND subsid* ) OR
+		( subsid* AND negotiation ) OR
+		subsid* OR
+	)
+) OR
+(
+	fishery AND ( government* AND incentive* ) AND (
+		sustainability OR
+		sustainable OR
+		"overfishing" OR
+		"unsustainable"
+	)
+)

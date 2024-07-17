@@ -1,0 +1,136 @@
+"fsc certification" OR
+"natura 2000" OR
+"phyto remediation" OR
+"phytoextraction" OR
+"phytoremediation" OR
+"plant conservation" OR
+"recovery of vegetation" OR
+"selective logging" OR
+"soil and water conservation" OR
+"wildfire protection" OR
+( "wildlife" AND ( restoration OR sustainab* ) ) OR
+(
+	(
+		"biodiversity conservation" OR
+		"biodiversity protection" OR
+		"bioremediation" OR
+		"conservation ecosystem" OR
+		"ecological remediation" OR
+		"ecosystem assessment" OR
+		"ecosystem recovery" OR
+		"natural regeneration" OR
+		"nature conservation" OR
+		"nature restoration" OR
+		"phytostabilization" OR
+		"protection of ecosystem" OR
+		"revegetation" OR
+		( manag* AND protected AND area )
+	) AND NOT ( marine OR ocean OR sea )
+) OR
+(
+	(
+		"biological conservation" OR
+		"conservation of biodiversity" OR
+		"ecological restoration" OR
+		"ecosystem management" OR
+		"ecosystem restoration" OR
+		"environmental conservation" OR
+		"habitat management" OR
+		"island conservation" OR
+		"protected area management" OR
+		"wildlife management"
+	) AND NOT ( marine OR ocean )
+) OR
+(
+	(
+		"conservation of nature" OR
+		( "wildlife" AND conserv* ) OR
+		(
+			habitat AND (
+				conserv* OR
+				preservation OR
+				restoration OR
+				sustainab*
+			)
+		)
+	) AND NOT (
+		atlantic OR
+		marine OR
+		marine OR
+		ocean OR
+		ocean OR
+		pacific OR
+		sea OR
+	)
+) OR
+( ( land OR soil ) AND ( conserv* OR restoration ) ) OR
+(
+	dryland AND (
+		conserv* OR
+		preservation OR
+		restoration OR
+		sustainab*
+	)
+) OR
+( farmland AND ( "conservation" OR "preservation" OR "protection" ) ) OR
+(
+	forest* AND (
+		certification OR
+		conserv* OR
+		manag* OR
+		preservation OR
+		protection OR
+		recovery OR
+		regeneration OR
+		restoration OR
+		sustainab*
+	)
+) OR
+(
+	freshwater* AND (
+		conserv* OR
+		management OR
+		preservation OR
+		restoration OR
+		sustainab*
+	)
+) OR
+( groundwater* AND protection ) OR
+( lake AND ( "management" OR "restoration" ) ) OR
+( mountain AND ( "conservation" OR management* OR restoration* ) ) OR
+(
+	pond AND (
+		conserv* OR
+		preservation OR
+		restoration OR
+		sustainab*
+	)
+) OR
+(
+	rainforest* AND (
+		conserv* OR
+		management OR
+		preservation OR
+		restoration OR
+		restoration OR
+		sustainab*
+	)
+) OR
+(
+	river AND (
+		"conservation" OR
+		"management" OR
+		"regulation" OR
+		restoration
+	)
+) OR
+( sustainable AND ( "forestry" OR groundwater* OR land ) ) OR
+( vegetation AND ( recovery OR "restoration" ) ) OR
+(
+	wetland AND (
+		"conservation" OR
+		"wetland management" OR
+		"wetland protection" OR
+		"wetland restoration"
+	)
+)

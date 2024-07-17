@@ -1,0 +1,83 @@
+(
+	( access AND to ) AND (
+		care OR
+		( essential AND medicine ) OR
+		( health AND service ) OR
+		( health AND treatment ) OR
+		health-care OR
+		healthcare OR
+		( medical AND care ) OR
+		( medical AND service ) OR
+		( medical AND treatment ) OR
+		medicine OR
+		( mental AND health AND service ) OR
+		( mental AND health AND treatment ) OR
+		( mental AND health-care ) OR
+		( mental AND healthcare ) OR
+		( primary AND care ) OR
+		( primary AND health AND service ) OR
+		( primary AND health-care ) OR
+		( primary AND healthcare ) OR
+		vaccines
+	)
+) OR
+(
+	( accessibility AND to ) AND (
+		( health AND service ) OR
+		health-care OR
+		healthcare OR
+		( mental AND health AND service ) OR
+		( mental AND health-care ) OR
+		( mental AND healthcare )
+	)
+) OR
+(
+	accessing AND (
+		( health AND service ) OR
+		health-care OR
+		healthcare OR
+		( mental AND health AND service ) OR
+		( mental AND health AND treatment ) OR
+		( mental AND health-care ) OR
+		( mental AND healthcare )
+	)
+) OR
+"affordability of medicine" OR
+"affordable care act" OR
+( affordable AND ( drug OR medicine ) ) OR
+(
+	( barrier AND to ) AND (
+		( health AND service ) OR
+		health-care OR
+		healthcare OR
+		( medical AND care ) OR
+		( medical AND treatment ) OR
+		( mental AND health AND service ) OR
+		( mental AND health AND treatment ) OR
+		( mental AND health-care ) OR
+		( mental AND healthcare ) OR
+		( primary AND care ) OR
+		( primary AND health-care ) OR
+		( primary AND healthcare )
+	)
+) OR
+( health AND ( service OR treatment ) AND access* ) OR
+( ( health-care OR healthcare ) AND ( access* OR barrier OR "for all" ) ) OR
+( medical AND care AND access ) OR
+"medicare for all" OR
+( medicine AND affordability ) OR
+"Obamacare" OR
+( primary AND care AND access ) OR
+( ( right AND to ) AND ( health-care OR healthcare OR (medical AND care) ) ) OR
+"single-payer" OR
+"singlepayer" OR
+(
+	universal AND (
+		( access* AND to AND care ) OR
+		coverage OR
+		"health coverage" OR
+		"health insurance" OR
+		health-care OR
+		healthcare
+	)
+)

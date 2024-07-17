@@ -1,0 +1,89 @@
+"ecological economics" OR
+"green economy" OR
+"irrigation water* productivity" OR
+"low-carbon economy" OR
+"lowcarbon economy" OR
+"sustainable development agenda" OR
+"sustainable irrigation" OR
+"taxes on pollution" OR
+( "Agenda 21" AND economic* ) OR
+( "CO2ND economic AND ( development OR growth ) ) OR
+( "energy consumption" AND economic AND ( development OR growth ) ) OR
+( "energy policy" AND ( Climate OR environment* ) ) OR
+( "natural resource" AND "gdp" ) OR
+( "Rio Declaration" AND economic* ) OR
+( "rio+20" AND economic* ) OR
+( "sustainable consumption" AND ( "development" OR economic* ) ) OR
+( "sustainable growth" AND ( "ecology" OR environment* ) ) OR
+( ( "air pollution" OR "air quality" ) AND ( "economics" OR ( economic AND growth ) ) ) OR
+( ( carbon AND emission ) AND economic AND ( development OR growth ) ) OR
+( ( carbon AND dioxide* ) AND economic AND ( development OR growth ) ) OR
+( 
+	( ecological* AND regulation* ) AND ( 
+		"ecology" OR
+		"habitat degradation" OR
+		"natural resource" OR
+		"recycling" OR
+		"solid waste" OR
+		"sustainable consumption" OR
+		"waste generation" OR
+		"waste management" OR
+		( water* AND manag* ) OR
+		biodiversity OR
+		economic* OR
+		environmental OR
+		pollution OR
+		sustainability
+	) 
+) OR
+( 
+	( economic AND growth ) AND ( 
+		"ecological" OR
+		"ecology" OR
+		"habitat degradation" OR
+		"natural resource" OR
+		"recycling" OR
+		"solid waste" OR
+		"sustainable consumption" OR
+		"waste generation" OR
+		"waste management" OR
+		( water* AND manag* ) OR
+		biodiversity OR
+		environmental OR
+		pollution OR
+		sustainability
+	) 
+) OR
+( ( environmental AND impact AND economic* ) AND NOT ( "dispatch" ) ) OR
+( ( environmental* AND cost* ) AND "economics" ) OR
+( ( environmental* AND regulation* ) AND economic* ) OR
+( ( ethical AND consumption ) AND economic* ) OR
+( ( Free-market OR 	Freemarket ) AND environmentalism ) OR
+( ( renewable AND energ* ) AND economic AND ( development OR growth ) ) OR
+( ( Renewable AND Energy ) AND ( economic AND development ) ) OR
+( ( sustainable AND development ) AND ( "natural resource" OR environment* ) ) OR
+( ( water* AND productivity ) AND agriculture ) OR
+( agricultur* AND sustainability ) OR
+( agricultur* AND water* AND productivity ) OR
+( carbon AND tax ) OR
+( crop AND water* AND productivity ) OR
+( economic* AND ( ( climate AND chang* ) OR "global warming" ) ) OR
+( 
+	environment* AND ( 
+		( kuznets AND curve ) OR
+		economic OR
+		externalities OR
+		tax
+	) 
+) OR
+( 
+	kyoto AND ( 
+		( target* AND economic* ) OR
+		mechanism* OR
+		protocol
+	) 
+) OR
+( sustainable AND agricultur* ) OR
+eco-efficien* OR
+ecoefficien* OR
+ecotax

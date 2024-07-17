@@ -1,0 +1,79 @@
+(
+	( amerindian* AND agricultur* ) OR
+	( amerindian* AND farm* ) OR
+	( Aztec* AND agricultur* ) OR
+	( Aztec* AND farm* ) OR
+	"farmers' indigenous knowledge" OR
+	( first* AND nations* AND farm* ) OR
+	( indigenous AND farm* AND workers ) OR
+	( indigenous AND farm* ) OR
+	"indigenous farmers" OR
+	"indigenous smallholders" OR
+	( indigenous* AND methods* AND in* AND agricultur* ) OR
+	( maya* AND agricultur* ) OR
+	( maya* AND farm* ) OR
+	( native* AND farm* ) OR
+	( tribal* AND agricultur* ) OR
+	( tribal* AND farm* ) OR
+	(
+		ethnobotan* AND (
+			agrar* OR
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		ethnobotanical AND (
+			agricultur* OR
+			crop* OR
+			farm* OR
+			production
+		) AND (
+			amerindian* OR
+			aztec* OR
+			"first nations" OR
+			indigenous OR
+			maya* OR
+			native
+		)
+	) OR
+	( "first nations" AND agricultur* ) OR
+	( "indigenous knowledge" AND farm* ) OR
+	(
+		"indigenous land" AND (
+			agricultur* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	( "indigenous practices" AND farm* ) OR
+	(
+		indigenous AND (
+			beekeeper* OR
+			herder*
+		)
+	) OR
+	(
+		( indigenous* AND people* ) AND (
+			agricultu* OR
+			agro* OR
+			farm* OR
+			( food* AND producer* ) OR
+			herd* OR
+		)
+	) OR
+	(
+		( traditional* AND agricultur* ) AND (
+			amerindian* OR
+			aztec* OR
+			"first nations" OR
+			indigenous OR
+			maya* OR
+			native
+		)
+	)
+) AND NOT (
+	"encephalitis virus" OR
+	"pine needle trees"
+)

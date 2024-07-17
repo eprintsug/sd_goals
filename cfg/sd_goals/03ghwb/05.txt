@@ -1,0 +1,64 @@
+"anti-abortion" OR
+"antiabortion" OR
+"birth control" OR
+contraception OR
+contraceptive OR
+"family planning" OR
+"morning-after pill" OR
+"morningafter pill" OR
+"Planned Parenthood" OR
+pro-choice OR
+pro-life OR
+prochoice OR
+prolife OR
+"roe v. wade" OR
+"sexual abstinence" OR
+"sexual health" OR
+( sex* AND education ) OR
+( 
+	abortion AND (
+		( legalisation AND of ) OR
+		( legalization AND of ) OR
+		access OR
+		attitudes OR
+		care OR
+		counseling OR
+		debate OR
+		illegal OR
+		law OR
+		lawful OR
+		legal OR
+		legalisation OR
+		legalization OR
+		legislation OR
+		policies OR
+		policy OR
+		politics OR
+		provider OR
+		provision OR
+		regulation OR
+		restriction OR
+		right OR
+		service
+	) 
+) OR
+( access AND to AND abortion ) OR
+( attitude AND toward AND abortion ) OR
+( 
+	reproductive AND (
+		autonomy OR 
+		care OR 
+		choice OR 
+		freedom OR 
+		health OR 
+		healthcare OR 
+		justice OR 
+		liberty OR 
+		policies OR 
+		policy OR 
+		rights 
+	) 
+) OR
+( right* AND to AND abortion ) OR
+( safe AND abortion ) OR
+( unsafe AND abortion )

@@ -1,0 +1,128 @@
+(
+	"Dry steam power" OR
+	"engineered geothermal" OR
+	"flash steam power" OR
+	"ground heat exchanger" OR
+	"HDR/HWR" OR
+	"heat mining" OR
+	"hot fractured rock" OR
+	"hydrogeothermal" OR
+	"Shallow geothermal" OR
+	"stimulated geothermal" OR
+	( "geothermal heat" AND energy ) OR
+	( "geothermal heating" AND energy ) OR
+	( "geothermal" AND injection* AND ( reservoir* OR well* ) ) OR
+	( "ground source heat" AND ( pump* OR system* ) ) OR
+	( "thermal energy" AND ( ( geotherm* AND system* ) OR "geothermal gradient" OR ( "geothermal" AND reservoir* ) ) ) OR
+	( "thermal storage" AND "geothermal" ) OR
+	( ( "H.D.R" OR "HDR" ) AND ( "Reservoir* OR geotherm* ) ) OR
+	( ( geotherm* AND energ* ) AND NOT ( geotherm* AND energ* AND recover* ) ) OR
+	(
+		binary AND (
+			"geothermal" OR
+			( cycle AND plant* ) OR
+			( cycle AND power AND plant* ) OR
+			( power AND plant* ) OR
+			plant*
+		)
+	) OR
+	( borehole AND heat AND exchange* ) OR
+	( downhole AND heat AND exchange* ) OR
+	( Dry AND steam AND plant* ) OR
+	( Enhanced AND geotherm AND system* ) OR
+	( flash AND steam AND plant* ) OR
+	(
+		geotherm* AND (
+			"district energy" OR
+			"dry steam" OR
+			"energy piles" OR
+			"flash steam" OR
+			"heat storage" OR
+			"heating and cooling" OR
+			"Steam extraction" OR
+			( binary AND cycle* ) OR
+			( binary AND plant* ) OR
+			( district AND heating* ) OR
+			( energy AND heat* ) OR
+			( gas AND turbine* ) OR
+			( heat AND exchange* ) OR
+			( heat AND extraction* ) OR
+			( heat AND plant* ) OR
+			( heat AND pump* ) OR
+			( injection AND well* ) OR
+			( kalina AND cycle* ) OR
+			( pipe AND network* ) OR
+			( production AND well* ) OR
+			( steam AND pipeline* ) OR
+			( steam AND power AND plant* ) OR
+			( steam AND turbine* ) OR
+			application* OR
+			cool* OR
+			development* OR
+			drill* OR
+			EGS OR
+			electric* OR
+			electricity OR
+			exchange* OR
+			exploitation OR
+			exploration* OR
+			facilit* OR
+			generation OR
+			geo-energy OR
+			geoenergy OR
+			industr* OR
+			installation* OR
+			pipeline* OR
+			plant* OR
+			potential* OR
+			power OR
+			powerplant* OR
+			production OR
+			project* OR
+			prospect* OR
+			pump* OR
+			rankine OR
+			reinjection OR
+			reservoir* OR
+			resource* OR
+			Techni* OR
+			technolog* OR
+			thermo-electric* OR
+			thermoelectric* OR
+			tracer* OR
+			turbine* OR
+			well*
+		)
+	) OR
+	( Geyser AND Power AND plant* ) OR
+	( Hot AND Dry AND Rock* ) OR
+	( Multi-borehole AND Circulating AND System* ) OR
+	( under-ground AND source AND heat* ) OR
+	( underground AND source AND heat* )
+) AND NOT (
+	"Bioaccumulation" OR
+	"Boron pollution" OR
+	"environmental aspects of geothermal" OR
+	"Environmental effects of mass" OR
+	"environmental impact of geothermal" OR
+	"geothermal air pollution" OR
+	"Hydrochemistry" OR
+	"phytotoxicity" OR
+	"pollution of geothermal" OR
+	"silica ceramics" OR
+	"thallium" OR
+	"toxic metals" OR
+	"Treatment of geothermal" OR
+	"treatment of waste" OR
+	"treatment of wastewater" OR
+	"waste treatment" OR
+	"wastewater treatment" OR
+	( "Arsenic" AND "pollution" ) OR
+	( "Arsenic" AND "removal" ) OR
+	( "Boron" AND "removal" ) OR
+	( "Impact of geothermal" AND "pollution" ) OR
+	( ( environmental AND impact* ) AND "pollution" ) OR
+	( geotherm AND emission* ) OR
+	Biomonitor* OR
+	contamina*
+)

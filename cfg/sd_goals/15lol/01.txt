@@ -1,0 +1,63 @@
+"animal trafficking" OR
+"antipoaching" OR
+"CITES appendix" OR
+"CITES" OR
+"convention on international trade in endangered species" OR
+"elephant ivory" OR
+"green criminology" OR
+"hunting ban" OR
+"international trade in endangered species" OR
+"ivory trade" OR
+"poached" OR
+"poacher" OR
+"poachers" OR
+"poaching" OR
+"rhino horn" OR
+"Trade of Endangered Species" OR
+"trophy hunting" OR
+"unregulated hunting" OR
+( "bushmeat" AND ( "hunting" OR "illegal" ) ) OR
+( "CITES" AND ( "appendix i" OR "appendix ii" OR "appendix iii" ) ) OR
+( "environmental crime" AND "hunting" ) OR
+( "illegal fishing" AND NOT ( ( marine OR ocean OR sea OR island ) ) ) OR
+( "illegal trade" AND "endangered species" ) OR
+( "pet trade" AND "illegal" ) OR
+( "wild fauna" AND ( "illegal" OR Trade ) ) OR
+( "wild meat" AND ( "hunted" OR "hunting" ) ) OR
+( ( "hunted" OR "hunting" ) AND ( "red list" OR "IUCN" ) ) OR
+(
+	( "iuu fishing" OR "unregulated fishing" OR "unreported fishing" ) AND NOT (
+		"coast" OR
+		"Coastal" OR
+		island OR
+		marine OR
+		ocean OR
+		sea
+	)
+) OR
+( ( "fishing" OR "hunting" ) AND "endangered species" AND NOT ( marine OR ocean OR sea ) ) OR
+(
+	illegal AND (
+		 "wildlife trade" OR
+		"bushmeat" OR
+		"harvest" OR
+		"harvesting" OR
+		"hunting" OR
+		"killing" OR
+		"plant harvesting" OR
+		"trade in wildlife" OR
+		"wildlife trade" OR
+		"wildlife"
+	)
+) OR
+(
+	wildlife AND (
+		"markets" OR
+		"smuggling" OR
+		"Trade" OR
+		"Trading" OR
+		"trafficking" OR
+		crime OR
+		forensic
+	)
+)

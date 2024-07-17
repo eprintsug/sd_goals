@@ -1,0 +1,141 @@
+(
+	"argentine ant" OR
+	"asian clam" OR
+	"bioinvasion" OR
+	"biotic resistance" OR
+	"cane toad" OR
+	"cane toads" OR
+	"dikerogammarus villosus" OR
+	"emerald ash borer" OR
+	"enemy release hypothesis" OR
+	"enemy release" OR
+	"european green crab" OR
+	"grassland invasion" OR
+	"introduced range" OR
+	"native prey" OR
+	"non native plant" OR
+	"non-indigenous species" OR
+	"nonindigenous species" OR
+	"propagule pressure" OR
+	"release hypothesis" OR
+	"round goby (neogobius melanostomus)" OR
+	"round goby" OR
+	"stages of invasion" OR
+	"successful invaders" OR
+	"zebra mussel" OR
+	( "dreissena polymorpha" AND ( "alien" OR "exotic" OR "invasion" ) ) OR
+	( ( "exotic species" OR "species management" )	AND "invasion" ) OR
+	(
+		(
+			"alien species" OR
+			"introduced species" OR
+			"invasibility" OR
+			"invasive fish species" OR
+			"invasive species" OR
+			"lionfish"
+		) 	AND NOT ( ocean OR marine OR sea )
+	) OR
+	( ( "biological invasion" OR "biological invasions" ) AND NOT ( ( marin* OR coast OR sea ) ) )
+	(
+		(
+			(
+				(
+					"alien" OR
+					"exotic" OR
+					"invasive" OR
+					"non native"
+				) NEAR/3 ( "species" OR weed* OR plant* )
+			) NEAR/9 ( "threats" OR "threatening" OR impact OR "damage"
+			)
+		) AND NOT ( ( marin* OR coast OR sea ) )
+	) OR
+	(
+		(
+			(
+				(
+					"alien" OR
+					"exotic" OR
+					"invasive" OR
+					"non indigenous" OR
+					"non native" OR
+					"nonindigenous" OR
+					"nonnative" OR
+					invader*
+				) NEAR/3 ( "species" OR weed* OR plant* )
+			) NEAR/9 (
+				"damage" OR
+				"threatening" OR
+				"threats" OR
+				impact
+			)
+		) AND NOT ( marin* OR coast OR sea )
+	) OR
+	( ( non-native OR nonnative ) AND ( "plant" OR "species" ) ) OR
+	( alien AND ( "invasive" OR "plant species" OR "plant" ) ) OR
+	( exotic AND ( "invasive" OR pest OR "pests" ) ) OR
+	(
+		invad* AND (
+			"communities" OR
+			"ecosystem" OR
+			"habitats" OR
+			"range" OR
+			species"
+		)
+	) OR
+	( invasion AND ( "biology" OR "dynamics" OR "ecology" OR "risk" ) ) OR
+	(
+		invasive AND (
+			"alien species" OR
+			"and native species" OR
+			"crayfish" OR
+			"exotic" OR
+			"fish species" OR
+			"grass" OR
+			"insect" OR
+			"mammals" OR
+			"non-native" OR
+			"nonnative" OR
+			"organisms" OR
+			"plant species" OR
+			"plant" OR
+			"plant" OR
+			"range" OR
+			"shrub" OR
+			"success" OR
+			"taxa" OR
+			"tree species" OR
+			"tree" OR
+			ant OR
+			pest OR
+			population OR
+			predator OR
+			vertebrate OR
+			weed
+		)
+	) OR
+	( plant AND ( "invaders" OR invasion OR "invasive" ) ) OR
+	(
+		species AND (
+			"control" OR
+			"eradication" OR
+			"invasiveness" OR
+			invasion
+		)
+	) OR
+) AND NOT (
+	(
+		marine OR
+		"marines" OR
+		sea OR
+		"seas" OR
+		"oceans" OR
+		"ocean"
+	) AND NOT (
+		"inland" OR
+		"lake" OR
+		"lakes" OR
+		freshwater* OR
+		forest OR
+		"forest"
+	)
+)

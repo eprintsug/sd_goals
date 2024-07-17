@@ -1,0 +1,45 @@
+"afforestation and reforestation" OR
+"afforestation" OR
+"afforestation/reforestation" OR
+"afforested" OR
+"conifer plantation" OR
+"large-scale afforestation" OR
+"largescale afforestation" OR
+"new forest policy" OR
+"reforestation" OR
+( "forestry" AND sustainab* ) OR
+( "new forest" AND NOT ( ( "the New Forest" OR "parenting" ) ) ) OR
+(
+	(
+		"creation" OR
+		"plantation management" OR
+		"Planted" OR
+		"tree plantation" OR
+		"tree planting" OR
+		plantation
+	) AND forest*
+) OR
+( afforest* AND "increase" ) OR
+(
+	afforestation AND (
+		"artificial" OR
+		"policy" OR
+		( of AND agric* ) OR
+		( of AND agricultur* AND land* ) OR
+		program* OR
+		project*
+	)
+)  OR
+(
+	reforestation AND (
+		"policies" OR
+		"policy" OR
+		"strategy" OR
+		"success drivers"  OR
+		( of AND agricultur* ) OR
+		method OR
+		program* OR
+		strategies
+	)
+) OR
+( silvicultur* AND sustainab* )

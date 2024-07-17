@@ -1,0 +1,244 @@
+"Accoya wood" OR
+"bamboo-reinforced" OR
+"bambooreinforced" OR
+"building certification" OR
+"CBNRM" OR
+"COMMUNITY-BASED NATURAL RESOURCE management" OR
+"COMMUNITYBASED NATURAL RESOURCE management" OR
+"conservation agriculture" OR
+"conservation farming" OR
+"design for environment" OR
+"eco architecture" OR
+"eco-building material" OR
+"eco-building materials" OR
+"eco-construction material" OR
+"eco-construction materials" OR
+"eco-housing" OR
+"eco-label" OR
+"ecobuilding material" OR
+"ecobuilding materials" OR
+"ecoconstruction material" OR
+"ecoconstruction materials" OR
+"ecohousing" OR
+"ecoinvent" OR
+"ecolabel" OR
+"Energy Performance of Buildings Directive" OR
+"environmental life cycle" OR
+"fair trade" OR
+"FSC certification" OR
+"fsc standard" OR
+"industrial ecology" OR
+"industrial symbiosis" OR
+"iso 14040" OR
+"LCA" OR
+"Leadership in Energy and Environmental Design" OR
+"lifecycle analysis" OR
+"lifecycle assessment" OR
+"living building challenge" OR
+"marine stewardship council" OR
+"material footprint" OR
+"MSC certification" OR
+"NZEB" OR
+"optimal use of natural resource" OR
+"passive house" OR
+"passivhaus" OR
+"rotational logging" OR
+"seafood sustainability" OR
+"simapro" OR
+"supply chain sustainability" OR
+"U.S. green building council" OR
+"united states green building council" OR
+(
+	"carbon footprint" AND (
+		"consumption" OR
+		"manufacturing" OR
+		"procurement" OR
+		consumer*
+		producer OR
+		production OR
+	)
+) OR
+( "cellulose" AND "thermal insulation" ) OR
+(
+	"ecological" AND (
+		"architecture" OR
+		"building material" OR
+		"building materials" OR
+		"construction material" OR
+		"construction materials" OR
+		"housing"
+	)
+) OR
+( "energy performance" AND ( "of building" OR "house" OR "houses" ) ) OR
+( "extractive economy" AND ( sustainab* OR "ecological" ) ) OR
+(
+	"footprint" AND (
+		"consumption" OR
+		"manufacturing" OR
+		"procurement" OR
+		consumer*
+		producer OR
+		production OR
+	)
+) OR
+(
+	"life cycle" AND (
+		"analyses" OR
+		"analysis" OR
+		"assessment" OR
+		"assessments" OR
+		"greenhouse gas emission" OR
+		"impact analysis" OR
+		"impact assessment" OR
+		"inventories" OR
+		"inventory" OR
+		"sustainability" OR
+		"thinking"
+	)
+) OR
+( "montreal process" AND NOT ( "ozone" ) ) OR
+( "photocatalyst" AND ( "building material" OR "construction material" ) ) OR
+(
+	"sustainable use of" AND (
+		"forest" OR
+		"land" OR
+		"natural resource" OR
+		"water" OR
+		mineral OR
+		rainforest*
+	)
+) OR
+( "sustainable use" AND ( "consumption" OR production OR ( natural* AND resource* ) ) ) OR
+( "Transparent wood" AND NOT ( coating* OR stain* ) ) OR
+(
+	(
+		"environmentally-friendly material" OR
+		"environmentally-friendly materials" OR
+		"environmentallyfriendly material" OR
+		"environmentallyfriendly materials" OR
+		"recycled materials" OR
+		"recycled plastic" OR
+		"recycled wood" OR
+		"salvaged wood" OR
+		"straw-bale" OR
+		"strawbale" OR
+		"sustainable materials" OR
+		"sustainable timber" OR
+		"sustainably sourced" OR
+		"zero carbon"
+	) AND (
+		"architecture" OR
+		"construction" OR
+		"housing" OR
+		"infrastructure" building*
+	)
+) OR
+(
+	( "green design" OR "eco-design" OR "ecodesign" ) AND (
+		"house" OR
+		"houses" OR
+		"infrastructure" OR
+		building
+	)
+) OR
+( ( "LEED" AND ( building* OR "housing" OR house* OR "green" ) ) AND NOT "diffraction" ) OR
+( ( "sustainable use" OR "sustainable usage" ) AND ( natural* AND resource* ) ) OR
+( ( agricultur* AND sustainability ) ) OR
+( ( eco-industrial* OR ecoindustrial* ) AND park* ) OR
+( ( efficien* AND use ) AND ( land OR "natural resource" OR water* ) ) OR
+( ( energy AND efficien* ) AND ( "of building" OR "house" OR "houses" ) ) OR
+(
+	(
+		low-energy OR
+		lowenergy OR
+		zero-energy OR
+		zeroenergy
+	) AND ( building OR house )
+) OR
+( ( natural* AND resource ) AND ( management* OR policies* OR policy ) ) OR
+( ( resource AND efficien* ) AND ( "consumption" OR "industry" OR production ) ) OR
+( ( sustainable* AND manag* ) AND ( natural* AND resource ) ) OR
+( clean* AND production* ) OR
+( ecologic* AND certifi* ) OR
+( ecological* AND building* ) OR
+( energy AND efficien* AND housing ) OR
+(
+	forest AND (
+		"certification" OR
+		"management" OR
+		"stewardship council" OR
+		"stewardship" OR
+		( management* AND practice )
+	)
+) OR
+( fsc* AND certif* ) OR
+(
+	green AND (
+		"building material" OR
+		"building materials" OR
+		"construction material" OR
+		"construction materials" OR
+		"construction" OR
+		"housing" OR
+		"production" OR
+		"roof" OR
+		"roofs" OR
+		"supply chain" OR
+		building* OR
+		consumption*
+	)
+) OR
+( life AND cycle AND impact* ) OR
+( mining* AND sustainab* ) OR
+( sustain* AND resource* AND manag* ) OR
+( sustainab* AND ( supply* AND chain* ) ) OR
+(
+	Sustainability AND (
+		"assessment" OR
+		"certification" OR
+		"construction sector" OR
+		"building sector" OR
+		"housing sector" OR
+		"infrastructure sector"
+	)
+) OR
+(
+	sustainable AND (
+		"agriculture" OR
+		"aquaculture" OR
+		"architecture" OR
+		"building material" OR
+		"building materials" OR
+		"construction material" OR
+		"construction materials" OR
+		"consumption" OR
+		"consumption" OR
+		"farming" OR
+		"fishing" OR
+		"forest management" OR
+		"green ecosystem council" OR
+		"intensification" OR
+		"manufacturing" OR
+		"mine management" OR
+		"mining" OR
+		"natural resource" OR
+		"original harvest" OR
+		"production and consumption" OR
+		"production" OR
+		"renovation" OR
+		"resource management" OR
+		"supply chain" OR
+		( agricultur* AND production ) OR
+		( mineral* AND management* ) OR
+		( natur* AND resource* ) OR
+		( resource* AND management* ) OR
+		building* OR
+		construction* OR
+		forest* OR
+		harvest* OR
+		housing* OR
+	)
+) OR
+eco-building* OR
+ecobuilding* OR
+Ecocertifica*

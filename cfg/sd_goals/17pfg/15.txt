@@ -1,0 +1,43 @@
+(
+	SDG* OR
+	( sustainable AND develop* ) OR 
+	(
+		poverty 
+		NEAR/2 
+		(
+			eradicate OR
+			against OR
+			annihilat* OR
+			anti OR
+			decreas* OR
+			fight OR
+			reduc*
+		)
+	)
+) 
+AND (
+	"policy space" 
+	OR (
+		(
+			accept OR
+			accepted OR
+			accepting OR
+			challeng* OR
+			contest* OR
+			critici* OR
+			recognis* OR
+			recogniz* OR
+			respect OR
+			undisput* OR
+			unquestion*
+		)
+		NEAR/1 
+		(
+			( ( country's OR government ) AND autonomy ) OR
+			( ( government OR national ) AND leadership ) OR
+			( countr* AND strategic AND approach* ) OR
+			( government AND ( action OR decision OR intervention OR ( strategic AND approach* ) ) ) OR
+			( state AND ( action OR decision OR intervention OR leadership ) ) OR
+		)
+	)
+)

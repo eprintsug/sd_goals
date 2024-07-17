@@ -1,0 +1,93 @@
+(
+	"Arctic amplification" OR
+	"arctic warming" OR "arctic warming" OR
+	"Certified Emission Reduction" OR
+	"GHG Protocol" OR
+	"Green house Gas Protocol" OR
+	"Greenhouse Gas Protocol" OR
+	"risk from climate change" OR
+	"risk from climate" OR
+	"risk of climate change" OR
+	"risk of climate" OR
+	"risks from climate change" OR
+	"risks from climate" OR
+	"risks of climate change" OR
+	"risks of climate" OR
+	"Verified Emission Reduction" OR
+	"warming Arctic" OR
+	(
+		"global warming" AND (
+			"carbon dioxide foot-print" OR
+			"carbon dioxide footprint" OR
+			"carbon foot-print" OR
+			"carbon footprint" OR
+			"CO 2 foot-print" OR
+			"CO 2 footprint" OR
+			"CO2 foot-print" OR
+			"CO2 footprint" OR
+			"Pollution"
+		)
+	) OR
+	(
+		"ocean warming" AND (
+			"climate change" OR
+			"GHG" OR
+			"green house" OR
+			"greenhouse"
+		)
+	) OR
+	(
+		(
+			"GHG warming" OR
+			"green house gas warming" OR
+			"Green house warming" OR
+			"greenhouse gas warming" OR
+			"Greenhouse warming"
+		) AND (
+			"carbon" OR
+			"CO 2" OR
+			"CO2" OR
+			"methane" OR
+			agricultur*
+		)
+	) OR
+	( ( "carbon dioxide" OR "CO 2" OR "CO2" ) AND ( "foot-print" OR "footprint" ) ) OR
+	( ( "climate change" AND anthropogen* ) AND NOT ( "non-anthropogenic" OR "nonanthropogenic" ) ) OR
+	(
+		( "climate change" OR "climatic change" ) AND (
+			"carbon dioxide foot-print" OR
+			"carbon dioxide footprint" OR
+			"carbon emission" OR
+			"carbon foot-print" OR
+			"carbon footprint" OR
+			"CO 2 foot-print" OR
+			"CO 2 footprint" OR
+			"CO 2 Warming" OR
+			"CO2 foot-print" OR
+			"CO2 footprint" OR
+			"CO2 Warming" OR
+			"disaster" OR
+			"disasters" OR
+			"global warming" OR
+			"hazard" OR
+			"hazards" OR
+			"Pollution" OR
+			"regulation" OR
+			( "CO 2" AND emission ) OR
+			( "CO2" AND emission ) OR
+			( carbon AND emission ) OR
+		)
+	) OR
+	(
+		carbon AND (
+			"foot-print" OR
+			"footprint" OR
+			"off set" OR
+			"offset"
+		)
+	)
+) AND NOT (
+	( Triassic AND climate ) OR
+	( paleoclimat* AND NOT anthropogen* ) OR
+	( Prehistoric AND climate )
+)

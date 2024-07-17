@@ -1,0 +1,54 @@
+"fair work act" OR
+"fair work bill" OR
+"freedom of association" OR
+"right to strike" OR
+"rights at work" OR
+"rights of workers" OR
+( "z10ND workplace ) OR
+(
+	( "personal protective equipment" OR "ppe" ) AND (
+		( working AND condition ) OR
+		law OR
+		legislation OR
+		regulation* OR
+		training OR
+		workplace
+	)
+) OR
+( ( ( labour OR labor ) AND flexibility ) AND ( legislation OR law ) ) OR
+( ( collective AND bargaining ) AND ( labor OR labour OR workplace ) ) OR
+( ( labour AND flexibility ) AND law ) OR
+( ( labour AND standards ) AND rights ) OR
+(
+	( labour OR labor ) AND (
+		( market AND reform ) OR
+		( standards AND rights ) OR
+		law OR
+		legislation OR
+		regulation OR
+		rights
+	)
+) OR
+( ( safe* AND work* ) AND ( environment* OR practice OR workplac* ) ) OR
+( core AND ( labour OR labor ) AND standard ) OR
+( employee AND right* ) OR
+( ergonomic AND workplace ) OR
+( fatalit* AND workplace ) OR
+( flexibility AND legislation ) OR
+( hazardous* AND workplac* ) OR
+( injur* AND illness AND workplace ) OR
+( job* hazard* ) OR
+(
+	occupational AND (
+		( health* AND hazard* ) OR
+		fatalit* OR
+		injur* OR
+		safety
+	)
+) OR
+( precarious AND ( ( work* AND environment ) OR workplace ) ) OR
+( work-related* AND fatalit* ) OR
+( worker* AND right* ) OR
+( workplace AND ( injur* OR ( workplace* AND hazard* ) OR ( injur* AND rate* ) ) ) OR
+( workrelated* AND fatalit* ) OR
+( worksite* AND hazard* )

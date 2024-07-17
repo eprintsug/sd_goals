@@ -1,0 +1,169 @@
+"3G access" OR
+"3G coverage" OR
+"4G access" OR
+"4G coverage" OR
+"5G access" OR
+"5G coverage" OR
+"Access and use of information" OR
+"access to 3G" OR
+"access to 4G" OR
+"access to 5G" OR
+"access to advanced information" OR
+"Access to and use of internet" OR
+"Access to and use of mobile" OR
+"Access to and use of the cellular" OR
+"Access to and use of the internet" OR
+"access to broadband" OR
+"access to cellular network" OR
+"access to computers" OR
+"access to high-speed broadband" OR
+"access to high-speed internet" OR
+"access to highspeed broadband" OR
+"access to highspeed internet" OR
+"access to ICT" OR
+"access to information and communication" OR
+"access to internet" OR
+"access to mobile network" OR
+"access to network service" OR
+"access to networked service" OR
+"access to telecom" OR
+"access to the internet" OR
+"affordable communications" OR
+"affordable internet" OR
+"affordable mobile device" OR
+"affordable mobile phone" OR
+"affordable smart-phone" OR
+"affordable smartphone" OR
+"broadband access" OR
+"broadband penetration" OR
+"broadband wireless access" OR
+"cheap internet" OR
+"cost of mobile" OR
+"digital divides" OR
+"digital inclusion" OR
+"digital inequalities" OR
+"free broadband access" OR
+"free Internet" OR
+"free online access" OR
+"ICT accessibility" OR
+"ICT infrastructure" OR
+"ICT policies" OR
+"ICT policy" OR
+"ICT4D" OR
+"improve internet" OR
+"information poverty" OR
+"internet accessibility" OR
+"Internet infrastructure" OR
+"internet penetration" OR
+"internet policies" OR
+"internet policy" OR
+"internet service provider" OR
+"internet service providers" OR
+"internet service providing" OR
+"Internet service provisioning" OR
+"Internet wireless access" OR
+"low-cost Internet" OR
+"Low-cost mobile phone" OR
+"Low-cost phone" OR
+"low-cost smartphone" OR
+"lowcost Internet" OR
+"Lowcost mobile phone" OR
+"Lowcost phone" OR
+"lowcost smartphone" OR
+"Mobile access to information" OR
+"mobile network access" OR
+"mobile network accessibility" OR
+"mobile phone infrastructure" OR
+"mobile service provisioning" OR
+"national broadband plan" OR
+"national broadband plans" OR
+"Open access to information" OR
+"phone access and use" OR
+"provision of Internet" OR
+"public Wi-Fi" OR
+"public WiFi" OR
+"reliable ICT" OR
+"Robust ICT" OR
+"Rural broadband" OR
+"Rural internet" OR
+"Rural wireless" OR
+"smart-phone access and use" OR
+"smartphone access and use" OR
+"telecom access" OR
+"Universal Telephone Service" OR
+"web access" OR
+"web accessibility" OR
+( "affordable access" AND ( "broadband service" OR internet OR telecommunication* ) ) OR
+(
+	"global connectivity" AND (
+		"mobile communication" OR
+		"phone" OR
+		"web" OR
+		( "information and communication" ) OR
+		ICT OR
+		internet OR
+		telecommunication*
+	)
+) OR
+( ( "Access to information" ) AND internet ) OR
+( ( "cost of data" ) AND mobile ) OR
+(
+	( "e-inclusion" OR "einclusion" ) AND (
+		"application" OR
+		"computer" OR
+		"web" OR
+		accessibility OR
+		internet OR
+		telecommunication*
+	)
+) OR
+( ( "internet coverage" ) AND access ) OR
+(
+	( "mobile users" ) AND (
+		"affordable" OR
+		"clean" OR
+		"quality" OR
+		"reliable" OR
+		"universal" OR
+		efficien* OR
+		inclusive OR
+		innovation OR
+		resilien* OR
+		sustainab*
+	)
+) OR
+( ( "public internet" ) AND access ) OR
+( ( "universal access" ) AND internet ) OR
+( ( "universal service obligation" ) AND ( telecommunication* ) ) OR
+( ( ( internet AND access ) ) AND ( "access to internet" ) AND ( "access to the internet" ) ) OR
+(
+	( communication AND technolog* ) AND (
+		access OR
+		accessibility OR
+		Development OR
+		infrastructure OR
+		policies OR
+		policy
+	)
+) OR
+( ( computerisation OR computerization ) AND school ) OR
+( ( Digital AND divide ) ) OR
+( ( ict AND access ) ) OR
+( ( mobile AND technolog* ) AND ( "infrastructure" ) ) OR
+( access AND ( information AND technolog* ) ) OR
+( digital AND inequalit* ) OR
+( internet AND ( ( sustainable AND development ) OR access ) ) OR
+( rural AND telecommunication* ) OR
+(
+	telecommunication* AND (
+		access OR
+		accessibility OR
+		Act OR
+		infrastructure OR
+		policies OR
+		policy OR
+		reform OR
+		regulation OR
+		Rural
+	)
+)

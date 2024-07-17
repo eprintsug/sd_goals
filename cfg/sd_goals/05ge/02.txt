@@ -1,0 +1,548 @@
+(
+	( agrarian AND feminism ) OR
+	anti-women OR
+	antiwomen OR
+	( autonomous* AND women's AND support AND project* ) OR
+	( business AND women ) OR
+	"cedaw" OR
+	( denigrat* AND women ) OR
+	"economics of gender" OR
+	( 
+		female AND ( 
+			employment OR
+			entrepreneur* OR
+			ownership OR
+			( labor AND force ) OR
+			( labour AND force ) OR
+			( labour AND market AND participation ) OR
+			leadership OR
+			literacy OR
+			schooling OR
+			( political AND participation ) OR
+			unemployment OR
+			manager* OR
+			manager* OR
+			executive* OR
+			leader* OR
+			director* OR
+			entrepreneur* OR
+			power* OR
+			smallholder* 
+		) 
+	) OR
+	( ( female-headed* OR femaleheaded* ) AND household* ) OR
+	femecon OR
+	( Feminist AND economic ) OR
+	( feminist* AND perspective* ) OR
+	( feminist* AND theor* ) OR
+	( 
+		gender AND ( 
+			awareness OR
+			bias OR
+			discourse discrimination OR
+			dysphoria OR
+			economics OR
+			empowerment OR
+			gap OR
+			inclusion OR
+			inclusive OR
+			justice OR
+			leadership OR
+			mainstreaming OR
+			parity OR
+			power OR
+			quota OR
+			segregation OR
+			asymmetr* OR
+			bias* OR
+			disparit* OR
+			equalit* OR
+			equit* OR
+			inequalit* OR
+			inequit* OR
+			injustice* OR
+			issue* OR
+			representation* OR
+			stereotype* OR
+			vulnerabilit* 	
+) 
+	) OR
+	( gender-related* AND bias* ) OR
+	( gender-responsive AND budgeting ) OR
+	( genderresponsive AND budgeting ) OR
+	"gendered access to land" OR
+	"Gendered power balance" OR
+	( gender* AND barrier* ) OR
+	( genderrelated* AND bias* ) OR
+	( girl* AND school* AND experience* ) OR
+	( Hegemon* AND masculinit* ) OR
+	( liberal AND feminis* ) OR
+	( Male AND dominated AND occupation ) OR
+	( maternal AND ( autonom* OR employment ) ) OR
+	misogyn* OR
+	( New AND opportunit* AND for AND women ) OR
+	( occupational AND segregation ) OR
+	( quota AND for AND women ) OR
+	( representation AND women ) OR
+	( sex* AND ( 
+			discriminat* OR
+			discriminat* OR
+			equality OR
+			equity OR
+			gap OR
+			segregation
+		) 
+	) OR
+	sexism OR
+	( sexist* AND attitude* ) OR
+	( sexist* AND belief* ) OR
+	( sexual AND Division AND of AND ( labour OR labor ) ) OR
+	( status AND women ) OR
+	( woman* AND autonom* ) OR
+	( 
+		women* AND ( 
+			( career AND development ) OR
+			( educational AND attainment ) OR
+			( human* AND right* ) OR
+			( labor AND force ) OR
+			( labour AND force ) OR
+			( land* AND right* ) OR
+			( market AND opportunities ) OR
+			( on AND corporate AND board ) OR
+			( under AND representation ) OR
+			agenc* OR
+			autonomy OR
+			director* OR
+			employment OR
+			entrepreneur* OR
+			executive* OR
+			leader* OR
+			leadership OR
+			Leadership OR
+			leadership OR
+			management OR
+			manager* OR
+			movement* OR
+			power* OR
+			representation OR
+			right* OR
+			science OR
+			status OR
+			underrepresentation OR
+			unemployment
+		) 
+	) OR
+	Women-owned OR
+	Womenowned OR
+	( workplace AND equality ) OR
+	( workplace AND equity ) OR
+	(
+		barrier* AND
+		( advanc* AND women )
+	) OR
+	(
+		( discriminat* AND gender ) AND
+		women
+	) OR
+	(
+		diversity AND
+		quota* AND
+		women AND
+		legislator*
+	) OR
+	(
+		( Economic AND security ) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		empowerment AND (
+			girl* OR
+			women
+		)
+	) OR
+	(
+		( equal AND pay ) AND (
+			gender OR girl* OR women
+		)
+	) OR
+	(
+		( equal AND opportuniti* ) AND
+		women
+	) OR
+	(
+		equality AND (
+			gender OR (
+				opportunit* AND (
+				girl* OR
+				women
+				)
+			)
+		)
+	) OR
+	(
+		( 
+			family AND 
+			care AND 
+			older AND 
+			women 
+		) AND
+		treat AND
+		differen*
+	) OR
+	(
+		feminis* AND (
+			employment OR (
+				equality AND
+				inclusion
+			) OR (
+				( household AND work ) AND
+				unpaid
+			)
+		)
+	) OR
+	(
+		( Gender AND difference ) AND (
+			bias* OR
+			equalit* OR
+			equit* OR
+			gap OR
+			inclusion OR
+			inclusive OR
+			inequalit* OR
+			inequit* OR
+			workplace OR
+			( work AND environment )
+		)
+	) OR
+	(
+		( Gender AND stereotyp* ) OR (
+			stereotype AND
+			( gender* AND role* )
+		)
+	) OR
+	(
+		gender AND (
+			( diversity AND management ) OR
+			feminism OR
+			( patriarchal* AND stereotyp* ) OR (
+				autonomy AND
+				women
+			) OR (
+				career* AND
+				equal*
+			) OR (
+				education AND (
+					bias OR
+					equalit* OR
+					equit* OR
+					gap OR
+					inclusion OR
+					inclusive OR
+					inequalit* OR
+					inequit*
+				)
+			)
+		)
+	) OR
+	(
+		intersectional* AND (
+			women OR
+			femini*
+		)
+	) OR
+	(
+		( representation AND women ) AND (
+			education OR
+			increas*
+		)
+	) OR
+	(
+		school* AND (
+			( systemic* AND barrier* ) OR
+			discrimination
+		) AND
+		gender
+	) OR
+	(
+		stereotype* AND (
+			gender* AND 
+			difference*
+		) OR (
+			women AND
+			employment
+		)
+	) OR
+	(
+		women AND (
+			decision-making OR
+			decisionmaking OR
+			disempowerment OR
+			( domestic AND space ) OR
+			( global AND care AND chain ) OR 
+			(
+				( burden AND of AND care ) AND (
+					child* OR
+					elder*
+				)
+			) OR (
+				business AND opportunit*
+			) OR (
+				caste* AND (
+					education* OR
+					employment OR
+					gender OR
+					inequalit* OR
+					inequit* OR
+					opportunit* OR
+					victim*
+				)
+			) OR (
+				citizenship AND
+				gender AND
+				rights
+			) OR (
+				employment AND
+				motherhood
+			) OR (
+				hegemony AND
+				opportunit*
+			) OR (
+				inequit* AND
+				( higher AND education ) 
+			) OR (
+				opportunities AND
+				education
+			) OR (
+				(
+					under-represent* OR
+					Underrepresent*
+				) AND (
+					( graduate* AND stud* ) OR
+					( higher AND education ) OR
+					( post-secondary* AND degree* ) OR
+					( post-secondary AND education ) OR
+					( professional* AND degree* ) OR
+					( technical AND formation ) OR
+					( technical* AND degree* ) OR
+					universit* OR
+					vocational
+				)
+			)
+		)
+	)
+	(
+		( Women's AND movement ) AND (
+			gender AND (
+				equalit* OR
+				equit* OR
+				inclusion OR
+				inclusive OR
+				inequalit* OR
+				inequit* OR
+				parity
+			)
+		)
+	) OR
+	( women* AND property* AND right* ) OR 
+	(
+		women AND (
+			ownership* OR
+			( right* AND to AND property )
+		)
+	) OR
+	(
+		(
+			( Access AND higher AND education ) OR
+			( Access AND university AND education ) OR
+			( board AND diversity ) OR
+			( employment AND equity ) OR
+			( gender AND wage AND gap ) OR
+			( glass AND ceiling ) OR
+			( glass AND cliff ) OR
+			Marginalised OR
+			Marginalized OR
+			marginalisation OR
+			marginalization OR
+			( pay AND gap ) OR
+			( social AND inclusion )
+		) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			( domestic AND work ) OR
+			( household AND work )
+		) AND (
+				female OR
+				gender OR
+				girl* OR
+				women
+			) AND (
+				inequit* OR
+				inequalit*
+			)
+	) OR
+	(
+		(
+			( equal* AND opportunit* ) OR
+			( financial* AND structure* ) OR
+			( paid AND work ) OR (
+				( detriment AND of ) (
+					equal* OR
+					Inequal*
+				)
+			) OR (
+				employment AND
+				(
+					discrimination OR
+					( monetary* AND ( policy OR policies ) )
+				)
+			)
+		) AND (
+			gender OR
+			girl* OR
+			women
+		)
+	) OR
+	(
+		(
+			( gender* AND perspective* ) OR
+			( gender* AND representation* )
+		) AND (
+			girl* OR
+			women
+		)
+	) OR
+	(
+		(
+			( gender AND studies ) OR
+			( gender-related AND issue ) OR
+			( genderrelated AND issue )
+		) AND
+		( teacher AND education )
+	) OR
+	(
+		(
+			gender-specific OR
+			genderspecific
+		) AND
+		vulnerabilit*
+	) OR
+	(
+		(
+			girl* OR
+			women
+		) AND
+		( household* AND work* )
+	) OR
+	(
+		(
+			girls AND ( 
+				education OR
+				enrollment OR
+				enrolment OR
+				retention 
+			) 
+		) AND
+		inclusion
+	) OR
+	(
+		(
+			hegemonic OR
+			hegemony
+		) AND (
+			female OR
+			gender OR
+			girl* OR
+			women
+		) AND (
+			cultur* OR
+			inclusion
+		)
+	) OR
+	(
+		(
+			( unpaid AND care ) OR
+			( unpaid AND work )
+		) AND (
+			female OR
+			gender OR
+			girl* OR
+			women
+		)
+	) OR
+	(
+		(
+			( women* AND worker* ) OR
+			( working AND women )
+		) AND (
+			barrier* OR
+			economy
+		)
+	) OR
+	(
+		(
+			(
+				opportunit* OR
+				participati*
+			) AND
+			leadership
+		) AND (
+			female OR
+			gender OR
+			girl* OR
+			women
+		)
+	)
+) AND NOT (
+	(
+		( clinical AND trial* ) OR (
+			alcohol* OR
+			alzheimer OR
+			( ambulatory AND child* ) OR
+			( animal AND model* ) OR
+			asthma* OR
+			cancer* OR
+			cardiac* OR
+			cardiovascul* OR
+			( care AND facilit* ) OR
+			( cerebral AND palsy* ) OR
+			dementia OR
+			dental* OR
+			dentist* OR
+			diarrhea* OR
+			disease* OR
+			"energy poverty" OR
+			epidemiolog* OR
+			gas* OR
+			gene OR
+			gene OR
+			genetic* OR
+			health AND NOT (
+			( healthcare AND educat* ) OR
+			( health care AND educat* )
+			) OR
+			healthcare* OR
+			( heart AND damag* ) OR
+			( heart AND disease* ) OR
+			( mental* ill* ) OR
+			mice OR
+			mouse OR
+			oil* OR
+			patient* OR
+			( poor AND mental AND health ) OR
+			( ( randomised OR randomized ) AND controlled AND trial* ) OR
+			sepsis* OR
+			undernutrition* OR
+			vaccin*
+		) AND NOT (
+			education* AND
+			Inequal*
+		)
+	) OR
+	( alpine* AND willow* )
+)

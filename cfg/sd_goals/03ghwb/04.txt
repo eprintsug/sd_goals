@@ -1,0 +1,53 @@
+AIDS OR
+anthrax OR
+antihepatitis OR
+antimalaria OR
+antimalarial OR
+antituberculosis OR
+cholera OR
+dengue OR
+ebola OR
+hepatitis OR
+HIV OR
+influenza OR
+legionellosis OR
+leprosy OR
+malaria OR
+marburg OR
+measles OR
+MERS OR
+MRSA OR
+pertussis OR
+plague OR
+pneumonia OR
+rabies OR
+rotavirus OR
+SARS OR
+smallpox OR
+syphilis OR
+tetanus OR
+tuberculosis OR
+zika OR
+"acquired immunodeficiency syndrome" OR
+"African sleeping sickness" OR
+"Creutzfeldt-Jakob Disease" OR
+"CreutzfeldtJakob Disease" OR
+"h. influenzae" OR
+"haemophilus influenzae" OR
+"human African trypanosomiasis" OR
+"human immunodeficiency virus" OR
+"infectious diarrhea" OR
+"Japanese encephalitis" OR
+"legionnaires disease" OR
+"meningococcal meningitis" OR
+"Middle East respiratory syndrome" OR
+"Rocky Mountain spotted fever" OR
+"severe acute respiratory syndrome" OR
+"toxic shock syndrome" OR
+"whooping cough" OR
+"yellow fever" OR
+( ( communicable AND disease ) AND NOT ( non-communicable OR noncommunicable ) ) OR
+( ( water-borne OR waterborne ) AND disease ) OR
+( ( "escherichia coli" OR "e. coli" ) AND shiga ) OR
+( neglected AND tropical AND disease ) OR
+( relapsing AND fever )

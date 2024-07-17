@@ -1,0 +1,1053 @@
+"6th amendment" OR
+"acquaintance rape" OR
+"aggression perpetration" OR
+"armed violence" OR
+"arms smuggling" OR
+"battering men" OR
+"boko haram" OR
+"cash smuggling" OR
+"checks and balances" OR
+"coerced sex" OR
+"conjugal violence" OR
+"couple violence" OR
+"court interpreting" OR
+"court of human rights" OR
+"date rape" OR
+"deliberative democracy" OR
+"domestic abuse" OR
+"domestically violent" OR
+"elderly abuse" OR
+"election fraud" OR
+"fair jury" OR
+"familial violence" OR
+"firearm-related violence" OR
+"firearmrelated violence" OR
+"first amendment" OR
+"fraudulent transfer pricing" OR
+"free press" OR
+"gang rape" OR
+"gay rights" OR
+"gendered violence" OR
+"hells angels" OR
+"homicidal violence" OR
+"husband violence" OR
+"independent judiciary" OR
+"industrial democracy" OR
+"infant abuse" OR
+"influence peddling" OR
+"information transparency" OR
+"involvement of citizens" OR
+"involvement of stakeholders" OR
+"involving citizens" OR
+"involving stakeholders" OR
+"islamic state in iraq and syria" OR
+"islamic state of iraq and levant" OR
+"islamic state of iraq and syria" OR
+"islamic state of iraq and the levant" OR
+"lesbian rights" OR
+"lethal violence" OR
+"lgbt rights" OR
+"media freedom" OR
+"misappropriation of public funds" OR
+"neglect and abuse" OR
+"nursing home abuse" OR
+"organised crime" OR
+"organized crime" OR
+"parliamentary accountability" OR
+"paternal abuse" OR
+"patronage politics" OR
+"policies against discrimination" OR
+"policy against discrimination" OR
+"politically persecuted" OR
+"politics of patronage" OR
+"press freedom" OR
+"rape prevention" OR
+"reducing violence" OR
+"regulatory transparency" OR
+"rule of law" OR
+"separation of powers" OR
+"sixth amendment" OR
+"social aggression" OR
+"spouse abuse" OR
+"stranger rape" OR
+"terrorism prevention" OR
+"ticket fixing" OR
+"trade mispricing" OR
+"traffic of influence" OR
+"transfer mispricing" OR
+"transfer pricing manipulation" OR
+"transitional justice" OR
+"vote buying" OR
+"vote rigging" OR
+"war against terrorism" OR
+"war on terror" OR
+"war on terrorism" OR
+(
+	"access to" AND (
+		"government information" OR
+		"information act" OR
+		"information legislation" OR
+		"legal advice" OR
+		"public information" OR
+		court OR
+		courts OR
+		government OR
+		justice
+	)
+) OR
+( "confidence in" AND ( government OR institutions OR "public institutions" ) ) OR
+( "engagement of" AND ( citizens OR stakeholders ) ) OR
+( "free expression" AND NOT ( "cell-free expression" OR "cellfree expression" ) ) OR
+( "free speech" AND NOT ( "hands-free speech" OR "handsfree speech" ) ) OR
+(
+	"freedom of" AND (
+		"the media" OR
+		"the press" OR
+		assembly OR
+		association OR
+		belief OR
+		conscience OR
+		expression OR
+		information OR
+		media OR
+		opinion OR
+		press OR
+		religion OR
+		speech OR
+		thought
+	)
+) OR
+( "independence of" AND ( judges OR judiciary ) ) OR
+(
+	"prevention of" AND (
+		bullying OR
+		corruption OR
+		terrorism OR
+		violence
+	)
+) OR
+(
+	"public sector" AND (
+		accountability OR
+		corruption OR
+		efficien* OR
+		transparency
+	)
+) OR
+(
+	"smuggling of" AND (
+		arms OR
+		cash OR
+		firearms OR
+		money OR
+		weapons
+	)
+) OR
+( "women's" AND shelter ) OR
+(
+	( "abuse during pregnancy" OR "abuse in pregnancy" ) AND NOT (
+		"alcohol abuse" OR
+		"cocaine abuse" OR
+		"drug abuse" OR
+		"ethanol abuse" OR
+		"substance abuse"
+	)
+) OR
+( ( "fight against" OR fighting ) AND ( corruption OR terrorism ) ) OR
+( ( "first degree" OR firstdegree ) AND murder ) OR
+( ( "involvement in" OR responsive ) AND ( decision-making OR decisionmaking OR "decision making" ) ) OR
+( ( "ISIL" OR "ISIS" ) AND islam* ) OR
+( ( access AND to ) AND ( ( information AND law ) OR court ) ) OR
+(
+	(
+		adolescent OR
+		dating OR
+		family OR
+		interparental OR
+		intimate OR
+		parental
+	) AND ( abuse OR aggression OR violence )
+) OR
+(
+	( antidiscrimination OR antidiscriminatory ) AND (
+		act OR
+		law OR
+		legislation OR
+		policies OR
+		policy
+	)
+) OR
+( ( citizen OR civic ) AND ( engagement OR involvement OR participation ) ) OR
+(
+	( collaborative OR inclusive ) AND (
+		"decision making" OR
+		decision-making OR
+		decisionmaking OR
+		governance
+	)
+) OR
+(
+	( combat OR combating OR combatting ) AND (
+		corruption OR
+		terror OR
+		terrorism OR
+		violence
+	)
+) OR
+(
+	(
+		"conflict related" OR
+		"firearm related" OR
+		conflict-related OR
+		conflictrelated OR
+		dyadic OR
+		firearm OR
+		firearm-related OR
+		firearmrelated OR
+		homicidal
+	) AND death
+) OR
+(
+	( discrimination OR discriminatory ) AND (
+		act OR
+		law OR
+		legislation OR
+		policies OR
+		policy OR
+		regulation
+	)
+) OR
+(
+	(
+		( perpetration AND of ) OR
+		Domestic OR
+		gender OR
+		gender-based OR
+		genderbased
+	) AND violence
+) OR
+( ( exploited OR child* OR neglected ) AND child* ) OR
+( ( fair OR fairer ) AND ( trial OR hearing ) ) OR
+( ( gunshot OR murder ) AND victim ) OR
+( ( honor OR honour ) AND killing ) OR
+( ( illegal OR illicit ) AND ( "capital flight" OR ( ( arms OR financial ) AND flow ) ) ) OR
+( ( modern OR modern-day OR modernday ) AND slavery ) OR
+( ( municipal OR national ) AND transparency ) OR
+( ( organised OR organized ) AND criminal ) OR
+( ( round-trip OR roundtrip ) AND transaction* ) OR
+(
+	( victim AND of ) AND (
+		abuse OR
+		bullying OR
+		rape OR
+		trafficking OR
+		violence
+	)
+) OR
+(
+	abuse AND (
+		"against women" OR
+		"and neglect" OR
+		"in childhood" OR
+		"in nursing homes" OR
+		"of children" OR
+		"of discretion" OR
+		"of elderly" OR
+		"of minors" OR
+		"of the elderly" OR
+		"of women" OR
+		adolescent OR
+		child OR
+		elder OR
+		mother OR
+		survivor OR
+		wife OR
+		woman OR
+		women
+	)
+) OR
+(
+	abusive AND (
+		behavior OR
+		behaviour OR
+		families OR
+		family OR
+		man OR
+		men OR
+		mother OR
+		parent OR
+		partner OR
+		relationship
+	)
+) OR
+( accountable AND government ) OR
+( act AND against AND discrimination ) OR
+( active AND citizen ) OR
+( aggressive AND relationship* ) OR
+( armed AND conflict ) OR
+( assault AND ( victim OR ( weapons AND ban ) OR ( firearm OR gun ) ) ) OR
+( assaulted AND ( woman OR women ) ) OR
+(
+	batter* AND (
+		babies OR
+		baby OR
+		child* OR
+		mother OR
+		wife OR
+		wives OR
+		woman OR
+		women
+	)
+) OR
+( bullied AND ( child* OR student ) ) OR
+(
+	bullying AND (
+		"at school" OR
+		"at work" OR
+		"in childhood" OR
+		"in the workplace" OR
+		( in AND school ) OR
+		perpetration OR
+		prevention OR
+		victim OR
+		victimisation OR
+		victimization
+	)
+) OR
+(
+	child AND (
+		( protective AND service ) OR
+		( sex AND work ) OR
+		abuse OR
+		abuser OR
+		aggression OR
+		exploitation OR
+		labor OR
+		laborer OR
+		labour OR
+		labourer OR
+		maltreatment OR
+		murder OR
+		neglect OR
+		pornography OR
+		prostitute OR
+		prostitution OR
+		protection OR
+		rape OR
+		trafficking OR
+		welfare OR
+		work OR
+		worker
+	)
+) OR
+(
+	childhood AND (
+		abuse OR
+		aggression OR
+		bullying OR
+		maltreatment OR
+		neglect OR
+		rape
+	)
+) OR
+( children AND abuse ) OR
+( civil AND ( liberty OR liberties OR right ) ) OR
+(
+	community AND (
+		empowerment OR
+		engagement OR
+		involvement OR
+		participation
+	)
+) OR
+(
+	corrupt AND (
+		act OR
+		activities OR
+		activity OR
+		behavior OR
+		behaviour OR
+		countr* OR
+		leadership OR
+		official OR
+		politician OR
+		practice
+	)
+) OR
+(
+	corrupt* AND (
+		countr* OR
+		ethic OR
+		govern* OR
+		politic
+	)
+) OR
+(
+	corruption AND (
+		"commission against" OR
+		"control of" OR
+		"convention against" OR
+		"in organizations" OR
+		"perception index" OR
+		( act AND of ) OR
+		( cause AND of ) OR
+		( crime AND of ) OR
+		( determinant AND of ) OR
+		( effect AND of ) OR
+		( form AND of ) OR
+		( level AND of ) OR
+		( measure AND of ) OR
+		( type AND of ) OR
+		administrative OR
+		bank OR
+		bureaucratic OR
+		business OR
+		control OR
+		corporate OR
+		counteracting OR
+		counteraction OR
+		crime OR
+		criminal OR
+		curbing OR
+		determinant OR
+		deterrence OR
+		dynamics of OR
+		dynamics OR
+		eradication OR
+		favoritism OR
+		financial OR
+		global OR
+		grand OR
+		index OR
+		institutional OR
+		international OR
+		lending OR
+		level OR
+		network OR
+		offence OR
+		offense OR
+		organizational OR
+		petty OR
+		police OR
+		prevention OR
+		private OR
+		reduce OR
+		reducing OR
+		reduction OR
+		scandal OR
+		systemic OR
+		type
+	)
+) OR
+( countering AND ( terror OR terrorism ) ) OR
+( court AND interpreter ) OR
+( crime AND ( group OR network ) ) OR
+(
+	criminal AND (
+		gang OR
+		group OR
+		network OR
+		organisation OR
+		organization OR
+		violence
+	)
+) OR
+( defendant* AND rights ) OR
+( democratic AND ( accountability OR engagement OR participation ) ) OR
+( digital AND ( democracy OR government ) ) OR
+( direct AND democrac* ) OR
+( drug AND cartel ) OR
+( economic AND ( democracy OR freedom ) ) OR
+(
+	elder AND (
+		abuse OR
+		maltreatment OR
+		mistreatment OR
+		neglect
+	)
+) OR
+(
+	electoral AND (
+		accountability OR
+		corruption OR
+		fraud OR
+		manipulation OR
+		violence
+	)
+) OR
+(
+	electronic AND (
+		democracy OR
+		governance OR
+		government OR
+		participation
+	)
+) OR
+( embezzlement AND corrupt* ) OR
+( emotional AND ( abuse OR maltreatment OR violence ) ) OR
+( employee AND ( involvement OR participation OR representation ) ) OR
+( engaged AND citizen ) OR
+( engaging AND ( citizens OR stakeholders ) ) OR
+(
+	equality AND (
+		"of arms" OR
+		policies OR
+		policy OR
+		act OR
+		law OR
+		legislation OR
+		regulation
+	)
+) OR
+( exploitat* AND children ) OR
+( female AND ( rape OR violence ) ) OR
+(
+	feminist AND (
+		act OR
+		law OR
+		policies OR
+		policy OR
+		regulation
+	)
+) OR
+(
+	firearm AND (
+		control OR
+		fatalit* OR
+		law OR
+		legislation OR
+		mortalit* OR
+		policies OR
+		policy OR
+		regulation OR
+		safety OR
+		violence
+	)
+) OR
+(
+	forced AND (
+		labor OR
+		laborer OR
+		labour OR
+		labourer OR
+		sex
+	)
+) OR
+( fundamental AND ( freedom OR right ) ) OR
+(
+	government AND (
+		accountability OR
+		corruption OR
+		e-service OR
+		effectiveness OR
+		efficien* OR
+		eservice OR
+		transparency
+	)
+) OR
+(
+	governmental AND (
+		accountability OR
+		corruption OR
+		effectiveness OR
+		efficien* OR
+		transparency
+	)
+) OR
+(
+	gun AND (
+		control OR
+		law OR
+		policies OR
+		policy OR
+		regulation OR
+		safety OR
+		violence
+	)
+) OR
+( harassment AND ( "at work" OR "in the workplace" OR victim ) ) OR
+( human AND ( right OR traffick* ) ) OR
+( identity AND registration ) OR
+( impartial AND ( hearing OR tribunal ) ) OR
+(
+	individual AND (
+		freedom OR
+		liberties OR
+		liberty OR
+		right
+	)
+) OR
+(
+	inequalit* AND (
+		act OR
+		law OR
+		policies OR
+		policy OR
+		regulation
+	)
+) OR
+(
+	judicial AND (
+		accountability OR
+		autonomy OR
+		corruption OR
+		favoritism OR
+		impartiality OR
+		independence OR
+		reform OR
+		transparency
+	)
+) OR
+( justice AND reform* ) OR
+(
+	juvenile AND (
+		( sex AND work ) OR
+		prostitute OR
+		prostitution OR
+		violence
+	)
+) OR
+( kickback AND ( corruption OR corrupt ) ) OR
+( law AND against AND discrimination ) OR
+(
+	legal AND (
+		aid OR
+		assistance OR
+		empowerment OR
+		identit* OR
+		interpreters OR
+		interpreting
+	)
+) OR
+( legislation AND against AND discrimination ) OR
+( mafia AND NOT "mafia code" ) OR
+( male AND ( rape OR violence OR batterer* ) ) OR
+( maltreatment and ( "in childhood" OR "of children" OR prevention ) ) OR
+(
+	marital and (
+		abuse OR
+		aggression OR
+		rape OR
+		violence
+	)
+) OR
+( mass AND ( killing OR murder OR shooting ) ) OR
+( maternal and ( abuse OR violence ) ) OR
+( mobile and ( governance OR government ) ) OR
+(
+	nondiscrimination AND (
+		act OR
+		law OR
+		legislation OR
+		policies OR
+		policy OR
+		regulation
+	)
+) OR
+( nondiscriminatory AND ( policy OR policies OR law ) ) OR
+( online AND ( aggression OR bullying OR harassment ) ) OR
+( open AND ( government OR institution ) ) OR
+( outlaw AND motorcycle AND ( club OR gang ) ) OR
+(
+	participation AND (
+		"in decision-making" OR
+		"in decisionmaking" OR
+		"in government" OR
+		"in management" OR
+		"of citizens" OR
+		process*
+	)
+) OR
+(
+	participative AND (
+		approach* OR
+		democracies OR
+		democracy OR
+		management OR
+		planning
+	)
+) OR
+(
+	participatory AND (
+		approach* OR
+		budget OR
+		decision-making OR
+		decisionmaking OR
+		democracies OR
+		democracy OR
+		ergonomics OR
+		governance OR
+		management OR
+		planning OR
+		policy-making OR
+		policymaking OR
+		process* OR
+		research
+	)
+) OR
+( partner AND ( abuse OR aggression OR violen* ) ) OR
+( perjury AND ( corruption OR corrupt ) ) OR
+( perpetrator AND of AND ( bullying OR violence ) ) OR
+(
+	physical AND (
+		abuse OR
+		aggression OR
+		assault OR
+		bullying OR
+		maltreatment OR
+		violen*
+	)
+) OR
+(
+	political AND (
+		accountability OR
+		corruption OR
+		cynicism OR
+		distrust OR
+		engagement OR
+		favoritism OR
+		freedom OR
+		imprisonment OR
+		involvement OR
+		liberties OR
+		liberty OR
+		participation OR
+		patronage OR
+		persecution OR
+		prisoner OR
+		repression OR
+		rights OR
+		transparency OR
+		trust OR
+		violence
+	)
+) OR
+( preventing AND ( corruption OR violence ) ) OR
+( prosecutorial AND ( accountability OR independence ) ) OR
+(
+	psychological AND (
+		abuse OR
+		aggression OR
+		harassment OR
+		maltreatment OR
+		violen*
+	)
+) OR
+(
+	public AND (
+		accountability OR
+		consultation OR
+		corruption OR
+		e-service OR
+		engagement OR
+		eservice OR
+		information OR
+		involvement OR
+		participation
+	)
+) OR
+(
+	rape AND (
+		assault OR
+		survivor OR
+		victim OR
+		women
+	)
+) OR
+( relationship AND ( abuse OR aggression OR violence ) ) OR
+( religious AND ( freedom OR liberty ) ) OR
+(
+	representation AND (
+		"of citizens" OR
+		decision-making OR
+		decisionmaking OR
+		democracies OR
+		democracy OR
+		employees OR
+		government OR
+		institution OR
+		workers
+	)
+) OR
+(
+	right AND (
+		"of information" OR
+		"to counsel" OR
+		"to information" OR
+		"to interpretation" OR
+		"to join a union" OR
+		"to legal" OR
+		"to life" OR
+		"to privacy" OR
+		"to protest" OR
+		"to representation" OR
+		"to strike"
+	)
+) OR
+( right AND of AND the AND accused ) OR
+(
+	school AND (
+		aggression OR
+		bullying OR
+		shooting OR
+		violence
+	)
+) OR
+( serial AND ( killer OR murder ) ) OR
+(
+	sex AND (
+		abuse OR
+		abuse OR
+		abuser OR
+		coercion OR
+		crime OR
+		exploitation OR
+		offence OR
+		offender OR
+		offending OR
+		offense OR
+		traffick* OR
+		victimisation OR
+		victimization
+	)
+) OR
+(
+	sexual AND (
+		abuser OR
+		aggression OR
+		aggressor OR
+		assault OR
+		crime OR
+		harassment OR
+		maltreatment OR
+		murder OR
+		offence OR
+		offender OR
+		offending OR
+		offense OR
+		predator OR
+		violence
+	)
+) OR
+(
+	sexually AND (
+		abusive OR
+		aggressive OR
+		coercive OR
+		violent
+	)
+) OR
+( shakedown AND corrupt* ) OR
+( smuggling AND network ) OR
+(
+	spousal AND (
+		abuse OR
+		assault OR
+		rape OR
+		violence
+	)
+) OR
+( stakeholder AND ( engagement OR involvement OR participation ) ) OR
+(
+	state AND (
+		corruption OR
+		patronage OR
+		repression OR
+		terrorism
+	)
+) OR
+( survivor AND of AND abuse ) OR
+( terror AND ( organisation OR organization ) ) OR
+(
+	terrorist AND (
+		group OR
+		network OR
+		organisation OR
+		organization
+	)
+) OR
+( trafficking AND ( network OR survivor OR victim ) ) OR
+(
+	transparency AND (
+		"international" OR
+		"policies" OR
+		"policy" OR
+		( of AND government )
+	)
+) OR
+( transparent AND ( government OR institution ) ) OR
+(
+	trust AND (
+		"in government" OR
+		"in institutions" OR
+		"in local government" OR
+		"in political institutions" OR
+		"in public institutions" OR
+		"in the government"
+	)
+) OR
+(
+	verbal AND (
+		abuse OR
+		aggression OR
+		bullying OR
+		violence
+	)
+) OR
+(
+	violence AND (
+		"against children" OR
+		"against civilians" OR
+		"against men" OR
+		"against pregnant women" OR
+		"at home" OR
+		"at school" OR
+		"at work" OR
+		"during pregnancy" OR
+		"in pregnancy" OR
+		"in relationships" OR
+		"in the family" OR
+		"in the workplace" OR
+		( against AND women ) OR
+		( in AND school ) OR
+		perpetration OR
+		prevention OR
+		reduction OR
+		survivor OR
+		victim OR
+		victimisation OR
+		victimization
+	)
+) OR
+(
+	violent AND (
+		crime OR
+		criminal OR
+		men OR
+		offence OR
+		offender OR
+		offending OR
+		offense OR
+		partner OR
+		relationship OR
+		victimisation OR
+		victimization OR
+		women
+	)
+) OR
+( weapon AND smuggling ) OR
+( wife AND ( battering OR beating ) ) OR
+(
+	worker AND (
+		democracy OR
+		involvement OR
+		participation OR
+		representation
+	)
+) OR
+(
+	workplace AND (
+		abuse OR
+		aggression OR
+		bullying OR
+		democracy OR
+		harassment OR
+		representation OR
+		violence
+	)
+) OR
+(
+	youth AND
+	(
+		( sex AND work ) OR
+		pornography OR
+		prostitution OR
+		violence
+	)
+) OR
+Al-Qaeda OR
+AlQaeda OR
+anti-bribery OR
+anti-corruption OR
+anti-mafia OR
+anti-terror OR
+anti-terrorism OR
+anti-terrorist OR
+anti-trafficking OR
+antibribery OR
+antibullying OR
+antibullying OR
+anticorruption OR
+antimafia OR
+antiterror OR
+antiterrorism OR
+antiterrorist OR
+antitrafficking OR
+assailant OR
+batterer OR
+blackmail OR
+blackmailing OR
+bribe OR
+bribing OR
+camorra OR
+clientelism OR
+corruptibility OR
+counter-terror OR
+counter-terrorism OR
+counterterror OR
+counterterrorism OR
+cronies OR
+crony OR
+cronyism OR
+cyber-bullying OR
+cyber-harassment OR
+cyberaggression OR
+cyberaggression OR
+cyberbullying OR
+cyberharassment OR
+da'esh OR
+daesh OR
+e-democracy OR
+e-gov OR
+e-governance OR
+e-government OR
+e-participation OR
+edemocracy OR
+egov OR
+egovernance OR
+egovernment OR
+eparticipation OR
+extortion OR
+femicide OR
+feminicide OR
+filicide OR
+homicide OR
+incest OR
+infanticide OR
+kleptocracy OR
+kleptocrat OR
+m-gov OR
+m-governance OR
+m-government OR
+manslaughter OR
+matricide OR
+mgov OR
+mgovernance OR
+mgovernment OR
+molestation OR
+molester OR
+murdered OR
+murderer OR
+neonaticide OR
+paedophile OR
+paedophilia OR
+parricide OR
+patricide OR
+pedophile OR
+pedophilia OR
+politicide OR
+racketeering OR
+rapist OR
+round-tripping OR
+roundtripping OR
+uxoricide

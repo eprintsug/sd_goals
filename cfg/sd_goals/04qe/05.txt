@@ -1,0 +1,370 @@
+(
+	( children's AND rights AND education ) OR
+	( citizenship* AND educat* ) OR
+	eco-school* OR
+	ecopedagogy OR
+	ecoschool* OR
+	(
+		( educating AND for ) AND (
+			sustainability OR
+			( cultural AND diversity ) OR
+			( gender AND equality ) OR
+			( gender AND equity ) OR
+			( human AND rights ) OR
+			peace OR
+		)
+	) OR
+	( Educational AND unsustainability ) OR
+	"environmental education" OR
+	"Environmental science education" OR
+	( ( human* AND right* ) AND ( education* OR learn* OR training* ) ) OR
+	"Learning about sustainability" OR
+	learning for sustainability" OR
+	( legal* AND rights* AND education* ) OR
+	"renewable energy education" OR
+	(
+		sustainability AND (
+			educator* OR
+			education OR
+			curriculum OR
+			learning OR
+			literacy OR
+			teaching OR
+			training OR
+		)
+	) OR
+	(
+		( sustainability AND in ) AND
+		(
+			education OR
+			"engineering education" OR
+			( higher* AND education )
+		)
+	) OR
+	( Sustainable AND ( education OR learning ) ) OR
+	"susteach" OR
+	( teach* AND sustainabilit* ) OR
+	"Values education" OR
+	(
+		belonging AND
+		migrant* AND
+		Promot* AND
+		school*
+	) OR
+	(
+		( Climate* AND action* ) AND
+		education* AND
+		sustainability
+	) OR
+	(
+		curricul* AND
+		( higher* AND education ) AND
+		( Human AND sustainability )
+	) OR
+	(
+		( cultural AND sustainability ) AND
+		education*
+	) OR
+	(
+		( democratic AND value* ) AND
+		school*
+	) OR
+	(
+		education* AND (
+			( cultural AND skill ) OR
+			( ecological* AND approach* ) OR
+			humanis* OR
+			( intercultural AND awareness ) OR
+			prejudgement* OR
+			(
+				sustainab* AND (
+					consumption OR
+					future
+					initiative* OR
+					program* OR
+				)
+			) OR (
+				( equal* AND opportunit* ) AND
+				gender
+			) OR (
+				sustainability AND environmental
+			) OR (
+				promot* AND (
+					energ* AND ( efficien* OR green* )
+				)
+			)
+		)
+	) OR
+	(
+		education* AND
+		ethics AND
+		sustainability
+	) OR
+	(
+		( educational AND equity ) AND
+		Promot*
+	) OR
+	(
+		( Energy AND consumption ) AND (
+			college* OR
+			universit*
+		) AND
+		incentive*
+	) OR
+	(
+		Gender AND
+		Justice AND
+		( teacher AND education )
+	) OR
+	(
+		( higher* AND education ) AND (
+			( green* AND initiative* ) OR
+			( promoting AND sustainability ) OR
+			"raise the environmental awareness"
+		)
+	) OR
+	(
+		( international AND education ) AND (
+			awareness OR
+			citizenship OR
+			Sustainab*
+		)
+	) OR
+	(
+		(
+			pro-ecological OR
+			proecological
+		) AND
+		attitude* AND
+		teacher*
+	) OR
+	(
+		( pro-environmental OR proenvironmental )
+		 AND (
+			education* OR
+			educator* OR
+			( school* AND child* ) OR
+			student* OR
+			teacher*
+		)
+	) OR
+	(
+		( Public* AND education* ) AND (
+			( environmental* AND problem* ) OR
+			( sustainability* AND attitude* )
+		)
+	) OR
+	(
+		student* AND
+		awareness AND
+		( energy AND saving )
+	) OR
+	(
+		student* AND
+		citizenship AND (
+			attitude* OR
+			behaviour*
+		)
+	) OR
+	(
+		Sustainab* AND
+		( transformative AND learning )
+	) OR
+	(
+		sustainability AND (
+			education* OR
+			"educational travel" OR (
+				program* AND (
+					student* OR
+					teacher*
+				)
+			) OR (
+				( learning* AND tool* ) AND
+				student*
+			) OR (
+				(
+					ecological OR
+					social
+				) AND (
+					college* OR
+					education* OR
+					universit*
+				)
+			)
+		)
+	) OR
+	(
+		( sustainability* AND initiative* ) AND
+		student*
+	) OR
+	(
+		( sustainability* AND issue* ) AND
+		education*
+	) OR
+	(
+		( sustainable AND design ) AND
+		student*
+	) OR
+	(
+		( sustainable AND development ) AND (
+			educat* OR
+			learning OR
+			Teach*
+		)
+	) OR
+	(
+		( sustainable AND future ) AND environment* AND (
+			learning OR
+			student* OR
+			teaching
+		)
+	) OR
+	(
+		sustainable AND
+		student* AND
+		awareness
+	) OR
+	(
+		(
+			( academic* AND institution* ) OR
+			college* OR
+			( education* AND institution* ) OR
+			school OR
+			universit*
+		) AND
+		( green AND issues )
+	) OR
+	(
+		education* AND (
+			non-violence OR
+			nonviolence
+		)
+	) OR
+	(
+		(
+			education* OR
+			educating
+		) AND
+		gender AND (
+			inclusion OR
+			inclusive
+		)
+	) OR
+	(
+		(
+			education* OR
+			educating
+		) AND (
+			pro-gender OR
+			progender
+		)
+	) OR
+	(
+		(
+			education* OR
+			school
+		) AND (
+			( social AND equalit* ) OR
+			( sustainable* AND design* )
+		)
+	) OR
+	(
+		(
+			( energy* AND attitude* ) OR
+			( energy* AND conservation* AND behavior* )
+		) AND
+		intervention* AND (
+			education* OR universit*
+		)
+	) OR
+	(
+		(
+			( Gender* AND stud* ) OR
+			( ( gender-related* OR genderrelated* ) AND issue* ) OR
+			inclusion OR
+			inclusiveness
+		) AND
+		( teacher AND education )
+	) OR
+	(
+		(
+			( global AND citizenship ) OR
+			( sustainable AND development )
+		) AND
+		education* AND (
+			curricul* OR
+			policies OR
+			policy OR
+			program
+		)
+	) OR
+	(
+		(
+			( Responsible AND management ) OR
+			( social AND responsibilit* ) OR
+			( Sustainable AND ( ( ( community OR human ) AND development ) OR lifestyle* ) )
+		)
+		AND (
+			awareness OR
+			education* OR
+			learning OR
+			Teach*
+		)
+	) OR
+	(
+		(
+			sustainability OR
+			( sustainable AND development )
+		) AND
+		pedagogy
+	) OR
+	(
+		(
+			sustainability* AND (
+				attitude* OR
+				behavior* OR
+				behaviour* OR
+				policies OR
+				policy OR
+				practice*
+			)
+		) AND (
+			college* OR
+			education* OR
+			universit*
+		)
+	) OR
+	(
+		(
+			Sustainable OR
+			sustainability
+		) AND
+		development AND (
+			( academic* AND institution* ) OR
+			college* OR
+			( education* AND institution* ) OR
+			universities OR
+			university
+		)
+	) OR
+	(
+		(
+			sustainable OR
+			sustainability
+		) AND
+		( learning* AND opportunit* ) AND
+		student*
+	) OR
+	(
+		(
+			( sustainable* AND develop* ) OR
+			sustainability
+		) AND
+		( learning* AND program* )
+	)
+) AND NOT (
+	dementia OR
+	diabete* OR
+	( learning AND algorithm ) OR
+	( stroke AND patient )
+)

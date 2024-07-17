@@ -1,0 +1,162 @@
+"city parks" OR
+"city public space" OR
+"city public spaces" OR
+"community garden" OR
+"community gardening" OR
+"community gardens" OR
+"green cities" OR
+"green city" OR
+"landscape urbanism" OR
+"municipal park" OR
+"park Redevelopment" OR
+"park-based physical activity" OR
+"parkbased physical activity" OR
+"parks and gardens" OR
+(
+	"architecture landscape" AND (
+		"cities" OR
+		"city" OR
+		"municipal" OR
+		urban*
+	)
+) OR
+( "built environment" AND "landscape design" ) OR
+( "cities" AND "landscape design" ) OR
+( "ecological planning" AND ( "cities" OR urban* ) ) OR
+( "ecosystem restoration" AND ( "cities" OR "city" OR "urban" ) ) OR
+( "green infrastructure" AND ( "cities" OR "city" OR "urban" ) ) OR
+(
+	"landscape architecture" AND (
+		"cities" OR
+		"city" OR
+		"town" OR
+		urban*
+	)
+) OR
+(
+	"landscape ecology" AND (
+		"cities" OR
+		"city" OR
+		"municipal" OR
+		urban*
+	)
+) OR
+(
+	"landscape management" AND (
+		"cities" OR
+		"city" OR
+		"municipal" OR
+		urban*
+	)
+) OR
+(
+	"landscape planning" AND (
+		"cities" OR
+		"city" OR
+		"municipal" OR
+		"town" OR
+		urban*
+	)
+) OR
+( "landscape preference" AND ( "city" OR urban* ) ) OR
+( "landscape structure" AND ( "cities" OR "city" OR urban* ) ) OR
+( "municipal" AND forest AND access ) OR
+( "park design" AND ( "cities" OR "city" OR "urban" ) ) OR
+( "park planning" AND ( "cities" OR "city" OR "urban" ) ) OR
+( "right to the city" AND space ) OR
+( "urban" AND "landscape design" ) OR
+(
+	( ( green* OR Nature ) AND space ) AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		"urbanisation" OR
+		"urbanization"
+	)
+) OR
+( ( ( neighborhood* OR neighbourhood* ) AND park* ) AND ( "cities" OR "city" OR "urban" ) ) OR
+( ( allotment* AND garden* ) AND ( "urban" OR "city" OR "cities" ) ) OR
+( ( green AND space ) AND recreation* ) OR
+( ( green* AND area* ) AND ( "urban" OR "city" OR "cities" ) ) OR
+(
+	( green* AND infrastructure* ) AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		"urbanisation" OR
+		"urbanization"
+	)
+) OR
+(
+	( public AND space ) AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		accessibility
+	)
+) OR
+( ( Public* AND open* AND space ) AND ( "urban" OR "city" OR "cities" ) ) OR
+( ( Public* AND realm* ) AND ( "urban" OR "city" OR "cities" ) ) OR
+(
+	( recreation* AND area* ) AND (
+		"cities" OR
+		"city" OR
+		"urban" OR
+		"urbanisation" OR
+		"urbanization"
+	)
+) OR
+(
+	( urban AND forest ) AND (
+		"recreation" OR
+		"recreational" OR
+		access OR
+		inclusive*
+	)
+) OR
+( ( urban AND park ) AND NOT ( "veterinary" ) ) OR
+( ( urban AND space ) AND ( ( public AND space ) OR accessibility ) ) OR
+( ( urban* AND woodland* ) AND recreation* ) OR
+( accessibility AND ( "recreation area" OR "recreation areas" ) ) OR
+( Greenspace AND ( "urban" OR "city" OR "cities" ) ) OR
+(
+	greenway AND (
+		"cities" OR
+		"city" OR
+		"municipal" OR
+		urban*
+	)
+) OR
+(
+	public AND (
+		"garden" OR
+		"gardens" OR
+		"open spaces" OR
+		"parks" OR
+		"recreation area" OR
+		"recreation areas" OR
+		"urban park" OR
+		"urban parks" OR
+		"urban space" OR
+		"urban spaces"
+	)
+) OR
+( recreation* AND ecosystem* ) OR
+(
+	urban AND (
+		"forestry policies" OR
+		"forestry policy" OR
+		"gardens" OR
+		"green" OR
+		"greening" OR
+		"greenings" OR
+		"greenspace" OR
+		"greenspaces" OR
+		"landscape" OR
+		"landscapes" OR
+		"nature" OR
+		"open space" OR
+		"open spaces" OR
+		"public space"
+	)
+)

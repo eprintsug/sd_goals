@@ -1,0 +1,97 @@
+"Development of Transportation infrastructure" OR
+( ( infrastructure AND management ) AND ( resilien* OR sustainab* ) ) OR
+( 
+	( public AND transport* ) AND ( 
+		efficien* OR
+		integrated* OR
+		Intelligent* OR
+		network OR
+		service OR
+		system* 
+	) 
+) OR
+( 
+	Infrastructure AND ( 
+		( asset AND management ) OR
+		( construction AND project ) OR
+		( financing OR
+		( improv* AND rural ) OR
+		( Lower AND carbon ) OR
+		( public AND transport* ) OR
+		( Sustainable AND Future ) OR
+		access OR
+		affordable OR
+		asset OR
+		freight OR
+		global OR
+		green OR
+		highway OR
+		highway OR
+		improved OR
+		investing ) OR
+		investment OR
+		management OR
+		marine OR
+		municipal OR
+		pavement OR
+		planning OR
+		policies OR
+		policy OR
+		project OR
+		protection OR
+		public OR
+		quality OR
+		railroad OR
+		railway OR
+		reliability OR
+		reliable OR
+		resilien* OR
+		resilienc* OR
+		resilience OR
+		Road OR
+		smart OR
+		sustainability OR
+		sustainable OR
+		system OR
+		terrestrial OR
+		transport* OR
+		urban OR
+		wastewater* OR
+		water*
+	) 
+) OR
+( infrastructure AND sustainab* AND development ) OR
+(
+	Road AND ( 
+		asset OR
+		development OR
+		investment OR
+		management 
+	) 
+) OR
+( rural AND Infrastructure AND development ) OR
+( Smart* AND public* AND transport* ) OR
+( 
+	sustainable AND ( 
+		( 
+			( highway OR road ) AND ( 
+				construction OR
+				development OR
+				Improvement OR
+				management OR
+				network OR
+				planning OR
+				project OR
+				transport*
+			) 
+		) OR
+		( develop* AND infrastructure ) OR
+		( rail* AND transport* ) OR
+		( transport* AND facilit* ) OR
+		bridge OR
+		freight OR
+		pavement OR
+	) 
+) OR
+( urban* AND public* AND transport* ) OR
+transantiago* OR

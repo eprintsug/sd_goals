@@ -22,9 +22,9 @@ sub new
     };
 
     $self->{sconf} = 'sd_all_goals';
-    $self->{export_conf} = 'sd_all_goals';
-    $self->{sort_conf} = 'sd_all_goals';
-    $self->{group_conf} = 'sd_all_goals';
+    $self->{export_conf} = 'sdg_report';
+    $self->{sort_conf} = 'eprint_report';
+    $self->{group_conf} = 'eprint_report';
 
     return $self;
 }
@@ -59,6 +59,16 @@ Event.observe(window, 'load', function() {
 JS
 
     return $chunk;
+}
+
+sub filters
+{
+        my( $self ) = @_;
+
+        my @filters = @{ $self->SUPER::filters || [] };
+        push @filters, { meta_fields => [ 'sd_goals_checked' ], value => 'FALSE', match => 'EX' };
+
+        return \@filters;
 }
 
 sub items
@@ -109,7 +119,7 @@ sub ajax_eprint
                 summary => EPrints::XML::to_string( $frag ),
                 #grouping => sprintf( "%s", $user->value( SOME_FIELD ) ),
                 problems => [ $self->validate_dataobj( $eprint ) ],
-		bullets => [ $self->bullet_points( $eprint ) ],
+		        bullets => [ $self->bullet_points( $eprint ) ],
             };
         });
     print $self->to_json( $json );
@@ -132,27 +142,39 @@ sub bullet_points
         my( $self, $eprint ) = @_;
 
         my $repo = $self->{repository};
+        
+        my $frag = $repo->xml->create_document_fragment();
+        my $icon_div = $frag->appendChild( $repo->make_element( "div", class => "sdg_report" ) );
 
         my @bullets;
 
         foreach my $sdg( @{ $eprint->value( "sd_goals" ) } )
         {
-  	      push @bullets, $repo->make_text($sdg);
+  	      my $image_address = "/images/".$sdg.".png";
+          my $alt_text = "sd_goals_alt_".$sdg;
+
+          $icon_div->appendChild( $repo->make_element( "img", src=>$image_address, class=> "sdg_reports_icon", alt=>$repo->html_phrase( $alt_text ) ) );
         }
+        #push @bullets, $icon_div;
+        
+        #my $frag = $repo->xml->create_document_fragment();
 
-	my $frag = $repo->xml->create_document_fragment();
-
-        $frag->appendChild( $repo->html_phrase( "approve_sdgs" ) );
+        #$frag->appendChild( $repo->html_phrase( "approve_sdgs" ) );
 
         my $div = $frag->appendChild( $repo->make_element( "div", class => "approve_sdgs" ) );
 
         $div->appendChild( $repo->render_hidden_field( "eprintid", $eprint->id ) );
 
-        my $checkbox = $div->appendChild( $repo->make_element( "input",
+        my $label = $div->appendChild( $repo->make_element( "label" ) );
+        $label->appendChild( $repo->html_phrase( "approve_sdgs" ) );
+
+        my $checkbox = $label->appendChild( $repo->make_element( "input",
             type => "checkbox",
+            label => "approve_sdgs",
             name => "approve_sdgs",
             value => "false"
         ) );
+
         push @bullets, EPrints::XML::to_string( $frag );
 
 

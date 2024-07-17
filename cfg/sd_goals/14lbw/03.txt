@@ -1,0 +1,802 @@
+(
+	"a. catenella" OR
+	"a. minutum" OR
+	"a. tamarense" OR
+	"alexandrium catenella" OR
+	"alexandrium minutum" OR
+	"alexandrium peruvianum" OR
+	"alexandrium species" OR
+	"alexandrium" OR
+	"algal blooms" OR
+	"beach litter" OR
+	"bloom dynamics" OR
+	"cargo derived toxicity" OR
+	"catenella" OR
+	"coastal eutrophication" OR
+	"contaminants in fish" OR
+	"contaminants in shellfish" OR
+	"COREXIT" OR
+	"cylindrospermopsis" OR
+	"denitrifying phosphorus" OR
+	"dinophysis acuminata" OR
+	"dinophysis spp" OR
+	"dispersion of oil at sea" OR
+	"ebpr" OR
+	"effects of eutrophication" OR
+	"estuarine eutrophication" OR
+	"estuary eutrophication" OR
+	"excessive nutrients" OR
+	"gambierdiscus" OR
+	"global nutrient export" OR
+	"gulf of mexico hypoxia" OR
+	"harmful algal bloom" OR
+	"harmful algal blooms" OR
+	"imposex" OR
+	"index of coastal eutrophication" OR
+	"Iwitness pollution map" OR
+	"k. brevis" OR
+	"macroalgal blooms" OR
+	"n and p removal" OR
+	"nutrient reduction scenarios" OR
+	"oil droplets in a water column" OR
+	"oil in a water column" OR
+	"oil spill" OR
+	"oil spills" OR
+	"oil-mineral aggregate formation" OR
+	"Oil-mineral aggregate" OR
+	"oil-solids interaction" OR
+	"oil-spill" OR
+	"oilmineral aggregate formation" OR
+	"Oilmineral aggregate" OR
+	"oilsolids interaction" OR
+	"oilspill" OR
+	"p. fraudulenta" OR
+	"PAH in commercial shellfish" OR
+	"PAH in fish" OR
+	"phosphate removal from water" OR
+	"phosphorus pollution" OR
+	"phosphorus removal" OR
+	"plastic in the ocean" OR
+	"plastic in the oceans" OR
+	"plastic marine debris" OR
+	"plastics in the ocean" OR
+	"plastics in the oceans" OR
+	"pollution from ships" OR
+	"Polycyclic aromatic hydrocarbons in fish" OR
+	"Polycyclic aromatic hydrocarbons in shellfish" OR
+	"polyphosphate accumulating organisms" OR
+	"prestige oil spill" OR
+	"removal of phosphate" OR
+	"removal phosphorus" OR
+	"river export of nutrients" OR
+	"sea spill" OR
+	"sea spills" OR
+	"spill detection" OR
+	"spill response" OR
+	"spills on water" OR
+	"tamarense" OR
+	"toxic dinoflagellate" OR
+	(
+		"contaminant" AND (
+			"Albacore" OR
+			"Amberjack" OR
+			"Atlantic Bonito" OR
+			"baiji" OR
+			"Barracuda" OR
+			"Black Drum" OR
+			"Bluefish" OR
+			"Butterfish" OR
+			"Cobia" OR
+			"Croaker" OR
+			"Dolphin" OR
+			"Flounder" OR
+			"Grouper" OR
+			"Hammerhead" OR
+			"Hickory Shad" OR
+			"Hogfish" OR
+			"Jumping Mullet" OR
+			"King Mackerel" OR
+			"Knobbed Porgy" OR
+			"Little Tunny" OR
+			"Lizardfish" OR
+			"Mackerel" OR
+			"Mako Shark" OR
+			"Manta Ray" OR
+			"Marlin" OR
+			"Menhaden" OR
+			"Northern Puffer" OR
+			"otter" OR
+			"Pigfish" OR
+			"Pinfish" OR
+			"Pompano" OR
+			"Red Drum" OR
+			"Sailfish" OR
+			"salt marsh" OR
+			"salt marshes" OR
+			"Scamp" OR
+			"Sea Bass" OR
+			"sea lion" OR
+			"sea mink" OR
+			"Sea Mullet" OR
+			"SeaBass" OR
+			"seal" OR
+			"Searobin" OR
+			"Shark" OR
+			"Sheepshead" OR
+			"Silver Perch" OR
+			"Silver Snapper" OR
+			"Skate" OR
+			"Snapper" OR
+			"Spadefish" OR
+			"Speckled Hind" OR
+			"Spot" OR
+			"Spotted Trout" OR
+			"Stingray" OR
+			"Striped Bass" OR
+			"Sunfish" OR
+			"Swordfish" OR
+			"Tarpon" OR
+			"Tilefish" OR
+			"Toadfish" OR
+			"Triggerfish" OR
+			"Tuna" OR
+			"Wahoo" OR
+			"walrus" OR
+			"Whale" OR
+			"White Grunt" OR
+			"Yellowedge Grouper" OR
+			( marine* AND mammal* ) OR
+			( ocean AND fish* ) OR
+			coast OR
+			coral OR
+			mangrove OR
+			marine OR
+			ocean OR
+			reef OR
+			sea OR
+			shoreline
+		)
+	) OR
+	( "dispersion of crude oil" AND water* ) OR
+	(
+		"floating plastic" AND (
+			"coast" OR
+			sea OR
+			aquatic OR
+			marine OR
+			ocean
+		)
+	) OR
+	(
+		"fukushima Daiichi" AND (
+			"salt marsh" OR
+			"salt marshes" OR
+			coral OR
+			mangrove OR
+			marine OR
+			ocean OR
+			reef OR
+			sea OR
+			shoreline
+		)
+	) OR
+	(
+		"harmful" AND (
+			"algae" OR
+			"algal" OR
+			"cyanobacteria" OR
+			"phytoplankton" OR
+			bloom
+		) AND ( "nutrients" OR "nitrogen" OR posphor* )
+	) OR
+	(
+		"hydrocarbons" AND (
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			marine OR
+			maritim* OR
+			ocean OR
+			sea
+		)
+	) OR
+	( "large spills on" AND water* ) OR
+	(
+		"marine debris ingestion" AND (
+			plastic OR
+			microplastic OR
+			macroplastic OR
+			"micro plastic" OR
+			"micro plastics" OR
+			"macro plastic" OR
+			"macro plastics"
+		)
+	) OR
+	( "Metula" AND ( "tanker" OR "supertanker" ) ) OR
+	(
+		"microplastic transport" AND (
+			ocean OR
+			marine OR
+			aquatic OR
+			current OR
+		)
+	) OR
+	( "oil pollution" AND ( "harbor" OR "harbour" OR port ) ) OR
+	(
+		"oil slick" AND (
+			"coast" OR
+			"detection" OR
+			sea OR
+			marine OR
+			ocean
+		)
+	) OR
+	(
+		"oil spill" AND (
+			"detection" OR
+			"monitoring" OR
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			maritim*
+		)
+	) OR
+	(
+		"plastic debris" AND (
+			aquatic OR
+			coast OR
+			marine OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		"plastic pollution" AND (
+			"coast" OR
+			sea OR
+			aquatic OR
+			coast OR
+			marine OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		"plastic transport" AND (
+			aquatic OR
+			current OR
+			marine OR
+			ocean
+		)
+	) OR
+	(
+		"pollutant" AND (
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			marine OR
+			maritim* OR
+			ocean OR
+			sea
+		) AND NOT ( "atmospheric pollutant" OR "atmospheric pollutants" )
+	) OR
+	(
+		"pollution" AND (
+			"Albacore" OR
+			"Amberjack" OR
+			"Atlantic Bonito" OR
+			"baiji" OR
+			"Barracuda" OR
+			"Black Drum" OR
+			"Bluefish" OR
+			"Butterfish" OR
+			"Cobia" OR
+			"Croaker" OR
+			"Dolphin" OR
+			"estuaries" OR
+			"estuary" OR
+			"Flounder" OR
+			"Grouper" OR
+			"Hammerhead" OR
+			"Hickory Shad" OR
+			"Hogfish" OR
+			"Jumping Mullet" OR
+			"King Mackerel" OR
+			"Knobbed Porgy" OR
+			"Little Tunny" OR
+			"Lizardfish" OR
+			"Mackerel" OR
+			"Mako Shark" OR
+			"Manta Ray" OR
+			"Marlin" OR
+			"Menhaden" OR
+			"Northern Puffer" OR
+			"otter" OR
+			"Pigfish" OR
+			"Pinfish" OR
+			"Pompano" OR
+			"Red Drum" OR
+			"Sailfish" OR
+			"Scamp" OR
+			"Sea Bass" OR
+			"sea lion" OR
+			"sea mink" OR
+			"Sea Mullet" OR
+			"SeaBass" OR
+			"seal" OR
+			"Searobin" OR
+			"Shark" OR
+			"Sheepshead" OR
+			"Silver Perch" OR
+			"Silver Snapper" OR
+			"Skate" OR
+			"Snapper" OR
+			"Spadefish" OR
+			"Speckled Hind" OR
+			"Spot" OR
+			"Spotted Trout" OR
+			"Stingray" OR
+			"Striped Bass" OR
+			"Sunfish" OR
+			"Swordfish" OR
+			"Tarpon" OR
+			"Tilefish" OR
+			"Toadfish" OR
+			"Triggerfish" OR
+			"Tuna" OR
+			"Wahoo" OR
+			"walrus" OR
+			"Whale" OR
+			"White Grunt" OR
+			"Yellowedge Grouper" OR
+			( marine* AND mammal* ) OR
+			( ocean AND fish* )
+		)
+	) OR
+	(
+		"salt marsh" AND (
+			"contaminant" OR
+			"heavy metal" OR
+			"heavy metals" OR
+			"pollutant" OR
+			"pollutants" OR
+			"pollution" OR
+			contaminat*
+		)
+	) OR
+	(
+		"Trace elements" AND (
+			"estuaries" OR
+			"estuary" OR
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			marine OR
+			maritim* OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		(
+			"anthropogenic debris" OR
+			"beach litter"  OR
+			"bioaccumulation" OR
+			"Corexit" OR
+			"deepwater horizon" OR
+			"floating plastic" OR
+			"floating plastics" OR
+			"hydrocarbons" OR
+			"irgarol" OR
+			"oil pollution" OR
+			"oil slick" OR
+			"oil slicks" OR
+			"oil spill" OR
+			"PBTs" OR
+			"Persistent organic pollutant" OR
+			"Persistent organic pollutants" OR
+			"pollution indicator" OR
+			"QUASIMEME" OR
+			"sewage pollution" OR
+			"spill risk assessment" OR
+			"TOMPs" OR
+			"trace metals" OR
+			( ballast AND water* ) OR
+			dumping OR
+			microplastic
+		) AND (
+			coast OR
+			marine OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		(
+			"Aegean Captain" OR
+			"Amoco Cadiz" OR
+			"Atlantic Empress" OR
+			"Castillo de Bellver" OR
+			"Erika" OR
+			"Exxon Valdez" OR
+			"New Diamond" OR
+			"Odyssey" OR
+			"Rena" OR
+			"Sanchi" OR
+			"Sea Empress"
+		) AND ( spill OR "oil" OR "pollution" )
+	) OR
+	(
+		(
+			"anthropogenic radioactivity" OR
+			"anthropogenic radionuclides" OR
+			"fission products" OR
+			"technogenic radioactivity" OR
+			"technogenic radionuclides" OR
+			( "radioactivity" AND contam* ) OR
+			( "radionuclides" AND contam* )
+		) AND (
+			"salt marsh" OR
+			"salt marshes" OR
+			coast OR
+			coral OR
+			mangrove OR
+			marine OR
+			ocean OR
+			reef OR
+			sea OR
+			shoreline
+		)
+	) OR
+	(
+		(
+			"bioaccumulation" OR
+			"Biological Accumulation" OR
+			"ocean litter" OR
+			( heavy AND metal ) OR
+			contaminat* OR
+			plastic OR
+			pollut* OR
+			pollutant
+		) AND (
+			"Albacore" OR
+			"Amberjack" OR
+			"Atlantic Bonito" OR
+			"baiji" OR
+			"Barracuda" OR
+			"Black Drum" OR
+			"Bluefish" OR
+			"Butterfish" OR
+			"Cobia" OR
+			"Croaker" OR
+			"Dolphin" OR
+			"Flounder" OR
+			"Grouper" OR
+			"Hammerhead" OR
+			"harbor seal" OR
+			"Hickory Shad" OR
+			"Hogfish" OR
+			"Jumping Mullet" OR
+			"King Mackerel" OR
+			"Knobbed Porgy" OR
+			"Little Tunny" OR
+			"Lizardfish" OR
+			"Mackerel" OR
+			"Mako Shark" OR
+			"Manta Ray" OR
+			"Marlin" OR
+			"Menhaden" OR
+			"Northern Puffer" OR
+			"otter" OR
+			"Pigfish" OR
+			"Pinfish" OR
+			"Pompano" OR
+			"Red Drum" OR
+			"Sailfish" OR
+			"Scamp" OR
+			"Sea Bass" OR
+			"sea lion" OR
+			"sea mink" OR
+			"Sea Mullet" OR
+			"SeaBass" OR
+			"seal" OR
+			"Searobin" OR
+			"Shark" OR
+			"Sheepshead" OR
+			"Silver Perch" OR
+			"Silver Snapper" OR
+			"Skate" OR
+			"Snapper" OR
+			"Spadefish" OR
+			"Speckled Hind" OR
+			"Spot" OR
+			"Spotted Trout" OR
+			"Stingray" OR
+			"Striped Bass" OR
+			"Sunfish" OR
+			"Swordfish" OR
+			"Tarpon" OR
+			"Tilefish" OR
+			"Toadfish" OR
+			"Triggerfish" OR
+			"Tuna" OR
+			"Wahoo" OR
+			"walrus" OR
+			"Whale" OR
+			"White Grunt" OR
+			"Yellowedge Grouper" OR
+			( marine* AND mammal* ) OR
+			( ocean AND fish* ) OR
+			seawater
+		)
+	) OR
+	( ( "crude oil" OR "biodiesel" OR "spilled oil" ) AND ( "aquatic environment" OR "aquatic ecosystem" ) ) OR
+	(
+		(
+			"floating micro plastic" OR
+			"floating microplastic" OR
+			"floating plastic" OR
+			"nurdle" OR
+			"nurdles" OR
+			"plastic micro bead" OR
+			"plastic micro beads" OR
+			"plastic microbead" OR
+			"plastic microbeads" OR
+			"plastic pellet" OR
+			"plastic pellets" OR
+			"plastic waste"
+		) AND ( ocean OR marine OR aquatic )
+	) OR
+	(
+		(
+			"ingested plastic" OR
+			"microplastic contamination" OR
+			( ingestion AND macroplastic* ) OR
+			( ingestion AND microplastic* ) OR
+			( ingestion AND plastic* ) OR
+			( plastic* AND contamination ) OR
+			( plastic* AND ingestion )
+		) AND (
+			"aquatic life" OR
+			"fish" OR
+			( aquatic AND organism ) OR
+			marine
+		)
+	) OR
+	( ( "marine debris" OR "marine litter" ) AND plastic ) OR
+	(
+		(
+			"macro plastic particle" OR
+			"macro plastic particles" OR
+			"macroplastic particle" OR
+			"macroplastic particles" OR
+			"meso plastic particle" OR
+			"meso plastic particles" OR
+			"mesoplastic particle" OR
+			"mesoplastic particles" OR
+			"micro plastic particle" OR
+			"micro plastic particles" OR
+			"microplastic particle" OR
+			"microplastic particles" OR
+			"plastic particle" OR
+			"plastic particles" OR
+			"plastic particles"
+		) AND (
+			"atlantic" OR
+			"pacific" OR
+			aquatic OR
+			ocean
+		)
+	) OR
+	(
+		(
+			"microplastic abundance" OR
+			"microplastic pollution" OR
+			"microplastics pollution" OR
+			"plastic litter" OR
+			"plastic particles" OR
+			( mesoplastic* AND pollution* ) OR
+			( plastic* AND abundance* ) OR
+			macroplastic* OR
+			mesoplastic*
+		) AND ( ocean OR marine OR aquatic )
+	) OR
+	(
+		(
+			"plastic debris" OR
+			"plastic fragment" OR
+			"plastic fragments" OR
+			"plastic litter"
+		)	AND ( ocean OR aquatic )
+	) OR
+	(
+		"pollutants" AND (
+			coast OR
+			marine OR
+			ocean OR
+			sea
+		) AND NOT ( "atmospheric pollutant" OR "atmospheric pollutants" )
+	) OR
+	(
+		"pollution" AND (
+			sea OR
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			marine OR
+			maritim* OR
+			ocean
+		)
+		AND NOT ( "air pollution" )
+	) OR
+	(
+		microplastic AND (
+			aquatic OR
+			coast OR
+			marine OR
+			ocean OR
+			sea OR
+		)
+	) OR
+	(
+		(
+			(
+				"plastic debris" OR
+				"plastic particles" OR
+				( macro* AND plastic* ) OR
+				( meso* AND plastic* ) OR
+				( micro AND plastic* ) OR
+				macroplastic* OR
+				mesoplastic* OR
+				microplastic*
+			) AND ( ocean OR marine* )
+		) AND NOT ( "plasticity" )
+	) OR
+	(
+		( contamina* OR pollutant* OR ( heavy* AND metal* ) ) AND (
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			marine OR
+			maritim* OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		( heavy AND metal ) AND (
+			"estuaries" OR
+			"estuary" OR
+			"salt marsh" OR
+			"salt marshes" OR
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			coral OR
+			mangrove OR
+			marine OR
+			maritim* OR
+			ocean OR
+			reef OR
+			sea OR
+			shoreline OR
+		)
+	) OR
+	( 		( mercury* AND accumul* ) AND ( marine OR ocean OR coast OR sea ) 	) OR
+	(
+		( metal* AND contamin* ) AND (
+			"gulf" OR
+			coast OR
+			marine OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		(
+			pollut* AND (
+				"salt marsh" OR
+				"salt marshes" OR
+				( "gulf" AND NOT ( gulf-war OR gulfwar ) ) OR
+				coast OR
+				coral OR
+				mangrove OR
+				marine OR
+				maritim* OR
+				ocean OR
+				reef OR
+				sea OR
+				shoreline
+			)
+		) AND NOT ( "air pollution" )
+	) OR
+	(
+		( water* AND pollution ) AND (
+			coastal OR
+			marine OR
+			ocean OR
+			port OR
+			sea
+		)
+	) OR
+	(
+		bloom* AND (
+			algal OR
+			marine OR
+			ocean OR
+			sea
+		)
+	) OR
+	( coast AND pollut* ) OR
+	( contaminant AND oyster* ) OR
+	(
+		contaminat* AND (
+			"estuaries" OR
+			"estuary" OR
+			"oyster" OR
+			"salt marsh" OR
+			"salt marshes" OR
+			( "gulf" AND NOT ( "gulf-war" OR
+			( ( harbor OR harbour ) AND sediments ) OR
+			coast OR
+			coral OR
+			gulfwar ) ) OR
+			mangrove OR
+			marine OR
+			maritim* OR
+			ocean OR
+			reef OR
+			sea OR
+			shoreline
+		)
+	) OR
+	(
+		contamination AND (
+			( "gulf" AND NOT ( "gulf-war" OR gulfwar ) ) OR
+			coast OR
+			estuar* OR
+			marine OR
+			maritim* OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		eutrophi* AND (
+			"gulf" OR
+			coast OR
+			marine OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		eutrophication AND (
+			"assessment" OR
+			"indicator" OR
+			"management" OR
+			"model" OR
+			"nutrients" OR
+			"potential" OR
+			"status" OR
+			( coastal AND water* ) OR
+			water
+		)
+	) OR
+	(
+		marine AND (
+			"eutrophication" OR
+			"litter" OR
+			"macro plastic" OR
+			"macro plastics" OR
+			"micro plastic" OR
+			"micro plastics" OR
+			"plastic debris" OR
+			"plastic pollution" OR
+			( macro AND plastic ) OR
+			debris OR
+			macroplastic OR
+			microplastic OR
+			plastic OR
+			pollut* OR
+			spill
+		)
+	) OR
+	( maritime* AND pollut* ) OR
+	( ocean AND ( debris OR "disposal" OR plastic OR spill OR spill OR debris OR pollut* ) ) OR
+	( oiled* AND sea* AND bird* ) OR
+	( tanker AND ( accident OR spill ) ) OR
+	( wastewater* AND emission )
+) AND NOT ( 	aerosol* )

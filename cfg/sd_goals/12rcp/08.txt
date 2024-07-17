@@ -1,0 +1,69 @@
+"blue flag programme" OR
+"eco-tourism" OR
+"geotourism" OR
+"homestay programme" OR
+"overtourism" OR
+"sustainability in tourism" OR
+"sustainable development of tourism" OR
+"sustainable rural tourism" OR
+( "airline" AND ( environmental AND impact ) ) OR
+( "cultural heritage tourism" AND ( protect* OR sustain* ) ) OR
+( "holiday" AND ( ( climate AND chang* ) OR "global warming" ) ) OR
+( "hotel industry" AND environment* ) OR
+( "hotel" AND ( sustainable OR sustainability ) ) OR
+( "tourism development" AND ( "ecological" OR sustainab* ) ) OR
+( ( environment* AND management ) AND ( "tourist" OR "tourists" OR "tourism" ) ) OR
+( ( responsible OR volunteer ) AND tourist ) OR
+(
+	tourism AND (
+		"alternative" OR
+		"carbon footprint" OR
+		"carrying capacity" OR
+		"community-based" OR
+		"communitybased" OR
+		"development" OR
+		"eco" OR
+		"ecological" OR
+		"ecological" OR
+		"ecologically sensitive" OR
+		"effect of" OR
+		"effects of" OR
+		"ethical" OR
+		"green" OR
+		"integrated development" OR
+		"last chance" OR
+		"management" OR
+		"nature-based" OR
+		"naturebased" OR
+		"penetration index" OR
+		"planning" OR
+		"reform" OR
+		"responsible" OR
+		"rural" OR
+		"slow travel" OR
+		"social impact" OR
+		"sustainability" OR
+		"sustainable" OR
+		"volunteer" OR
+		"wildlife" OR
+		( impact AND underwater* ) OR
+		( related* AND conflict* ) OR
+		environment  OR
+		impact OR
+		impact* OR
+		policies OR
+		policy OR
+		sustainab* OR
+		sustainability
+	)
+) OR
+(
+	visitor* AND (
+		( environment* AND impact* ) OR
+		( protected* AND area* ) OR
+		sustainability
+		sustainable OR
+	)
+) OR
+ecotourism OR
+ecotourist

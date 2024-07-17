@@ -1,0 +1,261 @@
+(
+	"Ahai Dam" OR
+	"Atatürk Dam" OR
+	"Bakun Dam" OR
+	"Boguchany Dam" OR
+	"Bureya Dam" OR
+	"Chicoasén Dam" OR
+	"Chief Joseph Dam" OR
+	"damless" OR
+	"Daniel-Johnson Dam" OR
+	"Ertan Dam" OR
+	"Francis-99" OR
+	"Gezhouba Dam" OR
+	"Goupitan Dam" OR
+	"gravitation water vortex" OR
+	"Guandi Dam" OR
+	"Guanyinyan Dam" OR
+	"Hoover Dam" OR
+	"hydraulic power plant" OR
+	"hydraulic power station" OR
+	"hydroelectricity" OR
+	"hydroenergy power plant" OR
+	"hydropeaking" OR
+	"hydroplant" OR
+	"hydroplants" OR
+	"hydropower" OR
+	"Ilha Solteira Dam" OR
+	"Itaipu Dam" OR
+	"Jinanqiao Dam" OR
+	"John Day Dam" OR
+	"Kaplan runner" OR
+	"Karun I (Shahid Abbaspour) Dam" OR
+	"Karun III Dam" OR
+	"large hydro" OR
+	"Laxiwa Dam" OR
+	"Lijiaxia Dam" OR
+	"Liyuan Dam" OR
+	"Longtan Dam" OR
+	"Masjed Soleyman Dam" OR
+	"Mica Dam" OR
+	"micro hydraulic power plant" OR
+	"Micro-hydro" OR
+	"microhydro power" OR
+	"microhydropower" OR
+	"mini hydro station" OR
+	"Nurek Dam" OR
+	"pico-hydro" OR
+	"Pubugou Dam" OR
+	"Pump as turbine" OR
+	"Pump as turbines" OR
+	"Pump-storage power" OR
+	"Pumps as turbine" OR
+	"Pumps as turbines" OR
+	"Revelstoke Dam" OR
+	"runner blade" OR
+	"runner blades" OR
+	"Screw runner" OR
+	"small hydro" OR
+	"Son La Dam" OR
+	"Tarbela Dam" OR
+	"Three Gorges Dam" OR
+	"turbine-99" OR
+	"Turgo runner" OR
+	"underground powerhouse" OR
+	"VLH runner" OR
+	"W. A. C. Bennett Dam" OR
+	"Xiaowan Dam" OR
+	(
+		(
+			"Aswan" OR
+			"Bath County PSP" OR
+			"Belo Monte" OR
+			"Bratsk" OR
+			"Cahora Bassa" OR
+			"Caruachi" OR
+			"Changheba" OR
+			"Churchill Falls" OR
+			"Cleuson-Dixence Complex" OR
+			"Dagangshan" OR
+			"Grand Coulee" OR
+			"Guri" OR
+			"Iron Gates-I" OR
+			"Itumbiara" OR
+			"Jinping-I" OR
+			"Jinping-II" OR
+			"Jirau" OR
+			"Krasnoyarsk" OR
+			"La Grande-2-A" OR
+			"La Grande-3" OR
+			"La Grande-4" OR
+			"Ludila" OR
+			"Macagua" OR
+			"Nuozhadu" OR
+			"Paulo Afonso IV" OR
+			"Robert-Bourassa" OR
+			"Santo Antonio" OR
+			"Sayano-Shushenskaya" OR
+			"Tucuruí" OR
+			"Ust Ilimskaya" OR
+			"Volzhskaya" OR
+			"Xiangjiaba" OR
+			"Xiluodu" OR
+			"Xingó Hydroelectrical Power Plant" OR
+			"Yacyretá" OR
+			"Zhiguliovskaya"
+		) AND ( "dam" OR hydro* )
+	) OR
+	(
+		( hydroelectric OR "hydro electric" ) AND (
+			"thermal power generation" OR
+			( generating AND station* ) OR
+			( generating AND unit* ) OR
+			cascade* OR
+			dam* OR
+			development OR
+			development* OR
+			energy OR
+			engineering OR
+			exploitation OR
+			facilit* OR
+			generation OR
+			generator* OR
+			licens* OR
+			plant* OR
+			potential OR
+			power OR
+			power* OR
+			powerplant* OR
+			production OR
+			project* OR
+			reservoir* OR
+			resource* OR
+			scheduling OR
+			station OR
+			supply OR
+			technolog* OR
+			turbine*
+		)
+	) OR
+	( ( pump AND turbine ) AND NOT ( "steam" OR heat* ) ) OR
+	(
+		( Run-of-river OR run-of-the-river ) AND (
+			"hydro power" OR
+			"hydroelectric" OR
+			"hydropower" OR
+			"power"
+		)
+	) OR
+	( bulb AND ( runner* OR turbine* ) ) OR
+	( Cascade AND Reservoir* ) OR
+	( Francis AND ( runner OR turbine* ) ) OR
+	(
+		hydro AND (
+			"energy power plant" OR
+			( micro AND power* ) OR
+			development OR
+			electricity OR
+			generation OR
+			generator OR
+			peaking OR
+			plant OR
+			potential OR
+			power OR
+			production OR
+			project OR
+			reservoir OR
+			resource OR
+			scheduling OR
+			turbine*
+		)
+	) OR
+	( hydro AND rotor ) OR
+	( Kaplan AND runner* ) OR
+	( Pelton AND runner* ) OR
+	( Pelton AND wheel* ) OR
+	( penstock* AND ( hydro OR hydroelectric ) ) OR
+	(
+		pumped AND (
+			"hydro storage plant" OR
+			"hydroelectric storage plant" OR
+			"hydroenergy" OR
+			"storage power"
+		)
+	) OR
+	(
+		Pumped-storage AND (
+			"facilities" OR
+			"facility" OR
+			"plant" OR
+			"power plant" OR
+			"power station"
+		)
+	) OR
+	( surge AND ( hydro OR hydroelectric ) ) OR
+	(
+		turbine AND (
+			( hydro AND station ) OR
+			( water AND vortex ) OR
+			archimedes OR
+			Bánki-Michell OR
+			cross-flow OR
+			Deriaz OR
+			electro-hydraulic OR
+			electrohydraulic OR
+			Gorlov helical OR
+			hydraulic OR
+			hydro OR
+			hydroelectric* OR
+			Kaplan OR
+			Ossberger OR
+			Pelton OR
+			Screw OR
+			Turgo OR
+			VLH OR
+			water
+		)
+	) OR
+	( turbine AND runner* ) OR
+	( Turgo AND runner* ) OR
+	( vortex AND power AND plant* ) OR
+	( Waterwheel* AND ( "Hydraulic power" OR "hydropower" OR "hydro power" ) ) OR
+) AND NOT (
+	"greenhouse gas" OR
+	( bio-mass OR biomass ) OR
+	( ecosystem* AND ( restoration OR service ) ) OR
+	( emission* AND NOT ( acoustic ) ) OR
+	( environmental AND service ) OR
+	( heavy AND metal* ) OR
+	biodiversity OR
+	botan* OR
+	contamina* OR
+	damming OR
+	Eco-hydrological OR
+	Eco-hydrology OR
+	Ecohydrological OR
+	Ecohydrology OR
+	fish OR
+	fisheries OR
+	fishery OR
+	hydro-climatic OR
+	hydro-ecological OR
+	hydro-ecology OR
+	hydro-ecosystem OR
+	hydro-ecosystems OR
+	hydroclimatic OR
+	hydroecological OR
+	hydroecology OR
+	hydroecosystem* OR
+	mercury OR
+	Methane OR
+	methylmercury OR
+	migration* OR
+	plankton OR
+	salmon OR
+	taxation
+	taxation OR
+	Taxes OR
+	trout OR
+	vegetation* OR
+	Zooplankton
+)

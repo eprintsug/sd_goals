@@ -1,0 +1,349 @@
+"artificial photosynthesis" OR
+"bio-H2" OR
+"bio-hydrogen" OR
+"bio-hydrogenated diesel" OR
+"bio-jet fuel*" OR
+"bio-liquid fuel*" OR
+"biochar gasification" OR
+"hydro-treated vegetable oil OR
+"membrane electrode assembly" OR
+"oxidative steam reforming" OR
+"photo-fermentation" OR
+"photofermentation" OR
+"solar-to-fuel" OR
+"solar-to-hydrogen" OR
+"solartofuel" OR
+"solartohydrogen" OR
+"storage of H2" OR
+"storage of hydrogen" OR
+"stored H2" OR
+"stored hydrogen" OR
+"storing H2" OR
+"storing hydrogen" OR
+"straw gasification" OR
+"sugar cane energy" OR
+"thermo-catalytic reforming" OR
+"thermocatalytic reforming" OR
+"ultra-low-sulfur diesel" OR
+"ultralow-sulfur diesel" OR
+"ultralowsulfur diesel" OR
+"waste-to-methanol" OR
+"wastetomethanol" OR
+"wood gasification" OR
+( "afex" AND NOT ( ( "QL-CA-Afex" OR "QLCAAfex" ) ) ) OR
+( "deconstruction of lignocellulose" AND ( energy OR fuel* ) ) OR
+( "degradation of lignocellulose" AND ( energy OR fuel* ) ) OR
+( "hydrogen production" AND ( fuel* OR energy ) ) OR
+( "hydrogen rich" AND "syngas" ) OR
+( "hydrogen" AND vehicle* ) OR
+( "hydrothermal carbonization" AND ( "hydrogen" OR fuel ) ) OR
+( "lignocellulosic" AND fuel ) OR
+( "renewable natural gas" AND NOT ( ( "non-renewable" OR "nonrenewable" ) ) ) OR
+( "sofc" AND NOT ( "fuzzy control" ) ) OR
+( "sofcs" AND NOT ( "fuzzy control" ) ) OR
+( "solar energy" AND fuel AND ( "hydrogen" OR "H2" ) ) OR
+( "sustainable natural gas" AND NOT ( ( "non-sustainable" OR "nonsustainable" ) ) ) OR
+( "torrefaction" AND fuel ) OR
+( "vacuum membrane distillation" AND "ammonia" ) OR
+( "wind energy" AND fuel AND ( "hydrogen" OR (H2) ) ) OR
+( ( "bioenergy" OR 	( "bio-energy" OR "bioenergy" ) ) AND NOT ( ( "cellular bioenergy" OR ( "cellular bio-energy" OR "cellular bioenergy" ) ) ) ) OR
+( ( "biogas" OR ( "bio-gas" OR "biogas" ) ) AND ( energy OR fuel ) ) OR
+( ( "deconstruction" OR "degradation" ) AND ( energy OR fuel* ) ) OR
+( ( "dmfc" OR "dmfcs" ) AND "methanol" ) OR
+( ( "Fischer-Tropsch" OR "FischerTropsch" ) AND fuel* ) OR
+( ( "hydrogen delivery" OR "H2 delivery" ) AND NOT ( ( hydrogen AND carrier* ) ) ) OR
+( 
+	( "hydrogen" OR "H2" ) AND ( 
+		"AIRCRAFT" OR
+		"AIRCRAFTS" OR
+		"AIRPLANE" OR
+		"AIRPLANES" OR
+		"automobiles" OR
+		"automobiles" OR
+		"Bicycle" OR
+		"Bicycles" OR
+		"busses" OR
+		"combustion engine" OR
+		"combustion engines" OR
+		"electric vessel" OR
+		"electric vessels" OR
+		"motorcycle" OR
+		"motorcycles" OR
+		"Quads" OR
+		"railway" OR
+		"railways" OR
+		"rocket" OR
+		"rockets" OR
+		"scooter" OR
+		"scooters" OR
+		"tractor" OR
+		"tractors" OR
+		"trams" OR
+		"tramway" OR
+		"tramways" OR
+		( military AND vehicl* ) OR
+		bus
+	) AND fuel 
+) OR
+( ( "methanol" OR "hydrogen" ) AND ( ( proton AND exchange AND membrane* ) OR ( polymer-electrolyte AND membrane* ) ) ) OR
+( ( "solid-oxide electrolysis" OR "solidoxide electrolysis" ) AND ( "hydrogen" OR "H2" ) ) OR
+( ( ( alcohol AND fuel* ) OR "fuel alcohol" ) AND NOT ( ( "alcohol-fuelled" OR "alcoholfuelled" ) ) ) OR
+( 
+	( ( bio-mass OR biomass ) AND ( 
+		conversion OR
+		deconstruction OR
+		degradation OR
+		recalcitrance OR
+		saccharification 
+	) 
+	) AND ( energy OR fuel* ) 
+) OR
+( ( ( bipolar AND plate* ) OR ( bi-polar AND plate* ) ) AND NOT ( batter* ) ) OR
+( ( ( hydrogen AND suppl* ) OR ( H2 AND suppl* ) ) AND NOT ( ( hydrogen AND carrier* ) ) ) OR
+( ( ( hydrogen AND transport* ) OR ( H2 AND transport* ) ) AND NOT ( ( H2S AND transport* ) ) AND NOT ( ( hydrogen AND carrier* ) ) ) OR
+( ( ( synthetic AND fuel* ) OR synfuel* ) AND ( aircraft* OR "aviation" ) ) OR
+( ( ( transport AND hydrogen* ) OR ( transport AND H2* ) ) AND NOT ( ( hydrogen AND carrier* ) ) ) OR
+( 
+	( bio-mass OR biomass ) AND (
+		"catalytic pyrolysis" OR
+		"Fischer-tropsch" OR
+		"Fischertropsch" OR
+		"flash pyrolysis" OR
+		"gasification" OR
+		"pyrolysis" OR
+		"steam gasification" OR
+		"torrefaction OR
+		( biochemical AND conversion ) OR
+		( chemical AND conversion ) OR
+		( electrochemical AND conversion ) OR
+		( fast AND pyrolysis ) OR
+		( fuel AND cell* ) OR
+		( liquid AND fuel* ) OR
+		( microbial AND fuel AND cell* ) OR
+		( thermal AND conversion ) OR
+		briquet* OR
+		energy OR
+		fuel* OR
+		gasifier* OR
+		hydrotherm*
+	) 
+) OR
+( ( biochar* OR bio-char* ) AND energy ) OR
+( ( biorefiner* OR bio-refiner* ) AND ( energy OR fuel* ) ) OR
+( 
+	( gas AND diffusion AND layer* ) AND ( 
+		"proton exchange membrane" OR
+		"proton exchange membranes" OR
+		hydrogen OR
+		PEMFC
+	) 
+) OR
+( 
+	( 
+		lignocellulose AND ( 
+			deconstruction OR
+			degradation OR
+			feedstock OR
+			material* OR
+			residue* OR
+			waste 
+		) 
+	) AND ( energy OR fuel ) 
+) OR
+( ( lignocellulosic AND ( bio-mass OR biomass ) ) AND ( energy OR fuel* ) ) OR
+( alga* AND ( fuel* OR 	"pyrolysis" OR 	( crude AND oil* ) OR 	oil* ) ) OR
+( alkaline AND fuel AND cell ) OR
+( ammonia AND ( fiber OR fibre ) AND expansion ) OR
+( ammonia AND ( fiber OR fibre ) AND explosion ) OR
+( bio-char AND briquet* ) OR
+( bio-char AND gasification ) OR
+( biochar AND briquet* ) OR
+( biohydrogenated AND diesel ) OR
+( biojet AND fuel* ) OR
+( bioliquid AND fuel* ) OR
+( biological AND ( H2 OR hydrogen ) ) OR
+( btl AND fuel* ) OR
+( clean AND electricity ) OR
+( clean AND energy ) OR
+( dark AND fermentation ) OR
+( direct AND hydrogen AND injection ) OR
+( energy AND ( cane OR crop* OR forest* OR grass* ) ) OR
+( ethanol AND ( energy OR cellulosic OR corn OR fuel* ) ) OR
+( fast AND pyrolysis ) OR
+( 
+	fuel AND ( 
+		"butanol" OR
+		"ethanol" OR
+		"methanol" OR
+		"waste" OR
+		cell* OR
+		chip* OR
+		electro OR
+		wood
+	) 
+) OR
+( gasification AND ( bio-char" OR biochar ) ) OR
+( 
+	green AND ( 
+		( aviation AND fuel* ) OR
+		( jet AND fuel* ) OR
+		( liquid AND fuel* ) OR
+		diesel OR
+		electricity OR
+		energy OR
+		fuel* OR
+		gasoline OR
+		petrol
+	) 
+) OR
+( 
+	H2 AND ( 
+		( energy AND storage ) OR
+		( gas AND pipeline* ) OR
+		( transport* AND storage ) OR
+		compressor* OR
+		demand* OR
+		economy OR
+		energy OR
+		engine* OR
+		evolution OR
+		fermentation OR
+		fermentative OR
+		fuel OR
+		fuel OR
+		infrastructure* OR
+		photocatalytic OR
+		pipeline* OR
+		power* OR
+		refuel* OR
+		storage OR
+		vehicle*
+	) 
+) OR
+( 
+	hydrogen AND ( 
+		"as a fuel" OR
+		"direct injection" OR
+		"from solar" OR
+		"fueling" OR
+		"fuelling" OR
+		"powered" OR
+		"refueling" OR
+		"refuelling" OR
+		( energy AND storage ) OR
+		( gas AND pipeline* ) OR
+		( internal AND combustion AND engine* ) OR
+		( transport* AND storage ) OR
+		bus OR
+		car OR
+		car OR
+		compressor* OR
+		demand* OR
+		economy OR
+		energy OR
+		engine* OR
+		evolution OR
+		fermentation OR
+		fermentative OR
+		fuel OR
+		infrastructure* OR
+		photocatalytic OR
+		pipeline* OR
+		power OR
+		refuel* OR
+		station* OR
+		storage OR
+		vehicle*
+	) 
+) OR
+( hydrogen-fueled AND engine* ) OR
+( hydrogen-fuelled AND engine* ) OR
+( hydrothermal AND ( "co-liquefaction" OR "coliquefaction" OR "liquefaction" ) ) OR
+( hydrotreated AND vegetable AND oil* ) OR
+( lignocellulosic AND ( butanol OR ethanol ) ) OR
+( 
+	ethanol AND ( 
+		"from waste" OR
+		fuel* OR
+		reformer* OR
+		( steam AND reform* ) 
+	) 
+) OR
+( microbial AND electrolysis AND cell ) OR
+( Molten AND carbonate AND fuel AND cell ) OR
+( paraffinic AND diesel AND fuel* ) OR
+( paraffinic AND fuel* ) OR
+( photo-bio AND fuel* ) OR
+( photobio AND fuel* ) OR
+( pyrolysis AND oil* ) OR
+( 
+	renewable AND ( 
+		( aviation AND fuel* ) OR
+		( jet AND fuel* ) OR
+		( liquid AND fuel* ) OR
+		diesel OR
+		energy OR
+		fuel* OR
+		gasoline OR
+		petrol
+	) 
+) OR
+( short AND rotation AND coppice* ) OR
+( 
+	solar AND ( 
+		"H2 production" OR
+		"hydrogen production" OR
+		"syngas" OR
+		fuel*
+	) 
+) OR
+( solid AND oxide AND fuel* ) OR
+( 
+	sustainable AND ( 
+		( aviation AND fuel* ) OR
+		( jet AND fuel* ) OR
+		electricity OR
+		energy OR
+		fuel*
+	) 
+) OR
+( sustainable AND liquid AND fuel* ) OR
+( synthetic AND ( ( aviation AND fuel* ) OR ( jet AND fuel* ) ) ) OR
+( vegetable AND oil AND fuel* ) OR
+( waste AND plastic AND oil* ) OR
+( wood AND fuel* ) OR
+agro-energy OR
+agro-fuel* OR
+agroenergy OR
+agrofuel* OR
+bio-butanol OR
+bio-crude OR
+bio-diesel OR
+bio-ethanol OR
+bio-fuel* OR
+bio-mass-to-ethanol OR
+bio-mass-to-fuel* OR
+bio-methanol OR
+bio-petrol OR
+bio-pyrolysis OR
+biobutanol OR
+biocrude OR
+biodiesel OR
+bioethanol OR
+biofuel* OR
+bioH2 OR
+biohydrogen OR
+biomass-to-ethanol OR
+biomass-to-fuel* OR
+biomass-to-liquid OR
+biomasstoethanol OR
+biomasstoliquid OR
+biomethanol OR
+biopetrol OR
+biopyrolysis OR
+electrofuel OR
+fuelcell* OR
+fuelwood OR
+oilgae OR
+PEMFC OR
+PEMFCs

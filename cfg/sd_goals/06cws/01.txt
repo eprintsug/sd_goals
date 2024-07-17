@@ -1,0 +1,148 @@
+(
+	( degrad* AND river* ) OR
+	( freshwater* AND protect* ) OR
+	( groundwater* AND ( protect* OR rehabilitat ) ) OR
+	(
+		lake* AND (
+			degrad* OR
+			preserv* OR
+			protect* OR
+			rehabilitat* OR
+			restor*
+		)
+	) OR
+	( pond* AND protect* OR rehabilitat* OR restor* ) OR
+	( riparian AND ( rehabilitat* OR restor* OR ( zone AND restor* ) ) ) OR
+	(
+		river* AND (
+			degrad* OR
+			preserv* OR
+			protect* OR
+			reclamation OR
+			rehabilitat* OR
+			restor* OR
+			stabilis* OR
+			stabiliz* OR
+		)
+	) OR
+	( river* AND stream* AND ( rehabilitat* OR restor* ) ) OR
+	(
+		stream* AND (
+			rehabilitat* OR
+			restor*
+			stabilis* OR
+			stabiliz* OR
+		)
+	) OR
+	(
+		(
+			ground-water* OR
+			( river* AND bank* ) OR
+			Streambank* OR
+			water* OR
+			( water* AND eco-system* )
+		)
+		AND ecosystem* AND (
+			protect* OR
+			rehabilitat* OR
+			restor*
+		)
+	) OR
+	(
+	  ( aquifer* OR wetland* ) AND (
+			preserv* OR
+			protect* OR
+			rehabilitat* OR
+			restor*
+		)
+	) OR
+	waste-water* OR
+	(
+		lake* AND (
+			( ecosystem* AND rehabilitat* ) OR
+			( environment* AND rehabilitat* ) OR
+			( restor* and manage* )
+		)
+	) OR
+	(
+		"protection of" AND
+		( water* AND ecosystem* )
+	) OR
+	(
+		riparian AND (
+			protection OR
+			rehabilitation OR
+			restoration
+		)
+	) OR
+	(
+		river* AND (
+			rehabilitation OR (
+				protect* AND
+				restor*
+			)
+		)
+	) OR
+	(
+		(
+			aquifer* OR
+			lake* OR
+			river*
+		) AND
+		( Resource AND protect* )
+	) OR
+	(
+		(
+			conserv* OR
+			protect*
+		) AND (
+				basin* OR
+				estuar* OR
+				lake* OR
+				river* OR
+				water*
+		) AND ecosystem*
+	) OR
+	(
+		(
+			( freshwater* AND ecosystem* ) OR
+			( freshwater* AND eco-system* )
+		) AND (
+			rehabilitation OR
+			restoration
+		)
+	) OR
+	(
+		(
+			rehabilitation OR
+			restoration
+		) AND (
+			( water* AND ( body OR bodies ) ) OR (
+				basin* OR
+				estuar* OR
+				lake* OR
+				river* OR
+				water*
+			) AND
+			ecosystem*
+		)
+	) OR
+	(
+		(
+			river* OR
+			wetland*
+		) AND
+		( restor* and manage* )
+	) OR
+	(
+		(
+			( water* AND ecosystem* ) OR
+			( water* AND eco-system* )
+		) AND (
+			preservation OR
+			protection OR
+			rehabilitation OR
+			restoration
+		)
+	)
+)

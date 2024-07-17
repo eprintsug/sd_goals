@@ -1,0 +1,122 @@
+(
+	"resistance of coral" OR
+	"resistance of corals" OR
+	(
+		( "adaptation capacity" OR "more resilient" OR resilien* ) AND (
+			"coral" OR
+			"corals" OR
+			"fish" OR
+			"fishes" OR
+			"seabird" OR
+			"seabirds"
+		)
+	) OR
+	(
+		(
+			"adaptation resilience" OR
+			"ecological resilience" OR
+			"Ecosystem adaptation" OR
+			"ecosystem recovery" OR
+			"ecosystem resilience" OR
+			"Ecosystem resistance" OR
+			"enhanced resilience" OR
+			"improve resilience" OR
+			"resilience analysis" OR
+			"resilience and recovery" OR
+			"resistant to acidification" OR
+			( improv* AND resilience* ) OR
+		) AND (
+			coast OR
+			estuar* OR
+			mangrove* OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		( "adaptive capacity" OR "reduce vulnerability" OR ( minimi* AND vulnerability* ) 	) AND (
+			"coral" OR
+			"corals" OR
+			"fish" OR
+			"fishes" OR
+			"seabird" OR
+			"seabirds" OR
+			ecosystem*
+		) AND (
+			coast OR
+			estuar* OR
+			mangrove* OR
+			ocean OR
+			sea
+		)
+	) OR
+	(
+		(
+			"gulf" OR
+			estuar* OR
+			marine OR
+			ocean OR
+			sea
+		) AND ecosyst* AND ( resilien* OR resistan* )
+	) OR
+	(
+		( resilienc* AND (
+				"coastal ecosystem" OR
+				"coastal wetland" OR
+				"coastal wetlands" OR
+				"estuarian" OR
+				"estuaries" OR
+				"estuary" OR
+				"mangrove" OR
+				"mangroves" OR
+				"ocean" OR
+				"oceanic" OR
+				"oceans"
+			)
+		) AND NOT (
+			"community resilience" OR
+			"modulus of resilience" OR
+			"resilient infrastructure" OR
+			"social resilience"
+		)
+	) OR
+	( wetland* AND ecosyst* AND resilien* ) OR
+) AND NOT (
+	"Calymmian" OR
+	"Cambrian" OR
+	"Carboniferous" OR
+	"Cenozoic" OR
+	"Cretaceous" OR
+	"Cryogenian" OR
+	"Devonian" OR
+	"Dinosaur" OR
+	"Dinosaurs" OR
+	"Ectasian" OR
+	"Ediacaran" OR
+	"Eocene" OR
+	"Jurassic" OR
+	"Mesoproterozoic" OR
+	"Mesozoic" OR
+	"Miocene" OR
+	"Mississippian" OR
+	"Neogene" OR
+	"Neoproterozoic" OR
+	"Oligocene" OR
+	"ordovician" OR
+	"orosirian" OR
+	"Paleocene" OR
+	"Paleogene" OR
+	"Paleoproterozoic" OR
+	"Paleozoic" OR
+	"Pennsylvanian" OR
+	"Permian" OR
+	"Pliocene" OR
+	"Proterozoic" OR
+	"Rhyacian" OR
+	"Siderian" OR
+	"Silurian" OR
+	"Statherian" OR
+	"Stenian" OR
+	"Tonian" OR
+	"Triassic"
+)

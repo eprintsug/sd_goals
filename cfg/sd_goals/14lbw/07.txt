@@ -1,0 +1,49 @@
+(
+	(
+		"education and outreach" OR
+		"funding agencies" OR
+		"funding agency" OR
+		"outreach and education" OR
+		"public outreach" OR
+		"research funding" OR
+		"science funding" OR
+		"sharing knowledge" OR
+		"sharing of knowledge" OR
+		"transfer of knowledge"
+	) AND (
+		"coastal" OR
+		"ocean" OR
+		sea OR
+		marine
+	)
+) OR
+(
+	( "knowledge transfer" AND (
+			"coastal" OR
+			"ocean" OR
+			sea OR
+			marine
+		)
+	) AND NOT (
+		"colonies" OR
+		"colony" OR
+		( ancient* AND network* ) OR
+		empire* OR
+		kingdom*
+	)
+) OR
+( ( "media coverage" AND ( "ocean" OR marine OR sea OR "coastal" ) ) AND NOT ( sport* OR "race" OR "racing" ) ) OR
+(
+	( ( training AND program* ) AND ( "ocean" OR marine ) ) AND NOT (
+		"altitude training" OR
+		"exercise" OR
+		"marathon" OR
+		"physical activity" OR
+		"physical training" OR
+		"runner" OR
+		"running" OR
+		"sea-level" OR
+		"sealevel"
+	)
+) OR
+( Transfer AND Marine AND technolog* )

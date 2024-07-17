@@ -1,0 +1,20 @@
+"b&r initiative" OR
+"belt and road initiative" OR
+"bilateral aid" OR
+"global civil society" OR
+"international cooperation" OR
+"international development cooperation" OR
+"international development" OR
+"NGDO" OR
+"north-south cooperation" OR
+( "OD" AND ( development AND assist* ) ) OR
+( ( ( non AND government ) OR non-government ) AND development AND ( organisation OR organization ) OR
+( ( foreign AND investment ) AND developing* ) OR
+( cross AND border AND ( collaboration OR cooperation ) ) OR
+( development AND ( assistance OR cooperation OR aid ) ) OR
+( foreign AND aid ) OR
+( foreign AND direct AND investment ) OR
+( international AND public AND finance* ) OR
+( north-south AND ( collaboration OR partnership OR ( research AND partnership ) ) ) OR
+( official AND development AND assistance* ) OR
+( shared AND prosperit* ) OR

@@ -1,0 +1,55 @@
+"flegt" OR
+"forest certification" OR
+"Forest Law Enforcement" OR
+"halt forest degradation" OR
+"REDD+" OR
+"reduce forest degradation" OR
+(
+	"forest law" AND (
+		"deforestation" OR
+		"degradation of forest" OR
+		"forest degradation" OR
+		"forest loss" OR
+		"logging"
+	)
+) OR
+( "REDD" AND "forest degradation" ) OR
+(
+	( "forest policy" OR "forest policies" OR ( agricultur* AND expansion ) ) AND (
+		"deforestation" OR
+		"degradation of forest" OR
+		"forest degradation" OR
+		"forest loss" OR
+		"loss of forest"
+	)
+) OR
+(
+	deforestation AND (
+		"agents of" OR
+		"assessment" OR
+		"avoided" OR
+		"causes of" OR
+		"combat" OR
+		"commitments" OR
+		"control" OR
+		"detection" OR
+		"drivers of" OR
+		"drivers" OR
+		"mining" OR
+		"modelling" OR
+		"monitoring" OR
+		"policy" OR
+		"reduced emission from" OR
+		"reducing emission from" OR
+		"reduction of" OR
+		"reduction" OR
+		"response to" OR
+		"risk" OR
+		"risks" OR
+		"slow" OR
+		analysis OR
+		farming OR
+		halt OR
+		reduce
+	)
+)

@@ -1,0 +1,41 @@
+(
+	(
+		subsid* AND (
+			"energy reform" OR
+			"energy" OR
+			( energy* AND removal* ) OR
+			( fossil* AND fuel* ) OR
+			coal* OR
+			gasoline OR
+			oil OR
+			petrol*
+		)
+	)
+	"energy price reform" OR
+	( ( fuel* AND subsid* ) AND NOT ( subsidiar* ) ) OR
+	(
+		"Price gap approach" AND (
+			"coal" OR
+			"gas" OR
+			( fossil* AND fuel* ) OR
+			gasoline OR
+			petrol
+		)
+	) OR
+	(
+		( subsid* AND remov* ) AND (
+			"coal" OR
+			"fossil fuel" OR
+			"gas" OR
+			energy OR
+			fuel OR
+			gasoline OR
+			petrol
+		)
+	)
+) AND NOT (
+	"invertebrate" OR
+	"plankton" OR
+	( energy AND subsid* AND "to the food system" ) OR
+	( sediment* AND subsid* )
+)

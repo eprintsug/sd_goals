@@ -1,0 +1,143 @@
+"AMCOW" OR
+( basin* AND management ) OR
+"epanet" OR
+( floodwater* AND management ) OR
+( fresh-water* AND management ) OR
+( freshwater* AND management ) OR
+( governance AND water* ) OR
+( ground-water* AND management ) OR
+( groundwater* AND management ) OR
+(
+	Integrated AND (
+		( basin* AND management ) OR
+		( urban AND water* ) OR
+		( water* AND management ) OR
+		( water* AND planning )
+	)
+) OR
+( Inter AND basin* AND transfer ) OR
+( Interbasin* AND transfer ) OR
+(
+	international AND (
+		( fresh AND water* ) OR
+		( ground AND water* ) OR
+		( water* AND management ) OR
+		aquifer* OR
+		basin* OR
+		freshwater* OR
+		groundwater* OR
+		river*
+	)
+) OR
+"iwrm" OR
+( manag* AND water* AND resource* ) OR
+multi-reservoir OR
+multireservoir OR
+( river* AND engineering ) OR
+( river* AND management ) OR
+"rule curves" OR
+( storm-water* AND management ) OR
+( stormwater* AND management ) OR
+( stormwater* AND plan* ) OR
+"swmm" OR
+(
+	( trans-boundar* OR transboundar* ) AND (
+		( fresh AND water* ) OR
+		( ground AND water* ) OR
+		aquifer* OR
+		basin* OR
+		freshwater* OR
+		groundwater* OR
+		lake* OR
+		river* OR
+		water* OR
+	)
+) OR
+(
+	water* AND (
+		( development AND management ) OR
+		( Framework AND Directive ) OR
+		( resource* AND allocation ) OR
+		( resource* AND legislation ) OR
+		( resource* AND management ) OR
+		( resource* AND planning ) OR
+		( resource* AND system* ) OR
+		( supply AND governance ) OR
+		( system* AND management ) OR
+		allocation OR
+		cooperation OR
+		governance OR
+		law OR
+		legislation* OR
+		management OR
+		policies OR
+		policy
+	)
+) OR
+(
+	management AND
+	( water* AND supply AND system* )
+) OR
+(
+	( Participation AND stakeholders ) AND
+	water*
+) OR
+(
+	( water* AND manag* ) AND
+	integrat* OR
+	transboundary
+) OR
+(
+	( water* AND manag* ) AND
+	integrated AND NOT (
+		crop OR
+		emission OR
+		evapotranspiration OR
+		fields OR
+		( fuel AND cell ) OR
+		land-enhancing OR
+		landenhancing OR
+		soil OR
+		( waste AND water* ) OR
+		wastewater*
+	)
+) OR
+(
+	(
+		( Transitional AND water* ) OR
+		( urban AND water* AND distribution ) OR
+		( urban AND water* AND supply ) OR
+		( urban AND water* ) OR
+		( water* AND demand* ) OR
+		( water* AND distribution AND network* ) OR
+		( water* AND distribution AND system* ) OR
+		( water* AND supply AND system* )
+	) AND
+	management
+) OR
+(
+	(
+		trans-boundary OR
+		transboundary
+	) AND
+	( water* AND manag* )
+) OR
+(
+	(
+		water* AND agenc*
+	) AND (
+		manag* OR
+		policy OR
+		policies
+	)
+) OR
+(
+	(
+		( water* AND manag* ) OR
+		( water* AND plan* ) OR
+		( water* AND resource* AND plan* )
+	) AND (
+		policy OR
+		policies
+	)
+)

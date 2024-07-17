@@ -1,0 +1,286 @@
+(
+	(
+		decline AND
+		women AND
+		technolog* AND
+		discipline
+	) OR
+	(
+		representation AND
+		women AND
+		science AND
+		technolog* AND
+		engineering
+	) OR
+	( stem AND women ) OR
+	(
+		( women AND in ) AND (
+			( computer AND science ) OR
+			computing OR
+			ICT OR
+			( information AND science ) OR
+			stem
+		)
+	) OR
+	(
+		barrier* AND
+		women AND (
+			( communication AND science ) OR
+			( comput* AND science ) OR
+			ICT OR
+			( information AND communication AND technolog* ) OR
+			( information AND science )
+		) AND career*
+	) OR
+	(
+		( decline AND of AND women ) AND (
+			( ( IT OR ICT ) AND field ) OR
+			( technolog* AND discipline )
+		)
+	) OR
+	(
+		( Educational AND technolog* ) AND (
+			gender OR
+			girl* OR
+			woman OR
+			women
+		)
+	) OR
+	(
+		( Educational* AND practice ) AND
+		gender AND (
+			ICT OR
+			( information AND communication AND technolog* ) OR
+			( technolog* AND use )
+		)
+	) OR
+	(
+		Empowering AND
+		women AND
+		technolog*
+	) OR
+	(
+		( exclusion AND women ) AND
+		technoscience
+	) OR
+	(
+		( gender AND gap ) AND
+		technolog*
+	) OR
+	(
+		gender AND
+		ICT AND (
+			barrier* OR
+			empower*
+		)
+	) OR
+	(
+		gender AND
+		( in AND ICT )
+	) OR
+	(
+		gender AND (
+			( information AND communication AND technolog* ) AND (
+				promot* OR
+				( technolog* AND use )
+			)
+		)
+	) OR
+	(
+		( retention AND women ) AND (
+			( comput* AND science ) OR
+			( information AND communication AND technolog* )
+		)
+	) OR
+	(
+		( us* AND new* AND technolog* ) AND (
+			differenc* OR
+			variation*
+		) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		women AND (
+			( enabling AND technolog* AND engagement ) OR
+			( internet AND access ) OR
+			( ( IT* OR ITC* ) AND ( enrollment* OR enrolment* ) ) OR
+			promot*
+			(
+				( information AND communication AND technolog* ) AND (
+					Empowering OR
+					empowerment
+				)
+			) OR (
+				perseverance AND (
+					( information AND communication AND technolog* ) OR
+					( science AND technolog* )
+				)
+			) OR (
+				empowerment AND
+				technolog*
+			) OR (
+				(
+					( cell AND phone ) OR
+					( cellular AND phone ) OR
+					( mobile AND device ) OR
+					( mobile AND phone )
+				) AND (
+					access OR
+					accessibility OR
+					owning OR
+					ownership
+				)
+			) OR (
+				(
+					( use AND ( cellphone OR ( mobile AND device ) OR ( mobile AND phone ) ) )
+				) AND (
+					barrier* OR
+					( ICT AND usage ) OR
+					promot*
+				)
+			)
+		)
+	) OR
+	( Women* AND interest* AND technolog* ) OR
+	(
+		(
+			( Digital AND divide ) OR
+			( ict AND access ) OR
+			( ICT* AND education* ) OR
+			"Technological preparedness" OR
+			( technolog* AND acceptance ) OR
+			( use* AND information* AND system* )
+		) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			( gender* AND divide ) OR
+			"More women"
+		) AND (
+			( communication AND science ) OR
+			( comput* AND science ) OR
+			ICT OR
+			( information AND communication AND technolog* ) OR
+			( information AND science )
+		)
+	) OR
+	(
+		(
+			( gender* AND equ* ) OR
+			( gender AND gap ) OR
+			( gender* AND inequ* )
+		) AND (
+			( cell AND phone ) OR
+			( cellular AND phone ) OR
+			( mobile AND device ) OR
+			( mobile AND phone )
+		)
+	) OR
+	(
+		(
+			ICT OR
+			technolog*
+		) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			ICT AND use
+		) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			"Perceived ease of use" OR
+			"perceived usefulness"
+		) AND
+		technolog* AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			under-represent* OR
+			( under* AND represent* ) OR
+			Underrepresent*
+		) AND
+		women AND (
+			( communication* AND science ) OR
+			( comput* AND science ) OR
+			ICT OR
+			( information* AND science ) OR
+			technolog*
+		)
+	) OR
+	(
+		(
+			user-technolog* OR
+			usertechnolog*
+		) AND (
+			gender OR
+			women
+		)
+	)
+) AND NOT (
+	(
+		( clinical AND trial* ) OR (
+			alcohol* OR
+			alzheimer OR
+			( ambulatory AND child* ) OR
+			( animal AND model* ) OR
+			asthma* OR
+			cancer* OR
+			cardiac* OR
+			cardiovascul* OR
+			( care AND facilit* ) OR
+			( cerebral AND palsy* ) OR
+			dementia OR
+			dental* OR
+			dentist* OR
+			diarrhea* OR
+			disease* OR
+			"energy poverty" OR
+			epidemiolog* OR
+			gas* OR
+			gene OR
+			genetic* OR
+			health AND NOT (
+				( healthcare AND educat* ) OR
+				( health care AND educat* )
+			) OR
+			healthcare* OR
+			( heart AND damag* ) OR
+			( heart AND disease* ) OR
+			( mental* ill* ) OR
+			mice OR
+			mouse OR
+			oil* OR
+			patient* OR
+			( poor AND mental AND health ) OR
+			( ( randomised OR randomized ) AND controlled AND trial* ) OR
+			sepsis* OR
+			undernutrition* OR
+			vaccin*
+		) AND NOT (
+			education* AND
+			Inequal*
+		)
+	) OR
+	contraception OR
+	( egg AND freezing ) OR
+	eveningness OR
+	( gender AND studies ) OR
+	( its AND enrollment ) OR
+	laparoscopic OR
+	( postpartum AND hemorrhage )
+)

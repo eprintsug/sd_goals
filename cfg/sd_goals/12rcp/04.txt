@@ -1,0 +1,43 @@
+"composting" OR
+"deinked pulp" OR
+"deinking" OR
+"microstickies" OR
+"stickies" OR
+"vermicompost" OR
+(
+	recycled AND (
+		"fiber" OR
+		"fibre" OR
+		"pet" OR
+		"plastics" OR
+		"polyethylene terephthalate"
+	)
+) OR
+(
+	recycling AND (
+		"battery" OR
+		"chemical" OR
+		"of PET" OR
+		"of plastics" OR
+		"paper" OR
+		"PET" OR
+		"process" OR
+		"reuse" OR
+		"solid waste" OR
+		"system" OR
+		"waste" OR
+		plastic OR
+		rate* OR
+		technolog* OR
+	)
+) OR
+(
+	waste AND (
+		minimisation OR
+		minimise OR
+		minimization OR
+		minimize OR
+		prevention OR
+		recycl*
+	)
+)

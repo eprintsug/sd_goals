@@ -14,7 +14,12 @@ sub sdg_query
       $repo->log("Eprint not found\n");
       return 0;
     }
-
+    # and check sdgs haven't already been approved if there is an eprint 
+    elsif( $eprint->value( 'sd_goals_checked', 'TRUE' ) )
+    {
+       $repo->log("SDGs already confirmed by staff for $eprint\n");
+        return 0;
+    }
     # array to store SDGs we find
     my @sdg_values;
 

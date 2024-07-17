@@ -1,0 +1,35 @@
+( trade AND facilitation AND ( Agreement OR index OR reform ) ) OR
+"aid versus trade" OR
+( Enhanced AND Integrated AND Framework ) OR
+( Trade AND facilitation ) OR
+( export AND ( technical AND assistance ) ) OR
+"trade sustainability" OR
+"trade related assistance" OR
+( Trade AND ( ( technical AND cooperation ) OR
+( ethical AND consumption ) ) ) OR
+"aid and trade" OR
+(
+	( foreign AND aid ) AND (
+		( international AND trade ) OR
+		( export AND diversif* ) OR
+		( trade AND openness ) OR
+		( model AND trade ) OR
+		( Trade AND facilitation ) OR
+		import OR
+		( free AND trade ) OR
+		export OR
+		( export AND diversif* ) OR
+		( trade AND tie ) OR
+		( ( recipient AND countr* ) AND Trade ) OR
+		( term* AND trade ) OR
+		( trade AND investment ) OR
+		( ( donor AND countr* ) AND Trade ) OR
+		( trade AND flow ) OR
+		( ( oecd AND donors ) AND Trade ) OR
+		( bilateral AND trade )
+	)
+) OR
+( "fair trade" AND NOT "fair trade-off " ) OR
+( "fair trade" AND NOT "fair tradeoff " ) OR
+fairtrade OR
+"Aid for trade"

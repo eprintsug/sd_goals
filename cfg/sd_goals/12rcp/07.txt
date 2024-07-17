@@ -1,0 +1,70 @@
+"cdm project" OR
+"clean development mechanism"
+"development mechanism (cdm)"
+( "clean development" AND "cdm" ) OR
+(
+	(
+		"capacity building"  OR
+		"capacity development"  OR
+		"capacity strengthening"  OR
+		"cooperation for development"  OR
+		"development capacity"  OR
+		"international cooperation"  OR
+		"knowledge transfer"  OR
+		"research capacity"  OR
+		"scientific capacity"  OR
+		"technological capacity"  OR
+		"transfer of knowledge"  OR
+		"UNDP"  OR
+		"United Nations Development Programme"  OR
+		"United States Agency for International Development"  OR
+		"USAID"  OR
+		( "transfer of" AND technolog* )  OR
+		( technolog* AND capacity )  OR
+		( technolog* AND transfer )
+	) AND (
+		"global warming" OR
+		"sustainable consumption" OR
+		"sustainable production" OR
+		( clean AND energy ) OR
+		( sustainable AND development ) OR
+		sustainability
+	) AND (
+		"low income" OR
+		( ( least-developed OR leastdeveloped ) AND countr* ) OR
+		( developing* AND countr* )
+	)
+) OR
+(
+	(
+		"enable sustainable development" OR
+		"foster sustainable development" OR
+		"Global Environment Facility" OR
+		"support sustainable development" OR
+		"support sustainable production"
+	) AND (
+		"developing country" OR
+		"developing countries" OR
+		"least-developed countries" OR
+		"leastdeveloped countries" OR
+		"low income"
+	)
+) OR
+(
+	(
+		"international aid" OR
+		"official development assistance" OR
+		"overseas aid" OR
+		( development AND assistance ) OR
+		( development AND cooperation ) OR
+		( development* AND aid ) OR
+		( foreign AND aid )
+	) AND (
+		sustainability OR
+		( sustainable AND development ) OR
+		"sustainable consumption" OR
+		"sustainable production" OR
+		( clean AND energy ) OR
+		"global warming"
+	)
+)

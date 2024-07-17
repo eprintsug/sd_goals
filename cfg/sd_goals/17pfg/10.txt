@@ -1,0 +1,38 @@
+(
+	"anti-dumping" OR
+	"collusion" OR
+	"doha development agenda" OR
+	"fair market value" OR
+	"fair trade" OR
+	"global trade" OR
+	"import-export" OR
+	"trading system" OR
+	"worldwide weighted tariff-average" OR
+	"WTO" OR
+	"wwta" OR
+	( ( bound OR protectionist ) AND tariff* ) OR
+	( competition AND ( policy OR policies ) ) OR
+	( economic AND partnership AND agreement ) OR
+	( foreign AND import* ) OR
+	( global-supply AND chain* ) OR
+	( market AND distortion* ) OR
+	( trading AND ( law OR rule OR treat* ) ) OR
+	( world AND trade AND org* ) OR
+	anti-competitiv*
+)
+AND (
+	"nctad" OR
+	"worldwide" OR
+	( united AND nations AND conference AND trade AND develop* ) OR
+	discriminator* OR
+	equit* OR
+	equitab* OR
+	inclusive OR
+	inequit* OR
+	inequitab* OR
+	multilateral* OR
+	non-discriminat* OR
+	peer-to-peer OR
+	sustainab* OR
+	universal
+)

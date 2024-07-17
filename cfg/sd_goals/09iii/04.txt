@@ -1,0 +1,603 @@
+(
+	"clean industrial" OR
+	"clean production" OR
+	"cleaner production" OR
+	"conscious manufacturing" OR
+	"corporate sustainability" OR
+	"development of industrialization" OR
+	"eco-industrial" OR
+	"ecoindustrial" OR
+	"employment in industry" OR
+	"energy saving in industrial" OR
+	"energy saving in industries" OR
+	"energy saving in industry" OR
+	"energy saving of industrial" OR
+	"energy saving of industries" OR
+	"energy saving of industry" OR
+	"fair work" OR
+	"Global manufacturing" OR
+	"green manufacturing" OR
+	"green supply chain management" OR
+	"green supply chain" OR
+	"industrial ecology" OR
+	"industrial employment" OR
+	"industrial energy consumption" OR
+	"Industrial metabolism" OR
+	"industrial symbiosis" OR
+	"industrialization development" OR
+	"industry employment" OR
+	"industry energy consumption" OR
+	"ISO 50001" OR
+	"lean manufacturing" OR
+	"lean production" OR
+	"manufacturing energy consumption" OR
+	"plant retrofit" OR
+	"plant retrofitting" OR
+	"remanufactured" OR
+	"Remanufacturing" OR
+	"retrofit industry" OR
+	"retrofit plant" OR
+	"retrofit plants" OR
+	"retrofitted industrial" OR
+	"retrofitted plant" OR
+	"retrofitting industrial" OR
+	"retrofitting industry" OR
+	"retrofitting plant" OR
+	"retrofitting plants" OR
+	"reverse logistics" OR
+	"supply chain sustainability" OR
+	"sustainable industrial development" OR
+	"sustainable industrial" OR
+	"Sustainable machining" OR
+	"Sustainable supply chain" OR
+	"treating factories waste" OR
+	"treating factory waste" OR
+	"treating industrial waste" OR
+	"treating industries waste" OR
+	"treating industry waste" OR
+	"treating manufacturing waste" OR
+	"triple bottom line" OR
+	( 
+		"fair trade" AND ( 
+			"industrialisation" OR
+			"industrialization" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing"
+		) 
+	) OR
+	( "industrial" AND employment ) OR
+	( "industrial" AND employment AND ( worker OR worker OR labor OR labour OR gender) ) OR
+	( "industries" AND employment ) OR
+	( "industry" AND employment ) OR
+	( 
+		"manufacturing" AND ( 
+			"value-added" OR
+			"valueadded" OR
+			employment OR
+			women
+		) 
+	) OR
+	( 
+		( 
+			"carbon capture" OR
+			"carbon credit" OR
+			"carbon dioxide capture" OR
+			"carbon dioxide storage" OR
+			"carbon storage" OR
+			"carbon taxes" OR
+			"CO 2 capture" OR
+			"CO 2 storage" OR
+			"CO2 capture" OR
+			"CO2 storage" OR
+			"eco-innovatio n" OR
+			"ecoinnovation" OR
+			"Effluent treatment" OR
+			"emission credit" OR
+			"emission credits" OR
+			"emission tax" OR
+			"emission taxes" OR
+			"environmental policies" OR
+			"environmental policy" OR
+			"GHG credit" OR
+			"GHG credits" OR
+			"GHG emission reduction" OR
+			"GHG reduction" OR
+			"GHG tax" OR
+			"GHG taxes" OR
+			"green house gas credit" OR
+			"green house gas credits" OR
+			"green house gas emission reduction" OR
+			"green house gas reduction" OR
+			"green house gas tax" OR
+			"green house gas taxes" OR
+			"green policies" OR
+			"green policy" OR
+			"greenhouse gas emission reduction" OR
+			"greenhouse gas reduction" OR
+			"process retrofit" OR
+			"Recycled waste" OR
+			"Recycled wastes" OR
+			"Recycling waste" OR
+			"Recycling wastes" OR
+			"reduced carbon dioxide emission" OR
+			"reduced carbon dioxide emission" OR
+			"reduced CO 2 emission" OR
+			"reduced CO2 emission" OR
+			"reduced GHG" OR
+			"reduced green house gas" OR
+			"reduced greenhouse gas" OR
+			"reduced pollution" OR
+			"retrofit project" OR
+			"retrofitted project" OR
+			"retrofitting project" OR
+			"waste management" OR
+			"Waste Minimisation" OR
+			"Waste Minimization" AND treatment OR
+			"Waste Minimization" OR
+			"Waste Minimization" OR
+			"waste recycling" OR
+			"waste reduction" OR
+			"waste treatment" OR
+			( "CCS" AND ( emission OR "CO2" OR "CO 2" ) ) OR
+			( 
+				"recycling" AND ( 
+					"refurbish" OR
+					"refurbished" OR
+					"refurbishing" OR
+					"reuse" OR
+					sustainab*
+				) 
+			) OR
+			( 
+				( 
+					"decreased energy consumption" OR
+					"energy conservation" OR
+					"energy integration" OR
+					"energy recovery" OR
+					"energy saving" OR
+					"energy savings" OR
+					"energy-from-waste" OR
+					"energyfrom-waste" OR
+					"environmentally sound" OR
+					"heat recovery" OR
+					"improved energy" OR
+					"reduced energy consumption" OR
+					"waste energy" OR
+					"Waste-to-energy" OR
+					"Wasteto-energy" OR
+					( "energy consumption" AND sustainab* ) OR
+					( energy AND efficien* ) OR
+					( resource AND efficien* ) eco-efficien* OR
+					ecoefficien*
+				) AND NOT ( building OR "housing" OR "houses" ) 
+			) OR
+			( ( "energy consumption" OR sustainab* ) AND ( ( "CO2" OR "CO 2" OR "carbon dioxide" ) AND emission ) ) OR
+			( ( "greenhouse gas" OR "green house gas" OR "GHG" ) AND ( "reduced" OR "reduction" OR sustainab* ) ) OR
+			( 
+				( "eco-friendly" OR "ecofriendly" ) AND NOT ( 
+					"houses" OR
+					"housing" OR
+					"Society of Chemical Industry" OR
+					building
+				) 
+			) OR
+			( ( waste AND water* AND treatment ) ) OR
+			( carbon AND tax ) OR
+			( wastewater* AND treatment )
+		) AND ( 
+			"factories" OR
+			"factory" OR
+			"industrial" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing"
+		) 
+	) OR
+	( 
+		( 
+			"carbon dioxide emission reduction" OR
+			"carbon dioxide emission reduction" OR
+			"carbon dioxide reduction" OR
+			"CO 2 emission reduction" OR
+			"CO 2 emission reduction" OR
+			"CO 2 reduction" OR
+			"CO2 emission reduction" OR
+			"CO2 emission reduction" OR
+			"CO2 reduction" OR
+			"emission reduction" OR
+			"pollution reduction" OR
+			"reducing emission" OR
+			"reducing emissions" OR
+			"reducing pollution" OR
+			"reduction of carbon dioxide" OR
+			"reduction of CO 2" OR
+			"reduction of CO2" OR
+			( ( "greenhouse gas" OR "green house gas" OR "GHG" ) AND mitigation ) OR
+			( ( clean OR green ) AND energy )
+		) AND ( "industry" OR "industries" OR "industrial" ) 
+	) OR
+	( 
+		( 
+			"carbon foot-print" OR
+			"carbon footprint" OR
+			"life cycle sustainability" OR
+			"low carbon development" OR
+			( carbon AND footprint* ) OR
+			( Global* AND Reporting* AND Initiative* ) OR
+			( sustainab* AND logistic* )
+		) AND ( 
+			"companies" OR
+			"company" OR
+			"factories" OR
+			"factory" OR
+			"manufacturing" OR
+			industr*
+		) 
+	) OR
+	( 
+		( 
+			"conservation of energy" AND ( 
+				"companies" OR
+				"company" OR
+				"industrial" OR
+				"industries" OR
+				"industry" OR
+				"manufacture" OR
+				"manufactured" OR
+				"manufacturing"
+			) 
+		) AND NOT ( building OR "housing" OR "houses" ) 
+	) OR
+	( 
+		( 
+			"creating jobs" OR
+			"inclusive growth" OR
+			"labor law" OR
+			"labour law" OR
+			"labour rights" OR
+			"new jobs" OR
+			"pay equity" OR
+			( equal AND pay ) OR
+			( sustainable AND technolog* )
+		) AND ( 
+			"factories" OR
+			"factory" OR
+			"industrialisation" OR
+			"industrialization" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing"
+		) 
+	) OR
+	( 
+		( 
+			"eco-design" OR
+			"eco-designs" OR
+			"ecodesign" OR
+			"ecodesigns"
+		) AND ( 
+			"companies" OR
+			"company" OR
+			"product" OR
+			"products" OR
+			industr* OR
+			manufactur*
+		) 
+	) OR
+	( 
+		( 
+			"energy analysis" AND ( 
+				"companies" OR
+				"company" OR
+				"industrial" OR
+				"industries" OR
+				"industry" OR
+				"manufacture" OR
+				"manufactured" OR
+				"manufacturing"
+			) 
+		) AND NOT ( 
+			"houses" OR
+			"housing" OR
+			"statistical energy analysis" OR
+			building
+		) 
+	) OR
+	( 
+		( 
+			"energy conservation" AND ( 
+				"companies" OR
+				"company" OR
+				"industrial" OR
+				"industries" OR
+				"industry" OR
+				"manufacture" OR
+				"manufactured" OR
+				"manufacturing"
+			) 
+		) AND NOT ( building OR "housing" OR "houses" ) 
+	) OR
+	( 
+		( "industrial" OR "industry" ) AND ( 
+			"access to employment" OR
+			"employment conditions" OR
+			"employment equality" OR
+			"employment growth" OR
+			"employment law" OR
+			"employment opportunities" OR
+			"employment opportunity" OR
+			"employment policy" OR
+			"employment protection" OR
+			"employment regulation" OR
+			"employment rights" OR
+			"employment security" OR
+			"employment share" OR
+			"female employment" OR
+			"increase employment" OR
+			"precarious employment" OR
+			"secure employment" OR
+			"share of employment" OR
+			"women employment"
+		) 
+	) OR
+	( ( "industrialisation" OR "industrialization" ) AND ( employment OR inclusive OR sustainab* ) ) OR
+	( 
+		( 
+			"labor law" OR
+			"labor rights" OR
+			"labour law" OR
+			"labour rights"
+		) AND ( 
+			"factories" OR
+			"factory" OR
+			"industrialisation" OR
+			"industrialization" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing" OR
+		) 
+	) OR
+	( 
+		( "recycled" OR "recycling" ) AND ( 
+			"factories waste" OR
+			"factories wastes" OR
+			"factory waste" OR
+			"factory wastes" OR
+			"industrial waste" OR
+			"industrial wastes" OR
+			"industries waste" OR
+			"industries wastes" OR
+			"industry waste" OR
+			"industry wastes" OR
+			"manufacturing waste" OR
+			"manufacturing wastes"
+		) 
+	) OR
+	( 
+		( "retrofit" OR "retrofitting" OR "retrofitted" ) AND ( 
+			"industrial facilities" OR
+			"industrial facility" OR
+			"industrial plant" OR
+			"industrial plants" OR
+			"industrial process" OR
+			"industrial processes" OR
+			"industry process" OR
+			"industry processes" OR
+			"manufacturing facilities" OR
+			"manufacturing facility" OR
+			"manufacturing plant" OR
+			"manufacturing plants" OR
+			"manufacturing process" OR
+			"manufacturing processes" OR
+			"plant" OR
+		) 
+	) OR
+	( 
+		( 
+			( 
+				"demand side management" OR
+				"efficient use of energy" OR
+				"energy benchmark" OR
+				"energy benchmarking" OR
+				"energy benchmarks" OR
+				"energy management" OR
+				"energy optimisation" OR
+				"energy optimisations" OR
+				"energy optimization" OR
+				"energy optimizations" OR
+				"energy performance" OR
+				"energy performances" OR
+				"energy recovery" OR
+				"energy saving" OR
+				"energy usage" OR
+				"exergy analysis" OR
+				"heat integration" OR
+				"pinch analysis" OR
+				"saving energy" OR
+				( efficien* AND standards ) OR
+				( energy AND efficien* ) OR
+				( exergy AND efficien* ) OR
+				sustainab*
+			) AND ( 
+			"companies" OR
+			"company" OR
+			"industrial" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing"
+			) 
+		) AND NOT ( building OR "housing" OR "houses" ) 
+	) OR
+	( 
+		( job AND creation ) AND ( 
+			"factories" OR
+			"factory" OR
+			"industrialisation" OR
+			"industrialization" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing"
+		) 
+	) OR
+	( 
+		( sustainable AND development ) AND ( 
+			"industrial park" OR
+			"industrial parks" OR
+			"industrial solid waste" OR
+			"industrial solid wastes"
+		) 
+	) OR
+	( 
+		( energy AND efficien* ) AND ( 
+			factories* OR
+			factory* OR
+			industr* OR
+			manufacturing 
+		) 
+	) OR
+	( 
+		( energy AND saving ) AND ( 
+			"industrial" OR
+			"industries" OR
+			"industry" OR
+			factories* OR
+			factory* OR
+			manufacturing*
+		) 
+	) OR
+	( 
+		sustainab* AND ( 
+			"industrialisation" OR
+			"industrialization" OR
+			"manufacture" OR
+			"manufactured"
+		) AND NOT ( building OR "housing" OR "houses" ) 
+	) OR
+	( ( sustainable) AND ( "value stream mapping" OR "value stream map" ) ) OR
+	( closed* AND loop* AND supply* ) OR
+	( efficien* AND ( industrialization OR manufacturing ) ) OR
+	( 
+		emission AND ( 
+			"companies" OR
+			"company" OR
+			"industrial" OR
+			"industries" OR
+			"industry" OR
+			"manufacturing" OR
+			industrialisation* OR
+			industrialization* OR
+		) AND ( 
+			diminish* OR
+			( enhanc* AND ( 
+				"carbon dioxide" OR
+				"CO 2" OR
+				"CO2" OR
+				"greenhouse" OR
+				) 
+			) OR
+			improv* OR
+			mitig* OR
+			reduc* 
+		) 
+	) OR
+	( energy* AND saving* ) OR
+	( Environmentally AND Sound AND technolog* ) OR
+	( green* AND supply* AND chain* ) OR
+	( indust* AND energy* AND efficien* ) OR
+	( industr* AND energy* AND saving* ) OR
+	( life* AND cycle* AND assessment* ) OR
+	( 
+		sustainab* AND ( 
+			"closed-loop supply" OR
+			"closedloop supply" OR
+			"factories waste" OR
+			"factories wastes" OR
+			"factory waste" OR
+			"factory wastes" OR
+			"industrial emission" OR
+			"industrial process" OR
+			"industrial processes" OR
+			"industrial waste" OR
+			"industrial wastes" OR
+			"industries emission" OR
+			"industries waste" OR
+			"industries wastes" OR
+			"industry emission" OR
+			"industry waste" OR
+			"industry wastes" OR
+			"manufacturing process" OR
+			"manufacturing processes" OR
+			"manufacturing waste" OR
+			"manufacturing wastes" OR
+			"reverse logistics" OR
+			"Supply Chain management"
+		) 
+	) OR
+	( sustainability* AND reporting* ) OR
+	( sustainable* AND ( ( product* AND design* ) OR supplier* ) ) OR
+	( treating AND pollut* AND ( industrial OR industries OR industry ) ) OR
+	( 
+		treatment AND ( 
+			"factories wastes" OR
+			"factory wastes" OR
+			"industrial wastes" OR
+			"industries wastes" OR
+			"industry wastes" OR
+			"manufacturing wastes" OR
+		) 
+	) OR
+) AND NOT (
+	"acoustic emission" OR
+	"catering industries" OR
+	"catering industry" OR
+	"cleaning industries" OR
+	"cleaning industry" OR
+	"entertainment" OR
+	"health industries" OR
+	"health industry" OR
+	"healthcare facilities" OR
+	"healthcare facility" OR
+	"healthcare industries" OR
+	"healthcare industry" OR
+	"healthcare organization" OR
+	"healthcare organizations" OR
+	"healthcare sector" OR
+	"healthcare sectors" OR
+	"healthcare service" OR
+	"healthcare system" OR
+	"healthcare waste" OR
+	"healthcare wastes" OR
+	"hospitality industries" OR
+	"hospitality industry" OR
+	"hotel industries" OR
+	"hotel industry" OR
+	"hotel sector" OR
+	"hotel sectors" OR
+	"lean healthcare" OR
+	"lean in healthcare" OR
+	"media industries" OR
+	"media industry" OR
+	"noise emission" OR
+	"restaurant" OR
+	"restaurants" OR
+	"sex industries" OR
+	"sex industry" OR
+	"sex work" OR
+	"sex worker" OR
+	"sound emission" OR
+	"sport" OR
+	"sports" OR
+	"therapies" OR
+	"therapy" OR
+	"tourism" OR
+	"tourist" OR
+	"touristic" OR
+	"tourists" OR
+	"travel agencies" OR
+	"travel agency" OR
+	"travel industries" OR
+	"travel industry" OR
+	( ( "mortality" ) AND NOT ( ( ( ( waste AND water* ) ) OR wastewater* ) ) ) OR
+	( ( sex AND work* ) )
+)

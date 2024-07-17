@@ -1,0 +1,789 @@
+"access to health care" OR
+"access to healthcare" OR
+"affordable housing" OR
+"age discrimination" OR
+"aid to Africa" OR
+"alleviate poverty" OR
+"alleviating poverty" OR
+"alleviation of poverty" OR
+"americans with disabilities act" OR
+"anti-discrimination" OR
+"anti-money laundering" OR
+"antidiscrimination policies" OR
+"antidiscrimination policy" OR
+"antidiscrimination" OR
+"antimoney laundering" OR
+"Basel accord" OR
+"Basel committee" OR
+"Basel I" OR
+"Basel II" OR
+"Basel III" OR
+"bilateral migration" OR
+"capital adequacy" OR
+"civil rights" OR
+"class inequalities" OR
+"class mobility" OR
+"deportation policies" OR
+"deportation policy" OR
+"deposit insurance" OR
+"desegregation policies" OR
+"desegregation policy" OR
+"disability discrimination" OR
+"disability employment" OR
+"disability equality" OR
+"disability inclusion" OR
+"disability policies" OR
+"disability policy" OR
+"disability rights" OR
+"discrimination against women" OR
+"discrimination at work" OR
+"discrimination in education" OR
+"discrimination in employment" OR
+"discrimination in health" OR
+"discrimination in healthcare" OR
+"discrimination in hiring" OR
+"discrimination in the workplace" OR
+"discrimination policies" OR
+"discrimination policy" OR
+"disparities in health" OR
+"disparities in healthcare" OR
+"disparity in health" OR
+"disparity in healthcare" OR
+"distributed capitalism" OR
+"distributed economy" OR
+"diverse workforce" OR
+"diversity in the workplace" OR
+"diversity policies" OR
+"diversity policy" OR
+"diversity politics" OR
+"Dodd Frank" OR
+"employment discrimination" OR
+"employment equality" OR
+"equal employment opportunities" OR
+"equal employment opportunity" OR
+"equal opportunities" OR
+"equal opportunity" OR
+"equal protection" OR
+"equality of opportunities" OR
+"equality of opportunity" OR
+"equality policies" OR
+"equality policy" OR
+"equities in health" OR
+"equities in healthcare" OR
+"equity in education" OR
+"equity in health" OR
+"equity in healthcare" OR
+"eradication of poverty" OR
+"estate tax" OR
+"estate taxation" OR
+"estate taxes" OR
+"ethnic discrimination" OR
+"ethnic disparities" OR
+"ethnic disparity" OR
+"ethnic equality" OR
+"ethnic inequalities" OR
+"ethnic inequities" OR
+"ethnic inequity" OR
+"ethnic justice" OR
+"ethnic segregation" OR
+"ethnic stratification" OR
+"European Banking Authority" OR
+"fair housing" OR
+"family reunification" OR
+"Financial service Authority" OR
+"financing of terrorism" OR
+"gender-based discrimination" OR
+"genderbased discrimination" OR
+"global emigration" OR
+"global immigration" OR
+"global migration" OR
+"governance of emigration" OR
+"governance of immigration" OR
+"governance of migration" OR
+"health care access" OR
+"health care disparities" OR
+"health care disparity" OR
+"health care for all" OR
+"health care inequalities" OR
+"health care inequality" OR
+"health care inequities" OR
+"health care inequity" OR
+"health disparities" OR
+"health disparity" OR
+"health equities" OR
+"health equity" OR
+"health inequalities" OR
+"health inequality" OR
+"health inequities" OR
+"health inequity" OR
+"healthcare access" OR
+"healthcare disparities" OR
+"healthcare disparity" OR
+"healthcare inequalities" OR
+"healthcare inequality" OR
+"healthcare inequities" OR
+"healthcare inequity" OR
+"housing discrimination" OR
+"housing inequalities" OR
+"housing inequality" OR
+"housing segregation" OR
+"human smuggling" OR
+"humanitarian immigration" OR
+"humanitarian migration" OR
+"inclusion policies" OR
+"inclusion policy" OR
+"inclusionary housing" OR
+"income-related inequalities" OR
+"income-related inequality" OR
+"incomerelated inequalities" OR
+"incomerelated inequality" OR
+"inequalities in education" OR
+"inequalities in health" OR
+"inequalities in healthcare" OR
+"inequalities in income" OR
+"inequalities of income" OR
+"inequalities of wealth" OR
+"inequality and poverty" OR
+"inequality in education" OR
+"inequality in health" OR
+"inequality in healthcare" OR
+"inequality in income" OR
+"inequality of income" OR
+"inequality of opportunities" OR
+"inequality of opportunity" OR
+"inequality of wealth" OR
+"inequities in health" OR
+"inequity in education" OR
+"inequity in health" OR
+"inequity in healthcare" OR
+"inheritance tax" OR
+"inheritance taxation" OR
+"inheritance taxes" OR
+"inter-generational mobility" OR
+"intergenerational mobility" OR
+"low-income housing" OR
+"lowincome housing" OR
+"market abuse" OR
+"market manipulation" OR
+"money laundering" OR
+"people seeking asylum" OR
+"policies of inclusion" OR
+"policy of inclusion" OR
+"politics of diversity" OR
+"politics of emigration" OR
+"politics of immigration" OR
+"politics of inclusion" OR
+"politics of migration" OR
+"poverty alleviation" OR
+"poverty eradication" OR
+"poverty reduction" OR
+"pregnancy discrimination" OR
+"pro-poor growth" OR
+"pro-poor policies" OR
+"progressive income tax" OR
+"progressive income taxation" OR
+"progressive income taxes" OR
+"progressive tax" OR
+"progressive taxation" OR
+"progressive taxes" OR
+"propoor growth" OR
+"propoor policies" OR
+"propoor policy" OR
+"public housing" OR
+"race discrimination" OR
+"race disparities" OR
+"race disparity" OR
+"race equality" OR
+"race inequalities" OR
+"race inequality" OR
+"race inequities" OR
+"race inequity" OR
+"race justice" OR
+"race segregation" OR
+"race stratification" OR
+"racial desegregation" OR
+"racial discrimination" OR
+"racial disparities" OR
+"racial disparity" OR
+"racial equality" OR
+"racial inclusion" OR
+"racial inequalities" OR
+"racial inequality" OR
+"racial inequities" OR
+"racial inequity" OR
+"racial justice" OR
+"racial segregation" OR
+"racial stratification" OR
+"redistribution of income" OR
+"redistribution of wealth" OR
+"redistributive monetary policies" OR
+"redistributive monetary policy" OR
+"redistributive tax" OR
+"redistributive taxation" OR
+"redistributive taxes" OR
+"reduce poverty" OR
+"reducing poverty" OR
+"reduction of poverty" OR
+"regulatory capital" OR
+"religious discrimination" OR
+"residential segregation" OR
+"seeking asylum" OR
+"selective immigration" OR
+"settlement agencies" OR
+"settlement agency" OR
+"socially inclusive" OR
+"stability of banks" OR
+"stability of the banking system" OR
+"stability of the financial system" OR
+"stratification of society" OR
+"student with autism" OR
+"student with disabilities" OR
+"student with disability" OR
+"students with autism" OR
+"students with disabilities" OR
+"students with disability" OR
+"subprime crisis" OR
+"subprime mortgage crisis" OR
+"supervisory convergence" OR
+"taxing the rich" OR
+"terrorism financing" OR
+"too big to fail" OR
+"universal health care" OR
+"universal health coverage" OR
+"universal healthcare" OR
+"upward mobility" OR
+"workforce diversity" OR
+( "Wall Street" AND reform* ) OR
+(
+	(
+		( stock* AND market* ) OR
+		capital* OR
+		liquidity* OR
+		microfinanc* OR
+		mortgage* OR
+	) AND regulat*
+) OR
+( ( antidiscrimination OR discrimination ) AND ( law OR legislation* ) ) OR
+( ( Basel* AND regulation* ) AND NOT ( baseline* AND regulation* ) ) OR
+( ( capital* AND market* ) AND ( law OR regulat* ) ) OR
+( ( failed* OR shadow* ) AND bank* ) OR
+( ( financ* AND regulat* ) AND NOT ( "campaign finance" ) ) OR
+(
+	(
+		forced OR
+		international OR
+		irregular OR
+		labor OR
+		labour OR
+		skilled OR
+		temporary OR
+		transnational
+	) AND (
+		emigrant* OR
+		"emigration" OR
+		immigrant* OR
+		"immigration" OR
+		migrant* OR
+		"migration"
+	)
+) OR
+( ( hiring OR sex* ) AND discriminat* ) OR
+(
+	( illegal OR legal ) AND (
+		alien* OR
+		emigrant* OR
+		"emigration" OR
+		immigrant* OR
+		"immigration" OR
+		migrant* OR
+		"migration"
+	)
+) OR
+( ( living OR minimum ) AND wage* ) OR
+(
+	( low-cost OR lowcost ) AND (
+		apartment* OR
+		dwelling* OR
+		house* OR
+		"housing"
+	)
+) OR
+(
+	( pay OR salary ) AND (
+		differential* OR
+		"discrimination" OR
+		"disparities" OR
+		"disparity" OR
+		"equality" OR
+		"equity" OR
+		gap* OR
+		"inequalities" OR
+		inequalit* OR
+		"inequities" OR
+		"inequity" OR
+		"parity"
+	)
+) OR
+( ( regulat* OR law OR legislation* ) AND ( financ* OR bank* ) )
+( ( securities* AND law ) AND NOT ( lawsuit* ) ) OR
+( ( subsidised OR subsidized ) AND ( household* OR "housing" ) )OR
+(
+	( unauthorised OR unauthorized ) AND (
+		"emigration" OR
+		immigrant* OR
+		"immigration" OR
+		migrant* OR
+		"migration"
+	)
+) OR
+( Affirmative AND action ) OR
+( affordable AND ( home* OR house* OR rental* ) ) OR
+(
+	asylum AND (
+		applicant* OR
+		application* OR
+		law OR
+		policies OR
+		policy OR
+		politics OR
+		procedure* OR
+		process OR
+		seeker* OR
+		seeking
+	)
+) OR
+(
+	bank* AND (
+		cris* OR
+		failure* OR
+		monitor* OR
+		stability* OR
+		supervis*
+	)
+) OR
+(
+	bank* AND (
+		law OR
+		legislation* OR
+		regulat* OR
+		risk
+	) AND NOT bankruptcy*
+) OR
+( child AND development AND account* ) OR
+( class AND inequalit* ) OR
+( disabled AND ( employee* OR worker* ) ) OR
+(
+	distribution* AND (
+		"earnings" OR
+		"wealth" OR
+		income OR
+		wage*
+	)
+) OR
+( diverse AND workplace* ) OR
+(
+	earning* AND (
+		differential* OR
+		disparit* OR
+		distribution* OR
+		gap* OR
+		inequalit* OR
+		inequit* OR
+		mobilit*
+	)
+) OR
+(
+	economic AND (
+		"disparities" OR
+		"disparity" OR
+		"emigration" OR
+		"fairness" OR
+		"immigration" OR
+		"inclusion" OR
+		"inequalities" OR
+		"inequities" OR
+		"inequity" OR
+		"injustice" OR
+		"justice" OR
+		"migration" OR
+		"mobility" OR
+		"redistribution" OR
+		"segregation" OR
+		differential* OR
+		distribution* OR
+		emigrant* OR
+		gap* OR
+		immigrant* OR
+		inequalit* OR
+		migrant* OR
+		refugee*
+	)
+) OR
+(
+	education* AND (
+		"disparities" OR
+		"disparity" OR
+		"equality" OR
+		"equity" OR
+		"equity" OR
+		"inclusion" OR
+		"inclusion" OR
+		"inequalities" OR
+		"inequities" OR
+		"inequities" OR
+		"inequity" OR
+		"inequity" OR
+		"segregation" OR
+		"stratification" OR
+		equality" OR
+		inequalit*
+	)
+) OR
+( emigrant* AND (
+		policies OR
+		policy OR
+		rights OR
+		worker*
+	)
+) OR
+(
+	emigration AND (
+		"act" OR
+		"bill" OR
+		"integration" OR
+		"management" OR
+		"policies" OR
+		"policy" OR
+		"selection" OR
+		"status" OR
+		control* OR
+		flow* OR
+		law OR
+		legislation* OR
+		reform* OR
+		regime OR
+		regulation* OR
+		restriction* OR
+		rule
+	)
+) OR
+( employee* AND ( disabilities OR disability ) ) OR
+( equal AND ( employment OR pay ) ) OR
+( equality AND ( law OR legislation* OR workplace* ) ) OR
+( ethnic AND inequalit* ) OR
+(
+	financ* AND (
+		"contagion" OR
+		( market* AND regulat* ) OR
+		( service AND regulat* ) OR
+		cris* OR
+		instabilit* OR
+		legislation* OR
+		shock OR
+		stabilit* OR
+		supervis* OR
+		turmoil*
+	)
+) OR
+(
+	foreign AND (
+		"labor" OR
+		"labour" OR
+		worker* OR
+		"workforce"
+	)
+) OR
+(
+	gender AND (
+		"disparities" OR
+		"disparity" OR
+		"equality" OR
+		"equity" OR
+		"inequalities" OR
+		"inequities" OR
+		"inequity" OR
+		"mainstreaming" OR
+		( wage* AND discrimination ) OR
+		discrimination" OR
+		inequalit*
+	)
+) OR
+(
+	immigrant* AND (
+		"detention" OR
+		"integration" OR
+		"labor" OR
+		"labour" OR
+		"policies" OR
+		"policy" OR
+		"rights" OR
+		"selection" OR
+		"settlement" OR
+		legislation* OR
+		worker*
+	)
+) OR
+(
+	immigration AND (
+		"act" OR
+		"bill" OR
+		"detention" OR
+		"enforcement" OR
+		"integration" OR
+		"policies" OR
+		"policy" OR
+		"politics" OR
+		"selection" OR
+		"status" OR
+		control* OR
+		flow* OR
+		law OR
+		legislation* OR
+		reform* OR
+		regulation* OR
+		restriction* OR
+		rule
+	)
+) OR
+(
+	inclusive AND (
+		"cities" OR
+		"city" OR
+		"class" OR
+		"classes" OR
+		"classroom" OR
+		"classrooms" OR
+		"communities" OR
+		"community" OR
+		"development" OR
+		"education" OR
+		"learning" OR
+		"pedagogy" OR
+		"policies" OR
+		"policy" OR
+		"societies" OR
+		"society" OR
+		"teaching" OR
+		"transport" OR
+		organisation* OR
+		organization* OR
+		preschool* OR
+		school* OR
+		teacher* OR
+		workplace*
+	)
+) OR
+(
+	income AND (
+		"disparities" OR
+		"disparity" OR
+		"inequalities" OR
+		"inequities" OR
+		"inequity" OR
+		"mobility" OR
+		"redistribution" OR
+		"segregation" OR
+		differential* OR
+		distribution* OR
+		gap* OR
+		inequalit* OR
+	)
+) OR
+( individual AND development AND account* ) OR
+(
+	integration AND (
+		emigrant* OR
+		immigrant* OR
+		migrant* OR
+		refugee*
+	)
+) OR
+(
+	macroprudential* AND (
+		policy OR
+		policies OR
+		regulat* OR
+		supervis*
+	)
+) OR
+( manag* AND ( "immigration" OR "migration" ) ) OR
+( microprudential* AND ( regulat* OR supervis* ) ) OR
+(
+	migrant* AND (
+		"integration" OR
+		"labor" OR
+		"labour" OR
+		"policies" OR
+		"policy" OR
+		"protection" OR
+		"rights" OR
+		"settlement" OR
+		"smuggling" OR
+		laborer* OR
+		labourer* OR
+		smuggler* OR
+		worker*
+	)
+) OR
+(
+	migration AND (
+		"governance" OR
+		"management" OR
+		"policies" OR
+		"policy" OR
+		"politics" OR
+		control* OR
+		flow* OR
+		law OR
+		legislation* OR
+		regime
+	)
+) OR
+(
+	migratory AND (
+		control* OR
+		flow* OR
+		"policies" OR
+		"policy"
+	)
+) OR
+( people AND smuggl* ) OR
+(
+	political AND (
+		"asylum" OR
+		emigrant* OR
+		"emigration" OR
+		immigrant* OR
+		"immigration" OR
+		"inclusion" OR
+		migrant* OR
+		"migration" OR
+		refugee*
+	)
+) OR
+( poverty AND inequalit* ) OR
+( prudential* AND ( regulat* OR supervis* ) ) OR
+(
+	refugee* AND (
+		claimant* OR
+		"convention" OR
+		"determination" OR
+		flow* OR
+		"integration" OR
+		law OR
+		"policies" OR
+		"policy" OR
+		"protection" OR
+		resettlement* OR
+		"rights" OR
+		"status"
+	)
+) OR
+( regulation* AND financ* ) OR
+( return AND ( migrant* OR "migration" ) ) OR
+( school* AND ( "desegregation" OR "segregation" ) ) OR
+( securities* AND ( legislation* OR regulat* ) ) OR
+( selection AND immigrant* ) OR
+( smuggling AND ( immigrant* OR migrant* ) ) OR
+(
+	social AND (
+		"disparities" OR
+		"disparity" OR
+		"equality" OR
+		"equity" OR
+		"housing" OR
+		inclusion OR
+		"inclusiveness" OR
+		"inclusivity" OR
+		"inequalities" OR
+		inequalit* OR
+		"inequities" OR
+		"inequity" OR
+		"injustice" OR
+		"injustices" OR
+		"integration" OR
+		"justice" OR
+		"mobility" OR
+		"segregation" OR
+		"stratification"
+	)
+) OR
+(
+	socioeconomic AND (
+		differential* OR
+		"disparities" OR
+		"disparity" OR
+		gap* OR
+		"inequalities" OR
+		inequalit* OR
+		"inequities" OR
+		"inequity" OR
+		"justice" OR
+		"mobility" OR
+		"segregation"
+	)
+) OR
+( supervision* AND ( bank* OR financ* ) ) OR
+(
+	undocumented AND (
+		"child" OR
+		"children" OR
+		emigrant* OR
+		"emigration" OR
+		immigrant* OR
+		"immigration" OR
+		"labor" OR
+		"labour" OR
+		Latino* OR
+		migrant* OR
+		"migration" OR
+		parent* OR
+		"status" OR
+		"student" OR
+		"students" OR
+		worker* OR
+		youth*
+	)
+) OR
+(
+	wage* AND (
+		differential* OR
+		"discrimination" OR
+		"disparities" OR
+		"disparity" OR
+		distribution* OR
+		"equality" OR
+		gap* OR
+		"growth" OR
+		increase* OR
+		"inequalities" OR
+		inequalit* OR
+		"inequities" OR
+		"inequity" OR
+		"mobility"
+	)
+) OR
+( war AND refugee* ) OR
+(
+	wealth AND (
+		differential* OR
+		"disparities" OR
+		"disparity" OR
+		distribution* OR
+		gap* OR
+		"heterogeneity" OR
+		"inequalities" OR
+		inequalit* OR
+		"inequities" OR
+		"inequity" OR
+		"mobility" OR
+		"redistribution" OR
+		"tax" OR
+		"taxation" OR
+		"taxes"
+	)
+) OR
+( worker* AND disabilit* ) OR
+( workplace* AND ( "discrimination" OR "diversity" OR "inclusion" ) ) OR
+medicaid OR
+remittance* OR

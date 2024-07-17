@@ -1,0 +1,31 @@
+(
+	(
+		"2030 Agenda" OR
+		"Agenda 2030" OR
+		"Agenda2030" OR
+		"SDG" OR
+		"SDGS" OR
+		( ( millennium OR sustainable ) AND development AND goal )
+	)
+	NEAR/5
+	(
+		"progress towards" OR
+		achievement OR
+		assessment OR
+		completeness OR
+		completion OR
+		contribution OR
+		fulfilness OR
+		measurement
+	)
+)
+AND (
+	"other than GDP" OR
+	"other than gross domestic product" OR
+	"tracking progress" OR
+	( ( assessment OR measurement OR monitoring ) AND tool ) OR
+	( statistical AND capacit* ) OR
+	( target AND measurement* ) OR
+	greenmetric OR
+	indicator
+)

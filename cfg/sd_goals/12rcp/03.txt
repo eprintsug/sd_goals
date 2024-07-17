@@ -1,0 +1,132 @@
+"basel convention" OR
+"bio-medical waste" OR
+"biomedical waste" OR
+"composting of food waste" OR
+"composting" OR
+"construction and demolition waste" OR
+"deep geological repository" OR
+"energy-from-waste" OR
+"energyfromwaste" OR
+"green waste composting" OR
+"health care waste" OR
+"healthcare waste" OR
+"high-level radioactive waste" OR
+"highlevel radioactive waste" OR
+"HLNW" OR
+"hospital waste management" OR
+"illegal waste" OR
+"infectious waste" OR
+"integrated waste management" OR
+"international waste" OR
+"kitchen waste composting" OR
+"medical waste" OR
+"mswi fly ash" OR
+"municipal solid waste" OR
+"nuclear waste program" OR
+"organic waste composting" OR
+"pay as you throw" OR
+"radioactive waste management" OR
+"radioactive waste storage" OR
+"shipment of waste" OR
+"SNF management" OR
+"SNF storage" OR
+"spent nuclear fuel cask" OR
+"toxic waste management" OR
+"toxic waste treatment" OR
+"transport of hazardous waste" OR
+"transport of municipal waste" OR
+( "dry storage canister" AND ( "spent fuel" OR "used fuel" OR "radioactive" ) ) OR
+( "food waste" AND compost* ) OR
+( "hazardous" AND ( "household waste" OR "waste management" OR "waste" ) ) OR
+( "nuclear waste" AND repositor* ) OR
+( "spent fuel" AND ( "disposal" OR storage ) ) OR
+( "spent nuclear fuel" AND "dry storage" ) OR
+( "transport of waste" OR "transportation of waste" ) OR
+( "waste management" AND NOT ( "indoor air quality" ) ) OR
+(
+	"waste" AND (
+		"chemicals" OR
+		"composting" OR
+		"electrical and electronic" OR
+		"incineration" OR
+		"incinerator" OR
+		"leachability" OR
+		"metering" OR
+		"processing" OR
+		"shipment" OR
+		"to energy" OR
+		"treatment" OR
+		( environment* AND footprint* ) OR
+		( facilit* AND impact* ) OR
+		landfill OR
+		transport
+	)
+) OR
+( "weee" AND ( "management" OR "treatment" OR waste ) ) OR
+( "yucca mountain" AND ( waste OR "spent nuclear" OR "disposal facility" ) ) OR
+(
+	(
+		"automotive waste" OR
+		"chemical waste" OR
+		"construction waste" OR
+		"corrosive waste" OR
+		"demolition waste" OR
+		"e-waste" OR
+		"electrical waste" OR
+		"electronic waste" OR
+		"ewaste" OR
+		"flammable waste" OR
+		"hazardous waste" OR
+		"industrial effluent" OR
+		"industrial waste" OR
+		"municipal solid waste" OR
+		"paint waste" OR
+		"reactive waste" OR
+		"waste acids" OR
+		"waste diesel" OR
+		"waste solvents" OR
+		( agricultur* AND waste ) OR
+		( contaminat* AND sludge ) OR
+		( waste AND chemical* )
+	) AND ( "management" OR sustainab* OR treat* )
+) OR
+( ( "pharmaceutical waste" AND ( "management" OR treat* OR sustainab* ) ) AND NOT patient* ) OR
+( ( dry* AND cask* AND storage* ) AND ( "spent fuel" OR "used fuel" OR "radioactive" ) ) OR
+( ( industrial* AND waste ) AND "disposal" ) OR
+( ( leaching* AND test* ) AND ( waste OR "landfill" ) ) OR
+( ( "spent nuclear fuel" OR "used nuclear fuel" ) AND ( "disposal" OR "management" OR repositor* ) ) OR
+(
+	disposal AND (
+		"high-level radioactive waste" OR
+		"highlevel radioactive waste" OR
+		"radioactive waste" OR
+		"radioactive waste" OR
+		"radwaste" OR
+		"waste disposal" OR
+		"waste treatment" OR
+		"waste" OR
+		chemical OR
+		geological
+	)
+) OR
+(
+	landfill AND (
+		"cover" OR
+		"design" OR
+		"gas" OR
+		impact OR
+		"leachate" OR
+		"lfg" AND "landfill" OR
+		"sanitary" OR
+		"sustainable" OR
+		( leach* AND treat* ) OR
+		( methane* AND emission* ) OR
+		( water* AND pollution ) OR
+		( water* AND quality ) OR
+		groundwater* impact* OR
+		liner* OR
+		standard OR
+	)
+) OR
+( manag* AND waste ) OR
+( MSW* AND ( incinerat* OR "management" OR "processing" ) )

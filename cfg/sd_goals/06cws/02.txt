@@ -1,0 +1,533 @@
+"advanced irrigation" OR
+"deficit irrigation" OR
+"reliable irrigation" OR
+(
+	( reliable AND water* ) AND (
+		management OR
+		planning OR
+		( resource* AND management ) OR
+		( resource* AND planning )
+	)
+) OR
+( ( multi-effect OR multieffect ) AND distillation ) OR
+( ( Multi-stage OR Multistage ) AND flash AND ( desalination OR distillation ) ) OR
+(
+	( rain AND fed ) AND (
+		agriculture OR
+		crop* OR
+		farm* OR
+		harvest* OR
+		irrigation OR
+		production
+	)
+) OR
+(
+	( run AND off ) AND (
+		agriculture OR
+		farm* OR
+		harvest* OR
+		irrigation
+	)
+) OR
+( ( scarcity AND of ) AND ( ( fresh AND water* ) OR freshwater* OR water* ) ) OR
+(
+	( sustainable AND exploitation AND of ) AND (
+	( fresh AND water* ) OR
+		( ground AND water* ) OR
+		freshwater* OR
+		groundwater* OR
+		water*
+	)
+) OR
+(
+	( water* AND conservation ) AND (
+		measures OR
+		policies OR
+		policy OR
+		practice OR
+		practices OR
+		technolog*
+	)
+) OR
+(
+	( water* AND efficien* ) AND (
+		appliances OR
+		building OR
+		dishwasher* OR
+		faucets OR
+		industry OR
+		labelling OR
+		policies OR
+		policy OR
+		shower OR
+		showerhead* OR
+		toilet* OR
+		use OR
+		washing
+	)
+) OR
+( agricultur* AND water* AND efficien* ) OR
+( agricultur* AND water* AND productivity ) OR
+( agricultur* AND water* AND use AND efficien* ) OR
+( crop* AND per AND drop ) OR
+( Desalination AND ( facilit* OR membrane* OR plant* ) ) OR
+( domestic AND water* AND use AND efficien* ) OR
+( effic* AND water* AND usage* ) OR
+(
+	efficien* AND (
+		( drainage AND system* ) OR
+		( fresh AND water* ) OR
+		(
+			of AND (
+				( fresh AND water* ) OR
+				( ground AND water* ) OR
+				freshwater* OR
+				groundwater* OR
+				water*
+			) AND
+			( exploitation OR
+				use OR
+				utilisation OR
+				utilization
+			)
+		) OR
+		( water* AND (
+				consumption OR
+				Distribution OR
+				management OR
+				planning OR
+				( resource* AND management ) OR
+				( resource* AND planning ) OR
+				system*
+			)
+		)
+		freshwater* OR
+		irrigation OR
+		irrigation OR
+	)
+) OR
+( equitable AND distribution AND water* ) OR
+( groundwater* AND ( Desalination OR harvest* OR irrigation ) ) OR
+(
+	harvest* AND (
+		( run AND off ) OR
+		( storm AND water* ) OR
+		( underground AND water* ) OR
+		fog OR
+		precipitation* OR
+		rain OR
+		rainfall OR
+		rainwater* OR
+		run off OR
+		stormwater* OR
+		water* OR
+	)
+) OR
+( household AND water* AND use AND efficien* ) OR
+( improve* AND irrigat* ) OR
+( industri* AND water* AND use AND efficien* ) OR
+( inter AND basin AND transfer* ) OR
+( inter-basin AND transfer* ) OR
+( interbasin AND transfer* ) OR
+(
+	irrigation AND (
+		( system* AND application AND efficien* ) OR
+		( water* AND policies ) OR
+		( water* AND policy ) OR
+		( water* AND use AND efficien* ) OR
+		efficien* OR
+		management OR
+		method* OR
+		performance OR
+		policies OR
+		policy OR
+		project* OR
+		schedule* OR
+		scheduling OR
+		strategies OR
+		strategy OR
+		technolog*
+	)
+) OR
+( management AND irrigation ) OR
+( membrane* AND Desalination ) OR
+( modern AND irrigation ) OR
+( optimum AND use AND water* ) OR
+( performance AND irrigation ) OR
+( rain AND fall AND harvest* ) OR
+( rain AND harvest* ) OR
+( rain AND water* AND storage ) OR
+( rainfall AND harvest* ) OR
+(
+	rainfed AND (
+		agriculture OR
+		crop* OR
+		farm* OR
+		harvest* OR
+		irrigation OR
+		production
+	)
+) OR
+( rainwater* AND ( harvest* OR storage ) ) OR
+( reduc* AND seepage ) OR
+( regulated AND deficit AND irrigation ) OR
+( reverse AND osmosis AND Desalination ) OR
+(
+	runoff AND (
+		agriculture OR
+		farm* OR
+		harvest* OR
+		irrigation
+	)
+) OR
+( rural AND water* ) OR
+( seawater* AND Desalination ) OR
+(
+	smart AND (
+		groundwater* OR
+		irrigation OR
+		( water* AND (
+				Distribution OR
+				management OR
+				network* OR
+				supply
+			)
+		)
+	)
+) OR
+( solar AND distillation ) OR
+( stormwater* AND harvest* ) OR
+( sustainability AND irrigation ) OR
+(
+	sustainable AND (
+		( fresh AND water* ) OR
+		( freshwater* AND (
+				management OR
+				policies OR
+				policy OR
+				supplies OR
+				supply OR
+				use
+			)
+		) OR
+		( ground AND water* ) OR
+		groundwater* OR
+		irrigation OR
+		( rainwater* AND ( utilisation OR
+		utilization ) ) OR
+		( supply AND ground AND water* ) OR
+		( ( utilisation OR utilization ) AND ( freshwater* OR water* ) ) OR
+		( water* AND (
+				catchment OR
+				conservation OR
+				consumption OR
+				management OR
+				resource* OR
+				supply OR
+				use
+			)
+		) OR
+		withdrawal
+	)
+) OR
+(
+	urban AND (
+		( freshwater* AND supply ) OR
+		( groundwater* AND ( management OR supply ) ) OR
+		( water* AND ( conservation OR management OR supply ) )
+	)
+) OR
+( Virtual AND water* AND trade ) OR
+( waste AND water* ) OR
+( waste AND water* AND recycl* ) OR
+( wastewater* AND recycl* ) OR
+(
+	water* AND (
+		( footprint AND assessment ) OR
+		( resource* AND ( efficien* OR scarcity ) ) OR
+		( Saving AND (
+				Appliance* OR
+				faucet* OR
+				industri* OR
+				shower OR
+				showerhead* OR
+				washing
+			)
+		) OR
+		harvest* OR
+		meter* OR
+		productivity OR
+		recycl* OR
+		saving* OR
+		scarce OR
+		scarcity OR
+		security OR
+		sustainability
+	)
+) OR
+( water* AND Desalination ) OR
+( water* AND footprint AND suppl* ) OR
+( water* AND catchment  AND suppl* ) OR
+( water-saving AND technolog* ) OR
+( watersaving AND technolog* ) OR
+desalination OR
+waste-water* OR
+water-harvest* OR
+waterharvesting OR
+(
+	appliance* AND
+	( water* AND saving* )
+) OR
+(
+	"desalinated water" AND (
+		agricultur* OR
+		farm* OR
+		irrigation
+	)
+) OR
+(
+	desalination AND (
+		"solar" OR
+		( fresh AND water* ) OR
+		(
+			ground AND water* AND (
+				efficien* OR
+				management OR
+				production OR
+				savings
+			)
+		) OR
+		( ground AND water* AND use AND efficien* ) OR
+		( groundwater* AND ( management OR production OR savings ) ) OR
+		( groundwater* AND use AND efficien* ) OR
+		( groundwater* efficien* ) OR
+		( reverse AND osmosis ) OR
+		(
+			water* AND (
+				efficien* OR
+				manag* OR
+				production OR
+				saving* OR
+				suppl*
+			)
+		) OR
+		( water* AND use AND efficien* ) OR
+		distillation OR
+		freshwater* OR
+		irrigation OR
+		scarcity OR
+		seawater* OR
+		sustainab* OR
+		water*
+	)
+) OR
+(
+	(
+		direct AND
+		contact AND
+		membrane* AND
+		distillation
+	) AND
+	seawater*
+) OR
+(
+	( drip AND irrigation ) AND (
+		conserv* OR
+		( irrigation AND system* ) OR
+		sustainab* OR
+		( water* AND suppl* )
+	)
+) OR
+(
+	(
+		( fresh water* AND suppl* ) OR
+		( freshwater* AND supply )
+	) AND (
+		household OR
+		irrigation
+	)
+) OR
+(
+	household* AND
+	( water* AND saving* )
+) OR
+(
+	irrigation AND (
+		modernisation OR
+		modernization OR
+		( water* AND ( consumption OR manag* OR saving* ) )
+	)
+) OR
+(
+	( rainwater* AND management ) AND (
+		( sustainable AND management ) OR
+		agricultur* OR
+		farm* OR
+		household* OR
+		industri* OR
+		industry OR
+		irrigation OR
+		residential
+	)
+) OR
+(
+	( smart AND water* ) AND (
+		grid OR
+		irrigation OR
+		management OR
+		meter*
+	)
+) OR
+(
+	( sustainability AND water* ) AND (
+		governance OR
+		management OR
+		policies OR
+		policy OR
+		supplies OR
+		supply OR
+		withdrawal
+	)
+) OR
+(
+	( sustainable AND ( utilisation OR utilization ) ) AND
+	( water* AND resource* )
+) OR
+(
+	( sustainable AND water* ) AND (
+		governance OR
+		policies OR
+		policy OR
+		supplies OR
+		supply
+	)
+) OR
+(
+	( sustainable AND withdrawal ) AND
+	water*
+) OR
+(
+	sustainab* AND (
+		( irrigation AND system* ) OR
+		( water* AND consumption )
+	)
+) OR
+(
+	( water* AND conserv* ) AND (
+		irrigation OR
+		shortage* OR
+		( water* AND ( storage OR suppl* ) )
+	)
+) OR
+(
+	( water* AND efficien* ) AND (
+		flushing OR
+		irrigation OR
+		saving* OR
+		shower
+	)
+) OR
+
+(
+	( water* AND saving* ) AND (
+	agricultur* OR
+	footprint
+	)
+) OR
+(
+	( water* AND shortage ) AND (
+		distillation OR
+		irrigation OR
+		( reverse AND osmosis ) OR
+		( waste AND water* ) OR
+		wastewater* OR
+		( water* AND (
+			conserv* OR
+			consumption OR
+			resource* OR
+			storage OR
+			suppl*
+			)
+		)
+	)
+) OR
+(
+	( water* AND use AND efficien* ) AND (
+		household OR
+		( water* AND productivity )
+	)
+) OR
+(
+	( water* AND withdrawal* ) AND (
+		irrigation OR
+		( water* AND distribut* ) OR
+		( water* AND suppl* )
+	)
+) OR
+(
+	withdrawal* AND (
+		( water* AND ( manag* OR planning ) ) OR
+		( water* AND resource* AND ( management OR planning ) ) OR (
+			groundwater* AND
+			sustainability
+		) OR (
+			water* AND (
+				sustainab* OR
+				sustainability
+			)
+		)
+	)
+) OR
+(
+	(
+		( groundwater* AND supply ) OR
+		( freshwater* AND supply ) OR
+		( water* AND suppl* )
+	) AND (
+		agricultur* OR
+		farm* OR
+		irrigation
+	)
+) OR
+(
+	(
+		irrigation AND (
+			( water* AND manag* ) OR
+			( water* AND resource* AND management ) OR
+			water-saving* OR
+			watersaving*
+		) AND (
+			( freshwater* AND supply ) OR
+			( groundwater* AND supply ) OR
+			( Virtual AND water* ) OR
+			( water* AND suppl* ) OR
+			agricultur* OR
+			farm* OR
+			household* OR
+			industri* OR
+			industry OR
+			residential OR
+		)
+	)
+) OR
+(
+	(
+		( Virtual AND water* ) OR
+		( water* AND ( planification OR planning ) ) OR
+		( ( water* AND resource* ) AND (
+				management OR
+				planification OR
+				planning
+			)
+		)
+	) AND (
+		agricultur* OR
+		farm* OR
+		household* OR
+		industri* OR
+		industry OR
+		irrigation OR
+		residential OR
+		sustainab*
+	)
+)

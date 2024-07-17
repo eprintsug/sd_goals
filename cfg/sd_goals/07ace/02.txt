@@ -1,0 +1,193 @@
+"2000-watt society" OR
+"2000watt society" OR
+"district heating" OR
+"energy performance certificate" OR
+"energy star" OR
+"energy-saving measures" OR
+"EnergyPlus" OR
+"energysaving measures" OR
+"high-energy rechargeable" OR
+"highenergy rechargeable" OR
+"ISO 50001" OR
+"Leadership in Energy and Environmental Design" OR
+"net zero energy" OR
+"smart energy" OR
+"zero net energy" OR
+( "industrial" AND ( energy AND efficien* ) ) OR
+( "low-energy residential" OR "lowenergy residential" ) OR
+(
+	(
+		"advanced manufacturing" OR
+		"advanced process" OR
+		"conservation" OR
+		"factories" OR
+		"factory" OR
+		"industrial" OR
+		"industries" OR
+		"industry" OR
+		"machining" OR
+		( advanced* AND technolog* ) OR
+		( energy* AND saving* ) OR
+		improv* OR
+		optimis* OR
+		optimiz*
+	) AND ( energy* AND efficien* )
+) OR
+(
+	(
+		"AI ion" OR
+		"air based" OR
+		"air" OR
+		"aluminium ion" OR
+		"aluminium–air" OR
+		"beryllium air" OR
+		"calcium-air" OR
+		"germanium-air" OR
+		"high energy storage" OR
+		"high power storage" OR
+		"iron-air" OR
+		"Li FePO4" OR
+		"li-ion" OR
+		"li-iron phosphate" OR
+		"li-poly" OR
+		"li-s" OR
+		"LiFePO4" OR
+		"liion" OR
+		"liiron phosphate" OR
+		"lipoly" OR
+		"lis" OR
+		"lithium ion" OR
+		"lithium iron phosphate" OR
+		"lithium polymer" OR
+		"lithium secondary" OR
+		"lithium sulfur" OR
+		"lithium-poly" OR
+		"lithiumpoly " OR
+		"lithiumpoly" OR
+		"lithium–air" OR
+		"Li–air" OR
+		"metal–air" OR
+		"molten salt" OR
+		"Na sulfur" OR
+		"Na-air" OR
+		"Na-ion" OR
+		"Naion" OR
+		"optimal energy storage" OR
+		"optimal power storage" OR
+		"optimized energy storage" OR
+		"optimized power storage" OR
+		"silicon-air" OR
+		"sodium ion" OR
+		"sodium sulfur" OR
+		"sodium-air" OR
+		"zinc-air" OR
+		( efficien* AND energy AND storage ) OR
+		( efficien* AND power AND storage ) OR
+		( energy* AND efficienc* ) OR
+		( lithium* AND polymer* ) OR
+		( lithium* AND sulfur* ) OR
+		( next* AND generation* )
+	) AND ( batteries" OR "battery" )
+) OR
+( ( "eco-friendly" OR "ecofriendly" ) AND ( "architecture" OR building* OR "house" OR "houses" OR housing* OR "home" OR "homes" OR "household" ) ) OR
+( ( "li-s" OR "lis" ) AND cell ) OR
+( ( "transport" OR "transportation" ) AND ( energy* AND efficien* ) ) OR
+(
+	(
+		( air AND condition* ) OR
+		appliance* OR
+		"automotive" OR
+		building* OR
+		construction* OR
+		"cooling" OR
+		electri* OR
+		engine* OR
+		furnace* OR
+		heat* OR
+		industr* OR
+		"internet of things" OR
+		"IoT" OR
+		"manufacturing" OR
+		motor* OR
+		"residential" OR
+		technolog* OR
+		"renewable energy" OR
+		"hvac" OR
+		"ventilation" OR
+		"home" OR
+		"homes" OR
+		"house" OR
+		"houses" OR
+		"housing" OR
+		"household" OR
+		sustainab*
+	) AND ( ( energy* AND efficien* ) OR ( energy* AND saving* ) )
+) OR
+( ( energy* AND efficien* ) AND ( program* OR standard* OR tech* ) ) OR
+( ( floor* AND heat* ) AND energy ) OR
+(
+	( low-energy* OR low-energy ) AND (
+		building* OR
+		cooling* OR
+		heating OR
+		home*
+	)
+) OR
+(
+	( Radiant* AND heat* ) AND (
+		"house" OR
+		"houses" OR
+		"residential" OR
+		building* OR
+		home*
+	)
+) OR
+(
+	( zero-energy* OR zeroenergy ) AND (
+		building* OR
+		home* OR
+		house* OR
+		"residential"
+	)
+) OR
+( advanced* AND energy* AND efficien* ) OR
+( advanced* AND energy* AND saving* ) OR
+( better AND energy AND efficien* ) OR
+( deep* AND energy* AND retrofit* ) OR
+( efficien* AND cooling ) OR
+( efficien* AND heating ) OR
+( energy* AND saving* AND tech* ) OR
+( energy-efficien* AND measures ) OR
+( energyefficien* AND measures ) OR
+(
+	green* AND (
+		building* OR
+		certificate* OR
+		( home* AND design* ) OR
+		( interior* AND design* ) OR
+		roof* OR
+		tech*
+	)
+) OR
+( higher AND energy AND efficien* ) OR
+(
+	LEED AND (
+		building OR
+		"certification" OR
+		"certified" OR
+		"housing" OR
+		rating
+	)
+) OR
+( lithium* AND sulfur* AND cell* ) OR
+( Passive* AND house* ) OR
+eco-building OR
+eco-design OR
+eco-home OR
+eco-hous* OR
+ecobuilding OR
+ecodesign OR
+ecodesign* OR
+ecohome OR
+ecohous* OR
+ultrabatter*

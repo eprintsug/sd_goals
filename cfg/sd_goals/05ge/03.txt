@@ -1,0 +1,134 @@
+(
+	#metoo OR
+	( abuse* AND ( wife OR woman OR women ) ) OR
+	( batter* AND ( woman OR women ) ) OR
+	( batterer* AND program* ) OR
+	( child* AND sex* AND abuse ) OR
+	( dating AND violence ) OR
+	( Domestic AND violence ) OR
+	( female AND (
+			circumcision OR
+			exploitation OR
+			infanticide OR
+			rape OR
+			( sex* AND assault* )
+		)
+	) OR
+	Femicide OR
+	( gender AND violence ) OR
+	( gender-based AND violence ) OR
+	( genderbased AND violence ) OR
+	( honor* AND killing* ) OR
+	( honour* AND killing* ) OR
+	( partner AND violen* ) OR
+	( traffick* AND women ) OR
+	( wife* AND rape* ) OR
+	"women dealing with relationship violence" OR
+	( women* AND victim* ) OR
+	(
+		abuse AND
+		violence AND
+		women AND
+		( women's health )
+	) OR
+	(
+		( abusive* AND partner* ) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		( gender* AND vulnerabilit* ) AND
+		violence
+	) OR
+	(
+		Machismo AND (
+			batter* OR
+			conflict* OR
+			unsafe OR
+			women OR
+			violence
+		)
+	) OR
+	(
+		( Male* AND responsibilit* ) AND (
+			abuse* OR
+			aggression* OR
+			assault OR
+			harassment* OR
+			violence OR
+			rape
+		)
+	) OR
+	( ( rape* AND myth* ) AND ( sex* assault* ) AND victim* ) OR
+	(
+		"vaw" OR
+		( violence AND against AND women )
+	) OR
+	(
+		(
+			( abusive* AND relationship* ) OR
+			( partner* AND conflict* ) OR
+			( sex* AND ( victimization OR victimisation ) )
+		) AND (
+			woman OR
+			women
+		)
+	) OR
+	(
+		(
+			aggression* OR
+			batterer* OR
+			( human AND traffick* ) OR
+			"ipv" OR
+			( partner* AND ( abuse* OR violen* ) ) OR
+			( physical* AND abuse* ) OR
+			( Psychological* AND ( violen* OR abuse* ) ) OR
+			rape OR
+			( sex* AND (
+					abuse* OR
+					assault* OR
+					coercion OR
+					harassment* OR
+					victim* OR
+					violen*
+				)
+			) OR
+			( spous* AND ( violen* OR abuse* ) ) OR
+			stalk* OR
+			( unwanted* AND sex* AND experience* ) OR
+			( violen* AND ( perpetrat* OR relationship* ) ) OR
+			( victim* AND violence* )
+		) AND (
+			gender OR
+			girl* OR
+			woman OR
+			women
+		)
+	) OR
+	(
+		(
+			genital* AND ( cutting* OR mutilation* )
+		) AND (
+			female OR
+			girl* OR
+			women
+		)
+	) OR
+	(
+		( male AND dominat* ) AND
+		violence
+	) OR
+	(
+		(
+			( self-defense AND training ) OR
+			( selfdefense AND training )
+		) AND (
+			woman OR
+			women
+		) AND
+		( survivor* AND of AND trauma )
+	)
+) AND NOT (
+	dogs AND birds
+)

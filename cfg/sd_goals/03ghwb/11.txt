@@ -1,0 +1,76 @@
+OR (
+	(
+		"sars-cov-2" OR
+		"coronavirus 2" OR
+		"corona virus 2" OR
+		"covid-19" OR
+		"novel coronavirus" OR
+		"novel corona virus" OR
+		"2019-ncov" OR
+		"covid" OR
+		"covid19" OR
+		"ncovid-19" OR
+		"coronavirus disease 2019" OR
+		"corona virus disease 2019" OR
+		"corona-19" OR
+		"SARS-nCoV" OR
+		"ncov-2019"
+	)
+	AND NOT (
+		crime* OR
+		homicide* OR
+		farmer* OR
+		telework* OR
+		( work* AND from AND home* ) OR
+		WFH OR
+		HIP OR
+		HIPS OR
+		KNEE OR
+		Tourism* OR
+		Tourist* OR
+		stockpil* OR
+		resilien* OR
+		( access AND to AND care ) OR
+		( house AND price* ) OR
+		work-life-balance OR
+		business* OR
+		entrepreneur* OR
+		( Online AND ( learning OR technolog* OR course* OR education* OR teaching ) ) OR
+		elearning OR
+		e-learning OR
+		telehealth OR
+		tele health OR
+		telemedicine OR
+		( tele AND medicine ) OR
+		( remote AND work* ) OR
+		( work AND organi* ) OR
+		( organi* AND of AND work ) OR
+		depression* OR
+		( ( mood OR mental ) AND disorder* ) OR
+		( mental AND health ) OR
+		anxiety OR
+		anxious OR
+		( mental AND wellbeing ) OR
+		( mental AND wellness ) OR
+		infodemic* OR
+		( sleep* AND health* ) OR 
+		phone* OR 
+		telephone* OR 
+		smartphone* OR
+		( public AND opinion ) OR
+		surger* OR
+		surgical OR
+		( online AND learning ) OR
+		economic* OR
+		( covid AND (
+			effect* OR
+			impact* OR
+			challenge* OR
+			anxiety OR
+			depression* OR
+			stress* OR
+			economic
+			)
+		)
+	)
+)

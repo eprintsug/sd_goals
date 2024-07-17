@@ -1,0 +1,247 @@
+(
+	"Afghanistan" OR
+	"Albania" OR
+	"Algeria" OR
+	"Angola" OR
+	"Antigua and Barbuda" OR
+	"Argentina" OR
+	"Armenia" OR
+	"Azerbaijan" OR
+	"Bangladesh" OR
+	"Belarus" OR
+	"Belize" OR
+	"Benin" OR
+	"Bhutan" OR
+	"Bolivia" OR
+	"Bosnia and Herzegovina" OR
+	"Botswana" OR
+	"Brazil" OR
+	"Burkina Faso" OR
+	"Burundi" OR
+	"Cambodia" OR
+	"Cameroon" OR
+	"Cape Verde" OR
+	"Central African Republic" OR
+	"Chad" OR
+	"China" OR
+	"Colombia" OR
+	"Comoros" OR
+	"Congo" OR
+	"Cook Islands" OR
+	"Costa Rica" OR
+	"countries with limited resource" OR
+	"country with limited resource" OR
+	"Cuba" OR
+	"Côte d'Ivoire" OR
+	"Djibouti" OR
+	"Dominica" OR
+	"Dominican Republic" OR
+	"Ecuador" OR
+	"Egypt" OR
+	"Equatorial Guinea" OR
+	"Eritrea" OR
+	"Eswatini" OR
+	"Ethiopia" OR
+	"Fiji" OR
+	"Gabon" OR
+	"Gambia" OR
+	"Georgia" OR
+	"Ghana" OR
+	"Grenada" OR
+	"Guatemala" OR
+	"Guinea" OR
+	"Guinea-Bissau" OR
+	"Guyana" OR
+	"Haiti" OR
+	"Honduras" OR
+	"Indonesia" OR
+	"Iran" OR
+	"Iraq" OR
+	"Jamaica" OR
+	"Jordan" OR
+	"Kazakhstan" OR
+	"Kenya" OR
+	"Kiribati" OR
+	"Kosovo" OR
+	"Kyrgyzstan" OR
+	"Lao" OR
+	"Lebanon" OR
+	"Lesotho" OR
+	"Liberia" OR
+	"Libya" OR
+	"Macedonia" OR
+	"Madagascar" OR
+	"Malawi" OR
+	"Malaysia" OR
+	"Maldives" OR
+	"Mali" OR
+	"Marshall Islands" OR
+	"Mauritania" OR
+	"Mauritius" OR
+	"Mexico" OR
+	"Micronesia" OR
+	"Moldova" OR
+	"Mongolia" OR
+	"Montenegro" OR
+	"Morocco" OR
+	"Mozambique" OR
+	"Myanmar" OR
+	"Namibia" OR
+	"Nauru" OR
+	"Nicaragua" OR
+	"Niger" OR
+	"Nigeria" OR
+	"Niue" OR
+	"North Korea" OR
+	"Pakistan" OR
+	"Palau" OR
+	"Palestine" OR
+	"Panama" OR
+	"Papua New Guinea" OR
+	"Paraguay" OR
+	"Peru" OR
+	"Philippines" OR
+	"Rwanda" OR
+	"Saint Lucia" OR
+	"Saint Vincent and the Grenadines" OR
+	"Salvador" OR
+	"Samoa" OR
+	"Senegal" OR
+	"Serbia" OR
+	"Sierra Leone" OR
+	"Solomon Islands" OR
+	"Somalia" OR
+	"South Africa" OR
+	"South Sudan" OR
+	"Sri Lanka" OR
+	"Sudan" OR
+	"Suriname" OR
+	"Syria" OR
+	"São Tomé and Príncipe" OR
+	"Tajikistan" OR
+	"Tanzania" OR
+	"Thailand" OR
+	"third world" OR
+	"Timor-Leste" OR
+	"Togo" OR
+	"Tonga" OR
+	"Tunisia" OR
+	"Turkey" OR
+	"Turkmenistan" OR
+	"Tuvalu" OR
+	"Uganda" OR
+	"Ukraine" OR
+	"Uzbekistan" OR
+	"Vanuatu" OR
+	"Venezuela" OR
+	"Viet Nam" OR
+	"Yemen" OR
+	"Zambia" OR
+	"Zimbabwe" OR
+	( "middle-income" AND ( "country" OR "countries" ) ) OR
+	(
+		(
+			"developing" OR
+			"emerging" OR
+			"least developed" OR
+			"less developed"
+		) AND (
+			"countries" OR
+			"country" OR
+			"economies" OR
+			"economy" OR
+			"world" OR
+			nation
+		)
+	) OR
+	(
+		( "low-income" OR "poor" ) AND (
+			"countries" OR
+			"country" OR
+			"nation" OR
+			"nations"
+		)
+	) OR
+	India OR
+	Nepal
+) AND (
+	"duty-free" OR
+	( ( trad* AND ( national* OR law ) ) AND NOT ( tradition* OR trademark* ) )
+	( ( world AND trad* ) AND NOT ( "World Trade Center" ) ) OR
+	(
+		tariff AND (
+			"barrier" OR
+			"barriers" OR
+			"cut" OR
+			"cuts" OR
+			"elimination" OR
+			"elimination" OR
+			"liberalisation" OR
+			"liberalization" OR
+			"preference" OR
+			"preferences" OR
+			"preferential" OR
+			"reduction" OR
+			"reductions" OR
+			"removal"
+		)
+	)	OR
+	(
+		trad* AND (
+			( barrier* AND international* ) OR
+			agreement OR
+			agricultur* OR
+			arrangement OR
+			balance OR
+			barrier* bilateral* OR
+			commodit* OR
+			cost* OR
+			deal* OR
+			deficit* OR
+			facilitation* OR
+			foreign* free* OR
+			global* OR
+			imbalance OR
+			industry* OR
+			integration* OR
+			international* OR
+			liberalisation* OR
+			liberalization* OR
+			merchandise* OR
+			multilateral* OR
+			potential* OR
+			preferential* OR
+			regime OR
+			regulation* OR
+			surplus* OR
+			transatlantic* OR
+			worldwide* OR
+			zone*
+		)
+	) OR
+	(
+		trad* AND (
+			association* OR
+			barrier* OR
+			cost* OR
+			flow* OR
+			negotiation* OR
+			network* OR
+			network* OR
+			organisation* OR
+			organization* OR
+			partner* OR
+			pattern* OR
+			policies OR
+			policy OR
+			regional* OR
+			relation OR
+			rule OR
+			structure*
+		) AND NOT tradition*
+	)
+) AND NOT ( 
+	"stock trading" OR
+	"insider trading" OR
+	"cap-and-trade"
+)

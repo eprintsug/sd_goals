@@ -1,0 +1,187 @@
+(
+	"community vulnerability assessment" OR
+	"resilience of the poor" OR
+	"Social vulnerability index" OR
+	"SSVI" OR
+	(
+		poverty AND
+		(
+			"economic crisis" OR
+			"financial crisis" OR
+			( economic* AND disaster* ) OR
+			( financial* AND disaster* ) OR
+			( industrial AND disaster ) OR
+			( natural* AND disaster* ) OR
+			resilienc*
+		)
+	)	OR
+	(
+		(
+			"assessing social vulnerability" OR
+			"Social vulnerability assessment"
+		) AND
+		(
+			( extreme* AND rainfall* ) OR
+			( extreme* AND weather* ) OR
+			disasters* OR
+			drought* OR
+			earthquake* OR
+			flood OR
+			hazards OR
+			hurricane* OR
+			typhoon*
+		)
+	) OR
+	(
+		(
+			( low* AND socioeconomic* AND population* ) OR
+			( low* AND socioeconomic* AND status* ) OR
+			( rural* AND communit* ) OR
+			ghetto
+		) AND (
+			( extreme* AND rainfall* ) OR
+			( extreme* AND weather* ) OR
+			( natural* AND hazard* ) OR
+			crisis OR
+			disaster* OR
+			drought* OR
+			earthquake* OR
+			flood OR
+			preparedness OR
+			resilien* OR
+			tsunami* OR
+			typhoon* OR hurricane* OR
+			vulnerabilit* OR
+			wildfire*
+		)
+	) OR
+	(
+		(
+			"poorer people" OR
+			( developing* AND countr* ) OR
+			( least* AND developed* AND countr* ) OR
+			( low* AND socioeconomic* AND population* ) OR
+			( low* AND socioeconomic* AND status* ) OR
+			( poor* AND people ) OR
+			( poor* AND village* ) OR
+			( rural* AND communit* ) OR
+			( vulnerable* AND communit* ) OR
+			ghetto OR
+			poverty
+		) AND
+		"emergency savings"
+	) OR
+	(
+		(
+			"poorer people" OR
+			( developing* AND countr* ) OR
+			( least* AND developed* AND countr* ) OR
+			( low* AND socioeconomic* AND population* ) OR
+			( low* AND socioeconomic* AND status* ) OR
+			( poor* AND people ) OR
+			( poor* AND village* ) OR
+			( rural* AND communit* ) OR
+			( vulnerable* AND communit* ) OR
+			ghetto OR
+			poverty
+		) AND (
+			( adaptative* AND capacit* ) OR
+			adaptation* OR
+			crises OR
+			landslide*
+		)
+	) OR
+	(
+		(
+			"poor village" OR
+			"poorer people" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			( vulnerable* AND communit* ) OR
+			poverty
+		) AND (
+			"vulnerability to risks" OR
+			( extreme* AND rainfall* ) OR
+			( extreme* AND weather* ) OR
+			disaster* OR
+			drought* OR
+			earthquake* OR
+			flood OR
+			hurricane* OR
+			typhoon*
+		)
+	) OR
+	(
+		(
+			"poor village" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			( vulnerable* AND communit* ) OR
+			poverty
+		) AND (
+			"economic crisis" OR
+			"financial crisis" OR
+			"preparedness to crisis" OR
+			( sendai* AND framework* ) OR
+			resilien* OR
+			tsunami* OR
+			wildfire
+		)
+	) OR
+	(
+		(
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			( poor* AND village* ) OR
+			( vulnerable* AND communit* ) OR
+			poverty
+		) AND (
+			( natural* AND hazard* ) OR
+			crisis OR
+			disaster*
+		) AND (
+		preparedness OR
+		reconstruction OR
+		recovery
+		)
+	) OR
+	(
+		(
+			"poor village" OR
+			( developing* AND countr* ) OR
+			( poor* AND people ) OR
+			( vulnerable* AND communit* ) OR
+			poverty
+		) AND "vulnerability assessment"
+	) OR
+	(
+		( 
+			least* AND 
+			developed* AND 
+			countr* 
+		) AND
+		(
+			( extreme* AND rainfall* ) OR
+			( extreme* AND weather* ) OR
+			( natural* AND hazard* ) OR
+			crisis OR
+			disaster* OR
+			drought* OR
+			earthquake* OR
+			flood OR
+			hurricane* OR
+			preparedness OR
+			resilien* OR
+			tsunami* OR
+			typhoon* OR
+			vulnerabilit* OR
+			wildfire*
+		)
+	)
+)
+AND NOT (
+	( diabetic* AND patient* ) OR
+	( parental AND leave ) OR
+	( schizophrenia AND treatment ) OR
+	diagnosis
+)

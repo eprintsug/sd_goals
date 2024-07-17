@@ -1,0 +1,72 @@
+( ( impact AND tourism ) AND ( ecosystem OR environment OR nature ) ) OR
+( ecotourist* AND NOT ( medical ) ) OR
+(
+	tourism AND (
+		"forest green" OR
+		( art* AND festival ) OR
+		( conservation* AND area* ) OR
+		( culture AND based ) OR
+		( destination AND ( ( climate AND chang* ) OR environmental ) ) OR
+		( economic AND growth ) OR
+		( employment AND impact ) OR
+		( human AND resource ) OR
+		( labor OR labour ) OR
+		( local AND economic AND impact ) OR
+		( marine AND wildlife ) OR
+		( national AND park ) OR
+		( national AND park ) OR
+		( regional AND economic ) OR
+		( sustainable AND development ) OR
+		( whale AND watching ) OR
+		( wildlife AND work* ) OR
+		( world AND heritage ) OR
+		adventure OR
+		agro OR
+		alternative OR
+		biodiversity OR
+		coastal OR
+		community OR
+		community-based OR
+		communitybased OR
+		cultural OR
+		eco OR
+		ecolodge OR
+		education OR
+		employee OR
+		employment OR
+		entrepreneur OR
+		ethnic OR
+		farm OR
+		growth-led OR
+		growthled OR
+		heritage OR
+		impact* OR
+		income OR
+		indigenous OR
+		job* OR
+		local OR
+		nature OR
+		nature-based OR
+		nature-based OR
+		naturebased OR
+		Naturebased OR
+		poverty OR
+		pro poor OR
+		rural OR
+		Slum OR
+		small-scale OR
+		smallscale OR
+		SME* OR
+		sustainable OR
+		training
+	)
+) OR
+( tourism-led AND growth ) OR
+( tourism-related employment ) OR
+( tourismled AND growth ) OR
+( tourismrelated AND employment ) OR
+agritourism OR
+agrotourism OR
+ecotourism OR
+tourism-growth OR
+tourismgrowth

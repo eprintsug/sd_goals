@@ -1,0 +1,46 @@
+( freshwater* AND supply AND system* ) OR
+( irrigation AND develop* ) OR
+(
+	water* AND (
+		infrastructure* OR
+		politics OR
+		provision* OR
+		reuse
+	)
+) OR
+( water* AND resource* AND develop* ) OR
+( water* AND supply AND ( infrastructure* OR project* OR system* ) ) OR
+( water-related AND politic* ) OR
+( waterrelated AND politic* ) OR
+(
+	conserv* AND
+	( water* AND suppl* ) AND
+	protection
+) OR
+(
+	governance AND
+	( water* AND project* )
+) OR
+(
+	irrigation AND (
+		governance OR
+		policies OR
+		policy
+	)
+) OR
+(
+	meter* AND (
+		irrigation OR
+		( water* AND distribut* ) OR
+		( water* AND suppl* )
+	)
+) OR
+(
+	sustainab* AND
+	( water* AND conserv* )
+) OR
+(
+	( water* AND manag* ) AND NOT (
+		fuel
+	)
+)

@@ -1,0 +1,412 @@
+(
+	apprenticeship* OR
+	( ( career-related OR careerrelated ) AND skill ) OR
+	( ( competency-based OR competencybased ) AND ( education* OR training ) ) OR
+	( ( Course-employment OR Courseemployment ) AND relationship ) OR
+	( learning* AND professional* ) OR
+	( practical AND training ) OR
+	( professional* AND ( education* OR training* ) ) OR
+	school-to-work OR
+	schooltowork OR
+	( skill* AND training* AND course* ) OR
+	( soft AND skill* ) OR
+	( specialist AND training ) OR
+	( techni* AND vocational* ) OR
+	( technical* AND education* ) OR
+	( ( technolog* OR vocational* ) AND training* ) OR
+	(
+		( academic AND ( specialization OR specialisation ) ) AND (
+			employability OR
+			employer* OR
+			employment
+		)
+	) OR
+	(
+		( accredited AND education ) AND (
+			employment OR
+			skill* OR
+			work
+		)
+	) OR
+	(
+		( adult AND education ) AND
+		employ*
+	) OR
+	(
+		( career AND development ) AND (
+			education* OR
+			school* OR
+			skill*
+		)
+	) OR
+	(
+		career AND
+		develop* AND
+		skill*
+	) OR
+	(
+		develop* AND
+		skill* AND (
+			( business* AND practitioner* ) OR
+			entrepreneur*
+		)
+	) OR
+	(
+		develop* AND (
+			competenc* OR
+			know-how OR
+			knowhow OR
+			skill*
+		) AND (
+		 employment OR
+		 employer* OR
+		 ( professional AND education )
+		)
+	) OR
+	(
+		( develop* AND entrepreneurial* AND trait* ) AND (
+			employment OR
+			( labour AND market ) OR
+			workplace
+		)
+	) OR
+	(
+		develop* AND
+		( entrepreneurial* AND attitude* ) AND (
+			education* OR
+			school
+		)
+	) OR
+	(
+		job AND skill AND develop*
+	) OR
+	(
+		( Develop* AND entrepreneur* ) AND (
+			attitude* OR
+			skill*
+		)
+	) OR
+	(
+		employ* AND
+		( technical* AND school* )
+	) OR
+	(
+		education* AND
+		employability AND
+		employment AND (
+			 graduate* OR
+			 ( higher* AND education ) OR
+			 skill*
+		)
+	) OR
+	(
+		employability AND (
+			graduate* OR
+			student*
+		)
+	) OR
+	(
+		( entrepreneurial* AND attitude* ) AND (
+			education* OR
+			school* OR
+			student*
+		)
+	) OR
+	(
+		entrepreneur* AND (
+			develop*
+		) AND (
+			student*
+		)
+	) OR
+	(
+		( formalised AND training ) AND (
+			education* OR
+			employment OR
+			employability OR
+			school*
+		)
+	) OR
+	(
+		graduate* AND
+		( job* AND placement* ) AND
+		skill*
+	) OR
+	(
+		( graduate AND labour ) AND
+		skill*
+	) OR
+	(
+		( job* AND requirement* ) AND (
+			education* OR
+			competenc* OR
+			knowledge* OR
+			know-how OR
+			knowhow OR
+			school OR
+			skill*
+		)
+	) OR
+	(
+		( labour AND market ) AND
+		skill*
+	) OR
+	(
+		learning AND
+		( Student* AND outcome* ) AND (
+			employee* OR
+			employer* OR
+			employment
+		)
+	) OR
+	(
+		( professional* AND competenc* ) AND (
+			education* OR
+			skill* OR
+			work
+		)
+	) OR
+	(
+		Promot* AND
+		( skill* AND develop* ) AND (
+			career OR
+			employee* OR
+			employer* OR
+			employment OR
+			work OR
+			( vocational AND education )
+		)
+	) OR
+	(
+		qualification* AND (
+			employment OR
+			employer* OR
+			vocational
+		)
+	) OR
+	(
+		( Skill AND formation ) AND (
+			employability OR
+			employer* OR
+			employee* OR
+			employment
+		)
+	) OR
+	(
+		( skill AND for ) AND ( employment OR work )
+	) OR
+	(
+		trainee* AND (
+			education* OR
+			training
+		)
+	) OR
+	(
+		( vocational AND education ) AND (
+			business OR
+			employee* OR
+			employer* OR
+			employment OR
+			entrepreneur* OR
+			( labor AND market ) OR
+			( labour AND market ) OR
+			workplace OR
+			"prior learning
+		) OR
+		( skill AND acquisition ) OR
+		skill* OR
+		(
+			(
+				work-based OR
+				workbased OR
+				work-integrated OR
+				workintegrated
+			) AND
+			learning
+		)
+	) OR
+	(
+		(
+			competence-based OR
+			competencebased OR
+			( competence AND based )
+		) AND
+		( professional* AND develop* ) AND
+		program*
+	) OR
+	(
+		(
+			( develop* AND entrepreneur* ) OR
+			( develop* AND professional* AND knowledge* ) OR
+			( fostering AND entrepreneur* )
+		) AND (
+			education* OR
+			skill*
+		)
+	) OR
+	(
+		(
+			develop* AND competence*
+		) AND (
+			employee* OR
+			employer* OR
+			employment OR
+			( for AND work ) OR
+			workforce
+		) AND (
+			education* OR
+			school*
+		)
+	) OR
+	(
+		(
+			( educational* AND constraint* ) OR (
+				prospective* AND
+				skill*
+			)
+		) AND (
+			employee* OR
+			employer* OR
+			employment
+		)
+	) OR
+	(
+		(
+			( employment-related* OR employmentrelated* ) AND outcome*
+		) AND
+		education*
+	) OR
+	(
+		(
+			( post-school* transition* OR postschool* ) AND transition*
+		) AND (
+			education* OR
+			skill* OR
+			work
+		)
+	) OR
+	(
+		(
+			( Post-secondary OR Postsecondary ) AND learning
+		) AND (
+			employment OR
+			workforce OR
+			workplace
+		)
+	) OR
+	(
+		(
+			( postgraduate* OR post-graduate* ) AND qualification* OR (
+				(
+					immigrant OR
+					migrant
+				) AND (
+					re-skilling OR
+					reskilling
+				)
+			)
+		) AND (
+			employability OR
+			employee* OR
+			employer* OR
+			employment
+		)
+	) OR
+	(
+		(
+			( skill* AND training ) OR (
+				learning AND
+				skill*
+			)
+		) AND (
+			employee* OR
+			employer* OR
+			employment OR
+			workplace
+		)
+	) OR
+	(
+		(
+			( school-work* OR schoolwork* ) AND transition* OR
+			( Transition AND from AND school AND to AND work )
+		) AND (
+			education* OR
+			school* OR
+			skill* OR
+			training
+		)
+	) OR
+	(
+		(
+			internship OR
+			school-to-work OR
+			schooltowork
+		) AND (
+			curricul* OR
+			education* OR
+			employee* OR
+			employer* OR
+			employment OR
+			skill*
+		)
+	) OR
+	(
+		develop* AND
+		skill* AND (
+			( business* AND practitioner* ) OR
+			entrepreneur*
+		)
+	)
+) AND NOT(
+	( clinical AND trial* ) OR
+	(
+		alcohol* OR
+		alzheimer OR
+		( ambulatory AND child* ) OR
+		( animal AND model* ) OR
+		asthma* OR
+		cancer* OR
+		cardiac* OR
+		cardiovascul* OR
+		( care AND facilit* ) OR
+		( cerebral AND palsy* ) OR
+		dementia OR
+		dental* OR
+		dentist* OR
+		diarrhea* OR
+		disease* OR
+		( energy AND poverty ) OR
+		epidemiolog* OR
+		gas* OR
+		gene OR
+		genetic* OR
+		health AND NOT (
+			( ( healthcare* OR health care ) AND educat* )
+		) OR
+		healthcare* OR
+		( heart AND damag* ) OR
+		( heart AND disease* ) OR
+		( mental AND illness* ) OR
+		mice OR
+		mouse OR
+		oil* OR
+		patient* OR
+		( poor AND mental AND health ) OR
+		( ( randomised OR randomized ) AND controlled AND trial* ) OR
+		rat* OR
+		sepsis* OR
+		undernutrition* OR
+		vaccin*
+	) AND NOT (
+		learning* OR
+		skill* OR
+		student* OR
+		teaching* OR
+		trainee* OR
+		training* OR
+		(
+			education* AND
+			inequal*
+		)
+	)
+)

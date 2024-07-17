@@ -1,0 +1,334 @@
+(
+	"active crop canopy sensor" OR
+	"agro-pastoral ecotone" OR
+	"agro-pastoral" OR
+	"agroecological practices" OR
+	"agroecology" OR
+	"agropastoral ecotone" OR
+	"agropastoral" OR
+	"agropastoralism" OR
+	"agrosilvopastoral" OR
+	"apparent soil electrical conductivity" OR
+	"biocontrol agents" OR
+	"Bioherbicide" OR
+	"biological agriculture" OR
+	"biological control" OR
+	"catch crops" OR
+	"Civic agriculture" OR
+	"conservation agriculture" OR
+	"conservation tillage" OR
+	"conventional and organic" OR
+	"conversion to organic" OR
+	"crop-livestock" OR
+	"croplivestock" OR
+	"CWD" OR
+	"Diaeretiella rapae" OR
+	"green manure" OR
+	"green manuring" OR
+	"green-manuring" OR
+	"greenmanure" OR
+	"greenmanuring" OR
+	"hairy vetch" OR
+	"hill-drop drilling" OR
+	"hilldrop drilling" OR
+	"induced systemic resistance" OR
+	"integrated and organic" OR
+	"integrated pest management" OR
+	"legume cover" OR
+	"low-input farming system" OR
+	"lowinput farming system" OR
+	"manure organic" OR
+	"patch spraying" OR
+	"pest resistant" OR
+	"precision-agriculture" OR
+	"precisionagriculture" OR
+	"renewable agriculture" OR
+	"seed metering" OR
+	"seedmetering" OR
+	"Silvopasture" OR
+	"soil apparent electrical conductivity (eca)" OR
+	"soil sensing" OR
+	"variable-rate application" OR
+	"variablerate application" OR
+	"weed detection" OR
+	"weed mapping" OR
+	"yield maps" OR
+	"yield monitor" OR
+	"yield monitoring" OR
+	(
+		"agroforestry" AND
+		"soil fertility"
+	) OR
+	(
+		"alternatives" AND
+		"food system" AND
+		"future"
+	) OR
+	(
+		"biocontrol" AND (
+			"a. flavus" OR
+			"aspergillus flavus" OR
+			"aspergillus niger" OR
+			"crop plant" OR
+			"crop protection" OR
+			"powdery mildew" OR
+			"sustainable agriculture" OR
+			agroecosystem OR
+			apple* OR
+			aspergillus OR
+			banana OR
+			barley OR
+			bean OR
+			beet OR
+			brassica OR
+			cabbage OR
+			cereal OR
+			chickpea OR
+			citrus OR
+			corn OR
+			cucumber OR
+			flavus OR
+			grape OR
+			grapevine OR
+			lettuce OR
+			maize OR
+			orchard* OR
+			oryzae OR
+			pea OR
+			peach OR
+			pear OR
+			pepper OR
+			post-harvest OR
+			postharvest OR
+			potato OR
+			solanum OR
+			sorghum OR
+			soybean OR
+			strawberry OR
+			tomato OR
+			tuber* OR
+			vegetable OR
+			wheat
+ 			rice OR
+ 			sugarcane OR
+		)
+	) OR
+	(
+		"fair trade" AND
+		"producers" AND
+		"sustainable production"
+	)	OR
+	(
+		"food system sustainability" OR (
+			"food system" AND
+			( good AND practice ) AND
+			sustainab*
+		)
+	) OR
+	(
+		"pest management" AND (
+			"renewable" OR
+			sustainab*
+		)
+	) OR
+	(
+		"sustainability transition" AND
+		agricultur*
+	) OR
+	(
+		"variable rate" AND (
+			"application" OR
+			"fertilisation" OR
+			"fertiliser" OR
+			"fertilization" OR
+			"fertilizer"
+		)
+	) OR
+	(
+			(
+				"agroforestry" OR
+				agricltur*
+			) AND
+			sustainab*
+	) OR
+	(
+		(
+			"bacillus thuringiensis" OR
+			( bacter* AND resistan* ) OR
+			"biocontrol" OR
+			( insect* AND resistan* ) OR
+			( pes AND program* ) OR
+			( pes AND scheme )
+		) AND (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			(
+				ecosystem* NEAR/3 servic*
+			) NEAR/3 payment*
+		)
+		AND (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		(
+			agri-environment* OR
+			agrienvironment*
+		) AND NOT
+		"arable reversion"
+	)	OR
+	(
+		(
+			fertiliser OR
+			fertilizer
+		) AND 		(
+			Organic* AND
+			material*
+		) AND (
+			agriculture* OR
+			"crop yield"
+		)
+	) OR
+	(
+		low-input* OR
+		divers* NEAR/3 (
+			agri* OR
+			agro* OR
+			crop* OR
+			farm*
+		)
+	) OR
+	(
+		agri-environmental* AND (
+			measure* OR
+			policies OR
+			policy OR
+			program* OR
+			scheme
+		)
+	) OR
+	( agricultur* AND sustainability ) OR
+	(
+		agriculture AND (
+			"environmental policies" OR
+			"precision" OR
+			"remote sensing" OR
+			"uav" OR
+			"wireless sensor network"
+		)
+	) OR
+	( agrienvironmental* AND ( policy OR policies OR measure* OR program* OR scheme ) ) OR
+	( Alley* AND crop* ) OR
+	( Alternative AND food AND movement* ) OR
+	( bt* AND crop* ) OR
+	( cover AND crop* ) OR
+	(
+		crop AND (
+			"hyperspectral" OR
+			"ndvi" OR
+			"reflectance" OR
+			"rotation system" OR
+			parasitoid* OR
+			rotation*
+		)
+	) OR
+	( green* AND manure* ) OR
+	( induced* AND plant* AND defen* ) OR
+	( land* AND equivalent* AND ratio* ) OR
+	( mixed* AND crop* ) OR
+	( natural AND enem* ) OR
+	(
+		organic AND (
+			"conventional" OR
+			"food production" OR
+			"vegetable production" OR
+			agricultur* OR
+			certification OR
+			cultivation OR
+			dairy OR
+			farm* OR
+			livestock OR
+			management OR
+			produce OR
+			production OR
+			standards OR
+			system*
+		)
+	) OR
+	( pest* AND resistan* ) OR
+	(
+		precision AND (
+			"application" OR
+			"crop protection" OR
+			"farming" OR
+			"fertilization" OR
+			"hill-drop" OR
+			"hilldrop" OR
+			"irrigation" OR
+			"metering device" OR
+			"nitrogen management" OR
+			"planter" OR
+			"planting" OR
+			"seeding" OR
+			"sowing" OR
+			"spraying" OR
+			"turfgrass management" OR
+			"viticulture" OR
+			agricultur*
+		)
+	) OR
+	( Reduced AND till* ) OR
+	( Resistant* AND cultivar* ) OR
+	(
+		site-specific AND (
+			"crop management" OR
+			"farming" OR
+			"herbicide" OR
+			"weed management"
+		)
+	) OR
+	(
+		sitespecific AND (
+			"crop management" OR
+			"farming" OR
+			"herbicide" OR
+			"weed management"
+		)
+	) OR
+	( soil AND sensor* ) OR
+	( sustain* AND agricultur* AND system* ) OR
+	( sustain* NEAR/1 yield* ) OR
+	( sustain* NEAR/3 farm* ) OR
+	(
+		sustain* NEAR/5 (
+			"food production" OR
+			agri* OR
+			agro* OR
+			crop*
+		)
+	) OR
+	( sustaina* AND crop* AND production* ) OR
+	( sustainability AND 		"agricultur* change" 	) OR
+	( sustainable AND ( agricultur*  OR crop* ) ) OR
+	( variable AND rate AND technolog* ) OR
+	agrofores* OR
+	intercrop* OR
+	Silvopa* OR
+) AND NOT (
+	"encephalitis virus" OR
+	"pine needle trees" OR
+	(
+		biofuel* OR
+		"biogas" OR
+		( organic* AND batter* )
+	)
+)

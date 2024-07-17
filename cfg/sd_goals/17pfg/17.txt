@@ -1,0 +1,58 @@
+(
+	( business AND improvement AND district ) OR
+	( civil AND society AND partnership ) OR
+	( PP AND ( participation OR project ) ) OR
+	( ppp AND ( contract OR cooperat* OR project ) ) OR
+	( private-public AND ( participation OR partnership OR project ) ) OR
+	( public AND partnership ) OR
+	( public-private AND ( cooperat* OR participation OR partnership OR project ) )
+)
+NEAR/10
+(
+	(
+		risk AND (
+			allocation OR
+			assessment OR
+			management OR
+			share
+		)
+	) OR
+	advantag* OR
+	augment* OR
+	benefi* OR
+	benefit* OR
+	bring OR
+	challeng* OR
+	develop* OR
+	disadvantag* OR
+	discourag* OR
+	efficien* OR
+	encourag* OR
+	flourish* OR
+	foster* OR
+	help* OR
+	impact* OR
+	increas* OR
+	inhib* OR
+	inhibit* OR
+	involv* OR
+	lead OR
+	lead* OR
+	led OR
+	lesson OR
+	lessons OR
+	meaningful OR
+	model OR
+	negativ* OR
+	opportunit* OR
+	optimis* OR
+	optimiz* OR
+	performanc* OR
+	positiv* OR
+	possibilit* OR
+	promot* OR
+	reduc* OR
+	strateg* OR
+	success* OR
+	unsuccessful
+)

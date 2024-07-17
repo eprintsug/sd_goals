@@ -1,0 +1,100 @@
+(
+	( Child* AND nutrition* AND program* ) OR
+	"end hunger" OR
+	"famine relief" OR
+	"food aid" OR
+	"food crisis" OR
+	( food AND stamp* ) OR
+	( food* AND assistance* ) OR
+	( food* AND crise* ) OR
+	( food* AND insecur* ) OR
+	( food* AND secur* ) OR
+	"insufficient nutrient intake" OR
+	"kwashiorkor" OR
+	malnourish* OR
+	"malnutrition" OR
+	"nutrition assistance" OR
+	"nutrition security" OR
+	"nutritional assistance" OR
+	( nutritional* AND risk ) OR
+	"Special Supplemental Nutrition Program for Women" OR
+	"stunting" OR
+	"sustainable diets" OR
+	"undernourished" OR
+	"undernutrition" OR
+	( world AND food* AND suppl* ) OR
+	(
+		barrier* AND (
+			( farmers AND market* ) OR
+			"food access"
+		)
+	) OR
+	(
+		food AND
+		access* AND (
+			fruit AND
+			"healthy diets" AND
+			vegetable*
+		)
+	) OR
+	(
+		( Food* AND availabilit* ) AND (
+			adolescent* OR
+			adult* OR
+			child* OR
+			"men" OR
+			"people" OR
+			Teenager* OR
+			women
+		)
+	) OR
+	(
+		fruit AND
+		"healthy diets" AND
+		vegetable*
+	) OR
+	(
+		( Nutrition* AND need* ) AND (
+			adolescent* OR
+			adult* OR
+			child* OR
+			"men" OR
+			"people" OR
+			Teenager* OR
+			women
+		)
+	) OR
+	(
+		"sdg" AND
+		"zero hunger"
+	) OR
+	(
+		(
+			"soil degradation" OR
+			"soil fertility"
+		) AND
+		food AND (
+			supplies OR
+			supply
+		)
+	)
+)
+AND NOT (
+	"bean population" OR
+	"Columbia lance nematode" OR
+	"encephalitis virus" OR
+	"enteral formula" OR
+	"enteral nutrition" OR
+	"IGF" OR
+	"Patients with stroke"
+	"pine needle trees" OR
+	"tendon lesion" OR
+	( insulin like* AND growth* AND factor* ) OR
+	( insulin-like* AND growth* AND factor* ) OR
+	( insulinlike* AND growth* AND factor* ) OR
+	( ratoon* AND stunting* AND diseas* )
+	( tendon* AND injur* ) OR
+	mice OR
+	mouse OR
+	rat OR
+)

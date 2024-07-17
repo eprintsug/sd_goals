@@ -1,0 +1,215 @@
+( abuse AND of AND ( alcohol OR drug ) ) OR
+( addict* AND to AND alcohol ) OR
+( addictive AND ( drug OR substance ) ) OR
+(
+	 alcohol AND (
+		abuse OR 
+		addict* OR 
+		dependenc* OR 
+		disorder OR 
+		misuse OR 
+		problem OR 
+		screening OR 
+		( use AND disorder ) OR 
+		( use AND PROBLEM ) 
+	) 
+) OR
+(
+	alcohol-dependent AND ( 
+		individual OR 
+		man OR 
+		men OR 
+		patient OR 
+		subject OR 
+		woman OR 
+		women 
+	) 
+) OR
+( alcohol-related AND ( disorder OR problem ) ) OR
+( 
+	alcoholdependent AND ( 
+		individual OR
+		man OR
+		men OR
+		patient OR
+		subject OR
+		woman OR
+		women
+	) 
+) OR
+( 
+	alcoholic AND ( 
+		anonymous OR
+		female OR
+		male OR
+		man OR
+		men OR
+		parent OR
+		patient OR
+		subject OR
+		woman OR
+		women
+	) 
+) OR
+alcoholism OR
+( alcoholrelated AND ( disorder OR problem ) ) OR
+( amphetamine AND ( abuse OR addict* OR dependenc* ) ) OR
+( amphetamine-related AND disorder ) OR
+( amphetaminerelated AND disorder ) OR
+"anti-smoking" OR
+"antismoking" OR
+"binge drinking" OR
+( cannabis AND ( abuse OR dependenc* OR ( use AND disorder ) ) ) OR
+( cannabis-related AND ( disorder OR problem ) ) OR
+( cannabisrelated AND ( disorder OR problem ) ) OR
+( chemical AND ( abuse OR addict* OR dependenc* ) ) OR
+( cigarette AND dependenc* ) OR
+( 
+	cocaine AND (
+		abuse OR 
+		addict* OR 
+		dependenc* OR 
+		treatment OR 
+		( use AND disorder ) 
+	) 
+) OR
+( cocaine-dependent AND individual ) OR
+( cocaine-related AND disorder ) OR
+( cocainedependent AND individual ) OR
+( cocainerelated AND disorder ) OR
+( drinking AND problem ) OR
+( 
+	drug AND (
+		abuse OR addict* OR counseling OR dependenc* OR disorder OR epidemic OR mortalit* OR problem OR ( use AND ( disorder OR problem ) ) 
+	) 
+) OR
+( ( drug-dependent OR drugdependent ) AND patient ) OR
+( ( drug-related OR drugrelated ) AND ( death OR mortalit* ) ) OR
+( ( harmful OR heavy ) AND drinking ) OR
+( 
+	heroin AND ( 
+		abuse OR 
+		addict* OR 
+		death OR 
+		dependenc* OR 
+		pidemic OR 
+		mortalit* OR 
+		( use AND disorder ) 
+	) 
+) OR
+( ( heroin-dependent OR heroindependent ) AND ( individual OR patient ) ) OR
+( ( heroin-related OR heroinrelated ) AND death ) OR
+( ( high-risk OR highrisk ) AND drinking ) OR
+( marijuana AND ( abuse OR dependenc* OR ( use AND disorder ) ) ) OR
+( meth AND ( abuse OR addict* OR dependenc* ) ) OR
+( 
+	methamphetamine AND (
+		abuse OR 
+		addict* OR 
+		dependenc* OR 
+		( use AND disorder ) 
+	) 
+) OR
+( nicotine AND ( addict* OR dependenc* ) ) OR
+( opiate AND ( abuse OR addict* OR dependenc* ) ) OR
+( ( opiate-dependent OR opiatedependent OR opioid-dependent OR opioiddependent ) AND patient ) OR
+(
+	opioid AND ( 
+		abuse OR 
+		addict* OR 
+		crisis OR 
+		death OR 
+		dependenc* OR 
+		epidemic OR 
+		mortalit* OR 
+		( use AND disorder ) 
+	) 
+) OR
+( ( opioid-related OR opioidrelated ) AND ( death OR disorder OR mortalit* ) ) OR
+pharmaco-dependenc* OR
+pharmacodependenc OR
+( psychostimulant AND ( abuse OR addict* OR dependenc* ) ) OR
+( 
+	risky AND ( 
+		( alcohol AND consumption ) OR 
+		( alcohol AND use ) OR 
+		drinker OR 
+		drinking 
+	) 
+) OR
+( smoking AND dependenc* ) OR
+( 
+stimulant AND ( 
+	abuse OR 
+	addict* OR 
+	dependenc* OR 
+	( use AND disorder ) 
+)
+) OR
+( 
+	substance AND ( 
+		abuse" OR 
+		addict* OR 
+		dependenc* OR 
+		( 
+			use AND ( 
+				disorder OR 
+				problem OR 
+				treatment 
+			) 
+		) 
+	) 
+) OR
+(
+	( 
+		substance-dependent OR 
+		substance-related OR 
+		substancedependent OR 
+		substancerelated 
+	) AND (
+		disorder OR
+		patient
+	) 
+) OR
+( tobacco AND ( addict* OR dependenc* OR ( use AND disorder ) ) ) OR
+( 
+	unhealthy AND ( 
+		( alcohol AND use ) OR 
+		drinking OR 
+		( drug AND use ) OR 
+		( substance AND use ) 
+	) 
+) OR
+(
+	(
+		addict* AND ( 
+		( prevention AND of ) OR
+		( treatment AND for ) OR
+		( treatment AND of ) OR
+		counseling OR
+		disorder OR
+		disorder OR
+		intervention OR
+		medicine OR
+		prevention OR
+		therapies OR
+		therapy OR
+		treatment
+		) 
+	) AND (
+		alcohol OR
+		amphetamine OR
+		cannabis OR
+		cigarette OR
+		cocaine OR
+		drug OR
+		heroin OR
+		marijuana OR
+		methamphetamine OR
+		nicotine OR
+		opioid OR
+		psychostimulant OR
+		smoking OR
+		tobacco
+	)
+)

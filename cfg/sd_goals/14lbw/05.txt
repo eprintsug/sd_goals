@@ -1,0 +1,482 @@
+"beach management" OR
+"Clean-Coast Index" OR
+"CleanCoast Index" OR
+"Coastal Barrier resource Act" OR
+"ecosystem-based fishery management" OR
+"ecosystembased fishery management" OR
+"estuarine quality index" OR
+"governance of seabed" OR
+"ICZM" OR
+"integrated coastal management" OR
+"integrated coastal zone management" OR
+"integrated estuary management" OR
+"Large Ocean management"Area" OR
+"Large Ocean management"Areas" OR
+"maritime spatial planning" OR
+"port sustainability" OR
+"seabed governance" OR
+(
+	"adaptation planning" AND (
+		"coast" OR
+		"coastal" OR
+		"ocean" OR
+		"oceanic" OR
+		"oceans" OR
+		sea OR
+		marine
+	) AND ecosystem*
+) OR
+( "coastal conservation" AND ( "tourism" OR "visitor" OR "visitors" ) ) OR
+( "habitat conservation" AND ( ( marine* AND mammal* ) OR "fish" OR "fishes" ) ) OR
+(
+	"habitat protection" AND (
+		"Acipenser brevirostrum" OR
+		"Acipenser mikadoi" OR
+		"Acipenser naccarii" OR
+		"Acipenser oxyrinchus oxyrinchus" OR
+		"Acipenser sinensis" OR
+		"Acipenser sturio" OR
+		"Acipenser transmontanus" OR
+		"Adriatic sturgeon" OR
+		"African manatee" OR
+		"Amazonian manatee" OR
+		"angelshark " OR
+		"Arctocephalus galapagoensis" OR
+		"Atlantic salmon" OR
+		"Atlantic sturgeon" OR
+		"Australian sea lion" OR
+		"Australian snubfin dolphin" OR
+		"Balaenoptera borealis" OR
+		"Balaenoptera musculus" OR
+		"Balaenoptera physalus" OR
+		"Beluga whale|Beluga" OR
+		"Blue whale" OR
+		"Callorhinus ursinus" OR
+		"Caspian seal" OR
+		"Cephalorhynchus eutropia" OR
+		"Chilean dolphin" OR
+		"Chinese sturgeon" OR
+		"Chinook salmon" OR
+		"coast" OR
+		"coastal" OR
+		"Coho salmon" OR
+		"Cystophora cristata" OR
+		"Delphinapterus leucas" OR
+		"Dugong dugon" OR
+		"Dugong" OR
+		"Enhydra lutris" OR
+		"Eubalaena glacialis" OR
+		"Eubalaena japonica" OR
+		"Eumetopias jubatus" OR
+		"European sea sturgeon" OR
+		"Fin whale" OR
+		"Finless porpoise|Indo-Pacific finless porpoise" OR
+		"Finless porpoise|IndoPacific finless porpoise" OR
+		"Fish-eating bat" OR
+		"Fisheating bat" OR
+		"flathead trout" OR
+		"Galápagos fur seal" OR
+		"Galápagos sea lion" OR
+		"Hawaiian monk seal" OR
+		"Hooded seal" OR
+		"Humpback dolphin" OR
+		"Indo-Pacific humpbacked dolphin" OR
+		"IndoPacific humpbacked dolphin" OR
+		"Irrawaddy dolphin" OR
+		"La Plata dolphin" OR
+		"Lontra felina" OR
+		"Marine otter" OR
+		"Mediterranean monk seal" OR
+		"Monachus monachus" OR
+		"monkfish" OR
+		"Monodon monoceros" OR
+		"Myotis vivesi" OR
+		"Narrow-ridged finless porpoise" OR
+		"Narrowridged finless porpoise" OR
+		"Narwhal" OR
+		"Neomonachus schauinslandi" OR
+		"Neophoca cinerea" OR
+		"Neophocaena asiaeorientalis" OR
+		"Neophocaena phocaenoides" OR
+		"New Zealand sea lion" OR
+		"North Atlantic right whale" OR
+		"North Pacific right whale" OR
+		"Northern fur seal" OR
+		"ocean" OR
+		"oceanic" OR
+		"oceans" OR
+		"Oncorhynchus kisutch" OR
+		"Oncorhynchus mykiss" OR
+		"Oncorhynchus nerka" OR
+		"Oncorhynchus tshawytscha" OR
+		"orcaella brevirostris" OR
+		"orcaella heinsohni" OR
+		"Phocarctos hookeri" OR
+		"Phocoena sinus" OR
+		"Physeter macrocephalus" OR
+		"Platanista gangetica" OR
+		"Polar bear" OR
+		"Pontoporia blainvillei" OR
+		"Pusa caspica" OR
+		"Rainbow trout" OR
+		"Sakhalin sturgeon" OR
+		"Salmo platycephalus" OR
+		"Salmo salar" OR
+		"Sawback angelshark" OR
+		"Scalloped hammerhead" OR
+		"Sea otter" OR
+		sea OR
+		"Sei whale" OR
+		"Shortnose sturgeon" OR
+		"smoothback angelshark" OR
+		"Sockeye salmon" OR
+		"Sousa chinensis" OR
+		"Sousa teuszii" OR
+		"South Asian river dolphin" OR
+		"Sperm whale" OR
+		"Sphyrna lewini" OR
+		"Squatina aculeata" OR
+		"Squatina oculata" OR
+		"Squatina squatina" OR
+		"Steller sea lion" OR
+		"Trichechus inunguis" OR
+		"Trichechus manatus" OR
+		"Trichechus senegalensis" OR
+		"Ursus maritimus" OR
+		"Vaquita" OR
+		"West Indian manatee" OR
+		"White sturgeon" OR
+		"Zalophus wollebaeki" OR
+		marine
+	)
+) OR
+( "integrated approach" AND ( "exclusive economic zone" OR "EEZ" ) ) OR
+( "monitoring" AND ( coastal AND environment* ) ) OR
+( "sea level rise" AND ecosystem* ) OR
+( "species conservation" AND ( ( marine* AND mammal* ) OR "fish" OR "fishes" ) ) OR
+(
+	"vulnerability" AND (
+		"ocean" OR
+		"oceans" OR
+		"oceanic" OR
+		sea OR
+		marine
+	) AND ecosystem*
+) OR
+(
+	(
+		"an ecosystem approach" OR
+		"ecosystem approach to management" OR
+		"ecosystem approach" OR
+		"ecosystem approaches to management" OR
+		"ecosystem connections" OR
+		"ecosystem management" OR
+		"ecosystem-based approach" OR
+		"ecosystem-based approaches" OR
+		"ecosystem-based management" OR
+		"ecosystembased approach" OR
+		"ecosystembased approaches" OR
+		"ecosystembased management" OR
+		"integrated governance" OR
+		"integrated management" OR
+		"the ecosystem approach" OR
+		( "adaptive management" AND ecosystem ) OR
+		( "ecological integrity" AND "management" ) OR
+		( "ecosystem integrity" AND "management" ) OR
+		( "socio-ecological" AND "management" ) OR
+		( "socioecological" AND "management" ) OR
+		( "spatial planning" AND "ecosystem-based" ) OR
+		( "spatial planning" AND "ecosystembased" )
+	) AND (
+		"atoll" OR
+		"atolls" OR
+		"coastal" OR
+		"continental shelf" OR
+		"EEZ" OR
+		"estuaries" OR
+		"estuary" OR
+		"exclusive economic zone" OR
+		"firth" OR
+		"insular shelf" OR
+		"reef" OR
+		"reefs" OR
+		"shore" OR
+		( national AND water* ) OR
+		( territorial AND water* )
+	)
+) OR
+(
+	(
+		"antarctic tourism" OR
+		"blue tourism" OR
+		"coastal tourism" OR
+		"marine tourism" OR
+		"marine wildlife tourism" OR
+		"maritime tourism" OR
+		"surf tourism" OR
+		( underwater* AND tourism )
+	) AND (
+		"management" OR
+		( environment* AND effect* ) OR
+		( environment* AND impact* ) OR
+		( environment* AND protect* ) OR
+		sustainab*
+	)
+) OR
+(
+	(
+		"co-management" OR
+		"comanagement" OR
+		"ecological management" OR
+		"ecosystem degradation" OR
+		"ecosystem protection" OR
+		"ecosystem recovery" OR
+		"environmental impact assessment" OR
+		"Environmental management" OR
+		"Environmental Sensitivity" OR
+		"good environmental status" OR
+		"habitat degradation" OR
+		"habitat mapping" OR
+		"management framework" OR
+		"maximum sustainable yield" OR
+		"protected area" OR
+		"sustainable management" OR
+		"sustainable use" OR
+		( ecosystem* AND safeguard* ) OR
+		( manag* AND impact* ) OR
+		( protect* AND ecosystem* ) OR
+		( safeguard* AND ecosystem* ) OR
+		( sustainable AND development )
+	) AND (
+		"coast" OR
+		"coastal" OR
+		"ocean" OR
+		"oceanic" OR
+		"oceans" OR
+		sea OR
+		marine
+	)
+) OR
+(
+	( "ecosystem-based" OR "ecosystembased" ) AND (
+		"ocean" OR
+		"oceans" OR
+		"oceanic" OR
+		sea OR
+		"coast" OR
+		marine
+	) AND ( sustainab* OR sustainability )
+) OR
+(
+	(
+		"educational tourism" OR
+		"sustainable tourism" OR
+		"tourist-wildlife" OR
+		"touristwildlife" OR
+		( ( climate AND chang* ) AND "tourism" ) OR
+		( tourism* AND impact* ) OR
+		( visitor* AND impact* ) OR
+		( visitor* AND management* )
+	) AND ( marine OR ocean OR "coastal" OR sea )
+) OR
+(
+	"impact on" AND (
+		"fish" OR
+		"shellfish" OR
+		"the ecosystem" OR
+		"wildlife" OR
+		ecosystem
+	) AND (
+		"coast" OR
+		"coastal" OR
+		"maritime" OR
+		"ocean" OR
+		"oceanic" OR
+		sea OR
+		marine
+	)
+) OR
+( ( "marine conservation" OR "ocean conservation" ) AND ( "tourism" OR "visitor" OR "visitors" ) ) OR
+( ( ( integrated OR sustainab* ) AND manage* ) AND ( ( coastal AND ecosystem* ) OR ( marine* AND ecosystem* ) OR ( ocean AND ecosystem* ) ) ) OR
+( ( coastal AND area* ) AND "management" ) OR
+( ( conserv* AND ( ocean OR marine OR coast ) ) AND NOT ( ( "conservation of heat" OR "conservation of momentum" OR "conservation of mass" ) ) ) OR
+( ( marine* AND ecosystem* ) AND ( adverse* AND effect* ) ) OR
+(
+	( ocean AND tourism* ) AND (
+		"management" OR
+		( environment* AND effect* ) OR
+		( environment* AND impact* ) OR
+		( environment* AND protect* ) OR
+		sustainab*
+	)
+) OR
+(  AND (  ) ) OR
+( ( small* AND island* ) AND sustainability ) OR
+( ( sustainab* OR sustainability ) AND "marine tourism" ) OR
+(
+	( vulnerable* AND ecosystem* ) AND (
+		"ocean" OR
+		"oceanic" OR
+		"oceans" OR
+		sea OR
+		marine
+	)
+) OR
+( ( vulnerable* AND marine* AND ecosystem* ) AND protect* ) OR
+(
+	coastal AND (
+		"erosion risk assessment" OR
+		"geographic information system" OR
+		"governance" OR
+		"hazard wheel" OR
+		"integrated management" OR
+		"management" OR
+		"planning " OR
+		"protection" OR
+		"resource management" OR
+		"vulnerability classification" OR
+		"zone management" OR
+		"zone planning" OR
+		manager* OR
+		squeez* OR
+		sustainab*
+	)
+) OR
+(
+	( conserv* OR ( protect* AND habitat* ) ) AND (
+		"Acipenser brevirostrum" OR
+		"Acipenser mikadoi" OR
+		"Acipenser naccarii" OR
+		"Acipenser oxyrinchus oxyrinchus" OR
+		"Acipenser sinensis" OR
+		"Acipenser sturio" OR
+		"Acipenser transmontanus" OR
+		"Adriatic sturgeon" OR
+		"African manatee" OR
+		"Amazonian manatee" OR
+		"angelshark " OR
+		"Arctocephalus galapagoensis" OR
+		"Atlantic salmon" OR
+		"Atlantic sturgeon" OR
+		"Australian sea lion" OR
+		"Australian snubfin dolphin" OR
+		"Balaenoptera borealis" OR
+		"Balaenoptera musculus" OR
+		"Balaenoptera physalus" OR
+		"Beluga whale|Beluga" OR
+		"Blue whale" OR
+		"Callorhinus ursinus" OR
+		"Caspian seal" OR
+		"Cephalorhynchus eutropia" OR
+		"Chilean dolphin" OR
+		"Chinese sturgeon" OR
+		"Chinook salmon" OR
+		"Coho salmon" OR
+		"Cystophora cristata" OR
+		"Delphinapterus leucas" OR
+		"Dugong dugon" OR
+		"Dugong" OR
+		"Enhydra lutris" OR
+		"Eubalaena glacialis" OR
+		"Eubalaena japonica" OR
+		"Eumetopias jubatus" OR
+		"European sea sturgeon" OR
+		"Fin whale" OR
+		"Finless porpoise|Indo-Pacific finless porpoise" OR
+		"Finless porpoise|IndoPacific finless porpoise" OR
+		"Fish-eating bat" OR
+		"Fisheating bat" OR
+		"flathead trout" OR
+		"Galápagos fur seal" OR
+		"Galápagos sea lion" OR
+		"Hawaiian monk seal" OR
+		"Hooded seal" OR
+		"Humpback dolphin" OR
+		"Indo-Pacific humpbacked dolphin" OR
+		"IndoPacific humpbacked dolphin" OR
+		"Irrawaddy dolphin" OR
+		"La Plata dolphin" OR
+		"Lontra felina" OR
+		"Marine otter" OR
+		"Mediterranean monk seal" OR
+		"Monachus monachus" OR
+		"monkfish" OR
+		"Monodon monoceros" OR
+		"Myotis vivesi" OR
+		"Narrow-ridged finless porpoise" OR
+		"Narrowridged finless porpoise" OR
+		"Narwhal" OR
+		"Neomonachus schauinslandi" OR
+		"Neophoca cinerea" OR
+		"Neophocaena asiaeorientalis" OR
+		"Neophocaena phocaenoides" OR
+		"New Zealand sea lion" OR
+		"North Atlantic right whale" OR
+		"North Pacific right whale" OR
+		"Northern fur seal" OR
+		"Oncorhynchus kisutch" OR
+		"Oncorhynchus mykiss" OR
+		"Oncorhynchus nerka" OR
+		"Oncorhynchus tshawytscha" OR
+		"orcaella brevirostris" OR
+		"orcaella heinsohni" OR
+		"Phocarctos hookeri" OR
+		"Phocoena sinus" OR
+		"Physeter macrocephalus" OR
+		"Platanista gangetica" OR
+		"Polar bear" OR
+		"Pontoporia blainvillei" OR
+		"Pusa caspica" OR
+		"Rainbow trout" OR
+		"Sakhalin sturgeon" OR
+		"Salmo platycephalus" OR
+		"Salmo salar" OR
+		"Sawback angelshark" OR
+		"Scalloped hammerhead" OR
+		"Sea otter" OR
+		"Sei whale" OR
+		"Shortnose sturgeon" OR
+		"smoothback angelshark" OR
+		"Sockeye salmon" OR
+		"Sousa chinensis" OR
+		"Sousa teuszii" OR
+		"South Asian river dolphin" OR
+		"Sperm whale" OR
+		"Sphyrna lewini" OR
+		"Squatina aculeata" OR
+		"Squatina oculata" OR
+		"Squatina squatina" OR
+		"Steller sea lion" OR
+		"Trichechus inunguis" OR
+		"Trichechus manatus" OR
+		"Trichechus senegalensis" OR
+		"Ursus maritimus" OR
+		"Vaquita" OR
+		"West Indian manatee" OR
+		"White sturgeon" OR
+		"Zalophus wollebaeki" OR
+	)
+) OR
+(
+	marine AND (
+		"conservation" OR
+		"eco-compensation" OR
+		"ecocompensation" OR
+		"ecological protection and management" OR
+		"ecological protection" OR
+		"ecosystem asset accounting" OR
+		"protection" OR
+		"reserve" OR
+		"resource management" OR
+		"Spatial Planning" OR
+		"strategy framework directive" OR
+		"strategy framework" OR
+		( ecosys* AND protect* ) OR
+		( protected* AND area* ) OR
+		manag*
+	)
+) OR
+( ocean AND ( "conservation" OR "governance" OR "management" OR "policy" ) ) OR
+( protect* AND ( "marine endangered species" OR ( coral* AND reef* ) OR ( marine* AND ecosys* ) ) ) OR
+( sustainab* AND ( coastal OR marine* OR ocean ) AND resource* ) OR
+( sustainability AND ( mangrove* AND forest* ) ) OR

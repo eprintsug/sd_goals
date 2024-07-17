@@ -1,0 +1,55 @@
+"clean plate movement" OR
+"extend food shelf life" OR
+"food biopreservation" OR
+"food preservation" OR
+"food preservative" OR
+"food rescue" OR
+"prevent food spoilage" OR
+"reduce plate waste" OR
+"sustainable development goal 12.3" OR
+( 
+	( 
+		"food loss" OR
+		"food losses" OR
+		"household food waste" OR
+		"post-consumer food waste" OR
+		"postconsumer food waste" OR
+		"post-harvest losses" OR
+		"postharvest losses" 
+	) AND ( food OR (crop) ) AND ( 
+		"prevent" OR
+		"reduce" OR
+		minimis* OR
+		minimiz* OR
+		reduct*
+	) 
+) OR
+(  AND ( reduct* OR "reduce" OR "prevent" OR minimiz* OR minimis* ) ) OR
+( "pef treatment" AND food ) OR
+( "wasted food" AND NOT ( "wasted food energy" ) ) OR
+
+( 
+	( food AND waste ) AND ( 
+		avoid* OR
+		edible OR
+		loss OR
+		minimis* OR
+		minimiz* OR
+		prevent* OR
+		prevention OR
+		reduction
+	) 
+) OR
+( ( Postharvest* AND loss* ) AND food ) OR
+( ( pulsed* AND electric* AND field ) AND food ) OR
+( 
+	( reduc* AND food* AND wast* ) AND NOT ( 
+		"anaerobic" OR
+		"bacteria" OR
+		bird* OR
+		digest* OR
+		fish* 
+	) 
+) OR
+( delay* AND food* AND spoil* ) OR
+( prevent* AND food* AND spoil* )

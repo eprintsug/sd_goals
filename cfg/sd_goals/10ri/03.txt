@@ -1,0 +1,194 @@
+(
+	( ( "involvement" OR "participation" OR "representation" ) AND ( 
+		"Afghanistan" OR
+		"Albania" OR
+		"Algeria" OR
+		"Angola" OR
+		"Antigua and Barbuda" OR
+		"Argentina" OR
+		"Armenia" OR
+		"Azerbaijan" OR
+		"Bangladesh" OR
+		"Belarus" OR
+		"Belize" OR
+		"Benin" OR
+		"Bhutan" OR
+		"Bolivia" OR
+		"Bosnia and Herzegovina" OR
+		"Botswana" OR
+		"Brazil" OR
+		"Burkina Faso" OR
+		"Burundi" OR
+		"Cambodia" OR
+		"Cameroon" OR
+		"Cape Verde" OR
+		"Central African Republic" OR
+		"Chad" OR
+		"China" OR
+		"Colombia" OR
+		"Comoros" OR
+		"Congo" OR
+		"Cook Islands" OR
+		"Costa Rica" OR
+		"Cuba" OR
+		"Côte d'Ivoire" OR
+		"Djibouti" OR
+		"Dominica" OR
+		"Dominican Republic" OR
+		"Ecuador" OR
+		"Egypt" OR
+		"Equatorial Guinea" OR
+		"Eritrea" OR
+		"Eswatini" OR
+		"Ethiopia" OR
+		"Fiji" OR
+		"Gabon" OR
+		"Gambia" OR
+		"Georgia" OR
+		"Ghana" OR
+		"Grenada" OR
+		"Guatemala" OR
+		"Guinea" OR
+		"Guinea-Bissau" OR
+		"Guyana" OR
+		"Haiti" OR
+		"Honduras" OR
+		"India" OR
+		"Indonesia" OR
+		"Iran" OR
+		"Iraq" OR
+		"Jamaica" OR
+		"Jordan" OR
+		"Kazakhstan" OR
+		"Kenya" OR
+		"Kiribati" OR
+		"Kosovo" OR
+		"Kyrgyzstan" OR
+		"Lao" OR
+		"Lebanon" OR
+		"Lesotho" OR
+		"Liberia" OR
+		"Libya" OR
+		"Macedonia" OR
+		"Madagascar" OR
+		"Malawi" OR
+		"Malaysia" OR
+		"Maldives" OR
+		"Mali" OR
+		"Marshall Islands" OR
+		"Mauritania" OR
+		"Mauritius" OR
+		"Mexico" OR
+		"Micronesia" OR
+		"Moldova" OR
+		"Mongolia" OR
+		"Montenegro" OR
+		"Morocco" OR
+		"Mozambique" OR
+		"Myanmar" OR
+		"Namibia" OR
+		"Nauru" OR
+		"Nepal" OR
+		"Nicaragua" OR
+		"Niger" OR
+		"Nigeria" OR
+		"Niue" OR
+		"North Korea" OR
+		"Pakistan" OR
+		"Palau" OR
+		"Palestine" OR
+		"Panama" OR
+		"Papua New Guinea" OR
+		"Paraguay" OR
+		"Peru" OR
+		"Philippines" OR
+		"Rwanda" OR
+		"Saint Lucia" OR
+		"Saint Vincent and the Grenadines" OR
+		"Salvador" OR
+		"Samoa" OR
+		"Senegal" OR
+		"Serbia" OR
+		"Sierra Leone" OR
+		"Solomon Islands" OR
+		"Somalia" OR
+		"South Africa" OR
+		"South Sudan" OR
+		"Sri Lanka" OR
+		"Sudan" OR
+		"Suriname" OR
+		"Syria" OR
+		"São Tomé and Príncipe" OR
+		"Tajikistan" OR
+		"Tanzania" OR
+		"Thailand" OR
+		"Timor-Leste" OR
+		"Togo" OR
+		"Tonga" OR
+		"Tunisia" OR
+		"Turkey" OR
+		"Turkmenistan" OR
+		"Tuvalu" OR
+		"Uganda" OR
+		"Ukraine" OR
+		"Uzbekistan" OR
+		"Vanuatu" OR
+		"Venezuela" OR
+		"Viet Nam" OR
+		"Yemen" OR
+		"Zambia" OR
+		"Zimbabwe" OR
+		( 
+			( 
+				"developing" OR
+				"emerging" OR
+				"least developed" OR
+				"less developed" OR
+				"low-income" OR
+				"lowincome" OR
+				"middle-income" OR
+				"middleincome" OR
+				"poor"
+			) AND ( "countries" OR "economies" OR "nations" ) 
+		)
+	) )
+) AND (
+	"Bretton Woods Institutions" OR
+	"International Atomic Energy Agency" OR
+	"International Civil Aviation Organization" OR
+	"International Fund for agricultural Development" OR
+	"International Labour Organization" OR
+	"International Maritime Organization" OR
+	"International Monetary Fund" OR
+	"International telecommunications Union" OR
+	"organisation for Economic Cooperation and Development" OR
+	"United Nations" OR
+	"Universal Postal Union" OR
+	"World Bank" OR
+	"World Health Organization" OR
+	"World Intellectual Property Organization" OR
+	"World Meteorological Organization" OR
+	"World Trade Organization" OR
+	( 
+		( global OR international ) AND ( 
+			"climate governance" OR
+			"climate institution" OR
+			"climate institutions" OR
+			"economic governance" OR
+			"economic institution" OR
+			"economic institutions" OR
+			"energy governance" OR
+			"energy institution" OR
+			"energy institutions" OR
+			"environmental governance" OR
+			"environmental institution" OR
+			"environmental institutions" OR
+			"financial governance" OR
+			"financial institution" OR
+			"financial institutions" OR
+			"governance" OR
+			"institution" OR
+			"institutions"
+		) 
+	)
+)

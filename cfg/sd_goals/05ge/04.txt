@@ -1,0 +1,372 @@
+(
+	( Abortion* AND reform* ) OR
+	"cedaw" OR
+	"convention on the elimination of all forms of discrimination against women" OR
+	( Electoral* AND gender* AND quota* ) OR
+	( Electoral* AND women* AND quota* ) OR
+	"employment equality act" OR
+	( Female AND ( president OR candidat* OR politic* ) ) OR
+	(
+		gender AND (
+			( equality AND politic* ) OR
+			( equity AND politic* ) OR
+			( policy AND change* ) OR
+			( quota AND ( adoption OR law ) ) OR
+			governance* OR
+			mainstream* OR
+			politic* OR
+		)
+	) OR
+	( Legislation AND for AND women ) OR
+	"Madam president" OR
+	( national AND gender AND mechanism ) OR
+	( pay* AND equity AND legislation* ) OR
+	( Politics* AND of AND women* ) OR
+	"State abortion politics" OR
+	( trap AND abortion AND law ) OR
+	"unscr 1325" OR
+	( woman AND running AND for AND office ) OR
+	( women-friendly AND ( policies OR policy ) ) OR
+	( womenfriendly AND ( policies OR policy ) ) OR
+	(
+		abortion AND
+		Decriminali*
+	) OR
+	( abortion AND ( policy OR policies ) ) OR
+	(
+		( criminal AND justice ) AND
+		( unnatural* AND death* ) AND
+		women
+	) OR
+	(
+		diversity AND
+		legislator* AND
+		quota* AND
+		women
+	) OR
+	(
+		( Female* AND politician* ) AND (
+			representation OR
+			minorit*
+		)
+	) OR
+	(
+		( Gender* AND bias* ) AND
+		legislature*
+	) OR
+	(
+		( gender* AND parity ) AND
+		politic*
+	) OR
+	(
+		gender AND (
+			"governance and public policy" OR
+			"Immigration policy" OR
+			( political* AND ( equalit* OR equit* ) ) OR (
+				 ( welfare AND state ) AND reform*
+			) OR (
+				(
+					Inequal* OR
+					equal* OR
+					inequit* OR
+					equit*
+				) AND (
+					( political AND ( representation OR leadership ) )
+				)
+			)
+		)
+	) OR
+	(
+		( gendered* AND perception* ) AND
+		Politics
+	) OR
+	(
+		( Gender* AND equalit* ) AND (
+			policymaker* OR ( safety* AND net* AND program* ) OR (
+				government* AND
+				stakeholder*
+			)
+		)
+	) OR
+	(
+		( Gender* AND gap ) AND (
+			( political* AND ( interest* OR office* OR part* ) )
+		)
+	) OR
+	(
+		( Gender* AND quota* ) AND
+		( women AND elected )
+	) OR
+	(
+		( Gender* AND sensitive* AND curricul* ) AND
+		government*
+	) OR
+	(
+		( international AND human AND right ) AND (
+			( gender* AND equ* ) OR
+			( widow* AND without AND right )
+		)
+	) OR
+	(
+		( legal* AND framework* ) AND (
+			equity OR
+			equality
+		) AND
+		gender
+	) OR
+	(
+		( lone* AND mother* ) AND
+		( welfare AND state )
+	) OR
+	(
+		( violence AND prevention AND program* ) AND (
+			child* OR
+			gender OR
+			girl* OR
+			women
+		)
+	) OR
+	(
+		women AND (
+			( elected AND official ) OR
+			( empowerment AND ( Politics OR political ) ) OR
+			( in AND politic* ) OR
+			( integration AND ( political* AND structure* ) ) OR
+			( Legal AND ( mobilisation OR mobilization ) ) OR
+			( literac* AND program* ) OR
+			( policies AND education AND ( human AND right ) ) OR
+			( political AND (
+					activit* OR
+					engagement* OR
+					leadership OR
+					participation OR
+					representation OR
+					( debate* AND participat* )
+				)
+			) OR
+			( public AND policy AND making ) OR
+			( regulation AND abortion ) OR
+			( representation AND ( political AND minorit* ) ) OR
+			( running AND for AND office ) OR
+			( Women AND politics ) OR
+			candidat* OR
+			policies OR
+			policy OR
+			politic* OR
+		)
+	) OR
+	(
+		( Women's AND movement ) AND (
+			Politics OR
+			( political* AND activit* )
+		)
+	) OR
+	(
+		"Women's rights" AND
+		law
+	) OR
+	(
+		( Women* AND candidate* ) AND
+		( executive* AND offic* )
+	) OR
+	(
+		( Women* AND domestic* AND worker* ) AND (
+			policy OR
+			policies
+		)
+	) OR
+	(
+		( Women* AND ( disabilit* OR disabl* ) ) AND (
+			( human-rights* AND law ) OR
+			( humanrights* AND law )
+		)
+	) OR
+	(
+		(
+			discrimination OR
+			disparity OR
+			diversity OR
+			empower* OR
+			equalit* OR
+			equity OR
+			inequalit* OR
+			inequit*
+		) AND (
+			gender OR
+			women
+		) AND (
+			law OR
+			legislation* OR
+			policies OR
+			policy
+		)
+	) OR
+	(
+		(
+			( eldercare AND ( policies OR policy ) ) OR (
+				state AND
+				restructur*
+			)
+		) AND (
+			gender OR
+			women
+		)
+	) OR
+	(
+		(
+			( empower* AND women ) OR
+			( equal AND employment ) OR
+			( gender* AND (
+					difference* OR
+					goal* OR
+					inequalit* OR
+					intersection OR
+					perspective* OR
+					quota OR
+					wage
+				)
+			) OR
+			( genderbased AND violence ) OR
+			( genderrelated AND right ) OR
+			Gendersensitiv* OR
+			( gender-based AND violence ) OR
+			( gender-related AND right ) OR
+			Gender-sensitiv* OR
+			( Homeless* AND women ) OR
+			( Intersect* AND gender ) OR
+			( ( marginalisation OR marginalization ) AND sexuality ) OR
+			( Maternity AND leave ) OR
+			MeToo OR
+			( parental AND leave ) OR
+			( pay AND gap ) OR
+			( salary AND gap ) OR
+			( traffick* AND women ) OR
+			( violence AND against AND women ) OR
+			( Women AND empowerment ) OR
+			( women's health ) OR
+			( Women AND ( abortion OR issue OR ( unpaid AND work ) ) ) OR
+			( Women AND legislator ) OR
+			( "Women of colour" OR "Women of color" ) OR
+			(
+				 AND
+				women
+			) OR
+			(
+				(
+					women OR
+					gender
+				) AND
+				(
+					( household* AND worker* ) OR
+					( sex* traffick* )
+				)
+			)
+		) AND (
+			program* OR
+			policies OR
+			policy OR
+			legislation* OR
+			( legal* AND framework* )
+		)
+	) OR
+	(
+		(
+			gender OR
+			women
+		) AND (
+			"family policy" OR
+			"family policies" OR
+			"Trade policies" OR
+			"worklife policy" OR
+			"worklife policies" OR
+			( Welfare* AND reform* ) OR
+			(
+				policy AND
+				restructur*
+			)
+		)
+	) OR
+	(
+		(
+			Gender-based OR
+			Genderbased
+		) AND
+		( political* AND transition* )
+	) OR
+	(
+		(
+			Policy-making OR
+			Policymaking
+		) AND
+		women AND
+		gender
+	) OR
+	(
+		(
+			under-represent* OR
+			( under* AND represent* ) OR
+			Underrepresent*
+		) AND
+		(
+			women OR
+			gender
+		) AND
+		Politics
+	) OR
+	(
+		(
+			"women's human rights" OR
+			"women's rights"
+		) AND
+		(
+			Politics OR
+			policies
+		)
+	)
+) AND NOT (
+	 ( clinical AND trial* ) OR
+	(
+		(
+			health AND NOT (
+				( healthcare AND educat* ) OR
+				( health care AND educat* )
+			)
+		) OR
+		 vaccin* OR
+		 epidemiolog* OR
+		 sepsis* OR
+		 mice OR
+		 mouse OR
+		 ( animal AND model* ) OR
+		 diarrhea* OR
+		 ( ( randomised OR randomized ) AND controlled AND trial* ) OR
+		 cardiovascul* OR
+		 cardiac* OR
+		 ( heart AND disease* ) OR
+		 ( heart AND damag* ) OR
+		 healthcare* OR
+		 disease* OR
+		 dental* OR
+		 dentist* OR
+		 undernutrition* OR
+		 gene OR
+		 genetic* OR
+		 cancer* OR
+		 ( mental* ill* ) OR
+		 "energy poverty" OR
+		 ( poor AND mental AND health ) OR
+		 dementia OR
+		 alzheimer OR
+		 ( care AND facilit* ) OR
+		 alcohol* OR
+		 asthma* OR
+		 ( ambulatory AND child* ) OR
+		 ( cerebral AND palsy* ) OR
+		 oil* OR
+		 gas* OR
+		 patient*
+	) AND NOT (
+		equalit* OR
+		inequalit*
+	)
+)

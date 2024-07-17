@@ -1,0 +1,146 @@
+"employment equity act" OR
+"equal pay for equal work" OR
+"equal pay for work" OR
+"equal remuneration convention" OR
+"female employment" OR
+"human capital" OR
+"informal employment" OR
+"international labour standards" OR
+"minimum wage" OR
+"pay discrimination" OR
+"pay equity" OR
+"return to college" OR
+"return to education" OR
+"return to school" OR
+"school to work" OR
+"time-related underemployment" OR
+( "( quality AND employment ) AND economic* ) OR
+( "ilo convention" AND "169" ) OR
+( "ilo" AND "convention 169" ) OR
+( ( ( labour OR labor ) AND ( standard OR suppl* ) ) AND economic* ) OR
+( ( affirmative* AND action* ) AND ( job* OR salar* ) ) OR
+( ( black AND women ) AND wage* ) OR
+( ( coal AND worker ) AND "ilo" ) OR
+( ( economic AND growth ) AND "gini" ) OR
+( ( economic* AND ( policy OR policies ) ) AND unemployment ) OR
+( ( employment* AND condition* ) AND economic* ) OR
+( ( GDP AND growth ) AND "gini" ) OR
+(
+	( labor OR labour ) AND (
+		employment AND (
+			( Affirmative AND action ) OR
+			( economic* AND ( policy OR policies ) ) OR
+			law OR
+			legislation OR
+			market OR
+			maternal OR
+			non-standard OR
+			parental OR
+			productive OR
+			regulation OR
+			relations OR
+			standard OR
+			vulnerable
+		)
+	)
+) OR
+( ( migrant AND worker ) AND economic* ) OR
+( ( same AND job ) AND gender ) OR
+( ( self-employ* OR selfemploy* ) AND ( economic* OR job OR work ) )
+( ( wage AND share ) AND economic* ) OR
+( ( women AND worker ) AND "ILO" ) OR
+(
+	( young OR youth ) AND (
+		employability OR
+		employment OR
+		labor OR
+		labour OR
+		unemployed OR
+		unemployment OR
+		worker
+	)
+) OR
+( active AND ( labour OR labor ) AND market AND policies ) OR
+( better AND work AND programme ) OR
+( decent AND ( employment OR work ) ) OR
+( earnings AND ( discrimination OR gap OR inequalit* ) ) OR
+(
+	employment AND (
+		creation OR
+		equity OR
+		insecurity OR
+		poverty OR
+		protection OR
+		quality OR
+		security
+	)
+) OR
+( equal AND employment ) OR
+( equal AND pay ) OR
+( equal AND pay AND guide ) OR
+( female AND ( labour OR labor ) AND participation ) OR
+( Flexible AND working AND hour ) OR
+( full AND productive AND employment ) OR
+( gender AND division AND ( labour OR labor ) ) OR
+( gender AND earning AND gap ) OR
+( gender AND pay AND equity ) OR
+( green AND employment ) OR
+( hiring AND ( Affirmative AND action ) ) OR
+( hiring AND discriminat* ) OR
+( ilo AND standard ) OR
+(
+	job AND (
+		displacement OR
+		insecurity OR
+		search OR
+		stability
+	)
+) OR
+( living AND wage ) OR
+( low* AND wage* AND job* ) OR
+( nonstandard AND ( employment OR ( work* AND schedule* ) ) ) OR
+( occupational AND segregation ) OR
+( overeducat* AND unemployment ) OR
+( pay AND gap ) OR
+( racial AND wage ) OR
+( school AND leav* ) OR
+( self-employ* AND women ) OR
+( selfemploy* AND women ) OR
+( timerelated AND underemployment ) OR
+( unemploy* AND young AND people ) OR
+( unemploy* AND youth ) OR
+(
+	wage AND (
+		bargaining OR
+		difference OR
+		differential OR
+		discriminat* OR
+		disparit* OR
+		employment OR
+		gap OR
+		growth OR
+		inequalit* OR
+		premia OR
+		premium OR
+		( wage* AND inequalit* )
+	)
+) OR
+( wage* AND ( Affirmative AND action ) ) OR
+(
+	women* AND (
+		employment OR
+		( labor AND force ) OR
+		( labor AND suppl* ) OR
+		( labour AND force ) OR
+		( labour AND suppl* ) OR
+		entrepreneur*
+	)
+) OR
+( work-force AND participat* ) OR
+( work-related AND burden ) OR
+( worker AND displacement ) OR
+( workforce AND participat* ) OR
+( workplace AND ( Affirmative AND action ) ) OR
+( workrelated AND burden ) OR
+flexicurity OR
+selfemploy*
