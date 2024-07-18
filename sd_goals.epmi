@@ -39,22 +39,6 @@
         </file>
         <file>
           <datasetid>document</datasetid>
-          <filename>epm/sd_goals/cfg/sd_goals/SDG_01/01.txt</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>77fe567006b16e5b908772b7cc32f85b</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>1358</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>epm/sd_goals/cfg/sd_goals/SDG_01/02.txt</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>cc9248c004e2fa7edff13360df092ade</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>7090</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
           <filename>epm/sd_goals/cgi/sd_goals</filename>
           <mime_type>text/plain</mime_type>
           <hash>b09f42012e357ef87970205012bfcb9f</hash>
@@ -68,14 +52,6 @@
           <hash>fcb2356cd5f843248b433ca264ab0f0f</hash>
           <hash_type>MD5</hash_type>
           <filesize>8287</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/SD_Goals/Utils.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>29d4e47de19f122d71d3b5837b884ee1</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>1850</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
