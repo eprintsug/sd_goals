@@ -5,8 +5,9 @@ UN Sustainable Development Goals plugin for EPrints
 
 Add this to the workflow (with show_help configured to your preference):
 ```xml
-<component show_help="always">
+<component  type="Field::Multi" show_help="always">
   <field ref="sd_goals"/>
+  <field ref="sd_goals_checked"/>
 </component>
 ```
 Choose which whether you want text links or icons for the summary pages.
