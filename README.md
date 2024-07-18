@@ -1,6 +1,11 @@
 # sd_goals
 UN Sustainable Development Goals plugin for EPrints
 
+## Examples
+To see the Sustainable Development Goals in action head to:
+* [White Rose Research Online (browse view)](https://eprints.whiterose.ac.uk/view/sd_goals/)
+* [London Business School (cgi screen)](https://lbsresearch.london.edu/cgi/sd_goals/)
+
 ## Installing
 
 Add this to the workflow (with show_help configured to your preference):
