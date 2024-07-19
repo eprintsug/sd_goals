@@ -207,12 +207,12 @@
 	( ( access* AND to AND new* AND technolog* ) AND poor ) OR
 	(
 		(
-			asset poor* OR
-			asset-poor* OR
-			assetpoor* OR
+			asset poor OR
+			asset-poor OR
+			assetpoor
 		) AND (
 			famil* OR
-			household* OR
+			household
 		)
 	) OR
 	(
@@ -350,10 +350,10 @@
 )
 AND NOT (
 	( clinical AND trial* ) OR
-	health AND NOT (
+	( health AND NOT (
 		( healthcare AND educat* ) OR
 		( health care AND educat* )
-	) OR
+	) ) OR
 	"energy poverty" OR
 	( ambulatory AND child* ) OR
 	( animal AND model* ) OR
@@ -388,9 +388,8 @@ AND NOT (
 	rat OR
 	sepsis* OR
 	undernutrition* OR
-	vaccin* OR
-	AND NOT (
+	( vaccin* AND NOT (
 		"the poor" OR
 		poverty
-	)
+	) )
 )
