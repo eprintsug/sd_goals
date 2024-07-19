@@ -134,7 +134,7 @@
 			"valorization" OR
 			( sequestration AND technolog* ) OR
 			( storage AND technolog* ) OR
-			replacement OR
+			replacement
 		)
 	) OR
 	( "organic carbon" AND NOT shale* ) OR
@@ -176,7 +176,7 @@
 			"compression of carbon dioxide" OR
 			"compression of CO 2" OR
 			"compression of CO2" OR
-			"compression" OR
+			"compression"
 		) AND ( "capture" OR "sequestration" )
 	) OR
 	(
@@ -214,7 +214,7 @@
 				) AND ( "gas recovery" OR "oil recovery" )
 			) OR
 			( oxy-fuel AND technolog* ) OR
-			( oxyfuel AND technolog* ) OR
+			( oxyfuel AND technolog* )
 		)
 	) OR
 	( ( "carbon dioxide" OR "CO2" OR "CO 2" ) AND ( "sequestration project" OR "sequestration pilot project" OR "sequestration site" ) ) OR
@@ -237,7 +237,7 @@
 		) AND NOT (
 			"emission" OR
 			( "carbon dioxide" AND emission ) OR
-			( "CO 2" AND emission ) OR
+			( "CO 2" AND emission )
 		)
 	) OR
 	( ( "carbon sequestration" OR "CO 2 sequestration" OR "sequestration" ) AND ( storage* AND site* ) ) OR
@@ -335,7 +335,7 @@
 			"valorization" OR
 			( sequestration AND technolog* ) OR
 			( storage AND technolog* ) OR
-			capture* OR
+			capture
 		)
 	) OR
 	(
@@ -433,7 +433,7 @@
 			CO2storage
 		)
 	) OR
-	textile* OR
+	textile*
 ) AND NOT (
 	( Triassic AND climate ) OR
 	( paleoclimat* AND NOT anthropogen* ) OR

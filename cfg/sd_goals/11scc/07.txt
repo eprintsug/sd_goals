@@ -198,8 +198,8 @@
 		"risk assessment" OR
 		"risk management" OR
 		"risks management" OR
-		"system"
-		loss OR
+		"system" OR
+		loss
 	)
 ) OR
 ( drought* AND disaster ) OR
@@ -313,7 +313,7 @@
 		"emergency shelters" OR
 		"water logging" OR
 		disaster OR
-		stormwater* OR
+		stormwater*
 	)
 ) OR
 ( water* AND sensitive AND urban AND design )

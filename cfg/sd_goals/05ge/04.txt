@@ -14,7 +14,7 @@
 			( quota AND ( adoption OR law ) ) OR
 			governance* OR
 			mainstream* OR
-			politic* OR
+			politic*
 		)
 	) OR
 	( Legislation AND for AND women ) OR
@@ -152,7 +152,7 @@
 			candidat* OR
 			policies OR
 			policy OR
-			politic* OR
+			politic*
 		)
 	) OR
 	(
@@ -247,10 +247,6 @@
 			( Women AND ( abortion OR issue OR ( unpaid AND work ) ) ) OR
 			( Women AND legislator ) OR
 			( "Women of colour" OR "Women of color" ) OR
-			(
-				 AND
-				women
-			) OR
 			(
 				(
 					women OR

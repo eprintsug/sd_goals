@@ -90,8 +90,8 @@
 		( transport* AND facilit* ) OR
 		bridge OR
 		freight OR
-		pavement OR
+		pavement
 	) 
 ) OR
 ( urban* AND public* AND transport* ) OR
-transantiago* OR
+transantiago*

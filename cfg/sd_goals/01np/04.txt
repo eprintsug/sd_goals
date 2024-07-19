@@ -61,11 +61,11 @@
 			"low income" OR
 			"rural poor" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			equitable OR
 			marginalisation OR
@@ -110,16 +110,16 @@
 			"low income" OR
 			"rural poor" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			equitable OR
 			marginalisation OR
 			marginalization OR
-			poverty OR
+			poverty
 		)
 	) OR
 	(
@@ -127,11 +127,11 @@
 			"low income" OR
 			"rural poor" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			equitable OR
 			marginalisation OR
@@ -151,11 +151,11 @@
 			"older people" OR
 			"social security" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			aboriginal OR
 			migrant OR
@@ -184,11 +184,11 @@
 	(
 		"social insurance" AND (
 			"low income" OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			poverty
 		)
@@ -226,11 +226,11 @@
 			"older people" OR
 			"social security" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			aboriginal OR
 			Africa OR
@@ -287,11 +287,11 @@
 		) AND (
 			"social security" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			"low income" OR
 			policies
@@ -346,11 +346,11 @@
 			"low income" OR
 			"social security" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			policies OR
 			policy OR
@@ -372,11 +372,11 @@
 		) AND (
 			"low income" OR
 			"social security" OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			insurance OR
 			poverty OR
@@ -394,7 +394,7 @@
 			( policy OR policies ) OR
 			insurance OR
 			program* OR
-			welfare OR
+			welfare
 		)
 	) OR
 	(
@@ -414,14 +414,14 @@
 	) OR
 	(
 		( aid* AND to AND famil* ) AND (
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					income OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
-			poverty OR
+			poverty
 		)
 	) OR
 	(
@@ -431,26 +431,26 @@
 					assistance OR
 					program*
 				)
-			) OR
+			)
 		)
 	) OR
 	(
-		( 
+		(
 			Family* AND (
 				policies OR
 				policy
-			) 
+			)
 		) AND (
 			"low income" OR
 			"low income" OR
 			"old people" OR
 			"older people" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			aboriginal OR
 			Africa OR
@@ -487,11 +487,11 @@
 		( social* AND ( policy OR policies ) ) AND (
 			"low income" OR
 			"older people" OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			equality OR
 			equity OR
@@ -520,10 +520,10 @@
 			( poor* AND people ) OR
 			"rural poor" OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
-					household* 
-				) 
+					household*
+				)
 			) OR
 			equitable OR
 			marginalisation OR
@@ -543,11 +543,11 @@
 				)
 			) OR
 			( developing* AND countr* ) OR
-			( poor* AND ( 
+			( poor* AND (
 					famil* OR
 					household* OR
-					people 
-				) 
+					people
+				)
 			) OR
 			aboriginal OR
 			Africa OR
@@ -556,9 +556,9 @@
 			uninsured
 		)
 	) OR
-	( welfare* AND allowance* ) OR
+	( welfare* AND allowance* )
 )
-AND NOT(
+AND NOT (
 	diagnosis OR
 	"family planning" OR
 	fertility OR

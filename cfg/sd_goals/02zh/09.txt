@@ -96,5 +96,5 @@ AND NOT (
 	( tendon* AND injur* ) OR
 	mice OR
 	mouse OR
-	rat OR
+	rat
 )

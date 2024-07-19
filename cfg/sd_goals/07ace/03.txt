@@ -1,5 +1,3 @@
-OR
-(
 	"access to electricity" OR
 	"clean cooking" OR
 	"electricity access" OR
@@ -137,4 +135,3 @@ OR
 			neighbourhood*
 		)
 	)
-)

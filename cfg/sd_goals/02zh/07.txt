@@ -186,7 +186,7 @@
 			( Access* AND to AND export* AND market* ) OR
 			( agricultur* AND biodiversity ) OR
 			( Emerging* AND market* ) OR
-			( Land* AND market* ) OR
+			( Land* AND market* )
 		) AND (
 			agricultur* OR
 			farm* OR
@@ -239,7 +239,7 @@
 				smallholder*
 			)
 		)
-	) OR
+	)
 ) AND NOT (
 	"carbon uptake" OR
 	"encephalitis virus" OR

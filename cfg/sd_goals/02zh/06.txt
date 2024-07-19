@@ -110,7 +110,7 @@
 			vegetable OR
 			wheat
  			rice OR
- 			sugarcane OR
+ 			sugarcane
 		)
 	) OR
 	(

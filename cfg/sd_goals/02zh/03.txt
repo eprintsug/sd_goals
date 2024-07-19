@@ -60,7 +60,7 @@
 			agro* OR
 			farm* OR
 			( food* AND producer* ) OR
-			herd* OR
+			herd*
 		)
 	) OR
 	(

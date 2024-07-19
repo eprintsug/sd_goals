@@ -132,7 +132,7 @@
 			system* OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -274,7 +274,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -301,7 +301,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -333,7 +333,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -360,7 +360,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -402,7 +402,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -430,7 +430,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -439,7 +439,7 @@
 			"hev" OR
 			"hevs" OR
 			hybrid* OR
-			vehicle*
+			vehicle
 		)
 	) OR
 	(
@@ -467,7 +467,7 @@
 			train OR
 			tramway* OR
 			truck OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	(
@@ -497,9 +497,7 @@
 			train* OR
 			tramway* OR
 			truck OR
-			truck* OR
-			vehicle* OR
-			vehicle*
+			vehicle
 		)
 	) OR
 	(
@@ -528,8 +526,7 @@
 			train* OR
 			tramway* OR
 			truck OR
-			truck* OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	( battery-assisted AND hybrid* ) OR
@@ -597,7 +594,7 @@
 			powertrain* OR
 			railway* OR
 			train* OR
-			vehicl* OR
+			vehicl
 		)
 	) OR
 	( electrified AND ( bus OR bus OR car OR car ) ) OR
@@ -650,7 +647,7 @@
 			train OR
 			tramway* OR
 			truck* OR
-			vehicle* OR
+			vehicle
 		)
 	) OR
 	( series AND hybrid* )

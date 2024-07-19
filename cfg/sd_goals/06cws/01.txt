@@ -22,7 +22,7 @@
 			rehabilitat* OR
 			restor* OR
 			stabilis* OR
-			stabiliz* OR
+			stabiliz*
 		)
 	) OR
 	( river* AND stream* AND ( rehabilitat* OR restor* ) ) OR
@@ -31,7 +31,7 @@
 			rehabilitat* OR
 			restor*
 			stabilis* OR
-			stabiliz* OR
+			stabiliz*
 		)
 	) OR
 	(

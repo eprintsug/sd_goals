@@ -260,7 +260,7 @@
 		capital* OR
 		liquidity* OR
 		microfinanc* OR
-		mortgage* OR
+		mortgage
 	) AND regulat*
 ) OR
 ( ( antidiscrimination OR discrimination ) AND ( law OR legislation* ) ) OR
@@ -586,7 +586,7 @@
 		differential* OR
 		distribution* OR
 		gap* OR
-		inequalit* OR
+		inequalit*
 	)
 ) OR
 ( individual AND development AND account* ) OR
@@ -786,4 +786,4 @@
 ( worker* AND disabilit* ) OR
 ( workplace* AND ( "discrimination" OR "diversity" OR "inclusion" ) ) OR
 medicaid OR
-remittance* OR
+remittance*

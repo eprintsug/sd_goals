@@ -75,7 +75,7 @@
 			"regulation" OR
 			( "CO 2" AND emission ) OR
 			( "CO2" AND emission ) OR
-			( carbon AND emission ) OR
+			( carbon AND emission )
 		)
 	) OR
 	(
