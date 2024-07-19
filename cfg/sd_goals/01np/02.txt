@@ -209,7 +209,7 @@
 		(
 			asset poor OR
 			asset-poor OR
-			assetpoor OR
+			assetpoor
 		) AND (
 			famil* OR
 			household
