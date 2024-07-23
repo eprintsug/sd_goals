@@ -1,5 +1,5 @@
 "arsenic exposure" OR
-"health and the environment" OR
+"health and +the environment" OR
 ( 
 	( 
 		"PM 10" OR
@@ -10,7 +10,7 @@
 	) AND 
 	exposure 
 ) OR
-( ( exposure AND to AND traffic ) AND NOT ( traffic AND noise ) ) OR
+( ( exposure AND +to AND traffic ) AND NOT ( traffic AND noise ) ) OR
 ( 
 	( 
 		mercury AND (
@@ -44,7 +44,7 @@
 		pollution
 	) 
 ) OR
-( exposure AND to AND air AND pollutant ) OR
+( exposure AND +to AND air AND pollutant ) OR
 ( hg AND intoxication ) OR
 ( lead AND ( exposure OR intoxication OR poisoning ) ) OR
 ( mehg AND ( intoxication OR poisoning ) ) OR
@@ -59,13 +59,13 @@
 		( air AND quality ) OR
 		arsenic OR
 		( contaminat* AND ( groundwater* OR ground-water* OR soil OR water* ) ) OR 
-		( contamination AND ( of AND ( groundwater* OR ground-water* OR water* ) ) ) OR
+		( contamination AND ( +of AND ( groundwater* OR ground-water* OR water* ) ) ) OR
 		( drink* AND water* ) OR
 		( ( e. coli OR faecal OR fecal ) AND contamination ) OR
 		( groundwater* AND quality ) OR
 		( hazardous AND ( chemical OR substance OR waste ) ) OR
 		"nitrogen dioxide" OR
-		"NO 2" OR
+		"+NO 2" OR
 		"NO2" OR
 		ozone OR
 		"particulate matter" OR
@@ -86,7 +86,7 @@
 		waste-water* OR
 		( water* contamination ) OR
 		( water* AND quality ) OR
-		( well AND contamination )
+		( +well AND contamination )
 	 ) AND (
 		asthma OR
 		bronchitis OR

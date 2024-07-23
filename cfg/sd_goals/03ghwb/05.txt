@@ -17,8 +17,8 @@ prolife OR
 ( sex* AND education ) OR
 ( 
 	abortion AND (
-		( legalisation AND of ) OR
-		( legalization AND of ) OR
+		( legalisation AND +of ) OR
+		( legalization AND +of ) OR
 		access OR
 		attitudes OR
 		care OR
@@ -38,12 +38,12 @@ prolife OR
 		provision OR
 		regulation OR
 		restriction OR
-		right OR
+		+right OR
 		service
 	) 
 ) OR
-( access AND to AND abortion ) OR
-( attitude AND toward AND abortion ) OR
+( access AND +to AND abortion ) OR
+( attitude AND +toward AND abortion ) OR
 ( 
 	reproductive AND (
 		autonomy OR 
@@ -56,9 +56,9 @@ prolife OR
 		liberty OR 
 		policies OR 
 		policy OR 
-		rights 
+		+rights 
 	) 
 ) OR
-( right* AND to AND abortion ) OR
+( +right* AND +to AND abortion ) OR
 ( safe AND abortion ) OR
 ( unsafe AND abortion )

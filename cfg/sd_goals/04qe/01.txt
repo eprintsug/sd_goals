@@ -21,15 +21,15 @@
 		) 
 	) OR
 	( ubiquitous AND learning ) OR
-	( universal AND design AND for AND learning ) OR
+	( universal AND design AND +for AND learning ) OR
 	( virtual* AND learning* AND environment* ) OR
 	(
 		access AND
-		( barrier AND to AND learning )
+		( barrier AND +to AND learning )
 	) OR
 	(
 		child* AND
-		( learning* AND with* AND technolog* )
+		( learning* AND +with* AND technolog* )
 	) OR
 	(
 		(
@@ -105,7 +105,7 @@
 	) OR
 	(
 		( learning* AND environment* ) AND (
-			better OR
+			+better OR
 			facilitat* OR
 			improv*
 		) AND (
@@ -261,7 +261,7 @@
 		(	education* OR
 			school
 		) AND (
-			( access AND to ) AND 
+			( access AND +to ) AND 
 			( changing AND technolog* ) OR
 			internet OR
 			( technolog* AND material* ) 

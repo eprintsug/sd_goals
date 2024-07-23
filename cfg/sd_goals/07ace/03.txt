@@ -1,10 +1,10 @@
-	"access to electricity" OR
+	"access +to electricity" OR
 	"clean cooking" OR
 	"electricity access" OR
 	"energy access" OR
-	"grid of the future" OR
-	"high-voltage dc" OR
-	"high-voltage direct current" OR
+	"grid +of +the future" OR
+	"+high-voltage dc" OR
+	"+high-voltage direct current" OR
 	"highvoltage dc" OR
 	"highvoltage direct current" OR
 	"peak load shifting" OR
@@ -90,7 +90,7 @@
 			"off-grid" OR
 			"offgrid" OR
 			develop* countr* OR
-			( small* AND island* )
+			( +small* AND island* )
 		)
 	) OR
 	( ( "renewable energy" OR "renewable electricity" ) AND ( "off-grid" OR "offgrid" ) ) OR
@@ -127,7 +127,7 @@
 	(
 		poor AND "electrification" AND (
 			"district" OR
-			"the poor" OR
+			"+the poor" OR
 			"urban" OR
 			customer* OR
 			hous* OR

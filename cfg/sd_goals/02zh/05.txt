@@ -5,7 +5,7 @@
 	"Smallholder farm women" OR
 	"Women and agriculture" OR
 	"Women in agriculture" OR
-	"women's gardening" OR
+	"women\'s gardening" OR
 	( Women* AND in* AND agrarian* AND context* ) OR
 	( Women* AND laborer* ) OR
 	( Women* AND labourer* ) OR
@@ -19,7 +19,7 @@
 	) OR
 	(
 		( agricultur* AND production ) AND (
-			"role of women" OR
+			"role +of women" OR
 			( women* AND role* )
 		)
 	) OR
@@ -48,8 +48,8 @@
 		( female* AND head* )
 	) OR
 	(
-		"feminisation of agriculture" OR
-		"feminization of agriculture"
+		"feminisation +of agriculture" OR
+		"feminization +of agriculture"
 	) OR
 	(
 		"female exposure" AND
@@ -64,20 +64,20 @@
 			( gender* AND parity ) OR
 			( Gender* AND bias* ) OR
 			gender* OR
-			( Opportunit* AND for AND women ) OR
-			"participation of women" OR
-			"place of women" OR
-			"Proportion of women"
-			"state of women" OR
+			( Opportunit* AND +for AND women ) OR
+			"participation +of women" OR
+			"+place +of women" OR
+			"Proportion +of women"
+			"+state +of women" OR
 			( status AND women ) OR
 			women OR
-			"Women's land rights"
-			"Women's participation" OR
-			"Women's status" OR
-			"Women's trade" OR
-			"Women's work" OR
-			( Women's* AND movement* ) OR
-			( Women's* AND opportunit* ) OR
+			"Women\'s land +rights"
+			"Women\'s participation" OR
+			"Women\'s status" OR
+			"Women\'s trade" OR
+			"Women\'s +work" OR
+			( Women\'s* AND movement* ) OR
+			( Women\'s* AND opportunit* ) OR
 			( Women* AND entrepreneur* )
 			(
 				"milk production" AND
@@ -142,10 +142,10 @@
 			"crop production" OR
 			"ethnobotany" OR
 			"farm income" OR
-			"farming rights" OR
+			"farming +rights" OR
 			"Kitchen garden" OR
 			"land tenure" OR
-			( new* AND agricultur* ) OR
+			( +new* AND agricultur* ) OR
 			"Periurban agriculture" OR
 			"traditional agriculture" OR
 			(
@@ -203,7 +203,7 @@
 			) OR
 			(
 				( agricultur* AND reform ) AND
-				"land rights"
+				"land +rights"
 			) OR
 			(
 				( agricultur* AND domain* ) AND
@@ -241,11 +241,11 @@
 				land
 			) OR
 			(
-				"Rights of land" AND
+				"+rights +of land" AND
 				rural
 			) OR
 			(
-				"work force" AND (
+				"+work force" AND (
 					( agricultur* AND production ) OR
 					agriculture
 				)
@@ -254,7 +254,7 @@
 	) OR
 	(
 		"agrarian reform" AND
-		"Women's rights to land"
+		"Women\'s +rights +to land"
 	) OR
 	(
 		( female* AND farmer* ) OR
@@ -265,7 +265,7 @@
 		agricultur* AND
 		production AND
 		women AND
-		( Working* AND condition* )
+		( +working* AND condition* )
 	) OR
 	(
 		(
@@ -285,14 +285,14 @@
 			farmer* OR
 			farms
 		) AND
-		( under* AND represent* ) AND (
+		( +under* AND represent* ) AND (
 			gender OR
 			women
 		)
 	) OR
 	(
 		(
-			( access* AND to AND finance* ) OR
+			( access* AND +to AND finance* ) OR
 			"economic empowerment" OR
 			( financial* AND aid* ) OR
 			( financial* AND barrier* ) OR
@@ -348,7 +348,7 @@
 			women
 		) AND (
 			added-value OR
-			( new* AND opportunit* ) OR
+			( +new* AND opportunit* ) OR
 			( value* AND added* ) OR (
 				employment AND (
 					non-agricultur* OR

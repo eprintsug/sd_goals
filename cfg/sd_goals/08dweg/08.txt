@@ -6,7 +6,7 @@
 "crop productivity" OR
 "cross-country growth" OR
 "crosscountry growth" OR
-"drivers of economic growth" OR
+"drivers +of economic growth" OR
 "economic productivity" OR
 "farm productivity" OR
 "fast economic growth" OR
@@ -21,14 +21,14 @@
 "land productivity" OR
 "malmquist productivity" OR
 "manufacturing productivity" OR
-"per capita gdp growth" OR
+"+per capita gdp growth" OR
 "rapid economic growth" OR
 "schumpeterian growth" OR
 "skill transferability" OR
 "soil productivity" OR
 "solow model" OR
-"sources of economic growth" OR
-"sustained per capita growth" OR
+"sources +of economic growth" OR
+"sustained +per capita growth" OR
 "technolog* shock" OR
 "technological spillover" OR
 "tfp growth" OR
@@ -38,8 +38,8 @@
 ( "Crop productivity" AND econom* ) OR
 ( "direct investment" AND ( economic AND growth ) ) OR
 ( "economic performance" AND productivity ) OR
-( "economies of scale" AND industr* ) OR
-( "economies of scope" AND industr* ) OR
+( "economies +of scale" AND industr* ) OR
+( "economies +of scope" AND industr* ) OR
 ( "endogenous growth" AND econom* ) OR
 ( "human capital" AND productivity ) OR
 ( "labor productivity" AND economic* ) OR
@@ -47,8 +47,8 @@
 ( "longrun growth" AND economic* ) ) OR
 ( "longterm" AND "growth rate" AND "economics" ) OR
 ( "modern growth" AND economic* ) OR
-( "per capita income" AND growth ) OR
-( "per capita" AND growth AND innovation ) OR
+( "+per capita income" AND growth ) OR
+( "+per capita" AND growth AND innovation ) OR
 ( "productivity growth" AND economic* ) OR
 ( "rapid technological change" AND ( econ* OR industr* ) ) OR
 ( "regional income" AND ( capita* OR growth OR economy ) ) OR
@@ -75,10 +75,10 @@
 		"long-term" OR
 		"longrun development" OR
 		"longterm" OR
-		"quality of government" OR
+		"quality +of government" OR
 		( demographic AND transition ) OR
 		( Knowledge AND Based AND Econom* ) OR
-		( new AND technolog* ) OR
+		( +new AND technolog* ) OR
 		infrastructure OR
 		logistics OR
 		long-run OR
@@ -116,7 +116,7 @@
 		"long run" OR
 		"longrun" OR
 		"neoclassical" OR
-		"new jobs" OR
+		"+new jobs" OR
 		"physical capital" OR
 		"regional income" OR
 		"solow" OR
@@ -132,7 +132,7 @@
 		( labour AND suppl* ) OR
 		( labour* AND market* ) OR
 		( labour* AND migration* ) OR
-		( labour* AND right* ) OR
+		( labour* AND +right* ) OR
 		( regional AND income AND inequalit* ) OR
 		innovation OR
 		productivity OR

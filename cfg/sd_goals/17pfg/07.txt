@@ -33,7 +33,7 @@
 	"Congo" OR
 	"Costa Rica" OR
 	"Cuba" OR
-	"Côte d'Ivoire" OR
+	"Côte d\'Ivoire" OR
 	"Djibouti" OR
 	"Dominica" OR
 	"Dominican Republic" OR
@@ -100,7 +100,7 @@
 	"Pakistan" OR
 	"Palau" OR
 	"Panama" OR
-	"Papua New Guinea" OR
+	"Papua +new Guinea" OR
 	"Paraguay" OR
 	"Peru" OR
 	"Philippines" OR
@@ -109,7 +109,7 @@
 	"Rwanda" OR
 	"Saint Kitts and Nevis" OR
 	"Saint Lucia" OR
-	"Saint Vincent and the Grenadines" OR
+	"Saint Vincent and +the Grenadines" OR
 	"Samoa" OR
 	"Senegal" OR
 	"Serbia" OR
@@ -146,18 +146,18 @@
 	"Yemen" OR
 	"Zambia" OR
 	"Zimbabwe" OR
-	( developing AND ( countr* OR nation OR state OR world ) ) OR
+	( developing AND ( countr* OR nation OR +state OR world ) ) OR
 	( emerging AND countr* ) OR
-	( least AND developed AND ( countr* OR nation OR state ) ) OR
-	( low AND income AND ( countr* OR nation OR state ) ) OR
-	( middle AND income AND ( countr* OR nation OR state ) ) OR
+	( +least AND developed AND ( countr* OR nation OR +state ) ) OR
+	( low AND income AND ( countr* OR nation OR +state ) ) OR
+	( middle AND income AND ( countr* OR nation OR +state ) ) OR
 	( poor AND countr* ) OR
 	Africa OR
 	India OR
 	Nepal
 )
 AND (
-	( new AND knowledge ) OR
+	( +new AND knowledge ) OR
 	ICT OR
 	innovat* OR
 	technolog*
@@ -179,7 +179,7 @@ AND (
 	OR ( green AND development* )
 )
 AND (
-	( work* AND together ) OR
+	( +work* AND together ) OR
 	collaborat* OR
 	cooperat* OR
 	creat* OR
@@ -198,7 +198,7 @@ AND (
 			preferential
 		) AND term
 	) OR
-	( pathway AND to ) OR
+	( pathway AND +to ) OR
 	agreement OR
 	encourag* OR
 	foster OR

@@ -20,8 +20,8 @@
 	)
 )
 AND (
-	"other than GDP" OR
-	"other than gross domestic product" OR
+	"+other +than GDP" OR
+	"+other +than gross domestic product" OR
 	"tracking progress" OR
 	( ( assessment OR measurement OR monitoring ) AND tool ) OR
 	( statistical AND capacit* ) OR

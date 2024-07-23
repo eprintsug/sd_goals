@@ -1,6 +1,6 @@
 "Agenda 21" OR
 "carbon finance" OR
-"convention on biological diversity" OR
+"convention +on biological diversity" OR
 "ecological valuation" OR
 "environmental accounting" OR
 "Environmental and Economic Accounting" OR
@@ -13,13 +13,13 @@
 "forest valuation" OR
 "forest valuations" OR
 "global environmental agenda" OR
-"global strategy for plant conservation" OR
+"global strategy +for plant conservation" OR
 "green climate fund" OR
 "local Agenda 21" OR
 "managementstrategy evaluation" OR
 "marine strategy framework directive" OR
 "marine strategy framework" OR
-"national strategy for plant conservation" OR
+"national strategy +for plant conservation" OR
 "natural capital accounting" OR
 "rio+20" OR
 "Social and Environmental Reporting" OR
@@ -27,10 +27,10 @@
 "sustainable development indicators" OR
 "sustainable development strategy" OR
 "systematic conservation planning" OR
-"UN Convention on Biodiversity" OR
-"valuation of biodiversity" OR
-"valuation of ecosystem" OR
-"valuation of water" OR
+"UN Convention +on Biodiversity" OR
+"valuation +of biodiversity" OR
+"valuation +of ecosystem" OR
+"valuation +of water" OR
 (
 	"Agenda 21" AND (
 		"governments" OR
@@ -49,7 +49,7 @@
 		"biodiversity" OR
 		"biological diversity" OR
 		"conservation measures" OR
-		"protected areas" OR
+		"protected +areas" OR
 		target
 	)
 ) OR
@@ -129,7 +129,7 @@
 		"fish" OR
 		"fishery" OR
 		"fishing" OR
-		"preservation of parks" OR
+		"preservation +of parks" OR
 		"wood" OR
 		agricultur* OR
 		Climate OR
@@ -144,7 +144,7 @@
 	(
 		"economic account" OR
 		"economic accounts" OR
-		"general equilibrium" OR
+		"+general equilibrium" OR
 		"input-output analysis" OR
 		"input-output model" OR
 		"inputoutput analysis" OR

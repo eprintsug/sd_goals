@@ -9,7 +9,7 @@
 	) OR
 	(
 	 (
-		small scale OR
+		+small scale OR
 		small-scale* OR
 		smallscale
 	 ) AND
@@ -18,7 +18,7 @@
 	) OR
 	(
 		(
-			small hold OR
+			+small hold OR
 			small-hold* OR
 			smallhold
 		) AND
@@ -34,7 +34,7 @@
 		)
 	) OR
 	(
-			small AND
+			+small AND
 			farm* AND
 			additional* AND
 			source* AND (
@@ -44,14 +44,14 @@
 	) OR
 	(
 		(
-			small AND
+			+small AND
 			farm*
 		) AND
 		pluriactivit*
 	) OR
 	(
 		herd* AND sustain* AND (
-			( small AND scale ) OR
+			( +small AND scale ) OR
 			small-scale OR
 			smallscale
 		)
@@ -61,8 +61,8 @@
 		"indigenous vegetation" AND
 		"grazing"
 	) OR
-	( small AND farm* ) OR
-	( small AND holder AND farm* ) OR
+	( +small AND farm* ) OR
+	( +small AND holder AND farm* ) OR
 	( small-holder AND farm* ) OR
 	( small-scale AND farm* ) OR
 	(
@@ -92,12 +92,12 @@
 			"pastoral system" OR
 			"silvo-pastoral" OR
 			"silvopastoral" OR
-			"small holder" OR
-			"small scale agriculture" OR
-			"small scale dairy"	OR
-			"small scale growers" OR
-			"small scale irrigation" OR
-			"small scale producers" OR
+			"+small holder" OR
+			"+small scale agriculture" OR
+			"+small scale dairy"	OR
+			"+small scale growers" OR
+			"+small scale irrigation" OR
+			"+small scale producers" OR
 			"small-scale agriculture" OR
 			"small-scale dairy"	OR
 			"small-scale growers" OR
@@ -115,10 +115,10 @@
 			( resource-poor AND farm* ) OR
 			( resourcepoor AND farm* )" OR
 			( scale AND farm* )" OR
-			( small AND farm* ) OR
-			( small AND scale AND farm* ) OR
-			( small AND scale AND fish* ) OR
-			( small AND scale AND forest* ) OR
+			( +small AND farm* ) OR
+			( +small AND scale AND farm* ) OR
+			( +small AND scale AND fish* ) OR
+			( +small AND scale AND forest* ) OR
 			( small-scale AND farm* ) OR
 			( small-scale AND fish* ) OR
 			( small-scale AND forest* ) OR
@@ -145,7 +145,7 @@
 	) OR
 	(
 		(
-			( access* AND to AND financ* ) OR
+			( access* AND +to AND financ* ) OR
 			"economic empowerment" OR
 			( financial* AND (
 					aid* OR
@@ -168,16 +168,16 @@
 			( ( asset-poor* OR assetpoor* OR ( asset AND poor* ) ) AND ( famil* OR household* ) ) OR
 			pastoralis* OR
 			( poor* AND farm* ) OR
-			( small* AND farm* AND household* ) OR
-			( small* AND farm* ) OR
-			( small* AND holder* AND farm* ) OR
-			( small* AND producer* ) OR
-			( small* AND scale* AND farm* )
+			( +small* AND farm* AND household* ) OR
+			( +small* AND farm* ) OR
+			( +small* AND holder* AND farm* ) OR
+			( +small* AND producer* ) OR
+			( +small* AND scale* AND farm* )
 		)
 	) OR
 	(
 		(
-			( small AND (
+			( +small AND (
 					( land AND hold* ) OR
 					farm* OR
 					grower* OR
@@ -186,7 +186,7 @@
 					producer*
 				)
 			) OR
-			( small AND scale AND farm* )" OR
+			( +small AND scale AND farm* )" OR
 			small-farm* OR
 			small-holder* OR
 			"small-scale agriculture" OR
@@ -238,12 +238,12 @@
 		)
 	) OR
 	(
-		( ( smallholder* AND farm* ) OR ( small AND farm* ) )
+		( ( smallholder* AND farm* ) OR ( +small AND farm* ) )
 		AND (
 			added-value OR
 			addedvalue OR
 			( value* AND added* ) OR
-			( new* AND opportunit* ) OR
+			( +new* AND opportunit* ) OR
 			(
 				( non-farm* OR non-agricultur* ) AND employment
 			)

@@ -65,7 +65,7 @@
 		)
 	) OR
 	(
-		"protection of" AND
+		"protection +of" AND
 		( water* AND ecosystem* )
 	) OR
 	(

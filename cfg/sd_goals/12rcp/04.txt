@@ -17,8 +17,8 @@
 	recycling AND (
 		"battery" OR
 		"chemical" OR
-		"of PET" OR
-		"of plastics" OR
+		"+of PET" OR
+		"+of plastics" OR
 		"paper" OR
 		"PET" OR
 		"process" OR

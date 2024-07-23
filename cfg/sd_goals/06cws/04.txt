@@ -6,7 +6,7 @@
 		( ( ( slaughter AND house ) OR slaughterhouse) AND ( ( waste AND water* ) OR wastewater* ) ) OR
 		(
 			( ( waste AND water* ) OR wastewater* ) AND (
-				( clean AND up ) OR
+				( clean AND +up ) OR
 				agricultur* OR
 				agricultur* OR
 				cleanup OR
@@ -35,7 +35,7 @@
 		) OR
 		(
 			( ground water* OR groundwater* ) AND (
-				( clean AND up ) OR
+				( clean AND +up ) OR
 				cleanup OR
 				contamination OR
 				pollutant* OR
@@ -55,7 +55,7 @@
 		( ( non-point source OR nonpoint source ) AND pollution ) OR
 		( ( on-site OR onsite ) AND sanitation ) OR
 		(
-			( reclamation AND of ) AND (
+			( reclamation AND +of ) AND (
 				( grey AND water* ) OR
 				( pollut* AND water* ) OR
 				( sewage AND water* ) OR
@@ -109,7 +109,7 @@
 		( improve* AND pit ) OR
 		( improve* AND sanitation ) OR
 		( industri* AND ( stormwater* OR ( waste AND water* ) OR wastewater* ) ) OR
-		( latrine* AND ( construction OR use ) ) OR
+		( latrine* AND ( construction OR +use ) ) OR
 		(
 			manag* AND (
 				( grey AND water* ) OR
@@ -125,7 +125,7 @@
 		( mining AND ( ( waste AND water* ) OR wastewater* ) ) OR
 		( municipal AND ( ( waste AND water* ) OR wastewater* ) ) OR
 		( oil* AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( open AND defecation ) OR
+		( +open AND defecation ) OR
 		( PBT AND contamination ) OR
 		( pharmaceutical AND ( ( waste AND water* ) OR wastewater* ) ) OR
 		( Pit AND ( latrine* OR toilet* ) ) OR
@@ -502,7 +502,7 @@
 			( water* AND quality ) AND (
 				( ambient AND water* ) OR
 				( nonpoint AND source ) OR
-				( point AND source ) OR
+				( +point AND source ) OR
 				( water* AND ( body OR bodies ) ) OR
 				( water* AND suppl* ) OR
 				( water* AND treatment* ) OR
@@ -566,7 +566,7 @@
 		) OR
 		(
 			( water* AND treatment* ) AND (
-				point-of-use OR
+				point-of-+use OR
 				pointofuse OR
 				stormwater* OR
 				storm-water* OR (
@@ -584,7 +584,7 @@
 				pollution
 			) AND (
 				( nonpoint AND source ) OR
-				( point AND source )
+				( +point AND source )
 			)
 		) OR
 		(

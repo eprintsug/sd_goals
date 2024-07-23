@@ -7,7 +7,7 @@
 (
 	"forest law" AND (
 		"deforestation" OR
-		"degradation of forest" OR
+		"degradation +of forest" OR
 		"forest degradation" OR
 		"forest loss" OR
 		"logging"
@@ -17,33 +17,33 @@
 (
 	( "forest policy" OR "forest policies" OR ( agricultur* AND expansion ) ) AND (
 		"deforestation" OR
-		"degradation of forest" OR
+		"degradation +of forest" OR
 		"forest degradation" OR
 		"forest loss" OR
-		"loss of forest"
+		"loss +of forest"
 	)
 ) OR
 (
 	deforestation AND (
-		"agents of" OR
+		"agents +of" OR
 		"assessment" OR
 		"avoided" OR
-		"causes of" OR
+		"causes +of" OR
 		"combat" OR
 		"commitments" OR
 		"control" OR
 		"detection" OR
-		"drivers of" OR
+		"drivers +of" OR
 		"drivers" OR
 		"mining" OR
 		"modelling" OR
 		"monitoring" OR
 		"policy" OR
-		"reduced emission from" OR
-		"reducing emission from" OR
-		"reduction of" OR
+		"reduced emission +from" OR
+		"reducing emission +from" OR
+		"reduction +of" OR
 		"reduction" OR
-		"response to" OR
+		"response +to" OR
 		"risk" OR
 		"risks" OR
 		"slow" OR

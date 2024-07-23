@@ -1,15 +1,15 @@
 (
-	( ( access AND to ) AND ( ( higher AND education ) OR "university" OR "university education" ) ) OR
-	( Affordable AND ( education OR ( higher AND education ) ) ) OR
-	( ( barrier AND to ) AND "basic education" OR education ) OR
+	( ( access AND +to ) AND ( ( +higher AND education ) OR "university" OR "university education" ) ) OR
+	( Affordable AND ( education OR ( +higher AND education ) ) ) OR
+	( ( barrier AND +to ) AND "basic education" OR education ) OR
 	( ( Barrier-free OR Barrierfree ) AND education ) OR
 	"disabilities education improvement act" OR
-	( Early AND school AND leav* ) OR
+	( +early AND school AND leav* ) OR
 	(
 		education* AND (
 			exclusion OR
 			fees OR
-			( for AND free ) OR
+			( +for AND free ) OR
 			inclusion OR
 			equal OR
 			equalit* OR
@@ -19,7 +19,7 @@
 			( free AND basic ) OR
 			inequalit* OR
 			inequit* OR
-			right* OR
+			+right* OR
 			enrollment OR
 			exclusion OR
 			exclusive OR
@@ -28,11 +28,11 @@
 			marginalization equalit* OR
 			equit* OR
 			inequalit* OR
-			right*
+			+right*
 		)
 	) OR
 	( ( equalit* OR equit* OR Exclusion ) AND in AND education ) OR
-	( higher AND education AND access ) OR
+	( +higher AND education AND access ) OR
 	( inclusion AND in AND education ) OR
 	(
 		inclusive AND (
@@ -45,20 +45,20 @@
 	) OR
 	( ( inequalit* OR inequiti* ) AND ( in AND education ) ) OR
 	( integrated* AND community* AND school* ) OR
-	( right AND to AND education ) OR
+	( +right AND +to AND education ) OR
 	(
 		school AND (
 			accessibility OR
 			attendance OR
 			enrolment OR
 			fee OR
-			( for AND free )
+			( +for AND free )
 		)
 	) OR
 	( special AND ( education OR school* ) ) OR
-	( student* AND with* AND disabilit* ) OR
+	( student* AND +with* AND disabilit* ) OR
 	"Teaching disability" OR
-	( universal AND design AND for AND learning ) OR
+	( universal AND design AND +for AND learning ) OR
 	(
 		( aboriginal AND learn* ) AND
 		school*
@@ -78,7 +78,7 @@
 	) OR
 	(
 		education* AND
-		( Right AND to AND learn )
+		( +right AND +to AND learn )
 	) OR
 	(
 		( educational AND environment ) AND
@@ -89,12 +89,12 @@
 		( educational AND gap ) AND (
 			( disabled AND people ) OR
 			migrant* OR
-			( people* AND with* AND disabilit* ) OR
+			( people* AND +with* AND disabilit* ) OR
 			refugee*
 		)
 	) OR
 	(
-		( educational* AND need* ) AND
+		( educational* AND +need* ) AND
 		inclusion
 	) OR
 	(
@@ -107,12 +107,12 @@
 		)
 	) OR
 	(
-		( ( exclusion AND from ) AND school ) OR
+		( ( exclusion AND +from ) AND school ) OR
 		(
 			school* AND (
 				exclusion OR
 				inclusion OR
-				( drop* AND out* ) OR
+				( drop* AND +out* ) OR
 				drop-out* OR
 				dropout*
 			)
@@ -126,7 +126,7 @@
 	) OR
 	(
 		(
-			( full AND inclusion ) OR
+			( +full AND inclusion ) OR
 			( Permanent AND Exclusion )
 		) AND
 		school*
@@ -135,7 +135,7 @@
 		( immigrant* AND student* ) AND
 		school* AND (
 			inclusion OR
-			"support to"
+			"support +to"
 		)
 	) OR
 	(
@@ -164,7 +164,7 @@
 		school
 	) OR
 	(
-		( higher* AND education ) AND
+		( +higher* AND education ) AND
 		mother* AND
 		school AND
 		success
@@ -243,7 +243,7 @@
 	(
 		school* AND
 		student* AND
-		( work AND for AND inclusion )
+		( +work AND +for AND inclusion )
 	) OR
 	(
 		Social AND
@@ -273,10 +273,10 @@
 	(
 		women AND (
 			underrepresent* OR
-			under-represent*
+			+under-represent*
 		) AND (
 			( graduate* AND stud* ) OR
-			( higher* AND education ) OR
+			( +higher* AND education ) OR
 			(
 				( post secondary OR post-secondary* ) AND
 				( education OR degree* )
@@ -289,14 +289,14 @@
 	) OR
 	(
 		(
-			( ( access AND to ) AND ( education OR school ) ) OR
+			( ( access AND +to ) AND ( education OR school ) ) OR
 			( education AND access )
 		) AND (
 			aboriginal OR
 			( disabled AND people ) OR
 			gender OR
 			migrant* OR
-			( people* AND with* AND disabilit* ) OR
+			( people* AND +with* AND disabilit* ) OR
 			refugee*
 		)
 	) OR
@@ -307,10 +307,10 @@
 			minorit*
 		) AND (
 			underrepresent* OR
-			under-represent*
+			+under-represent*
 		) AND (
 			( graduate* AND stud* ) OR
-			( higher* AND education ) OR
+			( +higher* AND education ) OR
 			( professional* AND degree* ) OR
 			( technical AND ( degree* OR formation ) )
 		)
@@ -320,8 +320,8 @@
 			( classroom AND environment ) OR
 			school*
 		) AND (
-			( need* AND of AND student* ) OR
-			( ( student* OR special* ) AND need* )
+			( +need* AND +of AND student* ) OR
+			( ( student* OR special* ) AND +need* )
 		)
 	) OR
 	(
@@ -329,7 +329,7 @@
 			disabilit* OR
 			Disable*
 		) AND (
-			( educational* AND need* ) OR
+			( educational* AND +need* ) OR
 			( pedagogical* AND environment* )
 		)
 	) OR
@@ -344,7 +344,7 @@
 	(
 		(
 			drop-out* OR
-			( drop* AND out* ) OR
+			( drop* AND +out* ) OR
 			dropout*
 		) AND
 		prevention AND
@@ -402,7 +402,7 @@
 			migrant* OR
 			minorit* OR
 			multicultural* OR
-			needs OR
+			+needs OR
 			racism OR
 			refugee*
 		)

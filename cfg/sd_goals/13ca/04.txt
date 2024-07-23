@@ -5,14 +5,14 @@
 	"GHG Protocol" OR
 	"Green house Gas Protocol" OR
 	"Greenhouse Gas Protocol" OR
-	"risk from climate change" OR
-	"risk from climate" OR
-	"risk of climate change" OR
-	"risk of climate" OR
-	"risks from climate change" OR
-	"risks from climate" OR
-	"risks of climate change" OR
-	"risks of climate" OR
+	"risk +from climate change" OR
+	"risk +from climate" OR
+	"risk +of climate change" OR
+	"risk +of climate" OR
+	"risks +from climate change" OR
+	"risks +from climate" OR
+	"risks +of climate change" OR
+	"risks +of climate" OR
 	"Verified Emission Reduction" OR
 	"warming Arctic" OR
 	(
@@ -82,7 +82,7 @@
 		carbon AND (
 			"foot-print" OR
 			"footprint" OR
-			"off set" OR
+			"+off set" OR
 			"offset"
 		)
 	)

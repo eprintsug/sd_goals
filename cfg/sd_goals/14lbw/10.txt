@@ -1,9 +1,9 @@
 (
-	"biodegradation of plastics" OR
+	"biodegradation +of plastics" OR
 	"Ideonella sakaiensis" OR
 	"mangrove planting" OR
 	"mangrove reforestation" OR
-	"microbial degradation of microplastics" OR
+	"microbial degradation +of microplastics" OR
 	( ocean AND ( cleanup OR restor* ) ) OR
 	"oil sorption" OR
 	"oil spill cleanup" OR
@@ -92,7 +92,7 @@
 		) AND NOT ( 
 			"image data processing" OR
 			"INMS" OR
-			"processing of image data" OR
+			"processing +of image data" OR
 			"signal restoration" OR
 			archaeol*
 		) 
@@ -138,7 +138,7 @@
 			"ecosystem rehabilitation" OR
 			"ecosystem restoration" OR
 			"habitat rehabilitation" OR
-			"large-scale restoration" OR
+			"+large-scale restoration" OR
 			"largescale restoration" OR
 			"mycoremediation" OR
 			"phytoremediation" OR

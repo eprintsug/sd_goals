@@ -16,7 +16,7 @@
 	"fchevs" OR
 	"flux-switching permanent magnet" OR
 	"g2v" OR
-	"grid-to-vehicle" OR
+	"grid-+to-vehicle" OR
 	"pev charging" OR
 	"pevs charging" OR
 	"phev" OR
@@ -31,8 +31,8 @@
 	"transportation electrification" OR
 	"v2g" OR
 	"v2h" OR
-	"vehicle-to-grid" OR
-	"vehicle-to-home" OR
+	"vehicle-+to-grid" OR
+	"vehicle-+to-home" OR
 	"vehicular electrification" OR
 	( "e-mobility" AND NOT ( "i.e., mobility" ) ) OR
 	(
@@ -97,7 +97,7 @@
 			"electrification" OR
 			"grid integration" OR
 			"photovoltaic" OR
-			( charging AND point* ) OR
+			( charging AND +point* ) OR
 			( charging AND spot* ) OR
 			( charging AND station* ) OR
 			( double-layer AND capacitor* ) OR
@@ -150,7 +150,7 @@
 		)
 	) OR
 	(
-		( ( charging AND station* ) OR ( charging AND spot* ) OR ( charging AND point* ) ) AND (
+		( ( charging AND station* ) OR ( charging AND spot* ) OR ( charging AND +point* ) ) AND (
 			"electric" OR
 			"electrical" OR
 			"hybrid" OR
@@ -183,7 +183,7 @@
 				"public transport" OR
 				"transportation" OR
 				( charging AND infrastructure* ) OR
-				( charging AND point* ) OR
+				( charging AND +point* ) OR
 				( charging AND station* ) OR
 				( city AND bus* ) OR
 				( drive AND train* ) OR
@@ -213,7 +213,7 @@
 	) OR
 	(
 		( ( electric AND storage* ) OR "electric energy storage" ) AND (
-			"charging point" OR
+			"charging +point" OR
 			"public transit" OR
 			"transportation" OR
 			( charging AND infrastructure* ) OR
@@ -250,7 +250,7 @@
 	) OR
 	( ( ( hybrid AND motor* ) OR ( hybrid AND engine* ) ) AND electric* ) OR
 	(
-		( ( recharging AND station* ) OR ( recharging AND spot* ) OR ( recharging AND point* ) ) AND (
+		( ( recharging AND station* ) OR ( recharging AND spot* ) OR ( recharging AND +point* ) ) AND (
 			"electric" OR
 			"electrical" OR
 			"hybrid" OR
@@ -309,7 +309,7 @@
 			"public transport" OR
 			"transportation" OR
 			( charging AND infrastructure* ) OR
-			( charging AND point* ) OR
+			( charging AND +point* ) OR
 			( charging AND station* ) OR
 			( city AND bus* ) OR
 			( drive AND train* ) OR
@@ -540,7 +540,7 @@
 			"propulsion" OR
 			"public mobility" OR
 			( charging AND infrastructure* ) OR
-			( charging AND point* ) OR
+			( charging AND +point* ) OR
 			( charging AND spot* ) OR
 			( charging AND station* ) OR
 			( city AND bus* ) OR
@@ -609,7 +609,7 @@
 			"engines" OR
 			"motor" OR
 			"motors" OR
-			( charging AND point* ) OR
+			( charging AND +point* ) OR
 			( charging AND spot* ) OR
 			( charging AND station* ) OR
 			charger*

@@ -29,10 +29,10 @@
 	"Congo" OR
 	"Cook Islands" OR
 	"Costa Rica" OR
-	"countries with limited resource" OR
-	"country with limited resource" OR
+	"countries +with limited resource" OR
+	"country +with limited resource" OR
 	"Cuba" OR
-	"Côte d'Ivoire" OR
+	"Côte d\'Ivoire" OR
 	"Djibouti" OR
 	"Dominica" OR
 	"Dominican Republic" OR
@@ -97,13 +97,13 @@
 	"Palau" OR
 	"Palestine" OR
 	"Panama" OR
-	"Papua New Guinea" OR
+	"Papua +new Guinea" OR
 	"Paraguay" OR
 	"Peru" OR
 	"Philippines" OR
 	"Rwanda" OR
 	"Saint Lucia" OR
-	"Saint Vincent and the Grenadines" OR
+	"Saint Vincent and +the Grenadines" OR
 	"Salvador" OR
 	"Samoa" OR
 	"Senegal" OR
@@ -143,8 +143,8 @@
 		(
 			"developing" OR
 			"emerging" OR
-			"least developed" OR
-			"less developed"
+			"+least developed" OR
+			"+less developed"
 		) AND (
 			"countries" OR
 			"country" OR

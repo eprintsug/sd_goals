@@ -31,7 +31,7 @@
 		"Cook Islands" OR
 		"Costa Rica" OR
 		"Cuba" OR
-		"Côte d'Ivoire" OR
+		"Côte d\'Ivoire" OR
 		"Djibouti" OR
 		"Dominica" OR
 		"Dominican Republic" OR
@@ -98,13 +98,13 @@
 		"Palau" OR
 		"Palestine" OR
 		"Panama" OR
-		"Papua New Guinea" OR
+		"Papua +new Guinea" OR
 		"Paraguay" OR
 		"Peru" OR
 		"Philippines" OR
 		"Rwanda" OR
 		"Saint Lucia" OR
-		"Saint Vincent and the Grenadines" OR
+		"Saint Vincent and +the Grenadines" OR
 		"Salvador" OR
 		"Samoa" OR
 		"Senegal" OR
@@ -142,8 +142,8 @@
 			( 
 				"developing" OR
 				"emerging" OR
-				"least developed" OR
-				"less developed" OR
+				"+least developed" OR
+				"+less developed" OR
 				"low-income" OR
 				"lowincome" OR
 				"middle-income" OR
@@ -156,12 +156,12 @@
 	"Bretton Woods Institutions" OR
 	"International Atomic Energy Agency" OR
 	"International Civil Aviation Organization" OR
-	"International Fund for agricultural Development" OR
+	"International Fund +for agricultural Development" OR
 	"International Labour Organization" OR
 	"International Maritime Organization" OR
 	"International Monetary Fund" OR
 	"International telecommunications Union" OR
-	"organisation for Economic Cooperation and Development" OR
+	"organisation +for Economic Cooperation and Development" OR
 	"United Nations" OR
 	"Universal Postal Union" OR
 	"World Bank" OR

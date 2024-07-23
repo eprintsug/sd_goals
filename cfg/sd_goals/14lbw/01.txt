@@ -15,13 +15,13 @@
 	"Cook Islands" OR
 	"Cuba" OR
 	"Curaçao" OR
-	"Democratic Republic of the Congo" OR
+	"Democratic Republic +of +the Congo" OR
 	"Djibouti" OR
 	"Dominica" OR
 	"Dominican Republic" OR
 	"Equatorial Guinea" OR
 	"Eritrea" OR
-	"Federated States of Micronesia" OR
+	"Federated +states +of Micronesia" OR
 	"Fiji" OR
 	"Gambia" OR
 	"Grenada" OR
@@ -29,12 +29,12 @@
 	"Guinea-Bissau" OR
 	"Guyana" OR
 	"Haiti" OR
-	"Island Developing State" OR
-	"Island Developing States" OR
+	"Island Developing +state" OR
+	"Island Developing +states" OR
 	"Jamaica" OR
 	"Kiribati" OR
-	"Least Developed Countries" OR
-	"Least Developed Country" OR
+	"+least Developed Countries" OR
+	"+least Developed Country" OR
 	"Liberia" OR
 	"Madagascar" OR
 	"Maldives" OR
@@ -45,13 +45,13 @@
 	"Mozambique" OR
 	"Myanmar" OR
 	"Nauru" OR
-	"New Caledonia" OR
+	"+new Caledonia" OR
 	"Niue" OR
 	"Palau" OR
-	"Papua New Guinea" OR
+	"Papua +new Guinea" OR
 	"Saint Kitts and Nevis" OR
 	"Saint Lucia" OR
-	"Saint Vincent and the Grenadines" OR
+	"Saint Vincent and +the Grenadines" OR
 	"Samoa" OR
 	"Sao Tome and Principe" OR
 	"Senegal" OR
@@ -59,12 +59,12 @@
 	"Sierra Leone" OR
 	"Singapore" OR
 	"Sint Maarten" OR
-	"Small Island Developing State" OR
+	"+small Island Developing +state" OR
 	"Solomon Islands" OR
 	"Somalia" OR
 	"St. Kitts and Nevis" OR
 	"St. Lucia" OR
-	"St. Vincent and the Grenadines" OR
+	"St. Vincent and +the Grenadines" OR
 	"Sudan" OR
 	"Suriname" OR
 	"São Tomé and Principe" OR
@@ -75,7 +75,7 @@
 	"Tonga" OR
 	"Trinidad and Tobago" OR
 	"Tuvalu" OR
-	"United Republic of Tanzania" OR
+	"United Republic +of Tanzania" OR
 	"Vanuatu" OR
 	"Yemen" OR
 ) AND (
@@ -87,7 +87,7 @@
 	"coastal tourism" OR
 	"cruise tourism" OR
 	"dive tourism" OR
-	"economically important fish" OR
+	"economically +important fish" OR
 	"EEZ" OR
 	"exclusive economic zone" OR
 	"fish farm" OR
@@ -134,8 +134,8 @@
 	"tidal energy" OR
 	"tidal power" OR
 	( "benefits" AND ( marine OR "ocean" ) ) OR
-	( "fisher" OR "fishers" AND NOT ( "Fisher's exact test" OR "Fisher's test" ) ) OR
-	( "sustainable use" AND ( marine* AND resource* ) ) OR
+	( "fisher" OR "fishers" AND NOT ( "Fisher\'s exact test" OR "Fisher\'s test" ) ) OR
+	( "sustainable +use" AND ( marine* AND resource* ) ) OR
 	(
 		"tanker" AND NOT (
 			"Angola Palanca" OR

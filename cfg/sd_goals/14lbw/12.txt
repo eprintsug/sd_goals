@@ -1,25 +1,25 @@
 (
-	"Action Plan for the Protection, management AND Development of the Marine and Coastal Environment of the Northwest Pacific Region" OR
-	"Code of Conduct for Responsible Fisheries" OR
-	"Commission for the Conservation of Antarctic Marine Living resource" OR
-	"Convention for the Conservation and management"of Highly Migratory Fish Stocks" OR
-	"Convention for the Conservation of Antarctic Marine Living resource" OR
-	"Convention on the Conservation and management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean" OR
-	"Convention on the Conservation and management"of Fishery resource in the South East Atlantic Ocean" OR
+	"Action Plan +for +the Protection, management AND Development +of +the Marine and Coastal Environment +of +the Northwest Pacific Region" OR
+	"Code +of Conduct +for Responsible Fisheries" OR
+	"Commission +for +the Conservation +of Antarctic Marine Living resource" OR
+	"Convention +for +the Conservation and management"+of Highly Migratory Fish Stocks" OR
+	"Convention +for +the Conservation +of Antarctic Marine Living resource" OR
+	"Convention +on +the Conservation and management +of Highly Migratory Fish Stocks in +the Western and Central Pacific Ocean" OR
+	"Convention +on +the Conservation and management"+of Fishery resource in +the South East Atlantic Ocean" OR
 	"Deep Seabed Mining Act" OR
 	"Fisheries Convention" OR
 	"Fishery Commission" OR
-	"Framework Convention for the Protection of the Marine Environment of the Caspian Sea" OR
-	"Global Programme of Action for the Protection of the Marine Environment from Land-based Activities" OR
-	"Global Programme of Action for the Protection of the Marine Environment from Landbased Activities" OR
+	"Framework Convention +for +the Protection +of +the Marine Environment +of +the Caspian Sea" OR
+	"Global Programme +of Action +for +the Protection +of +the Marine Environment +from Land-based Activities" OR
+	"Global Programme +of Action +for +the Protection +of +the Marine Environment +from Landbased Activities" OR
 	"integrated coastal management legislation" OR
-	"International Commission for the Conservation of Atlantic Tuna" OR
-	"International Convention for the Prevention of Pollution from Ships" OR
-	"International Convention on Civil Liability for Bunker Oil Pollution Damage" OR
-	"International Convention on Civil Liability for Oil Pollution Damage" OR
-	"International Convention on Oil Pollution Preparedness, Response and Co-operation" OR
-	"International Convention on Oil Pollution Preparedness, Response and Cooperation" OR
-	"International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage" OR
+	"International Commission +for +the Conservation +of Atlantic Tuna" OR
+	"International Convention +for +the Prevention +of Pollution +from Ships" OR
+	"International Convention +on Civil Liability +for Bunker Oil Pollution Damage" OR
+	"International Convention +on Civil Liability +for Oil Pollution Damage" OR
+	"International Convention +on Oil Pollution Preparedness, Response and Co-operation" OR
+	"International Convention +on Oil Pollution Preparedness, Response and Cooperation" OR
+	"International Convention +on +the Establishment +of an International Fund +for Compensation +for Oil Pollution Damage" OR
 	"International Seabed Authority" OR
 	"MARPOL" OR
 	"Nauru Agreement" OR
@@ -33,7 +33,7 @@
 	"STOPIA" OR
 	"Straddling Fish Stocks Agreement" OR
 	"UN fish stocks agreement" OR
-	"Work in Fishing Convention, 2007" OR
+	"+work in Fishing Convention, 2007" OR
 	(
 		(
 			"ocean disposal" OR
@@ -43,7 +43,7 @@
 			( ocean AND resource* )
 		) AND (
 			"jurisdiction" OR
-			"law of the sea" OR
+			"law +of +the sea" OR
 			"laws" OR
 			"legal" OR
 			"regulation" OR
@@ -71,8 +71,8 @@
 		) AND NOT (
 			"conservation law" OR
 			"conservation laws" OR
-			"law of conservation" OR
-			"laws of conservation"
+			"law +of conservation" OR
+			"laws +of conservation"
 		)
 	) OR
 	(
@@ -119,37 +119,37 @@
 			sea
 		) AND ( sustainab* OR preserv* OR conserv* OR protect* ) AND (
 			"arbitration" OR
-			"Convention on the Law of the Sea" OR
+			"Convention +on +the Law +of +the Sea" OR
 			"International Commission" OR
 			"international law" OR
 			"international laws" OR
-			"International Plan of Action" OR
+			"International Plan +of Action" OR
 			"international policies" OR
 			"international policy" OR
 			"international regulation"
 			"international regulation" OR
 			"international standard" OR
 			"international standards" OR
-			"International Tribunal for the Law of the Sea" OR
+			"International Tribunal +for +the Law +of +the Sea" OR
 			"legal framework" OR
 			"legal obligation" OR
 			"legal regime" OR
 			"legal regimes" OR
 			"legal system" OR
-			"Programme of Action" OR
+			"Programme +of Action" OR
 			"prohibition" OR
-			"UN Convention on the Law of the Sea" OR
+			"UN Convention +on +the Law +of +the Sea" OR
 			"UNCLOS" OR
 			( bilateral* AND agreement ) OR
 			( legal* AND act* ) OR
-			( sponsor* AND state ) OR
+			( sponsor* AND +state ) OR
 		)
 	) OR
 ) AND NOT (
 	"Marine Archaeology" OR
-	"settlement of dispute" OR
-	"settlement of disputes" OR
-	"Settlement of ocean disputes" OR
+	"settlement +of dispute" OR
+	"settlement +of disputes" OR
+	"Settlement +of ocean disputes" OR
 	"sustainable urban development" OR
 	( "cultural heritage" AND NOT ecosystem* ) OR
 	( territorial* AND dispute* )

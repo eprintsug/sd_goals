@@ -19,7 +19,7 @@
 			legal OR
 			nation OR
 			public OR
-			state
+			+state
 		)
 	)
 )
@@ -79,7 +79,7 @@ AND (
 					technolog*
 				)
 			) OR
-			( land AND ( consumption OR management OR use ) ) OR
+			( land AND ( consumption OR management OR +use ) ) OR
 			( Renewable AND ( Energy OR energies ) ) OR
 			agricultur* OR
 			bio-energ* OR

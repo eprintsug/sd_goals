@@ -21,7 +21,7 @@ OR (
 		homicide* OR
 		farmer* OR
 		telework* OR
-		( work* AND from AND home* ) OR
+		( +work* AND +from AND home* ) OR
 		WFH OR
 		HIP OR
 		HIPS OR
@@ -30,9 +30,9 @@ OR (
 		Tourist* OR
 		stockpil* OR
 		resilien* OR
-		( access AND to AND care ) OR
+		( access AND +to AND care ) OR
 		( house AND price* ) OR
-		work-life-balance OR
+		+work-life-balance OR
 		business* OR
 		entrepreneur* OR
 		( Online AND ( learning OR technolog* OR course* OR education* OR teaching ) ) OR
@@ -42,9 +42,9 @@ OR (
 		tele health OR
 		telemedicine OR
 		( tele AND medicine ) OR
-		( remote AND work* ) OR
-		( work AND organi* ) OR
-		( organi* AND of AND work ) OR
+		( remote AND +work* ) OR
+		( +work AND organi* ) OR
+		( organi* AND +of AND +work ) OR
 		depression* OR
 		( ( mood OR mental ) AND disorder* ) OR
 		( mental AND health ) OR

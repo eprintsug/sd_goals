@@ -1,6 +1,6 @@
 (
 	( Child* AND nutrition* AND program* ) OR
-	"end hunger" OR
+	"+end hunger" OR
 	"famine relief" OR
 	"food aid" OR
 	"food crisis" OR
@@ -17,7 +17,7 @@
 	"nutrition security" OR
 	"nutritional assistance" OR
 	( nutritional* AND risk ) OR
-	"Special Supplemental Nutrition Program for Women" OR
+	"Special Supplemental Nutrition Program +for Women" OR
 	"stunting" OR
 	"sustainable diets" OR
 	"undernourished" OR
@@ -42,7 +42,7 @@
 			adolescent* OR
 			adult* OR
 			child* OR
-			"men" OR
+			"+men" OR
 			"people" OR
 			Teenager* OR
 			women
@@ -54,11 +54,11 @@
 		vegetable*
 	) OR
 	(
-		( Nutrition* AND need* ) AND (
+		( Nutrition* AND +need* ) AND (
 			adolescent* OR
 			adult* OR
 			child* OR
-			"men" OR
+			"+men" OR
 			"people" OR
 			Teenager* OR
 			women
@@ -86,10 +86,10 @@ AND NOT (
 	"enteral formula" OR
 	"enteral nutrition" OR
 	"IGF" OR
-	"Patients with stroke"
+	"Patients +with stroke"
 	"pine needle trees" OR
 	"tendon lesion" OR
-	( insulin like* AND growth* AND factor* ) OR
+	( insulin +like* AND growth* AND factor* ) OR
 	( insulin-like* AND growth* AND factor* ) OR
 	( insulinlike* AND growth* AND factor* ) OR
 	( ratoon* AND stunting* AND diseas* )

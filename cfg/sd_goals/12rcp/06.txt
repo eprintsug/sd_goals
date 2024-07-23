@@ -5,13 +5,13 @@
 "earthliterate" OR
 "ecopedagogies" OR
 "ecopedagogy" OR
-"education for the environment" OR
+"education +for +the environment" OR
 "energy-related behaviour" OR
 "energyrelated behaviour" OR
 "Green curricula" OR
-"learning for sustainability" OR
-"new ecological paradigm scale" OR
-"public understanding of climate change" OR
+"learning +for sustainability" OR
+"+new ecological paradigm scale" OR
+"public understanding +of climate change" OR
 "terrestrial pedagogy" OR
 (
 	"climate change" AND (

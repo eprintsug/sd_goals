@@ -20,19 +20,19 @@
 	"denitrifying phosphorus" OR
 	"dinophysis acuminata" OR
 	"dinophysis spp" OR
-	"dispersion of oil at sea" OR
+	"dispersion +of oil +at sea" OR
 	"ebpr" OR
-	"effects of eutrophication" OR
+	"effects +of eutrophication" OR
 	"estuarine eutrophication" OR
 	"estuary eutrophication" OR
 	"excessive nutrients" OR
 	"gambierdiscus" OR
 	"global nutrient export" OR
-	"gulf of mexico hypoxia" OR
+	"gulf +of mexico hypoxia" OR
 	"harmful algal bloom" OR
 	"harmful algal blooms" OR
 	"imposex" OR
-	"index of coastal eutrophication" OR
+	"index +of coastal eutrophication" OR
 	"Iwitness pollution map" OR
 	"k. brevis" OR
 	"macroalgal blooms" OR
@@ -53,27 +53,27 @@
 	"p. fraudulenta" OR
 	"PAH in commercial shellfish" OR
 	"PAH in fish" OR
-	"phosphate removal from water" OR
+	"phosphate removal +from water" OR
 	"phosphorus pollution" OR
 	"phosphorus removal" OR
-	"plastic in the ocean" OR
-	"plastic in the oceans" OR
+	"plastic in +the ocean" OR
+	"plastic in +the oceans" OR
 	"plastic marine debris" OR
-	"plastics in the ocean" OR
-	"plastics in the oceans" OR
-	"pollution from ships" OR
+	"plastics in +the ocean" OR
+	"plastics in +the oceans" OR
+	"pollution +from ships" OR
 	"Polycyclic aromatic hydrocarbons in fish" OR
 	"Polycyclic aromatic hydrocarbons in shellfish" OR
 	"polyphosphate accumulating organisms" OR
 	"prestige oil spill" OR
-	"removal of phosphate" OR
+	"removal +of phosphate" OR
 	"removal phosphorus" OR
-	"river export of nutrients" OR
+	"river export +of nutrients" OR
 	"sea spill" OR
 	"sea spills" OR
 	"spill detection" OR
 	"spill response" OR
-	"spills on water" OR
+	"spills +on water" OR
 	"tamarense" OR
 	"toxic dinoflagellate" OR
 	(
@@ -157,7 +157,7 @@
 			shoreline
 		)
 	) OR
-	( "dispersion of crude oil" AND water* ) OR
+	( "dispersion +of crude oil" AND water* ) OR
 	(
 		"floating plastic" AND (
 			"coast" OR
@@ -199,7 +199,7 @@
 			sea
 		)
 	) OR
-	( "large spills on" AND water* ) OR
+	( "+large spills on" AND water* ) OR
 	(
 		"marine debris ingestion" AND (
 			plastic OR
@@ -414,7 +414,7 @@
 			"Castillo de Bellver" OR
 			"Erika" OR
 			"Exxon Valdez" OR
-			"New Diamond" OR
+			"+new Diamond" OR
 			"Odyssey" OR
 			"Rena" OR
 			"Sanchi" OR

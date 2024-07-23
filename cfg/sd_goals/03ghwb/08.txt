@@ -10,10 +10,10 @@
 	)
 ) OR
 ( birth AND complication ) OR
-"bleeding during pregnancy" OR
+"bleeding +during pregnancy" OR
 "bleeding in pregnancy" OR
 ( complicated AND birth ) OR
-( complication AND of AND pregnancy ) OR
+( complication AND +of AND pregnancy ) OR
 "death in utero" OR
 (
 	( fetal OR foetal ) AND (
@@ -56,7 +56,7 @@
 "midwife" OR
 "midwifery" OR
 "midwives" OR
-( miscarriage AND NOT ( miscarriage AND of AND justice ) ) OR
+( miscarriage AND NOT ( miscarriage AND +of AND justice ) ) OR
 (
 	neonatal AND (
 		care OR
@@ -181,5 +181,5 @@
 "safe motherhood" OR
 "skilled birth" OR
 stillbirth OR
-"survival of infants" OR
-( ( under-5 OR under-five OR under5 OR underfive ) AND ( mortalit* ) )
+"survival +of infants" OR
+( ( +under-5 OR +under-five OR under5 OR underfive ) AND ( mortalit* ) )

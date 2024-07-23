@@ -7,7 +7,7 @@
 "COMMUNITYBASED NATURAL RESOURCE management" OR
 "conservation agriculture" OR
 "conservation farming" OR
-"design for environment" OR
+"design +for environment" OR
 "eco architecture" OR
 "eco-building material" OR
 "eco-building materials" OR
@@ -22,7 +22,7 @@
 "ecohousing" OR
 "ecoinvent" OR
 "ecolabel" OR
-"Energy Performance of Buildings Directive" OR
+"Energy Performance +of Buildings Directive" OR
 "environmental life cycle" OR
 "fair trade" OR
 "FSC certification" OR
@@ -39,7 +39,7 @@
 "material footprint" OR
 "MSC certification" OR
 "NZEB" OR
-"optimal use of natural resource" OR
+"optimal +use +of natural resource" OR
 "passive house" OR
 "passivhaus" OR
 "rotational logging" OR
@@ -47,7 +47,7 @@
 "simapro" OR
 "supply chain sustainability" OR
 "U.S. green building council" OR
-"united states green building council" OR
+"united +states green building council" OR
 (
 	"carbon footprint" AND (
 		"consumption" OR
@@ -69,7 +69,7 @@
 		"housing"
 	)
 ) OR
-( "energy performance" AND ( "of building" OR "house" OR "houses" ) ) OR
+( "energy performance" AND ( "+of building" OR "house" OR "houses" ) ) OR
 ( "extractive economy" AND ( sustainab* OR "ecological" ) ) OR
 (
 	"footprint" AND (
@@ -99,7 +99,7 @@
 ( "montreal process" AND NOT ( "ozone" ) ) OR
 ( "photocatalyst" AND ( "building material" OR "construction material" ) ) OR
 (
-	"sustainable use of" AND (
+	"sustainable +use +of" AND (
 		"forest" OR
 		"land" OR
 		"natural resource" OR
@@ -108,7 +108,7 @@
 		rainforest*
 	)
 ) OR
-( "sustainable use" AND ( "consumption" OR production OR ( natural* AND resource* ) ) ) OR
+( "sustainable +use" AND ( "consumption" OR production OR ( natural* AND resource* ) ) ) OR
 ( "Transparent wood" AND NOT ( coating* OR stain* ) ) OR
 (
 	(
@@ -142,11 +142,11 @@
 	)
 ) OR
 ( ( "LEED" AND ( building* OR "housing" OR house* OR "green" ) ) AND NOT "diffraction" ) OR
-( ( "sustainable use" OR "sustainable usage" ) AND ( natural* AND resource* ) ) OR
+( ( "sustainable +use" OR "sustainable usage" ) AND ( natural* AND resource* ) ) OR
 ( ( agricultur* AND sustainability ) ) OR
 ( ( eco-industrial* OR ecoindustrial* ) AND park* ) OR
-( ( efficien* AND use ) AND ( land OR "natural resource" OR water* ) ) OR
-( ( energy AND efficien* ) AND ( "of building" OR "house" OR "houses" ) ) OR
+( ( efficien* AND +use ) AND ( land OR "natural resource" OR water* ) ) OR
+( ( energy AND efficien* ) AND ( "+of building" OR "house" OR "houses" ) ) OR
 (
 	(
 		low-energy OR

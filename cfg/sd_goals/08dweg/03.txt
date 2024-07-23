@@ -4,7 +4,7 @@
 	tourism AND (
 		"forest green" OR
 		( art* AND festival ) OR
-		( conservation* AND area* ) OR
+		( conservation* AND +area* ) OR
 		( culture AND based ) OR
 		( destination AND ( ( climate AND chang* ) OR environmental ) ) OR
 		( economic AND growth ) OR
@@ -18,7 +18,7 @@
 		( regional AND economic ) OR
 		( sustainable AND development ) OR
 		( whale AND watching ) OR
-		( wildlife AND work* ) OR
+		( wildlife AND +work* ) OR
 		( world AND heritage ) OR
 		adventure OR
 		agro OR

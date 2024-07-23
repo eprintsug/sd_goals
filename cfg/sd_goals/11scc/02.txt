@@ -22,8 +22,8 @@
 "intelligent transport" OR
 "Intelligent transportation system" OR
 "intelligent transportation" OR
-"land use and transport" OR
-"land use and transportation" OR
+"land +use and transport" OR
+"land +use and transportation" OR
 "landuse and transportation" OR
 "lane enforcement" OR
 "metro system" OR
@@ -56,7 +56,7 @@
 "transit oriented development" OR
 "transit-oriented development" OR
 "transitoriented development" OR
-"transport in urban areas" OR
+"transport in urban +areas" OR
 "transport policies" OR
 "transport policy" OR
 "transportation planning and traffic" OR
@@ -163,7 +163,7 @@
 (
 	"urban" AND (
 		"bus" OR
-		"commuting to work" OR
+		"commuting +to +work" OR
 		"commuting" OR
 		"cycling" OR
 		"expressways" OR
@@ -211,7 +211,7 @@
 	) AND ( "cities" OR "city" OR urban* )
 ) OR
 ( ( "bus station" OR "bus stops" ) AND ( "transport" OR "transportation" ) ) OR
-( ( "cities" OR "city" ) AND ( "commuting to work" OR "transit network" OR ( transportation* AND plan* ) ) ) OR
+( ( "cities" OR "city" ) AND ( "commuting +to +work" OR "transit network" OR ( transportation* AND plan* ) ) ) OR
 ( ( "jobs–housing" OR "job–housing" ) AND "commuting" ) OR
 ( ( "traffic" OR "transit" ) AND "air pollution" ) OR
 ( "transport planning" AND ( "cities" OR "city" OR "urban" ) ) OR

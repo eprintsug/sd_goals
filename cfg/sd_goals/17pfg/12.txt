@@ -3,7 +3,7 @@
 	"anti-dumping" OR
 	"antidumping" OR
 	"comparative advantage" OR
-	"comprehensive and progressive agreement for trans-pacific partnership" OR
+	"comprehensive and progressive agreement +for trans-pacific partnership" OR
 	"CPTPP" OR
 	"duty free"or
 	"NAFTA" OR
@@ -12,7 +12,7 @@
 	"RCEP" OR
 	"regional comprehensive economic partnership" OR
 	"trans-pacific partnership" OR
-	"united states-mexico-canada agreement" OR
+	"united +states-mexico-canada agreement" OR
 	"USMCA" OR
 	(
 		( trade OR trading ) AND (
@@ -26,11 +26,11 @@
 			sanction
 		)
 	) OR
-	( access AND to AND market* ) OR
+	( access AND +to AND market* ) OR
 	( export AND ban* ) OR
 	( foreign AND entry AND mode* ) OR
 	( free AND trad* ) OR
-	( general* AND system AND preference* ) OR
+	( +general* AND system AND preference* ) OR
 	( global AND value AND chain* ) OR
 	( market AND ( access OR participation ) ) OR
 	( non-tariff AND measure* ) OR
@@ -72,7 +72,7 @@ AND (
 	"Congo" OR
 	"Costa Rica" OR
 	"Cuba" OR
-	"Côte d'Ivoire" OR
+	"Côte d\'Ivoire" OR
 	"Djibouti" OR
 	"Dominica" OR
 	"Dominican Republic" OR
@@ -139,7 +139,7 @@ AND (
 	"Pakistan" OR
 	"Palau" OR
 	"Panama" OR
-	"Papua New Guinea" OR
+	"Papua +new Guinea" OR
 	"Paraguay" OR
 	"Peru" OR
 	"Philippines" OR
@@ -148,7 +148,7 @@ AND (
 	"Rwanda" OR
 	"Saint Kitts and Nevis" OR
 	"Saint Lucia" OR
-	"Saint Vincent and the Grenadines" OR
+	"Saint Vincent and +the Grenadines" OR
 	"Samoa" OR
 	"Senegal" OR
 	"Serbia" OR
@@ -185,11 +185,11 @@ AND (
 	"Yemen" OR
 	"Zambia" OR
 	"Zimbabwe" OR
-	( developing AND ( countr* OR nation OR state OR world ) ) OR
+	( developing AND ( countr* OR nation OR +state OR world ) ) OR
 	( emerging AND countr* ) OR
-	( least AND developed AND ( countr* OR nation OR state ) ) OR
-	( low AND income AND ( countr* OR nation OR state ) ) OR
-	( middle AND income AND ( countr* OR nation OR state ) ) OR
+	( +least AND developed AND ( countr* OR nation OR +state ) ) OR
+	( low AND income AND ( countr* OR nation OR +state ) ) OR
+	( middle AND income AND ( countr* OR nation OR +state ) ) OR
 	( poor AND countr* ) OR
 	Africa OR
 	India OR

@@ -1,12 +1,12 @@
-"access to health care" OR
-"access to healthcare" OR
+"access +to health care" OR
+"access +to healthcare" OR
 "affordable housing" OR
 "age discrimination" OR
-"aid to Africa" OR
+"aid +to Africa" OR
 "alleviate poverty" OR
 "alleviating poverty" OR
-"alleviation of poverty" OR
-"americans with disabilities act" OR
+"alleviation +of poverty" OR
+"americans +with disabilities act" OR
 "anti-discrimination" OR
 "anti-money laundering" OR
 "antidiscrimination policies" OR
@@ -20,7 +20,7 @@
 "Basel III" OR
 "bilateral migration" OR
 "capital adequacy" OR
-"civil rights" OR
+"civil +rights" OR
 "class inequalities" OR
 "class mobility" OR
 "deportation policies" OR
@@ -34,15 +34,15 @@
 "disability inclusion" OR
 "disability policies" OR
 "disability policy" OR
-"disability rights" OR
-"discrimination against women" OR
-"discrimination at work" OR
+"disability +rights" OR
+"discrimination +against women" OR
+"discrimination +at +work" OR
 "discrimination in education" OR
 "discrimination in employment" OR
 "discrimination in health" OR
 "discrimination in healthcare" OR
 "discrimination in hiring" OR
-"discrimination in the workplace" OR
+"discrimination in +the workplace" OR
 "discrimination policies" OR
 "discrimination policy" OR
 "disparities in health" OR
@@ -52,7 +52,7 @@
 "distributed capitalism" OR
 "distributed economy" OR
 "diverse workforce" OR
-"diversity in the workplace" OR
+"diversity in +the workplace" OR
 "diversity policies" OR
 "diversity policy" OR
 "diversity politics" OR
@@ -64,8 +64,8 @@
 "equal opportunities" OR
 "equal opportunity" OR
 "equal protection" OR
-"equality of opportunities" OR
-"equality of opportunity" OR
+"equality +of opportunities" OR
+"equality +of opportunity" OR
 "equality policies" OR
 "equality policy" OR
 "equities in health" OR
@@ -73,7 +73,7 @@
 "equity in education" OR
 "equity in health" OR
 "equity in healthcare" OR
-"eradication of poverty" OR
+"eradication +of poverty" OR
 "estate tax" OR
 "estate taxation" OR
 "estate taxes" OR
@@ -91,19 +91,19 @@
 "fair housing" OR
 "family reunification" OR
 "Financial service Authority" OR
-"financing of terrorism" OR
+"financing +of terrorism" OR
 "gender-based discrimination" OR
 "genderbased discrimination" OR
 "global emigration" OR
 "global immigration" OR
 "global migration" OR
-"governance of emigration" OR
-"governance of immigration" OR
-"governance of migration" OR
+"governance +of emigration" OR
+"governance +of immigration" OR
+"governance +of migration" OR
 "health care access" OR
 "health care disparities" OR
 "health care disparity" OR
-"health care for all" OR
+"health care +for +all" OR
 "health care inequalities" OR
 "health care inequality" OR
 "health care inequities" OR
@@ -141,17 +141,17 @@
 "inequalities in health" OR
 "inequalities in healthcare" OR
 "inequalities in income" OR
-"inequalities of income" OR
-"inequalities of wealth" OR
+"inequalities +of income" OR
+"inequalities +of wealth" OR
 "inequality and poverty" OR
 "inequality in education" OR
 "inequality in health" OR
 "inequality in healthcare" OR
 "inequality in income" OR
-"inequality of income" OR
-"inequality of opportunities" OR
-"inequality of opportunity" OR
-"inequality of wealth" OR
+"inequality +of income" OR
+"inequality +of opportunities" OR
+"inequality +of opportunity" OR
+"inequality +of wealth" OR
 "inequities in health" OR
 "inequity in education" OR
 "inequity in health" OR
@@ -167,13 +167,13 @@
 "market manipulation" OR
 "money laundering" OR
 "people seeking asylum" OR
-"policies of inclusion" OR
-"policy of inclusion" OR
-"politics of diversity" OR
-"politics of emigration" OR
-"politics of immigration" OR
-"politics of inclusion" OR
-"politics of migration" OR
+"policies +of inclusion" OR
+"policy +of inclusion" OR
+"politics +of diversity" OR
+"politics +of emigration" OR
+"politics +of immigration" OR
+"politics +of inclusion" OR
+"politics +of migration" OR
 "poverty alleviation" OR
 "poverty eradication" OR
 "poverty reduction" OR
@@ -214,8 +214,8 @@
 "racial justice" OR
 "racial segregation" OR
 "racial stratification" OR
-"redistribution of income" OR
-"redistribution of wealth" OR
+"redistribution +of income" OR
+"redistribution +of wealth" OR
 "redistributive monetary policies" OR
 "redistributive monetary policy" OR
 "redistributive tax" OR
@@ -223,7 +223,7 @@
 "redistributive taxes" OR
 "reduce poverty" OR
 "reducing poverty" OR
-"reduction of poverty" OR
+"reduction +of poverty" OR
 "regulatory capital" OR
 "religious discrimination" OR
 "residential segregation" OR
@@ -232,22 +232,22 @@
 "settlement agencies" OR
 "settlement agency" OR
 "socially inclusive" OR
-"stability of banks" OR
-"stability of the banking system" OR
-"stability of the financial system" OR
-"stratification of society" OR
-"student with autism" OR
-"student with disabilities" OR
-"student with disability" OR
-"students with autism" OR
-"students with disabilities" OR
-"students with disability" OR
+"stability +of banks" OR
+"stability +of +the banking system" OR
+"stability +of +the financial system" OR
+"stratification +of society" OR
+"student +with autism" OR
+"student +with disabilities" OR
+"student +with disability" OR
+"students +with autism" OR
+"students +with disabilities" OR
+"students +with disability" OR
 "subprime crisis" OR
 "subprime mortgage crisis" OR
 "supervisory convergence" OR
-"taxing the rich" OR
+"taxing +the rich" OR
 "terrorism financing" OR
-"too big to fail" OR
+"too +big +to fail" OR
 "universal health care" OR
 "universal health coverage" OR
 "universal healthcare" OR
@@ -442,7 +442,7 @@
 ( emigrant* AND (
 		policies OR
 		policy OR
-		rights OR
+		+rights OR
 		worker*
 	)
 ) OR
@@ -516,7 +516,7 @@
 		"labour" OR
 		"policies" OR
 		"policy" OR
-		"rights" OR
+		"+rights" OR
 		"selection" OR
 		"settlement" OR
 		legislation* OR
@@ -616,7 +616,7 @@
 		"policies" OR
 		"policy" OR
 		"protection" OR
-		"rights" OR
+		"+rights" OR
 		"settlement" OR
 		"smuggling" OR
 		laborer* OR
@@ -675,7 +675,7 @@
 		"policy" OR
 		"protection" OR
 		resettlement* OR
-		"rights" OR
+		"+rights" OR
 		"status"
 	)
 ) OR

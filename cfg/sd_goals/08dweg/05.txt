@@ -1,13 +1,13 @@
-"article 4 of the european convention on human rights" OR
+"article 4 +of +the european convention +on human +rights" OR
 "Convention 182" OR
 "global slavery index" OR
 "International labour Organization Convention 182" OR
 "modern slavery act" OR
 "smuggling and trafficking" OR
 "traffic in women" OR
-"youth at work" OR
+"youth +at +work" OR
 "youth trading sex" OR
-( ( child* AND rights ) AND ( labour OR labor ) ) OR
+( ( child* AND +rights ) AND ( labour OR labor ) ) OR
 ( ( labour OR labor ) AND ( exploitation OR traffick* ) ) OR
 ( ( militarisation OR militarization ) AND youth ) OR
 ( ( waraffected OR war-affected ) AND ( adolescent OR child* OR youth* ) ) OR
@@ -17,12 +17,12 @@
 		( armed AND conflict ) OR
 		( associat* AND armed AND forces ) OR
 		( domestic AND labour ) OR
-		( domestic AND work* ) OR
+		( domestic AND +work* ) OR
 		( forced AND labour* ) OR
 		( labour AND suppl* ) OR
 		( sex* AND exploitation ) OR
 		( sex* AND traffick* ) OR
-		( sex* AND work* ) OR
+		( sex* AND +work* ) OR
 		( victim AND human AND traffick* ) OR
 		employment OR
 		exploitation OR
@@ -33,7 +33,7 @@
 		soldier* OR
 		traffick* OR
 		war OR
-		work*
+		+work*
 	)
 ) OR
 ( commercial* AND ( ( sex* AND exploitation ) OR ( sex* AND exploit* AND children ) ) ) OR
@@ -46,11 +46,11 @@
 ( ganginvolved AND youth ) OR
 ( human AND traffick* ) OR
 ( human* AND ( ( sex AND traffick* ) OR smuggl* OR ( traffick* AND survivor* ) ) ) OR
-( migrant AND ( ( sex AND work* ) OR smuggl* ) ) OR
+( migrant AND ( ( sex AND +work* ) OR smuggl* ) ) OR
 ( modern AND slavery ) OR
 ( modern-day AND slavery ) OR
 ( modernday AND slavery ) OR
-( new AND slavery ) OR
+( +new AND slavery ) OR
 ( people AND smuggl* ) OR
 ( prostitut* AND ( exploitat* OR slave* ) ) OR
 (
@@ -68,9 +68,9 @@
 ( smuggl* AND network ) OR
 (
 	traffick* AND (
-		( human AND being * ) OR
-		( human AND right ) OR
-		( sex* AND work* ) OR
+		( human AND +being ) OR
+		( human AND +right ) OR
+		( sex* AND +work* ) OR
 		child* OR
 		Migrant* OR
 		minor* OR
@@ -83,5 +83,5 @@
 	)
 ) OR
 ( traffick* AND women ) OR
-( working AND child* ) OR
-( young AND worker )
+( +working AND child* ) OR
+( +young AND worker )

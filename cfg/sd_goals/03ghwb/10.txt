@@ -27,7 +27,7 @@
 	"bacille-calmette-guerin vaccine" OR
 	"bacillecalmetteguerin vaccination" OR
 	"bacillecalmetteguerin vaccine" OR
-	( ( basic AND reproducti* ) AND ( number OR ratio ) ) OR
+	( ( basic AND reproducti* ) AND ( +number OR ratio ) ) OR
 	"bcg vaccination" OR
 	"bcg vaccine" OR
 	"black death" OR
@@ -48,7 +48,7 @@
 		)
 	) OR
 	(
-		( control AND of ) AND (
+		( control AND +of ) AND (
 			epidemic OR
 			( infectious AND disease ) OR
 			mrsa OR
@@ -75,7 +75,7 @@
 	) OR
 	( denv AND ( epidemic OR outbreak ) ) OR
 	(
-		( detection AND of ) AND (
+		( detection AND +of ) AND (
 			epidemic OR
 			( infectious AND disease ) OR
 			norovirus OR
@@ -116,7 +116,7 @@
 			vaccine
 		)
 	) OR
-	"elimination of measles" OR
+	"elimination +of measles" OR
 	(
 		epidemic AND (
 			control OR
@@ -147,7 +147,7 @@
 			wave
 		)
 	) OR
-	"eradication of hcv" OR
+	"eradication +of hcv" OR
 	( evd AND ( epidemic OR outbreak OR pandemic ) ) OR
 	(
 		flu AND (
@@ -305,7 +305,7 @@
 	( mers AND ( epidemic OR outbreak OR pandemic ) ) OR
 	( mmr AND ( vaccination OR vaccine ) ) OR
 	(
-		( modeling of OR modelling of ) AND (
+		( modeling +of OR modelling +of ) AND (
 			epidemic OR
 			( infectious AND disease ) OR
 			outbreak OR
@@ -324,7 +324,7 @@
 			transmission
 		)
 	) OR
-	( next AND generation AND matrix ) OR
+	( +next AND generation AND matrix ) OR
 	( ( non-linear OR nonlinear ) AND (incidence AND rate ) ) OR
 	(
 		norovirus AND (
@@ -403,7 +403,7 @@
 		)
 	) OR
 	(
-		( prevention AND of ) AND (
+		( prevention AND +of ) AND (
 			aids OR
 			epidemic OR
 			hcv OR
@@ -419,16 +419,16 @@
 		)
 	) OR
 	(
-		( propagation AND of ) AND (
+		( propagation AND +of ) AND (
 			disease OR
 			epidemic OR
 			( infectious AND disease ) OR
 			viruses
 		)
 	) OR
-	( protection AND against AND pertussis ) OR
+	( protection AND +against AND pertussis ) OR
 	(
-		( response AND to ) AND (
+		( response AND +to ) AND (
 			epidemic OR
 			( infectious AND disease ) OR
 			outbreak OR
@@ -460,7 +460,7 @@
 	( sir AND ( epidemic OR model ) ) OR
 	( sis AND ( epidemic OR sis model ) ) OR
 	(
-		( spread AND of ) AND (
+		( spread AND +of ) AND (
 			aids OR
 			disease OR
 			ebola OR
@@ -475,7 +475,7 @@
 		)
 	) OR
 	(
-		( surveillance AND of ) AND (
+		( surveillance AND +of ) AND (
 			epidemic OR
 			( infectious AND disease ) OR
 			influenza OR
@@ -513,9 +513,9 @@
 			vaccine
 		)
 	) OR
-	"therapy of tuberculosis" OR
+	"therapy +of tuberculosis" OR
 	(
-		( transmission AND of ) AND (
+		( transmission AND +of ) AND (
 			aids OR
 			disease OR
 			ebola OR
@@ -560,7 +560,7 @@
 		)
 	) OR
 	(
-		( vaccin* AND against ) AND
+		( vaccin* AND +against ) AND
 		(
 			influenza OR
 			measles OR
@@ -620,7 +620,7 @@
 			vaccine
 		)
 	) OR
-	( ( aids AND model ) AND NOT ( "almost ideal demand system" ) )
+	( ( aids AND model ) AND NOT ( "+almost ideal demand system" ) )
 ) AND NOT (
 	( computer AND virus ) OR
 	Alzheimer OR
@@ -630,7 +630,7 @@
 	cancer OR
 	cattle
 	cattle OR
-	cell-to-cell OR
+	cell-+to-cell OR
 	chemotherapy OR
 	crop OR
 	diabetes OR

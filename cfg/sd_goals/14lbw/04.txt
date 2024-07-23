@@ -2,10 +2,10 @@
 	"decrease in seawater pH" OR
 	"marine pH" OR
 	"ocean acidification" OR
-	"pH of the ocean" OR
+	"pH +of +the ocean" OR
 	"seawater acidification" OR
 	"seawater pH decrease" OR
-	( "acidification of seawater" AND NOT ( "pre-treatment" OR "pretreatment" ) ) OR
+	( "acidification +of seawater" AND NOT ( "pre-treatment" OR "pretreatment" ) ) OR
 	( "aragonite saturation" AND ( "pH decrease" OR acidif* ) ) OR
 	( "carbonate chemistry" AND "ocean" AND "acidification" ) OR
 	( "coral bleaching" AND "acidification" ) OR

@@ -1,10 +1,10 @@
 (
-	( ( "fully protected" OR "locally managed" OR protected ) AND marine AND area ) OR
-	( marine AND ( ( protected AND area ) OR sanctuar* ) ) OR
+	( ( "+fully protected" OR "locally managed" OR protected ) AND marine AND +area ) OR
+	( marine AND ( ( protected AND +area ) OR sanctuar* ) ) OR
 	( "mpa" AND ( "design" OR "management" OR "network" ) ) OR
 	(
 		( "no-take OR "notake" ) AND (
-			area OR
+			+area OR
 			mpa OR
 			reserve OR
 			zone
@@ -20,7 +20,7 @@
 		)
 	) OR
 	(
-		( protected AND area ) AND (
+		( protected AND +area ) AND (
 			"coast ecosystem" OR
 			"coastal ecosystem" OR
 			"estuaries" OR

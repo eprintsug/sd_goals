@@ -4,30 +4,30 @@
 "4G coverage" OR
 "5G access" OR
 "5G coverage" OR
-"Access and use of information" OR
-"access to 3G" OR
-"access to 4G" OR
-"access to 5G" OR
-"access to advanced information" OR
-"Access to and use of internet" OR
-"Access to and use of mobile" OR
-"Access to and use of the cellular" OR
-"Access to and use of the internet" OR
-"access to broadband" OR
-"access to cellular network" OR
-"access to computers" OR
-"access to high-speed broadband" OR
-"access to high-speed internet" OR
-"access to highspeed broadband" OR
-"access to highspeed internet" OR
-"access to ICT" OR
-"access to information and communication" OR
-"access to internet" OR
-"access to mobile network" OR
-"access to network service" OR
-"access to networked service" OR
-"access to telecom" OR
-"access to the internet" OR
+"Access and +use +of information" OR
+"access +to 3G" OR
+"access +to 4G" OR
+"access +to 5G" OR
+"access +to advanced information" OR
+"Access +to and +use +of internet" OR
+"Access +to and +use +of mobile" OR
+"Access +to and +use +of +the cellular" OR
+"Access +to and +use +of +the internet" OR
+"access +to broadband" OR
+"access +to cellular network" OR
+"access +to computers" OR
+"access +to +high-speed broadband" OR
+"access +to +high-speed internet" OR
+"access +to highspeed broadband" OR
+"access +to highspeed internet" OR
+"access +to ICT" OR
+"access +to information and communication" OR
+"access +to internet" OR
+"access +to mobile network" OR
+"access +to network service" OR
+"access +to networked service" OR
+"access +to telecom" OR
+"access +to +the internet" OR
 "affordable communications" OR
 "affordable internet" OR
 "affordable mobile device" OR
@@ -38,7 +38,7 @@
 "broadband penetration" OR
 "broadband wireless access" OR
 "cheap internet" OR
-"cost of mobile" OR
+"cost +of mobile" OR
 "digital divides" OR
 "digital inclusion" OR
 "digital inequalities" OR
@@ -70,16 +70,16 @@
 "Lowcost mobile phone" OR
 "Lowcost phone" OR
 "lowcost smartphone" OR
-"Mobile access to information" OR
+"Mobile access +to information" OR
 "mobile network access" OR
 "mobile network accessibility" OR
 "mobile phone infrastructure" OR
 "mobile service provisioning" OR
 "national broadband plan" OR
 "national broadband plans" OR
-"Open access to information" OR
-"phone access and use" OR
-"provision of Internet" OR
+"+open access +to information" OR
+"phone access and +use" OR
+"provision +of Internet" OR
 "public Wi-Fi" OR
 "public WiFi" OR
 "reliable ICT" OR
@@ -87,8 +87,8 @@
 "Rural broadband" OR
 "Rural internet" OR
 "Rural wireless" OR
-"smart-phone access and use" OR
-"smartphone access and use" OR
+"smart-phone access and +use" OR
+"smartphone access and +use" OR
 "telecom access" OR
 "Universal Telephone Service" OR
 "web access" OR
@@ -105,8 +105,8 @@
 		telecommunication*
 	)
 ) OR
-( ( "Access to information" ) AND internet ) OR
-( ( "cost of data" ) AND mobile ) OR
+( ( "Access +to information" ) AND internet ) OR
+( ( "cost +of data" ) AND mobile ) OR
 (
 	( "e-inclusion" OR "einclusion" ) AND (
 		"application" OR
@@ -135,7 +135,7 @@
 ( ( "public internet" ) AND access ) OR
 ( ( "universal access" ) AND internet ) OR
 ( ( "universal service obligation" ) AND ( telecommunication* ) ) OR
-( ( ( internet AND access ) ) AND ( "access to internet" ) AND ( "access to the internet" ) ) OR
+( ( ( internet AND access ) ) AND ( "access +to internet" ) AND ( "access +to +the internet" ) ) OR
 (
 	( communication AND technolog* ) AND (
 		access OR

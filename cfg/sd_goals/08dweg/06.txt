@@ -11,7 +11,7 @@
 		"environmental OR
 		"public policy" OR
 		"regional" OR
-		"small and medium" OR
+		"+small and medium" OR
 		"sme" OR
 		"smes" OR
 		"social" OR
@@ -47,7 +47,7 @@
 	( economic AND development ) AND (
 		"fiscal policy" OR
 		( "funding" AND innovation ) OR
-		( ( micro OR small ) AND enterprise ) OR
+		( ( micro OR +small ) AND enterprise ) OR
 		( financial AND service ) OR
 		( policy AND innovation ) OR
 		( tax AND incentive ) OR
@@ -78,7 +78,7 @@
 ( ( job AND creation ) AND "development" ) OR
 ( ( policy AND recommendation ) AND "development" ) OR
 ( ( selfemploy* OR self-employ* ) AND ( ( economic AND development ) OR ( economic AND growth ) ) ) OR
-( ( small AND business ) AND "development" AND ( policy OR policies ) ) OR
+( ( +small AND business ) AND "development" AND ( policy OR policies ) ) OR
 ( ( tax AND incentive ) AND econom* ) OR
 ( development-oriented* AND ( policy OR policies ) ) OR
 ( developmentoriented* AND ( policy OR policies ) ) OR
@@ -91,6 +91,6 @@
 ( job AND creation ) OR
 ( local AND economic AND development ) OR
 ( policy AND ( economic AND development ) ) OR
-( state AND local AND economic AND development ) OR
+( +state AND local AND economic AND development ) OR
 ( statelevel AND economic AND development ) OR
 ( wage* AND ( economic AND development ) )

@@ -1,6 +1,6 @@
 (
 	"community vulnerability assessment" OR
-	"resilience of the poor" OR
+	"resilience +of +the poor" OR
 	"Social vulnerability index" OR
 	"SSVI" OR
 	(
@@ -59,7 +59,7 @@
 		(
 			"poorer people" OR
 			( developing* AND countr* ) OR
-			( least* AND developed* AND countr* ) OR
+			( +least* AND developed* AND countr* ) OR
 			( low* AND socioeconomic* AND population* ) OR
 			( low* AND socioeconomic* AND status* ) OR
 			( poor* AND people ) OR
@@ -75,7 +75,7 @@
 		(
 			"poorer people" OR
 			( developing* AND countr* ) OR
-			( least* AND developed* AND countr* ) OR
+			( +least* AND developed* AND countr* ) OR
 			( low* AND socioeconomic* AND population* ) OR
 			( low* AND socioeconomic* AND status* ) OR
 			( poor* AND people ) OR
@@ -100,7 +100,7 @@
 			( vulnerable* AND communit* ) OR
 			poverty
 		) AND (
-			"vulnerability to risks" OR
+			"vulnerability +to risks" OR
 			( extreme* AND rainfall* ) OR
 			( extreme* AND weather* ) OR
 			disaster* OR
@@ -121,7 +121,7 @@
 		) AND (
 			"economic crisis" OR
 			"financial crisis" OR
-			"preparedness to crisis" OR
+			"preparedness +to crisis" OR
 			( sendai* AND framework* ) OR
 			resilien* OR
 			tsunami* OR
@@ -156,7 +156,7 @@
 	) OR
 	(
 		( 
-			least* AND 
+			+least* AND 
 			developed* AND 
 			countr* 
 		) AND

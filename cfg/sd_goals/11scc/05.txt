@@ -1,7 +1,7 @@
 "city parks" OR
 "Container-based sanitation" OR
 "Containerbased sanitation" OR
-"environmental impact of cities" OR
+"environmental impact +of cities" OR
 "solid waste management" OR
 "solid waste" OR
 "street canyon" OR
@@ -40,8 +40,8 @@
 	"cities" AND (
 		"air temperature" OR
 		"environmental policy" OR
-		"green area" OR
-		"green areas" OR
+		"green +area" OR
+		"green +areas" OR
 		"waste disposal" OR
 		"waste management" OR
 		"waste paper" OR
@@ -55,8 +55,8 @@
 		"air concentration" OR
 		"air temperature" OR
 		"environmental policy" OR
-		"green area" OR
-		"green areas" OR
+		"green +area" OR
+		"green +areas" OR
 		"ozone" OR
 		"waste management" OR
 		"waste paper" OR
@@ -194,7 +194,7 @@
 ) OR
 ( ( wastewater* AND treatment ) AND ( "cities" OR "city" ) ) OR
 ( ( wastewater* AND treatment* AND plant* ) AND ( municipal OR urban* ) ) OR
-( ( water* AND "to all" ) AND ( "cities" OR urban ) ) OR
+( ( water* AND "+to +all" ) AND ( "cities" OR urban ) ) OR
 ( ( water* AND consumption ) AND urban ) OR
 ( ( water* AND contaminat* ) AND ( municipal OR urban* ) ) OR
 ( ( water* AND governance ) AND ( "cities" OR "city" OR urban ) ) OR
@@ -270,8 +270,8 @@
 		"forest" OR
 		"forestry" OR
 		forest OR
-		"green area" OR
-		"green areas" OR
+		"green +area" OR
+		"green +areas" OR
 		"green development" OR
 		"green infrastructure" OR
 		"green land" OR

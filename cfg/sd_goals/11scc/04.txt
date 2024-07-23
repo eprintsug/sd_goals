@@ -26,7 +26,7 @@
 "nineteenth-century painting" OR
 "palaeontological heritage" OR
 "paleontological heritage" OR
-"preservation of heritage" OR
+"preservation +of heritage" OR
 "qing dynasty painting" OR
 "renaissance glass" OR
 "renaissance glasses" OR
@@ -40,7 +40,7 @@
 "urban conservation" OR
 "urban heritage" OR
 "world cultural heritage" OR
-"world heritage areas" OR
+"world heritage +areas" OR
 "world natural heritage" OR
 ( 
 	"cultural heritage" AND ( 
@@ -78,8 +78,8 @@
 ) OR
 ( 
 	"world heritage" AND ( 
-		"area" OR
-		"areas" OR
+		"+area" OR
+		"+areas" OR
 		"convention" OR
 		"cultural" OR
 		"list" OR
@@ -101,7 +101,7 @@
 		"heritage"
 	) 
 ) OR
-( conserv* AND ( ( historic AND area ) OR "modern architecture" ) ) OR
+( conserv* AND ( ( historic AND +area ) OR "modern architecture" ) ) OR
 ( cultural AND heritage AND ( material OR object ) ) OR
 ( 
 	heritage AND ( 
@@ -116,8 +116,8 @@
 		"institution" OR
 		"institutions" OR
 		"management" OR
-		"place" OR
-		"places" OR
+		"+place" OR
+		"+places" OR
 		"preservation" OR
 		"sector" OR
 		"site" OR

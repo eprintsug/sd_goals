@@ -11,7 +11,7 @@
 	"stimulated geothermal" OR
 	( "geothermal heat" AND energy ) OR
 	( "geothermal heating" AND energy ) OR
-	( "geothermal" AND injection* AND ( reservoir* OR well* ) ) OR
+	( "geothermal" AND injection* AND ( reservoir* OR +well* ) ) OR
 	( "ground source heat" AND ( pump* OR system* ) ) OR
 	( "thermal energy" AND ( ( geotherm* AND system* ) OR "geothermal gradient" OR ( "geothermal" AND reservoir* ) ) ) OR
 	( "thermal storage" AND "geothermal" ) OR
@@ -49,10 +49,10 @@
 			( heat AND extraction* ) OR
 			( heat AND plant* ) OR
 			( heat AND pump* ) OR
-			( injection AND well* ) OR
+			( injection AND +well* ) OR
 			( kalina AND cycle* ) OR
 			( pipe AND network* ) OR
-			( production AND well* ) OR
+			( production AND +well* ) OR
 			( steam AND pipeline* ) OR
 			( steam AND power AND plant* ) OR
 			( steam AND turbine* ) OR
@@ -91,36 +91,36 @@
 			thermoelectric* OR
 			tracer* OR
 			turbine* OR
-			well*
+			+well*
 		)
 	) OR
 	( Geyser AND Power AND plant* ) OR
 	( Hot AND Dry AND Rock* ) OR
 	( Multi-borehole AND Circulating AND System* ) OR
-	( under-ground AND source AND heat* ) OR
+	( +under-ground AND source AND heat* ) OR
 	( underground AND source AND heat* )
 ) AND NOT (
 	"Bioaccumulation" OR
 	"Boron pollution" OR
-	"environmental aspects of geothermal" OR
-	"Environmental effects of mass" OR
-	"environmental impact of geothermal" OR
+	"environmental aspects +of geothermal" OR
+	"Environmental effects +of mass" OR
+	"environmental impact +of geothermal" OR
 	"geothermal air pollution" OR
 	"Hydrochemistry" OR
 	"phytotoxicity" OR
-	"pollution of geothermal" OR
+	"pollution +of geothermal" OR
 	"silica ceramics" OR
 	"thallium" OR
 	"toxic metals" OR
-	"Treatment of geothermal" OR
-	"treatment of waste" OR
-	"treatment of wastewater" OR
+	"Treatment +of geothermal" OR
+	"treatment +of waste" OR
+	"treatment +of wastewater" OR
 	"waste treatment" OR
 	"wastewater treatment" OR
 	( "Arsenic" AND "pollution" ) OR
 	( "Arsenic" AND "removal" ) OR
 	( "Boron" AND "removal" ) OR
-	( "Impact of geothermal" AND "pollution" ) OR
+	( "Impact +of geothermal" AND "pollution" ) OR
 	( ( environmental AND impact* ) AND "pollution" ) OR
 	( geotherm AND emission* ) OR
 	Biomonitor* OR

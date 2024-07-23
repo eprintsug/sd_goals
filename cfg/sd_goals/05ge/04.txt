@@ -1,7 +1,7 @@
 (
 	( Abortion* AND reform* ) OR
 	"cedaw" OR
-	"convention on the elimination of all forms of discrimination against women" OR
+	"convention +on +the elimination +of +all forms +of discrimination +against women" OR
 	( Electoral* AND gender* AND quota* ) OR
 	( Electoral* AND women* AND quota* ) OR
 	"employment equality act" OR
@@ -17,15 +17,15 @@
 			politic*
 		)
 	) OR
-	( Legislation AND for AND women ) OR
+	( Legislation AND +for AND women ) OR
 	"Madam president" OR
 	( national AND gender AND mechanism ) OR
 	( pay* AND equity AND legislation* ) OR
-	( Politics* AND of AND women* ) OR
-	"State abortion politics" OR
+	( Politics* AND +of AND women* ) OR
+	"+state abortion politics" OR
 	( trap AND abortion AND law ) OR
 	"unscr 1325" OR
-	( woman AND running AND for AND office ) OR
+	( woman AND running AND +for AND office ) OR
 	( women-friendly AND ( policies OR policy ) ) OR
 	( womenfriendly AND ( policies OR policy ) ) OR
 	(
@@ -63,7 +63,7 @@
 			"governance and public policy" OR
 			"Immigration policy" OR
 			( political* AND ( equalit* OR equit* ) ) OR (
-				 ( welfare AND state ) AND reform*
+				 ( welfare AND +state ) AND reform*
 			) OR (
 				(
 					Inequal* OR
@@ -90,7 +90,7 @@
 	) OR
 	(
 		( Gender* AND gap ) AND (
-			( political* AND ( interest* OR office* OR part* ) )
+			( political* AND ( +interest* OR office* OR +part* ) )
 		)
 	) OR
 	(
@@ -102,9 +102,9 @@
 		government*
 	) OR
 	(
-		( international AND human AND right ) AND (
+		( international AND human AND +right ) AND (
 			( gender* AND equ* ) OR
-			( widow* AND without AND right )
+			( widow* AND +without AND +right )
 		)
 	) OR
 	(
@@ -116,7 +116,7 @@
 	) OR
 	(
 		( lone* AND mother* ) AND
-		( welfare AND state )
+		( welfare AND +state )
 	) OR
 	(
 		( violence AND prevention AND program* ) AND (
@@ -134,7 +134,7 @@
 			( integration AND ( political* AND structure* ) ) OR
 			( Legal AND ( mobilisation OR mobilization ) ) OR
 			( literac* AND program* ) OR
-			( policies AND education AND ( human AND right ) ) OR
+			( policies AND education AND ( human AND +right ) ) OR
 			( political AND (
 					activit* OR
 					engagement* OR
@@ -147,7 +147,7 @@
 			( public AND policy AND making ) OR
 			( regulation AND abortion ) OR
 			( representation AND ( political AND minorit* ) ) OR
-			( running AND for AND office ) OR
+			( running AND +for AND office ) OR
 			( Women AND politics ) OR
 			candidat* OR
 			policies OR
@@ -156,13 +156,13 @@
 		)
 	) OR
 	(
-		( Women's AND movement ) AND (
+		( Women\'s AND movement ) AND (
 			Politics OR
 			( political* AND activit* )
 		)
 	) OR
 	(
-		"Women's rights" AND
+		"Women\'s +rights" AND
 		law
 	) OR
 	(
@@ -177,7 +177,7 @@
 	) OR
 	(
 		( Women* AND ( disabilit* OR disabl* ) ) AND (
-			( human-rights* AND law ) OR
+			( human-+rights* AND law ) OR
 			( humanrights* AND law )
 		)
 	) OR
@@ -204,7 +204,7 @@
 	(
 		(
 			( eldercare AND ( policies OR policy ) ) OR (
-				state AND
+				+state AND
 				restructur*
 			)
 		) AND (
@@ -227,10 +227,10 @@
 				)
 			) OR
 			( genderbased AND violence ) OR
-			( genderrelated AND right ) OR
+			( genderrelated AND +right ) OR
 			Gendersensitiv* OR
 			( gender-based AND violence ) OR
-			( gender-related AND right ) OR
+			( gender-related AND +right ) OR
 			Gender-sensitiv* OR
 			( Homeless* AND women ) OR
 			( Intersect* AND gender ) OR
@@ -241,12 +241,12 @@
 			( pay AND gap ) OR
 			( salary AND gap ) OR
 			( traffick* AND women ) OR
-			( violence AND against AND women ) OR
+			( violence AND +against AND women ) OR
 			( Women AND empowerment ) OR
-			( women's health ) OR
-			( Women AND ( abortion OR issue OR ( unpaid AND work ) ) ) OR
+			( women\'s health ) OR
+			( Women AND ( abortion OR issue OR ( unpaid AND +work ) ) ) OR
 			( Women AND legislator ) OR
-			( "Women of colour" OR "Women of color" ) OR
+			( "Women +of colour" OR "Women +of color" ) OR
 			(
 				(
 					women OR
@@ -299,8 +299,8 @@
 	) OR
 	(
 		(
-			under-represent* OR
-			( under* AND represent* ) OR
+			+under-represent* OR
+			( +under* AND represent* ) OR
 			Underrepresent*
 		) AND
 		(
@@ -311,8 +311,8 @@
 	) OR
 	(
 		(
-			"women's human rights" OR
-			"women's rights"
+			"women\'s human +rights" OR
+			"women\'s +rights"
 		) AND
 		(
 			Politics OR

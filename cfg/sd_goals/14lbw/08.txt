@@ -1,6 +1,6 @@
 (
-	"resistance of coral" OR
-	"resistance of corals" OR
+	"resistance +of coral" OR
+	"resistance +of corals" OR
 	(
 		( "adaptation capacity" OR "more resilient" OR resilien* ) AND (
 			"coral" OR
@@ -23,7 +23,7 @@
 			"improve resilience" OR
 			"resilience analysis" OR
 			"resilience and recovery" OR
-			"resistant to acidification" OR
+			"resistant +to acidification" OR
 			( improv* AND resilience* ) OR
 		) AND (
 			coast OR
@@ -75,7 +75,7 @@
 			)
 		) AND NOT (
 			"community resilience" OR
-			"modulus of resilience" OR
+			"modulus +of resilience" OR
 			"resilient infrastructure" OR
 			"social resilience"
 		)

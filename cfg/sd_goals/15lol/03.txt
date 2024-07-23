@@ -16,9 +16,9 @@
 (
 	desertification AND (
 		"aeolian" OR
-		"assessment of" OR
+		"assessment +of" OR
 		"assessment" OR
-		"causes of" OR
+		"causes +of" OR
 		"combat" OR
 		"combating" OR
 		"control" OR
@@ -26,19 +26,19 @@
 		"degradation and" OR
 		"ecological restoration" OR
 		"hazard" OR
-		"indicator of" OR
-		"indicators of" OR
+		"indicator +of" OR
+		"indicators +of" OR
 		"land degradation" OR
 		"land management" OR
-		"lead to" OR
-		"led to" OR
+		"lead +to" OR
+		"led +to" OR
 		"mitigation" OR
 		"monitoring" OR
 		"prevention" OR
 		"process" OR
 		"processes" OR
 		"reversion" OR
-		"risk of" OR
+		"risk +of" OR
 		"risk" OR
 		"sandy" OR
 		"unccd" OR

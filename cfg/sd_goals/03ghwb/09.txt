@@ -1,5 +1,5 @@
 (
-	( access AND to ) AND (
+	( access AND +to ) AND (
 		care OR
 		( essential AND medicine ) OR
 		( health AND service ) OR
@@ -22,7 +22,7 @@
 	)
 ) OR
 (
-	( accessibility AND to ) AND (
+	( accessibility AND +to ) AND (
 		( health AND service ) OR
 		health-care OR
 		healthcare OR
@@ -42,11 +42,11 @@
 		( mental AND healthcare )
 	)
 ) OR
-"affordability of medicine" OR
+"affordability +of medicine" OR
 "affordable care act" OR
 ( affordable AND ( drug OR medicine ) ) OR
 (
-	( barrier AND to ) AND (
+	( barrier AND +to ) AND (
 		( health AND service ) OR
 		health-care OR
 		healthcare OR
@@ -62,18 +62,18 @@
 	)
 ) OR
 ( health AND ( service OR treatment ) AND access* ) OR
-( ( health-care OR healthcare ) AND ( access* OR barrier OR "for all" ) ) OR
+( ( health-care OR healthcare ) AND ( access* OR barrier OR "+for +all" ) ) OR
 ( medical AND care AND access ) OR
-"medicare for all" OR
+"medicare +for +all" OR
 ( medicine AND affordability ) OR
 "Obamacare" OR
 ( primary AND care AND access ) OR
-( ( right AND to ) AND ( health-care OR healthcare OR (medical AND care) ) ) OR
+( ( +right AND +to ) AND ( health-care OR healthcare OR (medical AND care) ) ) OR
 "single-payer" OR
 "singlepayer" OR
 (
 	universal AND (
-		( access* AND to AND care ) OR
+		( access* AND +to AND care ) OR
 		coverage OR
 		"health coverage" OR
 		"health insurance" OR

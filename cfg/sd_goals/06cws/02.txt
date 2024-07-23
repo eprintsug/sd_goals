@@ -22,16 +22,16 @@
 	)
 ) OR
 (
-	( run AND off ) AND (
+	( run AND +off ) AND (
 		agriculture OR
 		farm* OR
 		harvest* OR
 		irrigation
 	)
 ) OR
-( ( scarcity AND of ) AND ( ( fresh AND water* ) OR freshwater* OR water* ) ) OR
+( ( scarcity AND +of ) AND ( ( fresh AND water* ) OR freshwater* OR water* ) ) OR
 (
-	( sustainable AND exploitation AND of ) AND (
+	( sustainable AND exploitation AND +of ) AND (
 	( fresh AND water* ) OR
 		( ground AND water* ) OR
 		freshwater* OR
@@ -62,23 +62,23 @@
 		shower OR
 		showerhead* OR
 		toilet* OR
-		use OR
+		+use OR
 		washing
 	)
 ) OR
 ( agricultur* AND water* AND efficien* ) OR
 ( agricultur* AND water* AND productivity ) OR
-( agricultur* AND water* AND use AND efficien* ) OR
-( crop* AND per AND drop ) OR
+( agricultur* AND water* AND +use AND efficien* ) OR
+( crop* AND +per AND drop ) OR
 ( Desalination AND ( facilit* OR membrane* OR plant* ) ) OR
-( domestic AND water* AND use AND efficien* ) OR
+( domestic AND water* AND +use AND efficien* ) OR
 ( effic* AND water* AND usage* ) OR
 (
 	efficien* AND (
 		( drainage AND system* ) OR
 		( fresh AND water* ) OR
 		(
-			of AND (
+			+of AND (
 				( fresh AND water* ) OR
 				( ground AND water* ) OR
 				freshwater* OR
@@ -86,7 +86,7 @@
 				water*
 			) AND
 			( exploitation OR
-				use OR
+				+use OR
 				utilisation OR
 				utilization
 			)
@@ -110,7 +110,7 @@
 ( groundwater* AND ( Desalination OR harvest* OR irrigation ) ) OR
 (
 	harvest* AND (
-		( run AND off ) OR
+		( run AND +off ) OR
 		( storm AND water* ) OR
 		( underground AND water* ) OR
 		fog OR
@@ -118,14 +118,14 @@
 		rain OR
 		rainfall OR
 		rainwater* OR
-		run off OR
+		run +off OR
 		stormwater* OR
 		water* OR
 	)
 ) OR
-( household AND water* AND use AND efficien* ) OR
+( household AND water* AND +use AND efficien* ) OR
 ( improve* AND irrigat* ) OR
-( industri* AND water* AND use AND efficien* ) OR
+( industri* AND water* AND +use AND efficien* ) OR
 ( inter AND basin AND transfer* ) OR
 ( inter-basin AND transfer* ) OR
 ( interbasin AND transfer* ) OR
@@ -134,7 +134,7 @@
 		( system* AND application AND efficien* ) OR
 		( water* AND policies ) OR
 		( water* AND policy ) OR
-		( water* AND use AND efficien* ) OR
+		( water* AND +use AND efficien* ) OR
 		efficien* OR
 		management OR
 		method* OR
@@ -152,7 +152,7 @@
 ( management AND irrigation ) OR
 ( membrane* AND Desalination ) OR
 ( modern AND irrigation ) OR
-( optimum AND use AND water* ) OR
+( optimum AND +use AND water* ) OR
 ( performance AND irrigation ) OR
 ( rain AND fall AND harvest* ) OR
 ( rain AND harvest* ) OR
@@ -207,7 +207,7 @@
 				policy OR
 				supplies OR
 				supply OR
-				use
+				+use
 			)
 		) OR
 		( ground AND water* ) OR
@@ -224,7 +224,7 @@
 				management OR
 				resource* OR
 				supply OR
-				use
+				+use
 			)
 		) OR
 		withdrawal
@@ -297,9 +297,9 @@ waterharvesting OR
 				savings
 			)
 		) OR
-		( ground AND water* AND use AND efficien* ) OR
+		( ground AND water* AND +use AND efficien* ) OR
 		( groundwater* AND ( management OR production OR savings ) ) OR
-		( groundwater* AND use AND efficien* ) OR
+		( groundwater* AND +use AND efficien* ) OR
 		( groundwater* efficien* ) OR
 		( reverse AND osmosis ) OR
 		(
@@ -311,7 +311,7 @@ waterharvesting OR
 				suppl*
 			)
 		) OR
-		( water* AND use AND efficien* ) OR
+		( water* AND +use AND efficien* ) OR
 		distillation OR
 		freshwater* OR
 		irrigation OR
@@ -452,7 +452,7 @@ waterharvesting OR
 	)
 ) OR
 (
-	( water* AND use AND efficien* ) AND (
+	( water* AND +use AND efficien* ) AND (
 		household OR
 		( water* AND productivity )
 	)

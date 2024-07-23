@@ -8,8 +8,8 @@
 		"research funding" OR
 		"science funding" OR
 		"sharing knowledge" OR
-		"sharing of knowledge" OR
-		"transfer of knowledge"
+		"sharing +of knowledge" OR
+		"transfer +of knowledge"
 	) AND (
 		"coastal" OR
 		"ocean" OR

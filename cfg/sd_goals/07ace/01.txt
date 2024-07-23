@@ -10,12 +10,12 @@
 "oxidative steam reforming" OR
 "photo-fermentation" OR
 "photofermentation" OR
-"solar-to-fuel" OR
-"solar-to-hydrogen" OR
+"solar-+to-fuel" OR
+"solar-+to-hydrogen" OR
 "solartofuel" OR
 "solartohydrogen" OR
-"storage of H2" OR
-"storage of hydrogen" OR
+"storage +of H2" OR
+"storage +of hydrogen" OR
 "stored H2" OR
 "stored hydrogen" OR
 "storing H2" OR
@@ -27,12 +27,12 @@
 "ultra-low-sulfur diesel" OR
 "ultralow-sulfur diesel" OR
 "ultralowsulfur diesel" OR
-"waste-to-methanol" OR
+"waste-+to-methanol" OR
 "wastetomethanol" OR
 "wood gasification" OR
 ( "afex" AND NOT ( ( "QL-CA-Afex" OR "QLCAAfex" ) ) ) OR
-( "deconstruction of lignocellulose" AND ( energy OR fuel* ) ) OR
-( "degradation of lignocellulose" AND ( energy OR fuel* ) ) OR
+( "deconstruction +of lignocellulose" AND ( energy OR fuel* ) ) OR
+( "degradation +of lignocellulose" AND ( energy OR fuel* ) ) OR
 ( "hydrogen production" AND ( fuel* OR energy ) ) OR
 ( "hydrogen rich" AND "syngas" ) OR
 ( "hydrogen" AND vehicle* ) OR
@@ -224,7 +224,7 @@
 	hydrogen AND ( 
 		"as a fuel" OR
 		"direct injection" OR
-		"from solar" OR
+		"+from solar" OR
 		"fueling" OR
 		"fuelling" OR
 		"powered" OR
@@ -263,7 +263,7 @@
 ( lignocellulosic AND ( butanol OR ethanol ) ) OR
 ( 
 	ethanol AND ( 
-		"from waste" OR
+		"+from waste" OR
 		fuel* OR
 		reformer* OR
 		( steam AND reform* ) 
@@ -321,8 +321,8 @@ bio-crude OR
 bio-diesel OR
 bio-ethanol OR
 bio-fuel* OR
-bio-mass-to-ethanol OR
-bio-mass-to-fuel* OR
+bio-mass-+to-ethanol OR
+bio-mass-+to-fuel* OR
 bio-methanol OR
 bio-petrol OR
 bio-pyrolysis OR
@@ -333,9 +333,9 @@ bioethanol OR
 biofuel* OR
 bioH2 OR
 biohydrogen OR
-biomass-to-ethanol OR
-biomass-to-fuel* OR
-biomass-to-liquid OR
+biomass-+to-ethanol OR
+biomass-+to-fuel* OR
+biomass-+to-liquid OR
 biomasstoethanol OR
 biomasstoliquid OR
 biomethanol OR
