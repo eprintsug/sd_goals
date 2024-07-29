@@ -45,7 +45,7 @@
 		) OR
 		( ( harmful OR overcapacity ) AND subsid* ) OR
 		( subsid* AND negotiation ) OR
-		subsid* OR
+		subsid*
 	)
 ) OR
 (

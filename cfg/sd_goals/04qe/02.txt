@@ -269,7 +269,7 @@
 			"improving"
 		)
 	) OR
-	( +early AND writing ) OR
+	( +early AND writing )
 ) AND NOT (
 	( breast* AND cancer* ) OR
 	( dry AND eye ) OR

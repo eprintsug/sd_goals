@@ -61,8 +61,8 @@
 	visitor* AND (
 		( environment* AND impact* ) OR
 		( protected* AND +area* ) OR
-		sustainability
-		sustainable OR
+		sustainability OR
+		sustainable
 	)
 ) OR
 ecotourism OR

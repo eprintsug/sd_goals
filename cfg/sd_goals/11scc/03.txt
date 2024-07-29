@@ -69,7 +69,7 @@
 	( housing* AND ( "slum" OR "slums" OR ( welfare AND +state ) OR intervention* OR program* OR redevelopment* OR Voucher* OR "affordability" OR "allowance" OR "allowances" OR "association" OR "associations" OR "career" OR "careers " OR "choice voucher" OR "developments" OR "improvement" OR "market" OR "markets" OR "mobility" OR "+needs" OR "policies" OR "policy" OR "programs" OR "provision" OR "regulation" OR "research" OR "+rights" OR "shortage" OR "studies" OR subsid* OR "supply" OR "sustainability" OR "tax credit" OR "tax credits" OR "taxation" OR "tenure" OR "welfare" ) ) OR
 	( informal* AND settlement* ) OR
 	( slum* AND improvement* ) OR
-	( squatter* AND settlement* ) OR
+	( squatter* AND settlement* )
 ) AND NOT (
 	( health OR animal ) AND (
 	"allergic" OR

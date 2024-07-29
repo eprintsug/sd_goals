@@ -53,9 +53,9 @@
 		"consumption" OR
 		"manufacturing" OR
 		"procurement" OR
-		consumer*
+		consumer* OR
 		producer OR
-		production OR
+		production
 	)
 ) OR
 ( "cellulose" AND "thermal insulation" ) OR
@@ -76,9 +76,9 @@
 		"consumption" OR
 		"manufacturing" OR
 		"procurement" OR
-		consumer*
+		consumer* OR
 		producer OR
-		production OR
+		production
 	)
 ) OR
 (
@@ -96,7 +96,7 @@
 		"thinking"
 	)
 ) OR
-( "montreal process" AND NOT ( "ozone" ) ) OR
+( "montreal process" AND NOT "ozone" ) OR
 ( "photocatalyst" AND ( "building material" OR "construction material" ) ) OR
 (
 	"sustainable +use +of" AND (
@@ -130,7 +130,7 @@
 		"architecture" OR
 		"construction" OR
 		"housing" OR
-		"infrastructure" building*
+		( infrastructure AND building* )
 	)
 ) OR
 (
@@ -155,9 +155,9 @@
 		zeroenergy
 	) AND ( building OR house )
 ) OR
-( ( natural* AND resource ) AND ( management* OR policies* OR policy ) ) OR
-( ( resource AND efficien* ) AND ( "consumption" OR "industry" OR production ) ) OR
-( ( sustainable* AND manag* ) AND ( natural* AND resource ) ) OR
+( natural* AND resource AND ( management* OR policies* OR policy ) ) OR
+( resource AND efficien* AND ( "consumption" OR "industry" OR production ) ) OR
+( sustainable* AND manag* AND ( natural* AND resource ) ) OR
 ( clean* AND production* ) OR
 ( ecologic* AND certifi* ) OR
 ( ecological* AND building* ) OR
@@ -236,7 +236,7 @@
 		construction* OR
 		forest* OR
 		harvest* OR
-		housing* OR
+		housing*
 	)
 ) OR
 eco-building* OR

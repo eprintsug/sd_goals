@@ -154,7 +154,7 @@
 	( poor AND countr* ) OR
 	Africa OR
 	India OR
-	Nepal OR
+	Nepal
 )
 AND (
 	(
@@ -185,7 +185,7 @@ AND (
 				access OR
 				"adoption" OR
 				( enhanc* AND +use ) OR
-				( increas* AND +use ) OR
+				( increas* AND +use )
 			)
 	)
 	OR (

@@ -484,5 +484,5 @@
 		)
 	) OR
 	pelagic OR
-	tobacco OR
+	tobacco
 )

@@ -125,7 +125,7 @@
 		( water* AND quality ) OR
 		groundwater* impact* OR
 		liner* OR
-		standard OR
+		standard
 	)
 ) OR
 ( manag* AND waste ) OR

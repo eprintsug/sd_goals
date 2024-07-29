@@ -835,7 +835,7 @@
 			whitefish* OR
 			wolffish* OR
 			wssv* OR
-			zooplankton* OR
+			zooplankton*
 		) AND NOT (
 			"Staphylococcal enterotoxin A" OR
 			"sea +of change" OR
@@ -854,7 +854,7 @@
 	( marine* AND fish* AND resource* ) OR
 	( prevent* AND overfishing* ) OR
 	( sustainability AND "fisheries" ) OR
-	( sustainable* AND fish* AND stock* ) OR
+	( sustainable* AND fish* AND stock* )
 ) AND (
 	(
 		(

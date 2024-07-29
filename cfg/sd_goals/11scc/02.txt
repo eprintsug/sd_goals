@@ -157,7 +157,7 @@
 		"vehicles" OR
 		bus OR
 		car OR
-		vehicle* OR
+		vehicle
 	) AND NOT drug*
 ) OR
 (

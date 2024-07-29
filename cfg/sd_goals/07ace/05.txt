@@ -218,7 +218,7 @@
 	( turbine AND runner* ) OR
 	( Turgo AND runner* ) OR
 	( vortex AND power AND plant* ) OR
-	( Waterwheel* AND ( "Hydraulic power" OR "hydropower" OR "hydro power" ) ) OR
+	( Waterwheel* AND ( "Hydraulic power" OR "hydropower" OR "hydro power" ) )
 ) AND NOT (
 	"greenhouse gas" OR
 	( bio-mass OR biomass ) OR

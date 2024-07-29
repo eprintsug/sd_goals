@@ -169,7 +169,8 @@
 			( healthcare AND personnel ) OR
 			( healthcare AND professionals ) OR
 			( healthcare AND workers ) OR
-			doctors OR physician OR
+			doctors OR 
+			physician OR
 			medical OR
 			nurses
 		) 
@@ -237,7 +238,7 @@
 			developing OR
 			emerging OR
 			low-income OR
-			middleincome OR
+			middleincome
 		) AND ( 
 			countr* OR
 			economies OR

@@ -24,7 +24,7 @@
 			"resilience analysis" OR
 			"resilience and recovery" OR
 			"resistant +to acidification" OR
-			( improv* AND resilience* ) OR
+			( improv* AND resilience* ) 
 		) AND (
 			coast OR
 			estuar* OR
@@ -80,7 +80,7 @@
 			"social resilience"
 		)
 	) OR
-	( wetland* AND ecosyst* AND resilien* ) OR
+	( wetland* AND ecosyst* AND resilien* )
 ) AND NOT (
 	"Calymmian" OR
 	"Cambrian" OR

@@ -60,7 +60,7 @@
 		"equitable access" OR
 		"equitable sharing" OR
 		"share +of benefits" OR
-		"shared benefits" OR
+		"shared benefits"
 	) AND indigenous
 ) OR
 (
@@ -71,7 +71,7 @@
 		"equitable access" OR
 		"equitable sharing" OR
 		"share +of benefits" OR
-		"shared benefits" OR
+		"shared benefits"
 	)
 ) OR
 (
@@ -80,7 +80,7 @@
 		"DNA" OR
 		"Genetically modified" OR
 		"TRANSGENIC" OR
-		gene OR
+		gene
 	) AND (
 		"benefit sharing" OR
 		"benefitsharing" OR
@@ -94,4 +94,4 @@
 ) OR
 ( ( "gene bank" OR "genetics" ) AND "food security" ) OR
 ( ( "Intellectual property +rights" OR "sharing +the benefits" ) AND ( biodiversity OR genetic* ) ) OR
-( genetic* AND "Convention +on Biological Diversity" ) OR
+( genetic* AND "Convention +on Biological Diversity" )

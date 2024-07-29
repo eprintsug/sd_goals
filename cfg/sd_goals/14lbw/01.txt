@@ -77,7 +77,7 @@
 	"Tuvalu" OR
 	"United Republic +of Tanzania" OR
 	"Vanuatu" OR
-	"Yemen" OR
+	"Yemen"
 ) AND (
 	"blue economy" OR
 	"blue growth" OR
@@ -135,7 +135,7 @@
 	"tidal power" OR
 	( "benefits" AND ( marine OR "ocean" ) ) OR
 	( "fisher" OR "fishers" AND NOT ( "Fisher\'s exact test" OR "Fisher\'s test" ) ) OR
-	( "sustainable +use" AND ( marine* AND resource* ) ) OR
+	( "sustainable +use" AND marine* AND resource* ) OR
 	(
 		"tanker" AND NOT (
 			"Angola Palanca" OR
@@ -161,7 +161,7 @@
 		)
 	) OR
 	(
-		( socioeconomic* AND impact* ) OR ( socio-economic* AND benefit* ) AND (
+		( ( socioeconomic* AND impact* ) OR ( socio-economic* AND benefit* ) ) AND (
 			"fish" OR
 			"fisher" OR
 			"fishers" OR
@@ -173,15 +173,15 @@
 			"maritime" OR
 			"ocean" OR
 			"oceans" OR
-			sea OR
 			"seas" OR
 			estuaries OR
-			estuary
+			estuary OR
+			sea
 		)
 	) OR
 	( marine AND biotechnolog* ) OR
 	aquacultur* OR
-	desalination OR
+	desalination
 ) AND NOT (
 	"Calymmian" OR
 	"Cambrian" OR
