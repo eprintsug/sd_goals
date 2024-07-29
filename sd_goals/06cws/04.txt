@@ -1,840 +1,838 @@
 (
+	"ecosan" OR
+	"Watsan" OR
+	"wwtp" OR
+	( ( ( slaughter AND house ) OR slaughterhouse) AND ( ( waste AND water* ) OR wastewater* ) ) OR
 	(
-		"ecosan" OR
-		"Watsan" OR
-		"wwtp" OR
-		( ( ( slaughter AND house ) OR slaughterhouse) AND ( ( waste AND water* ) OR wastewater* ) ) OR
+		( ( waste AND water* ) OR wastewater* ) AND (
+			( clean AND +up ) OR
+			agricultur* OR
+			agricultur* OR
+			cleanup OR
+			industri* OR
+			industry OR
+			infrastructure* OR
+			management OR
+			reclamation OR
+			recycl* OR
+			reus* OR
+			system* OR
+			technolog* OR
+			treatment*
+		)
+	) OR
+	( ( dye OR dyeing ) AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	(
+		( grey water* OR greywater* ) AND (
+			management OR
+			reclamation OR
+			recycl* OR
+			reus* OR
+			technolog* OR
+			treatment*
+		)
+	) OR
+	(
+		( ground water* OR groundwater* ) AND (
+			( clean AND +up ) OR
+			cleanup OR
+			contamination OR
+			pollutant* OR
+			pollution OR
+			quality OR
+			vulnerability
+		)
+	) OR
+	(
 		(
-			( ( waste AND water* ) OR wastewater* ) AND (
-				( clean AND +up ) OR
-				agricultur* OR
-				agricultur* OR
-				cleanup OR
-				industri* OR
-				industry OR
-				infrastructure* OR
-				management OR
-				reclamation OR
-				recycl* OR
-				reus* OR
-				system* OR
-				technolog* OR
-				treatment*
-			)
-		) OR
-		( ( dye OR dyeing ) AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		(
-			( grey water* OR greywater* ) AND (
-				management OR
-				reclamation OR
-				recycl* OR
-				reus* OR
-				technolog* OR
-				treatment*
-			)
-		) OR
-		(
-			( ground water* OR groundwater* ) AND (
-				( clean AND +up ) OR
-				cleanup OR
-				contamination OR
-				pollutant* OR
-				pollution OR
-				quality OR
-				vulnerability
-			)
-		) OR
-		(
-			(
-				hand-hygiene OR
-				hand-washing OR
-				handhygiene OR
-				handwashing
-			) AND ( facilities OR facility )
-		) OR
-		( ( non-point source OR nonpoint source ) AND pollution ) OR
-		( ( on-site OR onsite ) AND sanitation ) OR
-		(
-			( reclamation AND +of ) AND (
-				( grey AND water* ) OR
-				( pollut* AND water* ) OR
-				( sewage AND water* ) OR
-				( waste AND water* ) OR
-				greywater* OR
-				wastewater*
-			)
-		) OR
-		( ( run-off OR runoff ) AND pollution ) OR
-		( activate* AND sludge ) OR
-		( adequa* AND sanitation ) OR
-		( agricultur* AND waste AND water* ) OR
-		( agricultur* AND wastewater* ) OR
-		( ambient AND water* AND quality ) OR
-		( Basic AND sanitation ) OR
-		( coking AND waste AND water* ) OR
-		( coking AND wastewater* ) OR
-		( community-led AND sanitation ) OR
-		( communityled AND sanitation ) OR
-		( Compost* AND toilet* ) OR
-		( constructed AND wetland* ) OR
-		( contaminat* AND ground AND water* ) OR
-		( contaminat* AND groundwater* ) OR
-		( contaminat* AND water* ) OR
-		( dairy AND waste AND water* ) OR
-		( dairy AND wastewater* ) OR
-		( disinfect* AND water* ) OR
-		( distillery AND waste AND water* ) OR
-		( distillery AND wastewater* ) OR
-		( domestic AND ( effluent* OR ( waste AND water* ) OR wastewater* ) ) OR
-		( Ecological AND sanitation ) OR
-		( excreta AND disposal ) OR
-		( faecal AND sludge ) OR
-		( fecal AND sludge ) OR
-		( fit-for-purpose AND treatment* ) OR
-		( fitforpurpose AND treatment* ) OR
-		( gasification AND waste AND water* ) OR
-		( gasification AND wastewater* ) OR
-		(
-			household AND (
-				( waste AND water* ) OR
-				( water* AND treatment* ) OR
-				latrine* OR
-				Sewage OR
-				wastewater*
-			)
-		) OR
-		( human AND excre* ) OR
-		( hygiene AND ( intervention* OR "promotion" OR "wash" ) ) OR
-		( improve AND quality AND water* ) OR
-		( improve* AND pit ) OR
-		( improve* AND sanitation ) OR
-		( industri* AND ( stormwater* OR ( waste AND water* ) OR wastewater* ) ) OR
-		( latrine* AND ( construction OR +use ) ) OR
-		(
-			manag* AND (
-				( grey AND water* ) OR
-				( pollut* AND water* ) OR
-				( sewage AND water* ) OR
-				( waste AND water* ) OR
-				greywater* OR
-				wastewater*
-			)
-		) OR
-		( Menstrual AND ( ( health AND management ) OR ( hygiene AND management ) OR waste ) ) OR
-		( mill AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( mining AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( municipal AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( oil* AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( +open AND defecation ) OR
-		( PBT AND contamination ) OR
-		( pharmaceutical AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( Pit AND ( latrine* OR toilet* ) ) OR
-		(
-			pollut* AND (
-				( ground AND water* ) OR
-				( water* AND reclamation ) OR
-				( water* AND recycl* ) OR
-				( water* AND treatment* ) OR
-				groundwater* OR
-				water*
-			)
-		) OR
-		( radioactive AND contaminat* AND groundwater* ) OR
-		( radioactive AND contaminat* AND water* ) OR
-		(
-			recycl* AND (
-				( contaminat* AND water* ) OR
-				( grey AND water* ) OR
-				( pollut* AND water* ) OR
-				( sewage AND water* ) OR
-				( waste AND water* ) OR
-				greywater* OR
-				wastewater*
-			)
-		) OR
-		(
-			reduc* AND (
-				( AND waste AND water* ) OR
-				( AND wastewater* ) OR
-				( contaminat* AND water* ) OR
-				( grey AND water* ) OR
-				( pollut* AND water* ) OR
-				( sewage AND water* ) OR
-				( waste AND water* ) OR
-				dumping OR
-				greywater* OR
-				wastewater*
-			)
-		) OR
-		( refinery AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		(
-			reus* AND (
-				( pollut* AND water* ) OR
-				( sewage AND water* ) OR
-				( waste AND water* ) OR
-				wastewater*
-			)
-		) OR
-		( riverbank* AND filt* ) OR
-		( sanitary AND effluent* ) OR
-		( sanitary AND latrine* ) OR
-		(
-			sanitation AND (
-				coverage OR
-				facilities OR
-				facility OR
-				hygiene OR
-				infrastructure* OR
-				intervention* OR
-				project* OR
-				rural OR
-				school OR
-				sector* OR
-				service OR
-				sustainable OR
-				system* OR
-				technolog* OR
-				urban
-			)
-		) OR
-		( secondary AND effluent* ) OR
-		( separation AND toilet* ) OR
-		( Sequencing AND batch AND reactor* ) OR
-		( sequential AND batch AND reactor* ) OR
-		(
-			sewage AND (
-				( treatment* AND facilities ) OR
-				( treatment* AND facility ) OR
-				( treatment* AND plant* ) OR
-				( water* AND management ) OR
-				( water* AND recycl* ) OR
-				( water* AND reus* ) OR
-				( water* AND treatment* ) OR
-				management OR
-				system* OR
-				treatment*
-			)
-		) OR
-		( tannery AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( Tertiary AND effluent* ) OR
-		( textile AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( total AND maxim* AND daily AND load* ) OR
-		( total AND sanitation ) OR
-		(
-			treat* AND (
-				( ground AND water* ) OR
-				( pollut* AND water* ) OR
-				( sewage AND water* ) OR
-				( waste AND water* ) OR
-				groundwater* OR
-				wastewater* OR
-				water* OR
-			)
-		) OR
-		( untreated AND ( ( waste AND water* ) OR wastewater* ) ) OR
-		( urban AND hygiene ) OR
-		( vacuum AND toilet* ) OR
-		( VIP AND toilet* ) OR
-		( wash AND intervention* ) OR
-		( wash AND service ) OR
-		( waste AND water* ) OR
-		(
-			water* AND (
-				( quality AND guideline* ) OR
-				( quality AND monitoring ) OR
-				( treatment* AND facilities ) OR
-				( treatment* AND facility ) OR
-				( treatment* AND plant* ) OR
-				( treatment* AND technolog* ) OR
-				contaminat* OR
-				disinfect* OR
-				hygiene OR
-				pollutant* OR
-				pollution OR
-				sanitation OR
-			)
-		) OR
-		( water* AND sanitation ) OR
-		( water* AND sanitation AND hygiene ) OR
-		bio-toilet* OR
-		biotoilet* OR
-		Desludg* OR
-		pour-flush OR
-		pourflush OR
-		sanitation OR
-		waste-water* OR
-		(
-			access AND
-			( hygiene AND service ) AND NOT
-			dental
-		) OR
-		(
-				access AND (
-					( hygiene AND facilities ) OR
-					( hygiene AND facility ) OR
-					( sanitation AND facilities ) OR
-					( sanitation AND facility ) OR
-					( sanitation AND service ) OR
-					( hygiene AND sanitation )
-				)
-		) OR
-		(
-			aerobic AND (
-				wastewater* OR
-				( waste AND water* )
-			)
-		) OR
-		(
-			( arsenic AND contamination ) AND (
-				groundwater* OR
-				water*
-			)
-		) OR
-		(
-			arsenic AND
-			water* AND (
-				contaminat* OR
-				removal OR
-				treatment*
-			)
-		) OR
-		(
-			arsenic AND (
-				wastewater* OR
-				( waste AND water* )
-			)
-		) OR
-		(
-			"asbr" AND (
-				sludge OR
-				water* OR
-				wastewater*
-			)
-		) OR
-		(
-			( chemical AND contamination ) AND (
-				groundwater* OR
-				water*
-			)
-		) OR
-		(
-			( COD AND removal ) AND
-			treatment* AND (
-				water* OR
-				wastewater*
-			)
-		) OR
-		(
-			contaminat* AND
-			household AND
-			water*
-		) OR
-		(
-			contaminat* AND (
-				( run-off AND water* ) OR
-				( runoff AND water* ) OR
-				( urban AND run-off* ) OR
-				( urban AND runoff* ) OR
-				( water* AND ( body OR bodies ) )
-			)
-		) OR
-		(
-			effluent* AND
-			Sewage
-		) OR
-		(
-			effluent* AND (
-				decontaminat* OR
-				treatment*
-			)
-			AND NOT (
-				chemotherapy OR
-				heart* OR
-				patient*
-			)
-		) OR
-		(
-			( industri* AND effluent* ) AND (
-				decontaminat* OR
-				treatment*
-			)
-		) OR
-		(
-			latrine* AND (
-				defecation OR
-				flush OR
-				hygiene OR
-				sanitation OR
-				toilet*
-			)
-		) OR
-		(
-			nitrate* AND (
-				( ground AND water* ) OR
-				groundwater*
-			)
-		) OR
-		(
-			"PBTND (
-				estuaries OR
-				estuary OR
-				lake* OR
-				river* OR
-				( water* AND contaminat* ) OR
-				( water* AND pollution ) OR
-				( water* AND quality ) OR
-			)
-		) OR
-		(
-			"Persistent, Bioaccumulative, and Toxic" AND
-			water*
-		) OR
-		(
-			( pesticide AND contamination ) AND (
-				groundwater* OR
-				water*
-			)
-		) OR
-		(
-			reus* AND
-			sewer*
-		) OR
-		(
-			( safe AND reus* ) AND (
-				hygiene OR
-				latrine* OR
-				sanitation OR
-				toilet* OR
-				water*
-			)
-		) OR
-		(
-			sanitation AND (
-				Excreta OR
-				favela* OR
-				Menstrual OR
-				septic OR
-				settlement* OR
-				slum* OR
-				water*
-			)
-		) OR
-		(
-			sewer* AND (
-				sanitary OR
-				sanitation OR
-				( storm AND water* ) OR
-				stormwater* OR
-				( waste AND water* ) OR
-				wastewater*
-			)
-		) OR
-		(
-			( Tertiary AND treatment* ) AND NOT (
-				patient* OR
-				rehabilitation OR
-				spine OR
-				( tertiary AND care )
-			)
-		) OR
-		(
-			textile AND (
-				water* OR
-				wastewater*
-			) AND (
-				effluent* OR reus*
-			)
-		) OR
-		(
-			"THMs" AND (
-				groundwater* OR
-				( ground AND water* )
-			)
-		) OR
-		(
-			tmdl* AND NOT (
-				bone* OR
-				rat OR
-				rats
-			)
-		) OR
-		(
-			( treatment* AND water* ) AND
-			( water* AND quality )
-		) OR
-		(
-			treatment* AND (
-				( run-off AND water* ) OR
-				( runoff AND water* ) OR
-				( storm AND water* ) OR
-				( urban AND run-off* ) OR
-				( urban AND runoff* ) OR
-				( waste AND water* ) OR
-				stormwater* OR
-				wastewater*
-				(
-					contaminat* AND
-					pond*
-				)
-			)
-		) OR
-		(
-			trihalomethane* AND (
-				groundwater* OR
-				( ground AND water* ) OR
-				wastewater* OR
-				( waste AND water* )
-			)
-		) OR
-		(
-			urban AND treatment* AND (
-				run-off OR
-				runoff
-			)
-		) OR
-		(
-			( waste AND water* ) AND (
-				industry OR
-				industri*
-			)
-		) OR
-		(
-			( water* AND quality ) AND (
-				( ambient AND water* ) OR
-				( nonpoint AND source ) OR
-				( +point AND source ) OR
-				( water* AND ( body OR bodies ) ) OR
-				( water* AND suppl* ) OR
-				( water* AND treatment* ) OR
-				agricultur* OR
-				bay OR
-				contaminant OR
-				contaminat* OR
-				estuaries OR
-				estuary OR
-				freshwater* OR
-				household* OR
-				hygiene OR
-				lagoon* OR
-				lake* OR
-				nitrate* OR
-				pollut* OR
-				pollution OR
-				river* OR
-				run-off
-				runoff OR
-				sanitation OR
-				Sewage OR
-				sewer OR
-				stormwater* OR
-				stream* OR
-				trihalomethane* OR
-				water-bodies OR
-				water-body OR
-				wetland* OR
-			)
-		) OR
-		(
-			( water* AND treatment* ) AND (
-				ballast* OR
-				contaminat* OR
-				discharge OR
-				effluent* OR
-				filter* OR
-				filtration OR
-				microfiltration OR
-				nanofiltration OR
-				ozonation OR
-				ozone OR
-				pollutant* OR
-				pollut* OR
-				pollution OR
-				sanitation OR
-				sludge OR
-				trihalomethane* OR
-				ultrafiltration OR
-				(
-					(
- 						filter* OR
-						filtration OR
-						microfiltration OR
-						nanofiltration OR
-						ultrafiltration
-					) AND membrane*
-				)
-			)
-		) OR
-		(
-			( water* AND treatment* ) AND (
-				point-of-+use OR
-				pointofuse OR
-				stormwater* OR
-				storm-water* OR (
-					membrane* AND NOT (
-						( hot AND water* )
-					)
-				)
-			)
-		) OR
-		(
-			water* AND (
- 				contaminat* OR
-				discharge OR
-				pollut* OR
-				pollution
-			) AND (
-				( nonpoint AND source ) OR
-				( +point AND source )
-			)
-		) OR
-		(
-			(
-				( arsenic AND contamination ) OR
-				( lead AND contamination ) OR
-				( mercury AND contamination ) OR
-				( nitrate AND contamination ) OR
-				( pesticide AND contamination )
-			) AND
+			hand-hygiene OR
+			hand-washing OR
+			handhygiene OR
+			handwashing
+		) AND ( facilities OR facility )
+	) OR
+	( ( non-point source OR nonpoint source ) AND pollution ) OR
+	( ( on-site OR onsite ) AND sanitation ) OR
+	(
+		( reclamation AND +of ) AND (
+			( grey AND water* ) OR
+			( pollut* AND water* ) OR
+			( sewage AND water* ) OR
+			( waste AND water* ) OR
+			greywater* OR
 			wastewater*
-		) OR
-		(
-			(
-				Faecal OR
-				faeces OR
-				Fecal OR
-				feces
-			) AND
-			rural AND
-			sanitation
-		) OR
-		(
-			(
-				( faecal AND contamination ) OR
-				( fecal AND contamination ) OR
-				( faeces AND contamination ) OR
-				( feces AND contamination ) OR
-				( urine AND contamination )
-			) AND (
+		)
+	) OR
+	( ( run-off OR runoff ) AND pollution ) OR
+	( activate* AND sludge ) OR
+	( adequa* AND sanitation ) OR
+	( agricultur* AND waste AND water* ) OR
+	( agricultur* AND wastewater* ) OR
+	( ambient AND water* AND quality ) OR
+	( Basic AND sanitation ) OR
+	( coking AND waste AND water* ) OR
+	( coking AND wastewater* ) OR
+	( community-led AND sanitation ) OR
+	( communityled AND sanitation ) OR
+	( Compost* AND toilet* ) OR
+	( constructed AND wetland* ) OR
+	( contaminat* AND ground AND water* ) OR
+	( contaminat* AND groundwater* ) OR
+	( contaminat* AND water* ) OR
+	( dairy AND waste AND water* ) OR
+	( dairy AND wastewater* ) OR
+	( disinfect* AND water* ) OR
+	( distillery AND waste AND water* ) OR
+	( distillery AND wastewater* ) OR
+	( domestic AND ( effluent* OR ( waste AND water* ) OR wastewater* ) ) OR
+	( Ecological AND sanitation ) OR
+	( excreta AND disposal ) OR
+	( faecal AND sludge ) OR
+	( fecal AND sludge ) OR
+	( fit-for-purpose AND treatment* ) OR
+	( fitforpurpose AND treatment* ) OR
+	( gasification AND waste AND water* ) OR
+	( gasification AND wastewater* ) OR
+	(
+		household AND (
+			( waste AND water* ) OR
+			( water* AND treatment* ) OR
+			latrine* OR
+			Sewage OR
+			wastewater*
+		)
+	) OR
+	( human AND excre* ) OR
+	( hygiene AND ( intervention* OR "promotion" OR "wash" ) ) OR
+	( improve AND quality AND water* ) OR
+	( improve* AND pit ) OR
+	( improve* AND sanitation ) OR
+	( industri* AND ( stormwater* OR ( waste AND water* ) OR wastewater* ) ) OR
+	( latrine* AND ( construction OR +use ) ) OR
+	(
+		manag* AND (
+			( grey AND water* ) OR
+			( pollut* AND water* ) OR
+			( sewage AND water* ) OR
+			( waste AND water* ) OR
+			greywater* OR
+			wastewater*
+		)
+	) OR
+	( Menstrual AND ( ( health AND management ) OR ( hygiene AND management ) OR waste ) ) OR
+	( mill AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( mining AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( municipal AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( oil* AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( +open AND defecation ) OR
+	( PBT AND contamination ) OR
+	( pharmaceutical AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( Pit AND ( latrine* OR toilet* ) ) OR
+	(
+		pollut* AND (
+			( ground AND water* ) OR
+			( water* AND reclamation ) OR
+			( water* AND recycl* ) OR
+			( water* AND treatment* ) OR
 			groundwater* OR
 			water*
+		)
+	) OR
+	( radioactive AND contaminat* AND groundwater* ) OR
+	( radioactive AND contaminat* AND water* ) OR
+	(
+		recycl* AND (
+			( contaminat* AND water* ) OR
+			( grey AND water* ) OR
+			( pollut* AND water* ) OR
+			( sewage AND water* ) OR
+			( waste AND water* ) OR
+			greywater* OR
+			wastewater*
+		)
+	) OR
+	(
+		reduc* AND (
+			( waste AND water* ) OR
+			( wastewater* ) OR
+			( contaminat* AND water* ) OR
+			( grey AND water* ) OR
+			( pollut* AND water* ) OR
+			( sewage AND water* ) OR
+			( waste AND water* ) OR
+			dumping OR
+			greywater* OR
+			wastewater*
+		)
+	) OR
+	( refinery AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	(
+		reus* AND (
+			( pollut* AND water* ) OR
+			( sewage AND water* ) OR
+			( waste AND water* ) OR
+			wastewater*
+		)
+	) OR
+	( riverbank* AND filt* ) OR
+	( sanitary AND effluent* ) OR
+	( sanitary AND latrine* ) OR
+	(
+		sanitation AND (
+			coverage OR
+			facilities OR
+			facility OR
+			hygiene OR
+			infrastructure* OR
+			intervention* OR
+			project* OR
+			rural OR
+			school OR
+			sector* OR
+			service OR
+			sustainable OR
+			system* OR
+			technolog* OR
+			urban
+		)
+	) OR
+	( secondary AND effluent* ) OR
+	( separation AND toilet* ) OR
+	( Sequencing AND batch AND reactor* ) OR
+	( sequential AND batch AND reactor* ) OR
+	(
+		sewage AND (
+			( treatment* AND facilities ) OR
+			( treatment* AND facility ) OR
+			( treatment* AND plant* ) OR
+			( water* AND management ) OR
+			( water* AND recycl* ) OR
+			( water* AND reus* ) OR
+			( water* AND treatment* ) OR
+			management OR
+			system* OR
+			treatment*
+		)
+	) OR
+	( tannery AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( Tertiary AND effluent* ) OR
+	( textile AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( total AND maxim* AND daily AND load* ) OR
+	( total AND sanitation ) OR
+	(
+		treat* AND (
+			( ground AND water* ) OR
+			( pollut* AND water* ) OR
+			( sewage AND water* ) OR
+			( waste AND water* ) OR
+			groundwater* OR
+			wastewater* OR
+			water*
+		)
+	) OR
+	( untreated AND ( ( waste AND water* ) OR wastewater* ) ) OR
+	( urban AND hygiene ) OR
+	( vacuum AND toilet* ) OR
+	( VIP AND toilet* ) OR
+	( wash AND intervention* ) OR
+	( wash AND service ) OR
+	( waste AND water* ) OR
+	(
+		water* AND (
+			( quality AND guideline* ) OR
+			( quality AND monitoring ) OR
+			( treatment* AND facilities ) OR
+			( treatment* AND facility ) OR
+			( treatment* AND plant* ) OR
+			( treatment* AND technolog* ) OR
+			contaminat* OR
+			disinfect* OR
+			hygiene OR
+			pollutant* OR
+			pollution OR
+			sanitation
+		)
+	) OR
+	( water* AND sanitation ) OR
+	( water* AND sanitation AND hygiene ) OR
+	bio-toilet* OR
+	biotoilet* OR
+	Desludg* OR
+	pour-flush OR
+	pourflush OR
+	sanitation OR
+	waste-water* OR
+	(
+		access AND
+		( hygiene AND service ) AND NOT
+		dental
+	) OR
+	(
+		access AND (
+			( hygiene AND facilities ) OR
+			( hygiene AND facility ) OR
+			( sanitation AND facilities ) OR
+			( sanitation AND facility ) OR
+			( sanitation AND service ) OR
+			( hygiene AND sanitation )
+		)
+	) OR
+	(
+		aerobic AND (
+			wastewater* OR
+			( waste AND water* )
+		)
+	) OR
+	(
+		( arsenic AND contamination ) AND (
+			groundwater* OR
+			water*
+		)
+	) OR
+	(
+		arsenic AND
+		water* AND (
+			contaminat* OR
+			removal OR
+			treatment*
+		)
+	) OR
+	(
+		arsenic AND (
+			wastewater* OR
+			( waste AND water* )
+		)
+	) OR
+	(
+		"asbr" AND (
+			sludge OR
+			water* OR
+			wastewater*
+		)
+	) OR
+	(
+		( chemical AND contamination ) AND (
+			groundwater* OR
+			water*
+		)
+	) OR
+	(
+		( COD AND removal ) AND
+		treatment* AND (
+			water* OR
+			wastewater*
+		)
+	) OR
+	(
+		contaminat* AND
+		household AND
+		water*
+	) OR
+	(
+		contaminat* AND (
+			( run-off AND water* ) OR
+			( runoff AND water* ) OR
+			( urban AND run-off* ) OR
+			( urban AND runoff* ) OR
+			( water* AND ( body OR bodies ) )
+		)
+	) OR
+	(
+		effluent* AND
+		Sewage
+	) OR
+	(
+		effluent* AND (
+			decontaminat* OR
+			treatment*
+		)
+		AND NOT (
+			chemotherapy OR
+			heart* OR
+			patient*
+		)
+	) OR
+	(
+		( industri* AND effluent* ) AND (
+			decontaminat* OR
+			treatment*
+		)
+	) OR
+	(
+		latrine* AND (
+			defecation OR
+			flush OR
+			hygiene OR
+			sanitation OR
+			toilet*
+		)
+	) OR
+	(
+		nitrate* AND (
+			( ground AND water* ) OR
+			groundwater*
+		)
+	) OR
+	(
+		"PBTND (
+			estuaries OR
+			estuary OR
+			lake* OR
+			river* OR
+			( water* AND contaminat* ) OR
+			( water* AND pollution ) OR
+			( water* AND quality ) OR
+		)
+	) OR
+	(
+		"Persistent, Bioaccumulative, and Toxic" AND
+		water*
+	) OR
+	(
+		( pesticide AND contamination ) AND (
+			groundwater* OR
+			water*
+		)
+	) OR
+	(
+		reus* AND
+		sewer*
+	) OR
+	(
+		( safe AND reus* ) AND (
+			hygiene OR
+			latrine* OR
+			sanitation OR
+			toilet* OR
+			water*
+		)
+	) OR
+	(
+		sanitation AND (
+			Excreta OR
+			favela* OR
+			Menstrual OR
+			septic OR
+			settlement* OR
+			slum* OR
+			water*
+		)
+	) OR
+	(
+		sewer* AND (
+			sanitary OR
+			sanitation OR
+			( storm AND water* ) OR
+			stormwater* OR
+			( waste AND water* ) OR
+			wastewater*
+		)
+	) OR
+	(
+		( Tertiary AND treatment* ) AND NOT (
+			patient* OR
+			rehabilitation OR
+			spine OR
+			( tertiary AND care )
+		)
+	) OR
+	(
+		textile AND (
+			water* OR
+			wastewater*
+		) AND (
+			effluent* OR reus*
+		)
+	) OR
+	(
+		"THMs" AND (
+			groundwater* OR
+			( ground AND water* )
+		)
+	) OR
+	(
+		tmdl* AND NOT (
+			bone* OR
+			rat OR
+			rats
+		)
+	) OR
+	(
+		( treatment* AND water* ) AND
+		( water* AND quality )
+	) OR
+	(
+		treatment* AND (
+			( run-off AND water* ) OR
+			( runoff AND water* ) OR
+			( storm AND water* ) OR
+			( urban AND run-off* ) OR
+			( urban AND runoff* ) OR
+			( waste AND water* ) OR
+			stormwater* OR
+			wastewater*
+			(
+				contaminat* AND
+				pond*
 			)
-		) OR
-		(
+		)
+	) OR
+	(
+		trihalomethane* AND (
+			groundwater* OR
+			( ground AND water* ) OR
+			wastewater* OR
+			( waste AND water* )
+		)
+	) OR
+	(
+		urban AND treatment* AND (
+			run-off OR
+			runoff
+		)
+	) OR
+	(
+		( waste AND water* ) AND (
+			industry OR
+			industri*
+		)
+	) OR
+	(
+		( water* AND quality ) AND (
+			( ambient AND water* ) OR
+			( nonpoint AND source ) OR
+			( +point AND source ) OR
+			( water* AND ( body OR bodies ) ) OR
+			( water* AND suppl* ) OR
+			( water* AND treatment* ) OR
+			agricultur* OR
+			bay OR
+			contaminant OR
+			contaminat* OR
+			estuaries OR
+			estuary OR
+			freshwater* OR
+			household* OR
+			hygiene OR
+			lagoon* OR
+			lake* OR
+			nitrate* OR
+			pollut* OR
+			pollution OR
+			river* OR
+			run-off
+			runoff OR
+			sanitation OR
+			Sewage OR
+			sewer OR
+			stormwater* OR
+			stream* OR
+			trihalomethane* OR
+			water-bodies OR
+			water-body OR
+			wetland*
+		)
+	) OR
+	(
+		( water* AND treatment* ) AND (
+			ballast* OR
+			contaminat* OR
+			discharge OR
+			effluent* OR
+			filter* OR
+			filtration OR
+			microfiltration OR
+			nanofiltration OR
+			ozonation OR
+			ozone OR
+			pollutant* OR
+			pollut* OR
+			pollution OR
+			sanitation OR
+			sludge OR
+			trihalomethane* OR
+			ultrafiltration OR
 			(
-				greywater* OR
-				( grey AND water* )
-			) AND (
-				contaminat* OR
-				decontaminat* OR
-				pollut* OR
-				pollution
-			)
-		) OR
-		(
-			(
-				groundwater* OR
-				( ground AND water* )
-			) AND (
-				arsenic OR
-				contaminant OR
-				contaminat* OR
-				decontaminat* OR
-				pollutant* OR
-				pollut* OR
-				pollution OR
-				remediation*
-			)
-		) OR
-		(
-			(
-				( mercury AND contamination ) OR
-				( nitrate AND contamination )
-			) AND (
-				groundwater* OR
-				water*
-			)
-		) OR
-		(
-			(
-				( nonpoint AND source ) OR
-				( non-point AND source )
-			) AND
-			watershed
-		) OR
-		(
-			(
-				pre-treatment* OR
-				pretreatment*
-			) AND
-			(
-				membrane* AND
-				waste-water*
-			) OR
-			( sewage* AND water* )
-		) OR
-		(
-			(
-				( storm AND water* ) OR
-				stormwater*
-			) AND (
-				industry OR
-				industri*
-			)
-		) OR
-		(
-			(
-				( swine AND wastewater* ) OR
-				( swine AND waste AND water* )
-			) AND treatment*
-		) OR
-		(
-			(
-				( tannery AND effluent* ) OR
-				"THMs" OR
-				"THM"
-			) AND (
-				wastewater* OR
-				( waste AND water* )
-			)
-		) OR
-		(
-			(
-				( waste AND water* ) OR
-				wastewater*
-			) AND (
-				agricultur* OR
-				arsenic OR
-				cities OR
-				city OR
-				Cleaning OR
-				contaminant OR
-				contaminat* OR
-				dairy OR
-				decontaminat* OR
-				Depollution OR
-				distillery OR
-				dye OR
-				dyeing OR
-				gasification OR
-				household* OR
-				hygiene OR
-				industri* OR
-				industry OR
-				mercury" OR
-				mill OR
-				municipal OR
-				municipality OR
-				oily OR
-				ozonation OR
-				ozone OR
-				pollutant* OR
-				pollut* OR
-				pollution OR
-				purification OR
-				refinery" OR
-				remediation* OR
-				rural OR
-				sanitation OR
-				slaughterhouse OR
-				tannery OR
-				urban OR
-				village* OR
-				( water* AND analyses ) OR
-				( water* AND analysis ) OR
-				( water* AND quality ) OR
 				(
+					filter* OR
+					filtration OR
+					microfiltration OR
+					nanofiltration OR
+					ultrafiltration
+				) AND membrane*
+			)
+		)
+	) OR
+	(
+		( water* AND treatment* ) AND (
+			point-of-+use OR
+			pointofuse OR
+			stormwater* OR
+			storm-water* OR (
+				membrane* AND NOT (
+					( hot AND water* )
+				)
+			)
+		)
+	) OR
+	(
+		water* AND (
+			contaminat* OR
+			discharge OR
+			pollut* OR
+			pollution
+		) AND (
+			( nonpoint AND source ) OR
+			( +point AND source )
+		)
+	) OR
+	(
+		(
+			( arsenic AND contamination ) OR
+			( lead AND contamination ) OR
+			( mercury AND contamination ) OR
+			( nitrate AND contamination ) OR
+			( pesticide AND contamination )
+		) AND
+		wastewater*
+	) OR
+	(
+		(
+			Faecal OR
+			faeces OR
+			Fecal OR
+			feces
+		) AND
+		rural AND
+		sanitation
+	) OR
+	(
+		(
+			( faecal AND contamination ) OR
+			( fecal AND contamination ) OR
+			( faeces AND contamination ) OR
+			( feces AND contamination ) OR
+			( urine AND contamination )
+		) AND (
+		groundwater* OR
+		water*
+		)
+	) OR
+	(
+		(
+			greywater* OR
+			( grey AND water* )
+		) AND (
+			contaminat* OR
+			decontaminat* OR
+			pollut* OR
+			pollution
+		)
+	) OR
+	(
+		(
+			groundwater* OR
+			( ground AND water* )
+		) AND (
+			arsenic OR
+			contaminant OR
+			contaminat* OR
+			decontaminat* OR
+			pollutant* OR
+			pollut* OR
+			pollution OR
+			remediation*
+		)
+	) OR
+	(
+		(
+			( mercury AND contamination ) OR
+			( nitrate AND contamination )
+		) AND (
+			groundwater* OR
+			water*
+		)
+	) OR
+	(
+		(
+			( nonpoint AND source ) OR
+			( non-point AND source )
+		) AND
+		watershed
+	) OR
+	(
+		(
+			pre-treatment* OR
+			pretreatment*
+		) AND
+		(
+			membrane* AND
+			waste-water*
+		) OR
+		( sewage* AND water* )
+	) OR
+	(
+		(
+			( storm AND water* ) OR
+			stormwater*
+		) AND (
+			industry OR
+			industri*
+		)
+	) OR
+	(
+		(
+			( swine AND wastewater* ) OR
+			( swine AND waste AND water* )
+		) AND treatment*
+	) OR
+	(
+		(
+			( tannery AND effluent* ) OR
+			"THMs" OR
+			"THM"
+		) AND (
+			wastewater* OR
+			( waste AND water* )
+		)
+	) OR
+	(
+		(
+			( waste AND water* ) OR
+			wastewater*
+		) AND (
+			agricultur* OR
+			arsenic OR
+			cities OR
+			city OR
+			Cleaning OR
+			contaminant OR
+			contaminat* OR
+			dairy OR
+			decontaminat* OR
+			Depollution OR
+			distillery OR
+			dye OR
+			dyeing OR
+			gasification OR
+			household* OR
+			hygiene OR
+			industri* OR
+			industry OR
+			mercury" OR
+			mill OR
+			municipal OR
+			municipality OR
+			oily OR
+			ozonation OR
+			ozone OR
+			pollutant* OR
+			pollut* OR
+			pollution OR
+			purification OR
+			refinery" OR
+			remediation* OR
+			rural OR
+			sanitation OR
+			slaughterhouse OR
+			tannery OR
+			urban OR
+			village* OR
+			( water* AND analyses ) OR
+			( water* AND analysis ) OR
+			( water* AND quality ) OR
+			(
+				(
+					reduc* OR
+					removal
+				) AND NOT (
 					(
-						reduc* OR
-						removal
-					) AND NOT (
-						(
-							( energy AND recovery ) OR
-							( heat AND energy ) OR
-							( heat AND recovery )
-						) AND (
-							( heat AND pump ) OR
-							( Renewable AND Energy )
-						)
+						( energy AND recovery ) OR
+						( heat AND energy ) OR
+						( heat AND recovery )
+					) AND (
+						( heat AND pump ) OR
+						( Renewable AND Energy )
 					)
 				)
 			)
-		) OR
+		)
+	) OR
+	(
+		(
+			( water* AND pre-treatment* ) OR
+			( water* AND pretreatment* )
+		) AND (
+			( water* AND quality ) OR
+			ballast* OR
+			discharge OR
+			effluent* OR
+			filter* OR
+			filtration OR
+			membrane* OR
+			microfiltration OR
+			nanofiltration OR
+			ozonation OR
+			ozone OR
+			sludge OR
+			ultrafiltration
+		)
+	) OR
+	(
+		(
+			( water* AND treatment* ) OR
+			( water* AND quality )
+		) AND (
+			( disinfection AND by-product* ) OR
+			( disinfection AND byproduct* ) OR
+			"THMs"
+		)
+	) OR
+	(
+		(
+			greywater* OR
+			groundwater* OR
+			wastewater* OR
+			water*
+		) AND (
+			contaminant OR
+			contaminat*
+		) AND (
+			household* OR
+			municipal OR
+			rural
+		)
+	) OR
+	(
 		(
 			(
-				( water* AND pre-treatment* ) OR
-				( water* AND pretreatment* )
+				Coagulation OR
+				flocculation
 			) AND (
-				( water* AND quality ) OR
-				ballast* OR
-				discharge OR
-				effluent* OR
-				filter* OR
-				filtration OR
-				membrane* OR
-				microfiltration OR
-				nanofiltration OR
-				ozonation OR
-				ozone OR
-				sludge OR
-				ultrafiltration
-			)
-		) OR
-		(
-			(
-				( water* AND treatment* ) OR
-				( water* AND quality )
-			) AND (
-				( disinfection AND by-product* ) OR
-				( disinfection AND byproduct* ) OR
-				"THMs"
-			)
-		) OR
-		(
-			(
-				greywater* OR
-				groundwater* OR
 				wastewater* OR
 				water*
-			) AND (
-				contaminant OR
-				contaminat*
-			) AND (
-				household* OR
-				municipal OR
-				rural
-			)
+			) AND
+			treatment*
+		) AND NOT (
+			blood OR
+			therapy OR
+			tumor* OR
+			tumour* OR
+			ultrasound
+		)
+	)
+) AND NOT (
+	 dental* OR
+	 dentist* OR
+	 food-borne OR
+	 foodborne OR
+	 ( pool AND water* ) OR
+	 ( swimming AND pool* ) OR
+	(
+		(
+			dialysis AND patient*
 		) OR
-		(
-			(
-				(
-					Coagulation OR
-					flocculation
-				) AND (
-					wastewater* OR
-					water*
-				) AND
-				treatment*
-			) AND NOT (
-				blood OR
-				therapy OR
-				tumor* OR
-				tumour* OR
-				ultrasound
-			)
-		)
-	) AND NOT (
-		 dental* OR
-		 dentist* OR
-		 food-borne OR
-		 foodborne OR
-		 ( pool AND water* ) OR
-		 ( swimming AND pool* ) OR
-		(
-			(
-				dialysis AND patient*
-			) OR
-			hemodialysis OR
-			haemodialysis
-		)
+		hemodialysis OR
+		haemodialysis
 	)
 )

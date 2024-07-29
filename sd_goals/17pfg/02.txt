@@ -17,4 +17,4 @@
 ( international AND public AND finance* ) OR
 ( north-south AND ( collaboration OR partnership OR ( research AND partnership ) ) ) OR
 ( official AND development AND assistance* ) OR
-( shared AND prosperit* ) OR
+( shared AND prosperit* )

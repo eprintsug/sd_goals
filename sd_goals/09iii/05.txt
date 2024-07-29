@@ -317,7 +317,7 @@
 		"start-+up" OR
 		( enterprise AND ( "SMEs" OR 		"SME" ) ) OR
 		( +small AND business ) OR
-		microenterprise OR
+		microenterprise
 	) 
 ) OR
 ( 
@@ -367,7 +367,7 @@
 		"+small scale industries" OR
 		"+small scale industry" OR
 		microenterprise 
-			) 
+	) 
 ) OR
 ( 
 	( lending OR loan ) AND ( 

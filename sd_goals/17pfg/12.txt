@@ -35,7 +35,7 @@
 	( market AND ( access OR participation ) ) OR
 	( non-tariff AND measure* ) OR
 	( preferential AND ( trade OR trading ) AND agreement ) OR
-	protectionis* OR
+	protectionis*
 )
 AND (
 	"Afghanistan" OR

@@ -28,7 +28,7 @@
 		"waste" OR
 		plastic OR
 		rate* OR
-		technolog* OR
+		technolog*
 	)
 ) OR
 (

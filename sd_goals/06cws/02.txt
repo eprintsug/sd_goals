@@ -102,8 +102,7 @@
 			)
 		)
 		freshwater* OR
-		irrigation OR
-		irrigation OR
+		irrigation
 	)
 ) OR
 ( equitable AND distribution AND water* ) OR
@@ -120,7 +119,7 @@
 		rainwater* OR
 		run +off OR
 		stormwater* OR
-		water* OR
+		water*
 	)
 ) OR
 ( household AND water* AND +use AND efficien* ) OR
@@ -427,7 +426,6 @@ waterharvesting OR
 		shower
 	)
 ) OR
-
 (
 	( water* AND saving* ) AND (
 	agricultur* OR
@@ -506,7 +504,7 @@ waterharvesting OR
 			household* OR
 			industri* OR
 			industry OR
-			residential OR
+			residential
 		)
 	)
 ) OR

@@ -142,9 +142,9 @@
 			"UNCLOS" OR
 			( bilateral* AND agreement ) OR
 			( legal* AND act* ) OR
-			( sponsor* AND +state ) OR
+			( sponsor* AND +state )
 		)
-	) OR
+	)
 ) AND NOT (
 	"Marine Archaeology" OR
 	"settlement +of dispute" OR

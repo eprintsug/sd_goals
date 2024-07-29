@@ -40,7 +40,7 @@
 		"Adriatic sturgeon" OR
 		"African manatee" OR
 		"Amazonian manatee" OR
-		"angelshark " OR
+		"angelshark" OR
 		"Arctocephalus galapagoensis" OR
 		"Atlantic salmon" OR
 		"Atlantic sturgeon" OR
@@ -151,7 +151,7 @@
 	)
 ) OR
 ( "integrated approach" AND ( "exclusive economic zone" OR "EEZ" ) ) OR
-( "monitoring" AND ( coastal AND environment* ) ) OR
+( "monitoring" AND coastal AND environment* ) OR
 ( "sea level rise" AND ecosystem* ) OR
 ( "species conservation" AND ( ( marine* AND mammal* ) OR "fish" OR "fishes" ) ) OR
 (
@@ -273,7 +273,7 @@
 		"sustainable tourism" OR
 		"tourist-wildlife" OR
 		"touristwildlife" OR
-		( ( climate AND chang* ) AND "tourism" ) OR
+		( climate AND chang* AND "tourism" ) OR
 		( tourism* AND impact* ) OR
 		( visitor* AND impact* ) OR
 		( visitor* AND management* )
@@ -298,11 +298,11 @@
 ) OR
 ( ( "marine conservation" OR "ocean conservation" ) AND ( "tourism" OR "visitor" OR "visitors" ) ) OR
 ( ( ( integrated OR sustainab* ) AND manage* ) AND ( ( coastal AND ecosystem* ) OR ( marine* AND ecosystem* ) OR ( ocean AND ecosystem* ) ) ) OR
-( ( coastal AND +area* ) AND "management" ) OR
-( ( conserv* AND ( ocean OR marine OR coast ) ) AND NOT ( ( "conservation +of heat" OR "conservation +of momentum" OR "conservation +of mass" ) ) ) OR
-( ( marine* AND ecosystem* ) AND ( adverse* AND effect* ) ) OR
+( coastal AND +area* AND "management" ) OR
+( ( conserv* AND ( ocean OR marine OR coast ) ) AND NOT ( "conservation +of heat" OR "conservation +of momentum" OR "conservation +of mass" ) ) OR
+( marine* AND ecosystem* AND adverse* AND effect* ) OR
 (
-	( ocean AND tourism* ) AND (
+	ocean AND tourism* AND (
 		"management" OR
 		( environment* AND effect* ) OR
 		( environment* AND impact* ) OR
@@ -310,8 +310,7 @@
 		sustainab*
 	)
 ) OR
-(  AND (  ) ) OR
-( ( +small* AND island* ) AND sustainability ) OR
+( +small* AND island* AND sustainability ) OR
 ( ( sustainab* OR sustainability ) AND "marine tourism" ) OR
 (
 	( vulnerable* AND ecosystem* ) AND (
@@ -322,7 +321,7 @@
 		marine
 	)
 ) OR
-( ( vulnerable* AND marine* AND ecosystem* ) AND protect* ) OR
+( vulnerable* AND marine* AND ecosystem* AND protect* ) OR
 (
 	coastal AND (
 		"erosion risk assessment" OR
@@ -454,7 +453,7 @@
 		"Vaquita" OR
 		"West Indian manatee" OR
 		"White sturgeon" OR
-		"Zalophus wollebaeki" OR
+		"Zalophus wollebaeki"
 	)
 ) OR
 (
@@ -479,4 +478,4 @@
 ( ocean AND ( "conservation" OR "governance" OR "management" OR "policy" ) ) OR
 ( protect* AND ( "marine endangered species" OR ( coral* AND reef* ) OR ( marine* AND ecosys* ) ) ) OR
 ( sustainab* AND ( coastal OR marine* OR ocean ) AND resource* ) OR
-( sustainability AND ( mangrove* AND forest* ) ) OR
+( sustainability AND mangrove* AND forest* )

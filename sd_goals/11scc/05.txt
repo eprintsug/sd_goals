@@ -63,7 +63,7 @@
 		( sewage* AND sludge* ) OR
 		( water* AND ( recycling OR reuse OR sanitation ) ) OR
 		landfill* OR
-		sewage* OR
+		sewage*
 	)
 ) OR
 ( "climate change adaptation" AND ( "cities" OR urban* ) ) OR
@@ -80,7 +80,7 @@
 ( "Particulate matter" AND ( "Cities" OR "city" OR urban* ) ) OR
 ( "pollution" AND "city" ) OR
 ( "reduce waste" AND ( "cities" OR urban* ) ) OR
-( "sewage" AND ( "cities" OR "city" OR AND urban ) ) OR
+( "sewage" AND ( "cities" OR "city" OR urban ) ) OR
 ( slum AND "waste management" ) OR
 ( "solid waste" AND NOT agric* ) OR
 (
@@ -125,20 +125,20 @@
 ) OR
 ( "waste incinerator" AND ( "cities" OR "city" OR urban ) ) OR
 ( "waste landfill" AND ( "cities" OR "city" OR urban ) ) OR
-( ( air AND sample ) AND ( "cities" OR urban* ) ) OR
+( air AND sample AND ( "cities" OR urban* ) ) OR
 (
-	( environmental AND impact ) AND (
+	environmental AND impact AND (
 		"cities" OR
 		"city" OR
 		"urbanisation" OR
 		"urbanization" OR
-		urban OR
+		urban
 	)
 ) OR
-( ( groundwater* AND contamination ) AND ( municipal OR urban* ) ) OR
-( ( groundwater* AND quality ) AND municipal ) OR
+( groundwater* AND contamination AND ( municipal OR urban* ) ) OR
+( groundwater* AND quality AND municipal ) OR
 (
-	( heat AND island ) AND (
+	heat AND island AND (
 		"cities" OR
 		"city" OR
 		"urbanisation" OR
@@ -147,7 +147,7 @@
 	)
 ) OR
 (
-	( Impervious* AND surface* ) AND (
+	Impervious* AND surface* AND (
 		"urban environmental" OR
 		"urban growth" OR
 		"urban sprawl" OR
@@ -155,10 +155,10 @@
 		"urbanization"
 	)
 ) OR
-( ( municipal AND water* ) AND ( "pollutant" OR "pollution" ) ) OR
-( ( sanitation* AND system* ) AND ( "cities" OR "city" OR urban* ) ) OR
+( municipal AND water* AND ( "pollutant" OR "pollution" ) ) OR
+( sanitation* AND system* AND ( "cities" OR "city" OR urban* ) ) OR
 (
-	( treatment AND water* ) AND (
+	treatment AND water* AND (
 		"cities" OR
 		"city" OR
 		municipal OR
@@ -166,7 +166,7 @@
 	)
 ) OR
 (
-	( urban AND water* ) AND (
+	urban AND water* AND (
 		"quality" OR
 		contaminat* OR
 		pollutant OR
@@ -174,7 +174,7 @@
 	)
 ) OR
 (
-	( Vehicle AND Emission ) AND (
+	Vehicle AND Emission AND (
 		"cities" OR
 		"city" OR
 		"megacity" OR
@@ -183,7 +183,7 @@
 	)
 ) OR
 (
-	( wastewater* AND system ) AND (
+	wastewater* AND system AND (
 		"cities" OR
 		"city" OR
 		"metropolitan" OR
@@ -192,15 +192,15 @@
 		urban
 	)
 ) OR
-( ( wastewater* AND treatment ) AND ( "cities" OR "city" ) ) OR
-( ( wastewater* AND treatment* AND plant* ) AND ( municipal OR urban* ) ) OR
-( ( water* AND "+to +all" ) AND ( "cities" OR urban ) ) OR
-( ( water* AND consumption ) AND urban ) OR
-( ( water* AND contaminat* ) AND ( municipal OR urban* ) ) OR
-( ( water* AND governance ) AND ( "cities" OR "city" OR urban ) ) OR
-( ( water* AND resource ) AND urban ) OR
+( wastewater* AND treatment AND ( "cities" OR "city" ) ) OR
+( wastewater* AND treatment* AND plant* AND ( municipal OR urban* ) ) OR
+( water* AND "+to +all" AND ( "cities" OR urban ) ) OR
+( water* AND consumption AND urban ) OR
+( water* AND contaminat* AND ( municipal OR urban* ) ) OR
+( water* AND governance AND ( "cities" OR "city" OR urban ) ) OR
+( water* AND resource AND urban ) OR
 (
-	( water* AND treatment ) AND (
+	water* AND treatment AND (
 		"cities" OR
 		"city" OR
 		municipal OR
@@ -241,7 +241,7 @@
 		( sewage* AND sludge* ) OR
 		( wastewater* AND treatment ) OR
 		( water* AND ( recycling OR sanitation OR supply ) ) OR
-		wastewater* AND treatment OR
+		( wastewater* AND treatment ) OR
 		wastewater*
 	)
 ) OR

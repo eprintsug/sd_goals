@@ -26,7 +26,7 @@
 			desalination
 		)
 	) OR
-	( ocean AND acid* ) OR
+	( ocean AND acid* )
 ) AND NOT (
 	"calymmian" OR
 	"cambrian" OR

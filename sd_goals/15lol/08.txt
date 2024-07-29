@@ -756,7 +756,7 @@
 		( "species" AND "endangered" AND ( "predation" OR "predator" ) ) OR
 		( "threatened" AND "extinction" ) OR
 		( "threatened" AND "extinction" AND "species" ) OR
-		( extinction AND probabilit* AND "species" ) OR
+		( extinction AND probabilit* AND "species" )
 	) AND ( "inland" OR "terrestrial" OR "forest" )
 ) OR
 (
@@ -794,7 +794,7 @@
 		( ( "captive breeding" AND "endangered" ) AND ( animal* OR "species" ) ) OR
 		( ( Population* AND decline* ) AND ( animal* OR "species" ) ) OR
 		( biodiversity AND "extinction" ) OR
-		( extinction AND probabilit* ) OR
+		( extinction AND probabilit* )
 	) AND NOT ( marine OR ocean OR sea )
 ) OR
 ( ( "florida panther" OR "giant panda" OR "grizzly" ) AND ( "endangered" OR conserv* ) ) OR
@@ -891,6 +891,6 @@
 		"medicinal plant" OR
 		"orchid" OR
 		"orchids" OR
-		"plant" OR
+		"plant"
 	)
-) OR
+)

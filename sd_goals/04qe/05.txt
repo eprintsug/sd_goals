@@ -11,7 +11,7 @@
 			( gender AND equality ) OR
 			( gender AND equity ) OR
 			( human AND +rights ) OR
-			peace OR
+			peace
 		)
 	) OR
 	( Educational AND unsustainability ) OR

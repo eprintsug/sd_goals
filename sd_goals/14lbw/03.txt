@@ -217,7 +217,7 @@
 			ocean OR
 			marine OR
 			aquatic OR
-			current OR
+			current
 		)
 	) OR
 	( "oil pollution" AND ( "harbor" OR "harbour" OR port ) ) OR
@@ -629,7 +629,7 @@
 			coast OR
 			marine OR
 			ocean OR
-			sea OR
+			sea
 		)
 	) OR
 	(
@@ -671,7 +671,7 @@
 			ocean OR
 			reef OR
 			sea OR
-			shoreline OR
+			shoreline
 		)
 	) OR
 	( 		( mercury* AND accumul* ) AND ( marine OR ocean OR coast OR sea ) 	) OR

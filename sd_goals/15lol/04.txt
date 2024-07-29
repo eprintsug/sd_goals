@@ -60,7 +60,7 @@
 		ocean OR
 		ocean OR
 		pacific OR
-		sea OR
+		sea
 	)
 ) OR
 ( ( land OR soil ) AND ( conserv* OR restoration ) ) OR

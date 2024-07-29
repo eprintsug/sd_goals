@@ -355,7 +355,7 @@
 			"industrialization" OR
 			"industries" OR
 			"industry" OR
-			"manufacturing" OR
+			"manufacturing"
 		) 
 	) OR
 	( 
@@ -390,7 +390,7 @@
 			"manufacturing plants" OR
 			"manufacturing process" OR
 			"manufacturing processes" OR
-			"plant" OR
+			"plant"
 		) 
 	) OR
 	( 
@@ -486,14 +486,14 @@
 			"industry" OR
 			"manufacturing" OR
 			industrialisation* OR
-			industrialization* OR
+			industrialization*
 		) AND ( 
 			diminish* OR
 			( enhanc* AND ( 
 				"carbon dioxide" OR
 				"CO 2" OR
 				"CO2" OR
-				"greenhouse" OR
+				"greenhouse"
 				) 
 			) OR
 			improv* OR
@@ -544,9 +544,9 @@
 			"industrial wastes" OR
 			"industries wastes" OR
 			"industry wastes" OR
-			"manufacturing wastes" OR
+			"manufacturing wastes"
 		) 
-	) OR
+	)
 ) AND NOT (
 	"acoustic emission" OR
 	"catering industries" OR

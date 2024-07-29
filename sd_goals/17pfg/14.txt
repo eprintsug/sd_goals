@@ -38,7 +38,7 @@ AND (
 				transport
 			)
 		) OR
-		SDG* OR
+		SDG*
 	)
 	OR (
 		(

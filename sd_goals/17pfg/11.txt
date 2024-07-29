@@ -154,7 +154,7 @@
 	( poor AND countr* ) OR
 	Africa OR
 	India OR
-	Nepal OR
+	Nepal
 )
 AND (
 	(

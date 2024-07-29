@@ -16,7 +16,7 @@
 		"postconsumer food waste" OR
 		"post-harvest losses" OR
 		"postharvest losses" 
-	) AND ( food OR (crop) ) AND ( 
+	) AND ( food OR crop ) AND ( 
 		"prevent" OR
 		"reduce" OR
 		minimis* OR
@@ -24,7 +24,6 @@
 		reduct*
 	) 
 ) OR
-(  AND ( reduct* OR "reduce" OR "prevent" OR minimiz* OR minimis* ) ) OR
 ( "pef treatment" AND food ) OR
 ( "wasted food" AND NOT ( "wasted food energy" ) ) OR
 
