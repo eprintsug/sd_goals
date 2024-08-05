@@ -1095,27 +1095,11 @@
         </file>
         <file>
           <datasetid>document</datasetid>
-          <filename>epm/sd_goals/cgi/sd_goals_staff_searches</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>c8c99554b50340041eb2df7c8d5e057f</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>923</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
           <filename>lang/en/phrases/sd_goals.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>03190e2644d80ab202b8b0eabbc5db28</hash>
+          <hash>70d93acd829b817dc15d5c951d6186ef</hash>
           <hash_type>MD5</hash_type>
-          <filesize>12447</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/All_Goals.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>0e7510c4f42bc7c5adcaeeef43c51860</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>4835</filesize>
+          <filesize>22669</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -1127,139 +1111,11 @@
         </file>
         <file>
           <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_02.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>c1211cc0343d1713f1f0f932444022e6</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5181</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_03.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>f404fb62e1d0bc494f43d4391990e3ee</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5183</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_04.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>ca964e69d8a7c4cf3d0afe5e2db00d8a</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5181</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_05.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>5c4884d266788f024a560208ed24be88</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5181</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_06.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>f51792bbdb70c972a5203a2d8b3947e4</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_07.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>9b39c76d5d20a0bcf58cb7713b5e8734</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_08.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>9b761310769b7f4342d4c16acc025f3e</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5183</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_09.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>eac3754f73e126ac931f35163892eccd</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_10.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>5b3013b4c64b4e7ef162e7c2105410d9</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5181</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_11.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>5c6f2a7429f4187f069c422026ca57b6</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_12.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>ffa782251857f9027fe71787d07d8e6e</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_13.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>718932e4db5f900888171537e2db2a70</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5181</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_14.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>983709105bfecef9b1fa9066b17d3b07</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_15.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>9919f924e77853e61cf6dfdd8ba23040</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/Plugin/Screen/Report/SD_Goals/SDG_17.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>11a53925ba457323594b18f4ea589dfe</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>5182</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
           <filename>plugins/EPrints/Plugin/Screen/SDGoals.pm</filename>
           <mime_type>text/plain</mime_type>
-          <hash>fb5e92be29ec1b251bd570ebdacf95b3</hash>
+          <hash>898fce6eea0250f4d2cb09a98989eb8a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>18845</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
-          <filename>plugins/EPrints/SD_Goals/Utils.pm</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>882b57fb1b349232d664c5292828fb43</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>2280</filesize>
+          <filesize>12465</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -1417,18 +1273,18 @@
           <datasetid>document</datasetid>
           <filename>static/style/auto/sd_goals.css</filename>
           <mime_type>text/plain</mime_type>
-          <hash>1162cf79f2a58420fa4f3751f058f0cb</hash>
+          <hash>a3d871fb15c54e487a7f8d39656c4158</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2098</filesize>
+          <filesize>2222</filesize>
         </file>
       </files>
       <mime_type>text/plain</mime_type>
-      <format>other</format>
+      <format>text</format>
       <main>static/style/auto/sd_goals.css</main>
       <content>install</content>
     </document>
   </documents>
-  <version>0.4</version>
+  <version>0.5</version>
   <creators>
     <item>
       <name>
@@ -1443,6 +1299,13 @@
         <given>Will</given>
       </name>
       <id>will.fyson@cosector.com</id>
+    </item>
+    <item>
+      <name>
+        <family>Salter</family>
+        <given>John</given>
+      </name>
+      <id>j.salter@leeds.ac.uk</id>
     </item>
   </creators>
   <title>Sustainable Development Goals</title>

@@ -131,3 +131,13 @@
 #ep_report_sdg_01_container ul {
     list-style-type: none !important;
 }
+
+.sdg_viewintro {
+    margin: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.sdg_viewintro p {
+    margin-left:1em;
+}
