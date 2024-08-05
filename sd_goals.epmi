@@ -17,9 +17,9 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/README.md</filename>
           <mime_type>text/plain</mime_type>
-          <hash>1d0774ccbf602870d14e4ae54cfd1714</hash>
+          <hash>4991df723250274474d2cf72111a1f42</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5112</filesize>
+          <filesize>4733</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -49,113 +49,113 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/01np/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>bf82e52c897e9bd37e4689d5a0367887</hash>
+          <hash>9168f4b64ced6cb3744fbe7eaa6aab2c</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7581</filesize>
+          <filesize>7612</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/01np/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>4206054a0cec45c8c4a2d49cee3c5abd</hash>
+          <hash>7e5000204044a3c9d5e86789a42b0e42</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3518</filesize>
+          <filesize>3525</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/01np/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>721ca9dfc6c12cdc6627b938d1df205a</hash>
+          <hash>1ddee7a1c1d6fedeb7f688299a42078d</hash>
           <hash_type>MD5</hash_type>
-          <filesize>9188</filesize>
+          <filesize>9144</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/01np/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9da6f99af6ec8e357e15658d466728fc</hash>
+          <hash>22cf24222bf7ea678ad0cc352f5ab947</hash>
           <hash_type>MD5</hash_type>
-          <filesize>795</filesize>
+          <filesize>802</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7a5d2245ebce8b2437314a9e6de7af2d</hash>
+          <hash>61a49ea3db3a5e5647c88af60e66a807</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4921</filesize>
+          <filesize>4858</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>64696b480469855d30863c40ac3955ea</hash>
+          <hash>3191d28d0d323acdca386706733ed7aa</hash>
           <hash_type>MD5</hash_type>
-          <filesize>8276</filesize>
+          <filesize>8281</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>c740894248b640251662e0da19cdc8d9</hash>
+          <hash>614d80def55f5427fdb842bb16bb7fa3</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1464</filesize>
+          <filesize>1466</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>698bfec24e19341f2ea8531d501f5058</hash>
+          <hash>a17ea0346c4b975fa5c985da26409859</hash>
           <hash_type>MD5</hash_type>
-          <filesize>8449</filesize>
+          <filesize>8461</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>86aa7f23e123bd12a8a1e38ab2316f65</hash>
+          <hash>cd6ebb24e76f827871b3a62ce2580f2a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5933</filesize>
+          <filesize>5966</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9ac15c6caa07f495ea5ea407e47b9b7a</hash>
+          <hash>476a293434b762978925c88984662caf</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6069</filesize>
+          <filesize>6068</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>2409979aecaa2d64eff70a97dd69445a</hash>
+          <hash>5ab172d5db64dd9d774e15358ab7d315</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5576</filesize>
+          <filesize>5622</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9e55a395f8091bc9e8aaf421c1b376de</hash>
+          <hash>dd896ecfce712face0f145ddd09d1f70</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1944</filesize>
+          <filesize>1946</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/02zh/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>4912597d6af61b4a9f97afc77cd63308</hash>
+          <hash>e28ed672100c9fdce932e0c3091d8a8e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1810</filesize>
+          <filesize>1814</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f80d9b12ea57676bdc0c4bdc8f0f4755</hash>
+          <hash>6260487ac75b3011f63d69e92bbbfd0b</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2774</filesize>
+          <filesize>2768</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -169,9 +169,9 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>e1ad20d0de8b8d2e1c2995714eac2b4d</hash>
+          <hash>38a8401f1af04999b9c396acdf6a3f40</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2470</filesize>
+          <filesize>2476</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -185,193 +185,193 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>bdf9dd836237d043bc45b824b7303069</hash>
+          <hash>cda2f0e12cb4101dc775e8eda189da55</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1089</filesize>
+          <filesize>1097</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f12885bc74e3701ff865b649070a5aa8</hash>
+          <hash>3031902335054f56b151597ed573ff40</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7198</filesize>
+          <filesize>7213</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b0b65aeeea1da4291fb2f2ec32920fdb</hash>
+          <hash>c52f13d16eae7a43c773716b59823fbc</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4303</filesize>
+          <filesize>4338</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>8124716dc291be1dbae5561cb9627f80</hash>
+          <hash>e1b4fa07eea70f9c956cdf913fa770ad</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2991</filesize>
+          <filesize>2997</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b234b7dc8946310cfbeb59e7ceae57a2</hash>
+          <hash>b3ccf026d9b172a7db9cf4077f6e09b8</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2084</filesize>
+          <filesize>2095</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/10.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f1bf4f4c2047d27ce694830d4388b76a</hash>
+          <hash>74840000a9958ede6afd9505485caf23</hash>
           <hash_type>MD5</hash_type>
-          <filesize>10695</filesize>
+          <filesize>10714</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/03ghwb/11.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>bf9578475a1c87b111c4f37b5c8712ac</hash>
+          <hash>d934b610a640b56b897e8aa3d1a1fb8e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1409</filesize>
+          <filesize>1334</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f99ae67e3b7c2ebf46d752529d79d815</hash>
+          <hash>540f9fd7120803c0ca3223f56b59937a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6091</filesize>
+          <filesize>6081</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>4f995184a6cd1c41082ac20735cda65f</hash>
+          <hash>00018998ac72520007b17465ebe782fb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4881</filesize>
+          <filesize>4902</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>2de003ac00bd29163b857f4d608597c0</hash>
+          <hash>7be119ef9f368338c945ea574c77e4e7</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6654</filesize>
+          <filesize>6673</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a02158b9108712ecccae626f972257ec</hash>
+          <hash>97719c8426deaa2600edd389cca18917</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1739</filesize>
+          <filesize>1747</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f54484b5034334a72e267a2cda21bcd1</hash>
+          <hash>40916546d6240a0c43913130a7bb5bcc</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6068</filesize>
+          <filesize>6077</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>0dc31239c588c3909cc68747f9c6d8ae</hash>
+          <hash>b9e9902b6a52dc23a42519638035360e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>8335</filesize>
+          <filesize>8369</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/04qe/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>de28e34f4fb7f7b50bd573ea7df8c89e</hash>
+          <hash>818fb3e901b2cba3cf6696d3494cf16d</hash>
           <hash_type>MD5</hash_type>
-          <filesize>58</filesize>
+          <filesize>59</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/05ge/01.txt</filename>
           <mime_type>text/x-asm</mime_type>
-          <hash>981adb1dabcbcbc3a6e35645ec1e5e28</hash>
+          <hash>4ae40b0457699b49d2d0469c19378c54</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4989</filesize>
+          <filesize>5004</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/05ge/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>27f31eb71bfeeb7665737cc4fd6d884d</hash>
+          <hash>a97c82e8825cee5db001648ff125840f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>9278</filesize>
+          <filesize>9310</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/05ge/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9ebf73af080791b3e6a56ac5b352dd15</hash>
+          <hash>8bdf445d6a5f22bf48946aeb15acc1c4</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2423</filesize>
+          <filesize>2427</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/05ge/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b96d1327854224031182011ac06e5e13</hash>
+          <hash>d5245bff5fce498ca4fbb218cff0762e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7051</filesize>
+          <filesize>7046</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/05ge/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>d0778e04be5a229ffbd67b1a9611e18b</hash>
+          <hash>93ece8d7cb2fa788ccec444e43a72758</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3769</filesize>
+          <filesize>3786</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/06cws/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>6e05a3d94ef9fc7c3a16c2c1bbc5f04e</hash>
+          <hash>27dcf924b2ebf043718967da22f41dfb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2111</filesize>
+          <filesize>2106</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/06cws/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>23ffab5f9821b2aa5ae3fdb01067d517</hash>
+          <hash>2873cba1239a3631dee6b9cbb034ae95</hash>
           <hash_type>MD5</hash_type>
-          <filesize>9100</filesize>
+          <filesize>9095</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/06cws/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>939e35be43f260b43fffbb5249ecb6db</hash>
+          <hash>08f96fe8a43d037aeb08c5a6171d25a6</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4217</filesize>
+          <filesize>4226</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/06cws/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>1661debf0a61be2aa5d15c214807a13c</hash>
+          <hash>d0f2733489e40e4610184e0dbdf3a1f8</hash>
           <hash_type>MD5</hash_type>
-          <filesize>15309</filesize>
+          <filesize>14448</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/06cws/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>8126a9e1847f2aa0eeb3022d5d5ade12</hash>
+          <hash>bbe5d6a485e4062f5831b172b093aed8</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2574</filesize>
+          <filesize>2566</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -385,177 +385,177 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9c3d1a7dd02ee931c6990039964ac29c</hash>
+          <hash>dd0565f3e62a31cb54e8dc77fc94d9e1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>8406</filesize>
+          <filesize>8420</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7833c51514803725902ae554e8a64cf7</hash>
+          <hash>2a76a47b303dd8c3ed55861a9a8335fa</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3936</filesize>
+          <filesize>3944</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>370ef2eb91fa07cc03040eb754937245</hash>
+          <hash>2dcbd598aa7275f99bce23239fe01c7f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2835</filesize>
+          <filesize>2834</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>15a34073fcbceda5c8c7a9ed96d7892b</hash>
+          <hash>3928cc003a46797e3b6a205be7928556</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7943</filesize>
+          <filesize>7950</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a86e6635e9ebf13e2b77ab2dc089c678</hash>
+          <hash>1a3b673d6f5be2a4a0619373811f3b9e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4961</filesize>
+          <filesize>4962</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f1905ddfd4c0e54d29d998fe189ab53a</hash>
+          <hash>3da89b2cc73ea1652b37a19ef69738ce</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3223</filesize>
+          <filesize>3236</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>217a46baa8b0d7211ca4927f31fb53fd</hash>
+          <hash>41e630f96cdedfa3a87f3adbc084430f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4547</filesize>
+          <filesize>4545</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/07ace/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7ea84c9ad02e9028a2fff64ece4f21ab</hash>
+          <hash>1c1eb6089576a1385a6d7fc75877efb9</hash>
           <hash_type>MD5</hash_type>
-          <filesize>12104</filesize>
+          <filesize>12028</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>c2d7c2352868288984cfbd1f31803d4e</hash>
+          <hash>dd5634e239f742ef0607a20a2a434b33</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3521</filesize>
+          <filesize>3542</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>77478ed3fbe933bebbeeb6ab25939367</hash>
+          <hash>e91b996e983c211183efc9aebf0f47ae</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1003</filesize>
+          <filesize>1004</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>99faaf762323c9ff0ab5b0cb2facbf6c</hash>
+          <hash>5ab320be1f99daec20ade434842b1896</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1464</filesize>
+          <filesize>1466</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>703635b5ad39776f0053cde72523d68c</hash>
+          <hash>31003a8c0f8efad84beb9b7823599f53</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1395</filesize>
+          <filesize>1414</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>34480b074e68b45e69872a8a7d0b87ae</hash>
+          <hash>c47abc667aaac38ee5ab80d079b1df6e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2199</filesize>
+          <filesize>2214</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>26bab22df9faecece5476beab0007927</hash>
+          <hash>33eebde95a88400292f4d468d82f2773</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2629</filesize>
+          <filesize>2633</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>0c695462e52cbdbb62a73e5d5600835d</hash>
+          <hash>d25c8bedeab36d0f99a49993c4c1330f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1385</filesize>
+          <filesize>1391</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>d0e3132fcf5c6bce6a827773f3a3e9b3</hash>
+          <hash>beec235929c8918fcd8616596be6d993</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4942</filesize>
+          <filesize>4954</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/08dweg/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9f76accd70d1464e43c060146608539f</hash>
+          <hash>807b7722cb885c5b79a8e5ac3a4c0590</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2619</filesize>
+          <filesize>2620</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/09iii/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>70b8a906ba173519a3a5ef9c9d53b99b</hash>
+          <hash>6780e9877a08f36f600d9376fff8f579</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1669</filesize>
+          <filesize>1664</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/09iii/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>60100bcfb1f5133e5c673fec8f27173e</hash>
+          <hash>ec2bda07529c6ad19203fb92ec4ec814</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4082</filesize>
+          <filesize>4133</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/09iii/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>1e738215d0cb860dfd77f664e9cc3d00</hash>
+          <hash>4ff1f1a9c1b7ec4ab805b4de6e8e3caf</hash>
           <hash_type>MD5</hash_type>
-          <filesize>10317</filesize>
+          <filesize>10335</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/09iii/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b091c47170704351be1dbe541e0ceae8</hash>
+          <hash>90f1b7b6b72849ecd35c18f366b86e29</hash>
           <hash_type>MD5</hash_type>
-          <filesize>13943</filesize>
+          <filesize>13948</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/09iii/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>d2da8985013e62eac07a0925e5c9b2ff</hash>
+          <hash>c5827046f8df20d83e7766eb961e3b32</hash>
           <hash_type>MD5</hash_type>
-          <filesize>13976</filesize>
+          <filesize>14129</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -569,223 +569,223 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/10ri/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b3d2eeb3ee848b056ce6ed7dc7122a32</hash>
+          <hash>65311af1a0d7fa36047e454043ccd7e5</hash>
           <hash_type>MD5</hash_type>
-          <filesize>14906</filesize>
+          <filesize>14952</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/10ri/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a25775f4a4e032f55d4a4301bcb6aacf</hash>
+          <hash>ba8a904891eaebfd0236e1a0135bf295</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4362</filesize>
+          <filesize>4382</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/10ri/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>909f54712eac38558d06cdf82b9ee6e9</hash>
+          <hash>fb56cff2135779d5aba6726a46f229fc</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3754</filesize>
+          <filesize>3761</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/10ri/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>0bbbc951a2ed6cf1054a8f6e16c1ef32</hash>
+          <hash>3fdfb249af1305c2ddc0cd3e6cf6723e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3944</filesize>
+          <filesize>3951</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>139504c5cfe951c7d8620e8e6f0e679d</hash>
+          <hash>1a50773cac53b6292c32871af6cc895d</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2318</filesize>
+          <filesize>2358</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>2d51050b3a8ab5ce5f645c74b6914115</hash>
+          <hash>7b922ea26fd8e00bc25def6ded242ef1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5278</filesize>
+          <filesize>5281</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f7c517238b3992a69c9c6e9d782c8499</hash>
+          <hash>2d9bb6842239eb7706ad68ff28ae3049</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4399</filesize>
+          <filesize>4407</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>23d3efa6610fe0461ee2abadef30d554</hash>
+          <hash>1e5e77f3928a673cdb9265d8f558e25f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3760</filesize>
+          <filesize>3767</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>6bd86afc0979d835250a71ac4d98e006</hash>
+          <hash>76b8ab29f082c3235ee4e6cf9cb0823a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>6805</filesize>
+          <filesize>6728</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>87422c8bea6fc78a064a32e6d8d72a2a</hash>
+          <hash>7c6f5664dce63e44371808b21170da84</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3346</filesize>
+          <filesize>3359</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/11scc/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7a088022e6a24484dd520de5c147765f</hash>
+          <hash>225d6125fc8e2cb7ea4c45526c093f78</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5607</filesize>
+          <filesize>5609</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f9ca0588f88ee6a6bd9510642af9c716</hash>
+          <hash>a8803702e6c4536969a32457e6f8351f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>5625</filesize>
+          <filesize>5624</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>0568b6eb83012b48191b035013457ab1</hash>
+          <hash>59d99d878d98731a95ec1fe9234c0f18</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1114</filesize>
+          <filesize>1039</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>44472f68870399e01754d818839c8c27</hash>
+          <hash>8b6e57d71a4d5571d4c3d94648c0e20f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3493</filesize>
+          <filesize>3503</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>dfdea7022a7bbd53d682321399208915</hash>
+          <hash>0eb83993c79d74fabfcf270cfd0f1a33</hash>
           <hash_type>MD5</hash_type>
-          <filesize>554</filesize>
+          <filesize>553</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>ccca6688b86824ff2fe3f7ceef6ac15a</hash>
+          <hash>10b1c25ef8948848bd7ef80df1c1e54b</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1737</filesize>
+          <filesize>1736</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>ea974bd53baaef5f28696604adff793b</hash>
+          <hash>8be745f39b390a81dec5c534910f1bb8</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1206</filesize>
+          <filesize>1211</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>333b57bc8789b85fb9e711bfed082dc7</hash>
+          <hash>fe0d6c47d881dd196fa9f724ac2ab330</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1707</filesize>
+          <filesize>1714</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>70eaae6a98e629d867812205090c5353</hash>
+          <hash>06562f0d29838bb72677a41b208659ec</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1591</filesize>
+          <filesize>1596</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/12rcp/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f825a9470d6ceb8c42e064f659b01c47</hash>
+          <hash>f50aa370fdde655849e7f45430e8c0c1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>632</filesize>
+          <filesize>634</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/13ca/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>13cde62359efcc45296a6c0aa834138e</hash>
+          <hash>82cf4b1ade02ccdb1ac8e430252fdfdb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3009</filesize>
+          <filesize>3003</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/13ca/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>aa06c30b59d926dd960c225d9065b00a</hash>
+          <hash>bdee70e23574078342bd8166bc696aab</hash>
           <hash_type>MD5</hash_type>
-          <filesize>7002</filesize>
+          <filesize>7007</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/13ca/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>2d113c656dea321b295f5a9b15217f7c</hash>
+          <hash>4b0e874d07ea238b0b8a4603a70b5d90</hash>
           <hash_type>MD5</hash_type>
-          <filesize>10228</filesize>
+          <filesize>10263</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/13ca/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b38744914465ed478c518b8927db38ee</hash>
+          <hash>d7268d3606430c2a6a48ada9584b78a6</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2000</filesize>
+          <filesize>2006</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b74568007eac552d910c38c9051d54ce</hash>
+          <hash>6be06baf40794cf98fb71659709bc62d</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4195</filesize>
+          <filesize>4208</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>48c37bfb8719e7e5cc8bca826cb7097d</hash>
+          <hash>3a77c2c448d78372e8a54f6dbf082ca5</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1484</filesize>
+          <filesize>1489</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>99b3c733fb4d5c92846b0b747c0829e8</hash>
+          <hash>4e5099854c7b1ac169e27a5b9eab49cb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>14535</filesize>
+          <filesize>14543</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>919cddf8c4a8f538a3983c55ac8c7add</hash>
+          <hash>5fd44cbdf55c019769c8183cac972b7d</hash>
           <hash_type>MD5</hash_type>
           <filesize>1253</filesize>
         </file>
@@ -793,47 +793,47 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>77e05ea2eecf7db0dc8bfa43edcda254</hash>
+          <hash>241b63ff05e0d308369b83abbca5fe94</hash>
           <hash_type>MD5</hash_type>
-          <filesize>12111</filesize>
+          <filesize>12070</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a4af4a7167c832d484ba22e4d0639a4c</hash>
+          <hash>252ef6b8409b4908d9042c2904bbefc8</hash>
           <hash_type>MD5</hash_type>
-          <filesize>21013</filesize>
+          <filesize>21047</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a403fcac4fd6198f95f87fa790b6d75a</hash>
+          <hash>ca58704c89611202c665df74615c0e70</hash>
           <hash_type>MD5</hash_type>
-          <filesize>911</filesize>
+          <filesize>913</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>e8b793d2454f05d1c906b36ad0a05e77</hash>
+          <hash>c8d2649eacdcca9f9bc6628cdaa16d39</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2151</filesize>
+          <filesize>2150</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>c00516d68f2e178cd7477bedfe1f7165</hash>
+          <hash>1d722a6d7f85f3dcf80d707a732448da</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1160</filesize>
+          <filesize>1159</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/10.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>20aca5e17c9245863415c31d2428a3fa</hash>
+          <hash>86b6d426c3093372632f55a02fb8e97d</hash>
           <hash_type>MD5</hash_type>
           <filesize>3661</filesize>
         </file>
@@ -841,87 +841,87 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/11.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>45df534ec8f1802805046d026ac31931</hash>
+          <hash>34f831dd9a137ee929d3b2f25b5c2890</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2451</filesize>
+          <filesize>2474</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/12.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>22b461dc4ae79644386c5b08ecca80e1</hash>
+          <hash>48b58df49dcd0560d9a57f4e3166e214</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4470</filesize>
+          <filesize>4548</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/14lbw/13.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>40812cd71a9d09b0bda752d38e5f177e</hash>
+          <hash>1be7b217af008337130fdd2a862745cb</hash>
           <hash_type>MD5</hash_type>
-          <filesize>193</filesize>
+          <filesize>194</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>3cc11b3e505d59c08a798aa3947d1105</hash>
+          <hash>f62fd2df871b55a26859fdb88ee8759c</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1467</filesize>
+          <filesize>1469</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>1862b981da56e31ed0479c498dff8978</hash>
+          <hash>3fdca81b4196fae04527f126405d2e7c</hash>
           <hash_type>MD5</hash_type>
-          <filesize>856</filesize>
+          <filesize>864</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>9b79ce25f0a87a380e08c00819097ec2</hash>
+          <hash>904176f338e4de45e0bc0ca1f14ee0d0</hash>
           <hash_type>MD5</hash_type>
-          <filesize>869</filesize>
+          <filesize>876</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>005720353c9c14b3263e0eeaedc26eb5</hash>
+          <hash>7859e06d33371480b577430c0660d8b0</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2519</filesize>
+          <filesize>2522</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f073a5cbcb27aef8891c105a3e1973a3</hash>
+          <hash>062b6ddff3b27930637b5ec61ca8fc83</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2055</filesize>
+          <filesize>2060</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>618865f27168ed74abe52923e55da5d7</hash>
+          <hash>81ea88ba5db854658a2a83a8921b5f94</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2770</filesize>
+          <filesize>2775</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>41d567c6384cc0c5919563b30a641818</hash>
+          <hash>cd16ccc2a0260b7773a49dd72bdf206e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4379</filesize>
+          <filesize>4389</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a9adc2d4e014d8e3998e76fbab13338d</hash>
+          <hash>6f755b6910938b03af388e8fd54e5075</hash>
           <hash_type>MD5</hash_type>
           <filesize>23041</filesize>
         </file>
@@ -929,137 +929,137 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/15lol/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>8a64a4dcd6ecd8d060d87b6b9d84d3af</hash>
+          <hash>e1a3f9692bd8036b6b1ca706d61d395a</hash>
           <hash_type>MD5</hash_type>
-          <filesize>970</filesize>
+          <filesize>980</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/16pjsi/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>8728ed12e89b07cd6998ce9096c836aa</hash>
+          <hash>49c53859c20f6c1771c0cf8a97e83e5e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>17458</filesize>
+          <filesize>17586</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/01.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>357d1ce333828d2cf1689e6ace1fb969</hash>
+          <hash>9e490ee7872bac9342471d64bca3db42</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1076</filesize>
+          <filesize>1080</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/02.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>2d4f48bcf6280c0a44884458800763d7</hash>
+          <hash>7117c9379d0c98f809c7bd55195ba482</hash>
           <hash_type>MD5</hash_type>
-          <filesize>830</filesize>
+          <filesize>827</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/03.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>5f6ae241a989afc06f8d6e4b3e9d1fcf</hash>
+          <hash>44c34a4af20530c75d375ae325f63479</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3763</filesize>
+          <filesize>3773</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/04.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f2d8185dbfe5fa9d7d277cc51ad26c72</hash>
+          <hash>a237cc68a00e176faa13c9e6361e80cc</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3689</filesize>
+          <filesize>3697</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/05.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>d182d777a9da9b9c6044af80929a06d0</hash>
+          <hash>f1df5cad82f60409ecb8f2172d8f9fa2</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3173</filesize>
+          <filesize>3180</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/06.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>98f22479f9f2b4446e3c139b78c56943</hash>
+          <hash>c668800449d87332b90b7fd780863775</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3178</filesize>
+          <filesize>3186</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/07.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b70a95925b6984bcd2767c506582c126</hash>
+          <hash>565af26363a48a0400c1a8343cbecb3f</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3266</filesize>
+          <filesize>3277</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/08.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>f715d2bc6ef361fdf08b5ac5acbd98f0</hash>
+          <hash>871996cc0ea2aa1ea9f44653c93a2ff0</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3580</filesize>
+          <filesize>3585</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/09.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>897ff2082e326e40cbbd4394a19b8c29</hash>
+          <hash>3f34da741ee295f082b60e309ee1833d</hash>
           <hash_type>MD5</hash_type>
-          <filesize>4151</filesize>
+          <filesize>4163</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/10.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>8a577c03276c54bdf7bef02cf285f8fd</hash>
+          <hash>d8c8638e80da437dff680abbd479afc2</hash>
           <hash_type>MD5</hash_type>
-          <filesize>828</filesize>
+          <filesize>829</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/11.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>676018f15b6f9b673b041d7bf9b4566a</hash>
+          <hash>69c053a3fa1c8c37b2bd5deb585cd13e</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3505</filesize>
+          <filesize>3513</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/12.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>bf448c2d46e00ab5dbc694ce04185dd5</hash>
+          <hash>80b2c4473e06fb6a1dccfcdc9b890f39</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3587</filesize>
+          <filesize>3596</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/13.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>b6de3c491b8cbb0c6cd81b2e17990849</hash>
+          <hash>330b5010909aaa5731f23edf9b744b78</hash>
           <hash_type>MD5</hash_type>
-          <filesize>3599</filesize>
+          <filesize>3568</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/14.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>bcd336e7d73b99753fb1d6213a9ef5d0</hash>
+          <hash>7cd685ac79c469a22a22e8acdca7edc1</hash>
           <hash_type>MD5</hash_type>
-          <filesize>1780</filesize>
+          <filesize>1779</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/15.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>c2eb185a9d103efc00c425684c9e5042</hash>
+          <hash>ce83cf24f987836440846982b53ba6d3</hash>
           <hash_type>MD5</hash_type>
-          <filesize>721</filesize>
+          <filesize>724</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -1081,9 +1081,9 @@
           <datasetid>document</datasetid>
           <filename>epm/sd_goals/cfg/sd_goals/17pfg/18.txt</filename>
           <mime_type>text/plain</mime_type>
-          <hash>7b6a993c5d0ea7b24b9befca166e44ea</hash>
+          <hash>0eef05ee71db07c5fb4ce7caf92aa905</hash>
           <hash_type>MD5</hash_type>
-          <filesize>555</filesize>
+          <filesize>559</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
@@ -1097,9 +1097,9 @@
           <datasetid>document</datasetid>
           <filename>lang/en/phrases/sd_goals.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>70d93acd829b817dc15d5c951d6186ef</hash>
+          <hash>02ca48d9e3d568efbf234755c5ad2878</hash>
           <hash_type>MD5</hash_type>
-          <filesize>22669</filesize>
+          <filesize>22584</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
