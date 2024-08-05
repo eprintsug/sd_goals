@@ -6,7 +6,7 @@
 		NEAR/2 
 		(
 			eradicate OR
-			against OR
+			+against OR
 			annihilat* OR
 			anti OR
 			decreas* OR
@@ -33,11 +33,11 @@ AND (
 		)
 		NEAR/1 
 		(
-			( ( country's OR government ) AND autonomy ) OR
+			( ( country\'s OR government ) AND autonomy ) OR
 			( ( government OR national ) AND leadership ) OR
 			( countr* AND strategic AND approach* ) OR
 			( government AND ( action OR decision OR intervention OR ( strategic AND approach* ) ) ) OR
-			( state AND ( action OR decision OR intervention OR leadership ) ) OR
+			( +state AND ( action OR decision OR intervention OR leadership ) ) OR
 		)
 	)
 )

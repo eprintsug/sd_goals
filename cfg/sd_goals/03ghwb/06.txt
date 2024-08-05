@@ -11,7 +11,7 @@
 		) 
 	) OR
 	(
-		( education AND of ) AND (
+		( education AND +of ) AND (
 			( health AND personnel ) OR
 			( health AND professionals ) OR
 			( health AND workers ) OR
@@ -29,7 +29,7 @@
 	) OR
 	( financing AND ( health OR healthcare OR health-care ) ) OR
 	( 
-		( lack AND of ) AND (
+		( lack AND +of ) AND (
 			( health AND personnel ) OR
 			( health AND professionals ) OR
 			( health AND workers ) OR
@@ -94,7 +94,7 @@
 		) 
 	) OR
 	(
-		"recruitment of" AND ( 
+		"recruitment +of" AND ( 
 			( health AND personnel ) OR
 			( health AND professionals ) OR
 			( health AND workers ) OR
@@ -127,7 +127,7 @@
 		) 
 	) OR
 	(
-		"retention of" AND (
+		"retention +of" AND (
 			( health AND personnel ) OR
 			( health AND professionals ) OR
 			( health AND workers ) OR
@@ -143,7 +143,7 @@
 		) 
 	) OR
 	(
-		( shortage AND of ) AND (
+		( shortage AND +of ) AND (
 			( health AND personnel ) OR
 			( health AND professionals ) OR
 			( health AND workers ) OR
@@ -169,13 +169,14 @@
 			( healthcare AND personnel ) OR
 			( healthcare AND professionals ) OR
 			( healthcare AND workers ) OR
-			doctors OR physician OR
+			doctors OR 
+			physician OR
 			medical OR
 			nurses
 		) 
 	) OR
 	( 
-		"training of" AND ( 
+		"training +of" AND ( 
 			doctors OR 
 			( health AND personnel ) OR 
 			( health AND professionals ) OR 
@@ -225,19 +226,19 @@
 	"Congo" OR
 	"Cook Islands" OR
 	"Costa Rica" OR
-	"countries with limited resource" OR
-	"country with limited resource" OR
+	"countries +with limited resource" OR
+	"country +with limited resource" OR
 	"Cuba" OR
-	"Côte d'Ivoire" OR
+	"Côte d\'Ivoire" OR
 	( 
 		( 
-			"least developed" OR
-			"less developed" OR
+			"+least developed" OR
+			"+less developed" OR
 			"middle-income" OR
 			developing OR
 			emerging OR
 			low-income OR
-			middleincome OR
+			middleincome
 		) AND ( 
 			countr* OR
 			economies OR
@@ -313,7 +314,7 @@
 	"Palau" OR
 	"Palestine" OR
 	"Panama" OR
-	"Papua New Guinea" OR
+	"Papua +new Guinea" OR
 	"Paraguay" OR
 	"Peru" OR
 	"Philippines" OR
@@ -322,7 +323,7 @@
 	"poor nation" OR
 	"Rwanda" OR
 	"Saint Lucia" OR
-	"Saint Vincent and the Grenadines" OR
+	"Saint Vincent and +the Grenadines" OR
 	"Salvador" OR
 	"Samoa" OR
 	"Senegal" OR

@@ -4,17 +4,17 @@
 	"cleaner production" OR
 	"conscious manufacturing" OR
 	"corporate sustainability" OR
-	"development of industrialization" OR
+	"development +of industrialization" OR
 	"eco-industrial" OR
 	"ecoindustrial" OR
 	"employment in industry" OR
 	"energy saving in industrial" OR
 	"energy saving in industries" OR
 	"energy saving in industry" OR
-	"energy saving of industrial" OR
-	"energy saving of industries" OR
-	"energy saving of industry" OR
-	"fair work" OR
+	"energy saving +of industrial" OR
+	"energy saving +of industries" OR
+	"energy saving +of industry" OR
+	"fair +work" OR
 	"Global manufacturing" OR
 	"green manufacturing" OR
 	"green supply chain management" OR
@@ -164,7 +164,7 @@
 					"improved energy" OR
 					"reduced energy consumption" OR
 					"waste energy" OR
-					"Waste-to-energy" OR
+					"Waste-+to-energy" OR
 					"Wasteto-energy" OR
 					( "energy consumption" AND sustainab* ) OR
 					( energy AND efficien* ) OR
@@ -178,7 +178,7 @@
 				( "eco-friendly" OR "ecofriendly" ) AND NOT ( 
 					"houses" OR
 					"housing" OR
-					"Society of Chemical Industry" OR
+					"Society +of Chemical Industry" OR
 					building
 				) 
 			) OR
@@ -210,9 +210,9 @@
 			"reducing emission" OR
 			"reducing emissions" OR
 			"reducing pollution" OR
-			"reduction of carbon dioxide" OR
-			"reduction of CO 2" OR
-			"reduction of CO2" OR
+			"reduction +of carbon dioxide" OR
+			"reduction +of CO 2" OR
+			"reduction +of CO2" OR
 			( ( "greenhouse gas" OR "green house gas" OR "GHG" ) AND mitigation ) OR
 			( ( clean OR green ) AND energy )
 		) AND ( "industry" OR "industries" OR "industrial" ) 
@@ -237,7 +237,7 @@
 	) OR
 	( 
 		( 
-			"conservation of energy" AND ( 
+			"conservation +of energy" AND ( 
 				"companies" OR
 				"company" OR
 				"industrial" OR
@@ -255,8 +255,8 @@
 			"inclusive growth" OR
 			"labor law" OR
 			"labour law" OR
-			"labour rights" OR
-			"new jobs" OR
+			"labour +rights" OR
+			"+new jobs" OR
 			"pay equity" OR
 			( equal AND pay ) OR
 			( sustainable AND technolog* )
@@ -320,7 +320,7 @@
 	) OR
 	( 
 		( "industrial" OR "industry" ) AND ( 
-			"access to employment" OR
+			"access +to employment" OR
 			"employment conditions" OR
 			"employment equality" OR
 			"employment growth" OR
@@ -330,14 +330,14 @@
 			"employment policy" OR
 			"employment protection" OR
 			"employment regulation" OR
-			"employment rights" OR
+			"employment +rights" OR
 			"employment security" OR
 			"employment share" OR
 			"female employment" OR
 			"increase employment" OR
 			"precarious employment" OR
 			"secure employment" OR
-			"share of employment" OR
+			"share +of employment" OR
 			"women employment"
 		) 
 	) OR
@@ -345,9 +345,9 @@
 	( 
 		( 
 			"labor law" OR
-			"labor rights" OR
+			"labor +rights" OR
 			"labour law" OR
-			"labour rights"
+			"labour +rights"
 		) AND ( 
 			"factories" OR
 			"factory" OR
@@ -355,7 +355,7 @@
 			"industrialization" OR
 			"industries" OR
 			"industry" OR
-			"manufacturing" OR
+			"manufacturing"
 		) 
 	) OR
 	( 
@@ -390,14 +390,14 @@
 			"manufacturing plants" OR
 			"manufacturing process" OR
 			"manufacturing processes" OR
-			"plant" OR
+			"plant"
 		) 
 	) OR
 	( 
 		( 
 			( 
-				"demand side management" OR
-				"efficient use of energy" OR
+				"demand +side management" OR
+				"efficient +use +of energy" OR
 				"energy benchmark" OR
 				"energy benchmarking" OR
 				"energy benchmarks" OR
@@ -486,14 +486,14 @@
 			"industry" OR
 			"manufacturing" OR
 			industrialisation* OR
-			industrialization* OR
+			industrialization*
 		) AND ( 
 			diminish* OR
 			( enhanc* AND ( 
 				"carbon dioxide" OR
 				"CO 2" OR
 				"CO2" OR
-				"greenhouse" OR
+				"greenhouse"
 				) 
 			) OR
 			improv* OR
@@ -544,9 +544,9 @@
 			"industrial wastes" OR
 			"industries wastes" OR
 			"industry wastes" OR
-			"manufacturing wastes" OR
+			"manufacturing wastes"
 		) 
-	) OR
+	)
 ) AND NOT (
 	"acoustic emission" OR
 	"catering industries" OR
@@ -583,7 +583,7 @@
 	"restaurants" OR
 	"sex industries" OR
 	"sex industry" OR
-	"sex work" OR
+	"sex +work" OR
 	"sex worker" OR
 	"sound emission" OR
 	"sport" OR
@@ -599,5 +599,5 @@
 	"travel industries" OR
 	"travel industry" OR
 	( ( "mortality" ) AND NOT ( ( ( ( waste AND water* ) ) OR wastewater* ) ) ) OR
-	( ( sex AND work* ) )
+	( ( sex AND +work* ) )
 )

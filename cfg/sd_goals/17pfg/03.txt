@@ -4,16 +4,16 @@
 	( emerging AND countr* ) OR
 	( developing AND world ) OR
 	( developing AND nation ) OR
-	( developing AND state ) OR
+	( developing AND +state ) OR
 	( low AND income AND countr* ) OR
 	( middle AND income AND countr* ) OR
 	( low AND income AND nation ) OR
 	( middle AND income AND nation ) OR
-	( low AND income AND state ) OR
-	( middle AND income AND state ) OR
-	( least AND developed AND countr* ) OR
-	( least AND developed AND nation ) OR
-	( least AND developed AND state ) OR
+	( low AND income AND +state ) OR
+	( middle AND income AND +state ) OR
+	( +least AND developed AND countr* ) OR
+	( +least AND developed AND nation ) OR
+	( +least AND developed AND +state ) OR
 	"Afghanistan" OR
 	"Albania" OR
 	"Algeria" OR
@@ -47,7 +47,7 @@
 	"Comoros" OR
 	"Congo" OR
 	"Costa Rica" OR
-	"Côte d'Ivoire" OR
+	"Côte d\'Ivoire" OR
 	"Cuba" OR
 	"Djibouti" OR
 	"Dominica" OR
@@ -114,7 +114,7 @@
 	"Pakistan" OR
 	"Palau" OR
 	"Panama" OR
-	"Papua New Guinea" OR
+	"Papua +new Guinea" OR
 	"Paraguay" OR
 	"Peru" OR
 	"Philippines" OR
@@ -133,7 +133,7 @@
 	"Sri Lanka" OR
 	"Saint Kitts and Nevis" OR
 	"Saint Lucia" OR
-	"Saint Vincent and the Grenadines" OR
+	"Saint Vincent and +the Grenadines" OR
 	"Sudan" OR
 	"Suriname" OR
 	"Swaziland" OR

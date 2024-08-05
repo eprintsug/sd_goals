@@ -61,7 +61,7 @@
 	)
 ) OR
 (
-	"estimates of" AND (
+	"estimates +of" AND (
 		"earthquake" OR
 		"flood" OR
 		"flooding" OR
@@ -78,8 +78,8 @@
 (
 	"flood" AND (
 		"hazard analysis" OR
-		"hazard area" OR
-		"hazard areas" OR
+		"hazard +area" OR
+		"hazard +areas" OR
 		"hazard map" OR
 		"hazard mapping" OR
 		"hazard maps" OR
@@ -198,8 +198,8 @@
 		"risk assessment" OR
 		"risk management" OR
 		"risks management" OR
-		"system"
-		loss OR
+		"system" OR
+		loss
 	)
 ) OR
 ( drought* AND disaster ) OR
@@ -210,7 +210,7 @@
 		"building structure" OR
 		"building structures" OR
 		"concrete building" OR
-		"early warning" OR
+		"+early warning" OR
 		"emergency" OR
 		"engineering" OR
 		"hazard mitigation" OR
@@ -307,13 +307,13 @@
 		urban
 	)
 ) OR
-( tsunami AND ( "early warning" OR warning OR death ) ) OR
+( tsunami AND ( "+early warning" OR warning OR death ) ) OR
 (
 	urban AND (
 		"emergency shelters" OR
 		"water logging" OR
 		disaster OR
-		stormwater* OR
+		stormwater*
 	)
 ) OR
 ( water* AND sensitive AND urban AND design )

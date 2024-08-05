@@ -2,7 +2,7 @@
 "antipoaching" OR
 "CITES appendix" OR
 "CITES" OR
-"convention on international trade in endangered species" OR
+"convention +on international trade in endangered species" OR
 "elephant ivory" OR
 "green criminology" OR
 "hunting ban" OR
@@ -13,7 +13,7 @@
 "poachers" OR
 "poaching" OR
 "rhino horn" OR
-"Trade of Endangered Species" OR
+"Trade +of Endangered Species" OR
 "trophy hunting" OR
 "unregulated hunting" OR
 ( "bushmeat" AND ( "hunting" OR "illegal" ) ) OR

@@ -6,7 +6,7 @@
 	( learning* AND professional* ) OR
 	( practical AND training ) OR
 	( professional* AND ( education* OR training* ) ) OR
-	school-to-work OR
+	school-+to-+work OR
 	schooltowork OR
 	( skill* AND training* AND course* ) OR
 	( soft AND skill* ) OR
@@ -25,7 +25,7 @@
 		( accredited AND education ) AND (
 			employment OR
 			skill* OR
-			work
+			+work
 		)
 	) OR
 	(
@@ -95,7 +95,7 @@
 		employability AND
 		employment AND (
 			 graduate* OR
-			 ( higher* AND education ) OR
+			 ( +higher* AND education ) OR
 			 skill*
 		)
 	) OR
@@ -163,7 +163,7 @@
 		( professional* AND competenc* ) AND (
 			education* OR
 			skill* OR
-			work
+			+work
 		)
 	) OR
 	(
@@ -173,7 +173,7 @@
 			employee* OR
 			employer* OR
 			employment OR
-			work OR
+			+work OR
 			( vocational AND education )
 		)
 	) OR
@@ -193,7 +193,7 @@
 		)
 	) OR
 	(
-		( skill AND for ) AND ( employment OR work )
+		( skill AND +for ) AND ( employment OR +work )
 	) OR
 	(
 		trainee* AND (
@@ -217,9 +217,9 @@
 		skill* OR
 		(
 			(
-				work-based OR
+				+work-based OR
 				workbased OR
-				work-integrated OR
+				+work-integrated OR
 				workintegrated
 			) AND
 			learning
@@ -251,7 +251,7 @@
 			employee* OR
 			employer* OR
 			employment OR
-			( for AND work ) OR
+			( +for AND +work ) OR
 			workforce
 		) AND (
 			education* OR
@@ -282,7 +282,7 @@
 		) AND (
 			education* OR
 			skill* OR
-			work
+			+work
 		)
 	) OR
 	(
@@ -327,8 +327,8 @@
 	) OR
 	(
 		(
-			( school-work* OR schoolwork* ) AND transition* OR
-			( Transition AND from AND school AND to AND work )
+			( school-+work* OR schoolwork* ) AND transition* OR
+			( Transition AND +from AND school AND +to AND +work )
 		) AND (
 			education* OR
 			school* OR
@@ -339,7 +339,7 @@
 	(
 		(
 			internship OR
-			school-to-work OR
+			school-+to-+work OR
 			schooltowork
 		) AND (
 			curricul* OR

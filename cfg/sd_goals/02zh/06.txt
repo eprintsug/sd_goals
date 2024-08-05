@@ -18,7 +18,7 @@
 	"conservation agriculture" OR
 	"conservation tillage" OR
 	"conventional and organic" OR
-	"conversion to organic" OR
+	"conversion +to organic" OR
 	"crop-livestock" OR
 	"croplivestock" OR
 	"CWD" OR
@@ -110,7 +110,7 @@
 			vegetable OR
 			wheat
  			rice OR
- 			sugarcane OR
+ 			sugarcane
 		)
 	) OR
 	(
@@ -121,7 +121,7 @@
 	(
 		"food system sustainability" OR (
 			"food system" AND
-			( good AND practice ) AND
+			( +good AND practice ) AND
 			sustainab*
 		)
 	) OR

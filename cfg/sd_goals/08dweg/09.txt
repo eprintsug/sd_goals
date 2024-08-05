@@ -5,7 +5,7 @@
 "lowcarbon economy" OR
 "sustainable development agenda" OR
 "sustainable irrigation" OR
-"taxes on pollution" OR
+"taxes +on pollution" OR
 ( "Agenda 21" AND economic* ) OR
 ( "CO2ND economic AND ( development OR growth ) ) OR
 ( "energy consumption" AND economic AND ( development OR growth ) ) OR

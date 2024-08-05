@@ -32,4 +32,4 @@
 ( "fair trade" AND NOT "fair trade-off " ) OR
 ( "fair trade" AND NOT "fair tradeoff " ) OR
 fairtrade OR
-"Aid for trade"
+"Aid +for trade"

@@ -87,7 +87,7 @@
 		) AND (
 			arsenic OR
 			contaminat* OR
-			( exposure AND to AND lead ) OR
+			( exposure AND +to AND lead ) OR
 			nitrate* OR
 			purification OR
 			rural OR
@@ -121,7 +121,7 @@
 			Chlorination OR
 			( clean AND water* ) OR
 			"dbps" OR
-			( deep AND well* ) OR
+			( deep AND +well* ) OR
 			Desalinated OR
 			( disinfection AND by-product ) OR
 			( disinfection AND byproduct ) OR
@@ -130,14 +130,14 @@
 			fluorine OR
 			Fluorosis OR
 			( ground AND water* ) OR
-			( groundwater* AND well* ) OR
+			( groundwater* AND +well* ) OR
 			Haloacetic OR
 			Haloaceto-nitrile* OR
 			Haloacetonitrile* OR
 			( harvest* AND rainwater* ) OR
 			( harvest* AND rain AND water* ) OR
 			ozonation OR
-			point-of-use OR
+			point-of-+use OR
 			pointofuse OR
 			( rain AND water* AND harvest* ) OR
 			( rain AND water* ) OR
@@ -150,13 +150,13 @@
 			( sustainable AND water* ) OR
 			"THMs" OR
 			trihalomethane* OR
-			( Tube AND well ) OR
+			( Tube AND +well ) OR
 			( underground AND water* ) OR
 			( water* AND analyses ) OR
 			( water* AND analysis ) OR
 			( water* AND quality ) OR
-			( well AND water* ) OR
-			well* OR
+			( +well AND water* ) OR
+			+well* OR
 			(
 				(
 					filter* OR
@@ -174,7 +174,7 @@
 				)
 			) OR (
 				groundwater* AND
-				well*
+				+well*
 			) OR (
 				(
 					filter* OR
@@ -205,5 +205,5 @@
 		)
 	)
 ) AND NOT (
-	"non potable"
+	"+non potable"
 )

@@ -40,7 +40,7 @@
 "Aratinga guarouba" OR
 "Arkansia wheeleri" OR
 "Assiminea pecos" OR
-"at-risk species" OR
+"+at-risk species" OR
 "Ateles geoffroyi frontatus" OR
 "Athearnia anthonyi" OR
 "Atrichornis clamosus" OR
@@ -713,7 +713,7 @@
 		"extinction recovery" OR
 		"extinction thresholds" OR
 		"predicting extinction" OR
-		"probability of extinction" OR
+		"probability +of extinction" OR
 		"rare and endangered" OR
 		"recovery plan" OR
 		"recovery planning" OR
@@ -726,7 +726,7 @@
 ) OR
 (
 	(
-		"conservation of biodiversity" OR
+		"conservation +of biodiversity" OR
 		"critically endangered" AND "species" OR
 		"predator-prey dynamics" OR
 		"predator-prey interaction" OR
@@ -734,8 +734,8 @@
 		"predatorprey dynamics" OR
 		"predatorprey interaction" OR
 		"predatorprey interactions" OR
-		"risk of extinction" AND "species" OR
-		"species at risk" OR
+		"risk +of extinction" AND "species" OR
+		"species +at risk" OR
 		"species conservation" OR
 		"Species survival" OR
 		"turtle conservation" OR
@@ -756,12 +756,12 @@
 		( "species" AND "endangered" AND ( "predation" OR "predator" ) ) OR
 		( "threatened" AND "extinction" ) OR
 		( "threatened" AND "extinction" AND "species" ) OR
-		( extinction AND probabilit* AND "species" ) OR
+		( extinction AND probabilit* AND "species" )
 	) AND ( "inland" OR "terrestrial" OR "forest" )
 ) OR
 (
 	(
-		"conservation of biodiversity" OR
+		"conservation +of biodiversity" OR
 		"endangered species" OR
 		"endangered status" OR
 		"endangered subspecies" OR
@@ -773,28 +773,28 @@
 		"predatorprey dynamics" OR
 		"predatorprey interaction" OR
 		"predatorprey interactions" OR
-		"species at risk" OR
+		"species +at risk" OR
 		"species conservation" OR
 		"Species extinction" OR
 		"Species survival" OR
 		"threatened species" OR
 		"turtle conservation" OR
 		"wildlife conservation" OR
-		( "captive breeding" AND ( "endangered" OR "status of" OR "threatened" ) ) OR
+		( "captive breeding" AND ( "endangered" OR "status +of" OR "threatened" ) ) OR
 		( "conservation status" AND "species" ) OR
 		( "critically endangered" AND "species" ) OR
 		( "extinction" AND ( "predation" OR "species" OR "turtles" OR "predator" OR "prey" OR "predators" OR "preys" ) ) OR
 		( "IUCN" AND "species" ) OR
 		( "overhunting" AND conserv* ) OR
 		( "Predation" AND "threat" AND "species" ) OR
-		( "risk of extinction" AND "species" ) OR
+		( "risk +of extinction" AND "species" ) OR
 		( "species" AND "endangered" AND ( "predation" OR "predator" ) ) OR
 		( "threatened" AND "extinction" AND "species" ) OR
 		( "wildlife" AND "extinction" ) OR
 		( ( "captive breeding" AND "endangered" ) AND ( animal* OR "species" ) ) OR
 		( ( Population* AND decline* ) AND ( animal* OR "species" ) ) OR
 		( biodiversity AND "extinction" ) OR
-		( extinction AND probabilit* ) OR
+		( extinction AND probabilit* )
 	) AND NOT ( marine OR ocean OR sea )
 ) OR
 ( ( "florida panther" OR "giant panda" OR "grizzly" ) AND ( "endangered" OR conserv* ) ) OR
@@ -837,9 +837,9 @@
 (
 	conservation AND (
 		"breeding" OR
-		"of bats" OR
-		"of birds" OR
-		"of species"
+		"+of bats" OR
+		"+of birds" OR
+		"+of species"
 	)
 ) OR
 (
@@ -891,6 +891,6 @@
 		"medicinal plant" OR
 		"orchid" OR
 		"orchids" OR
-		"plant" OR
+		"plant"
 	)
-) OR
+)

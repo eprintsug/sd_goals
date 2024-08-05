@@ -19,15 +19,15 @@
 	"photo-electro-chemical cells" OR
 	"photo-electrochemical cell" OR
 	"photo-electrochemical cells" OR
-	"photo-electrochemical generation of hydrogen" OR
+	"photo-electrochemical generation +of hydrogen" OR
 	"photoelectro-chemical cell" OR
 	"photoelectro-chemical cells" OR
 	"photoelectrolysis water splitting" OR
 	"PV energy" OR
 	"PV power" OR
 	"solar and wind energy" OR
-	"Solar Beam Down Tower" OR
-	"Solar Beam Down Towers" OR
+	"Solar Beam +down Tower" OR
+	"Solar Beam +down Towers" OR
 	"solar calcination plant" OR
 	"solar cavity receiver" OR
 	"solar chimney power plant" OR
@@ -69,7 +69,7 @@
 	( "CSP plant" AND "solar" ) OR
 	( "Desiccants" AND "solar energy" ) OR
 	( "DSSC" AND "dye" ) OR
-	( "Maximum Power Point Tracking" AND ( "PV module" OR "solar" ) OR
+	( "Maximum Power +point Tracking" AND ( "PV module" OR "solar" ) ) OR
 	( "mc-Si" AND "PV" ) OR
 	( "Molten Salt" AND "solar" ) OR
 	( "open-circuit voltage" AND "solar" ) OR
@@ -157,15 +157,15 @@
 			furnace* OR
 			park* OR
 			plant* OR
-			still* OR
-			track* OR
+			+still* OR
+			track*
 		)
 	) OR
 	( thermal AND solar AND collector* ) OR
 	( Trough AND concentrator* ) OR
 	heliostat* OR
 	photovoltaic* OR
-	thermophotovoltaic* OR
+	thermophotovoltaic*
 ) AND NOT (
 	"deep space" OR
 	"MARS" OR
@@ -177,5 +177,5 @@
 	"space mission" OR
 	"space missions" OR
 	"space station" OR
-	spacecraft* OR
+	spacecraft*
 )

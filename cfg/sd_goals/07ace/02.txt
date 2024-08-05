@@ -6,7 +6,7 @@
 "energy-saving measures" OR
 "EnergyPlus" OR
 "energysaving measures" OR
-"high-energy rechargeable" OR
+"+high-energy rechargeable" OR
 "highenergy rechargeable" OR
 "ISO 50001" OR
 "Leadership in Energy and Environmental Design" OR
@@ -43,8 +43,8 @@
 		"beryllium air" OR
 		"calcium-air" OR
 		"germanium-air" OR
-		"high energy storage" OR
-		"high power storage" OR
+		"+high energy storage" OR
+		"+high power storage" OR
 		"iron-air" OR
 		"Li FePO4" OR
 		"li-ion" OR
@@ -86,7 +86,7 @@
 		( energy* AND efficienc* ) OR
 		( lithium* AND polymer* ) OR
 		( lithium* AND sulfur* ) OR
-		( next* AND generation* )
+		( +next* AND generation* )
 	) AND ( batteries" OR "battery" )
 ) OR
 ( ( "eco-friendly" OR "ecofriendly" ) AND ( "architecture" OR building* OR "house" OR "houses" OR housing* OR "home" OR "homes" OR "household" ) ) OR
@@ -105,7 +105,7 @@
 		furnace* OR
 		heat* OR
 		industr* OR
-		"internet of things" OR
+		"internet +of +things" OR
 		"IoT" OR
 		"manufacturing" OR
 		motor* OR
@@ -152,7 +152,7 @@
 ) OR
 ( advanced* AND energy* AND efficien* ) OR
 ( advanced* AND energy* AND saving* ) OR
-( better AND energy AND efficien* ) OR
+( +better AND energy AND efficien* ) OR
 ( deep* AND energy* AND retrofit* ) OR
 ( efficien* AND cooling ) OR
 ( efficien* AND heating ) OR
@@ -169,7 +169,7 @@
 		tech*
 	)
 ) OR
-( higher AND energy AND efficien* ) OR
+( +higher AND energy AND efficien* ) OR
 (
 	LEED AND (
 		building OR

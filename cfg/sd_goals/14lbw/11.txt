@@ -1,20 +1,20 @@
-"Policy for the Small Scale Fisheries Sector" OR
+"Policy +for +the +small Scale Fisheries Sector" OR
 ( 
 	( "small-scale fisheries" OR "smallscale fisheries" ) AND ( 
-		"access to infrastructure" OR
-		"access to resource" OR
+		"access +to infrastructure" OR
+		"access +to resource" OR
 		"co-management" OR
 		"comanagement OR
 		"Community-based management" OR
 		"cooperative management" OR
 		"Interactive governance" OR
-		"ownership rights" OR
-		"tragedy of the commons" OR
+		"ownership +rights" OR
+		"tragedy +of +the commons" OR
 		( access* AND control* ) OR
 		( decision* AND mak* ) OR
 		( manag* AND overcapacity* ) OR
 		( Power* AND asymmetr* ) OR
-		( use* AND control* ) OR
+		( +use* AND control* ) OR
 		policies OR
 		policy OR
 		poverty
@@ -29,8 +29,8 @@
 		"fisheries management" OR
 		"food security" OR
 		"Interactive governance" OR
-		"tragedy of the commons" OR
-		( access* AND 'to' AND fish* ) OR
+		"tragedy +of +the commons" OR
+		( access* AND \'+to\' AND fish* ) OR
 		( access* AND control* ) OR
 		( decision* AND mak* ) OR
 		( decision* AND power* ) OR
@@ -58,8 +58,8 @@
 		"Communitybased management" OR
 		"fisheries management" OR
 		"food security" OR
-		"ownership rights" OR
-		( access* AND 'to' AND fish* ) OR
+		"ownership +rights" OR
+		( access* AND \'+to\' AND fish* ) OR
 		( decision* AND mak* ) OR
 		( sustainable* AND livelihood* ) OR
 		community-based OR
@@ -99,8 +99,8 @@
 		"Communitybased management" OR
 		"fisheries management" OR
 		"food security" OR
-		"tragedy of the commons" OR
-		( access* AND 'to' AND fish* ) OR
+		"tragedy +of +the commons" OR
+		( access* AND \'+to\' AND fish* ) OR
 		( decision* AND mak* ) OR
 		( sustainable* AND livelihood* ) OR
 		community-based OR

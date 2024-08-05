@@ -4,7 +4,7 @@
 "homestay programme" OR
 "overtourism" OR
 "sustainability in tourism" OR
-"sustainable development of tourism" OR
+"sustainable development +of tourism" OR
 "sustainable rural tourism" OR
 ( "airline" AND ( environmental AND impact ) ) OR
 ( "cultural heritage tourism" AND ( protect* OR sustain* ) ) OR
@@ -26,12 +26,12 @@
 		"ecological" OR
 		"ecological" OR
 		"ecologically sensitive" OR
-		"effect of" OR
-		"effects of" OR
+		"effect +of" OR
+		"effects +of" OR
 		"ethical" OR
 		"green" OR
 		"integrated development" OR
-		"last chance" OR
+		"+last chance" OR
 		"management" OR
 		"nature-based" OR
 		"naturebased" OR
@@ -60,9 +60,9 @@
 (
 	visitor* AND (
 		( environment* AND impact* ) OR
-		( protected* AND area* ) OR
-		sustainability
-		sustainable OR
+		( protected* AND +area* ) OR
+		sustainability OR
+		sustainable
 	)
 ) OR
 ecotourism OR

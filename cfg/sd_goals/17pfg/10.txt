@@ -32,7 +32,7 @@ AND (
 	inequitab* OR
 	multilateral* OR
 	non-discriminat* OR
-	peer-to-peer OR
+	peer-+to-peer OR
 	sustainab* OR
 	universal
 )

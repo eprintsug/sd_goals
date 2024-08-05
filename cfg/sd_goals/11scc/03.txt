@@ -1,5 +1,5 @@
 (
-	"access to housing" OR
+	"access +to housing" OR
 	"adequate housing" OR
 	"affordability housing" OR
 	"affordable housing" OR
@@ -39,7 +39,7 @@
 	"residential mobility" OR
 	"residential satisfaction" OR
 	"residential segregation" OR
-	"right to housing" OR
+	"+right +to housing" OR
 	"senior housing" OR
 	( slum AND ( settlement OR 	"settlements" OR 	"upgrade" OR 	"upgrading" ) ) OR
 	"social housing" OR
@@ -60,16 +60,16 @@
 	( "social housing" AND ( building OR policy OR policies ) ) OR
 	( "urban slums" AND "internet" ) OR
 	( "urban villages" AND "development" ) OR
-	( ( "quality of life" AND "housing quality" ) AND NOT ( farm ) ) OR
+	( ( "quality +of life" AND "housing quality" ) AND NOT ( farm ) ) OR
 	( ( housing* AND project* ) AND ( "development" OR "public housing" OR "redevelopment" ) ) OR
 	( ( policies OR policy ) AND ( "housing deprivation" OR "urban renewal" ) ) OR
 	( ( public* AND housing* ) AND ( "development" OR project* OR redevelopment* ) ) OR
 	( homeless* AND "housing" ) OR
 	( "housing" AND "service" AND ( "ageing" OR "disabled" OR "elderly" OR "seniors" ) ) OR
-	( housing* AND ( "slum" OR "slums" OR ( welfare AND state ) OR intervention* OR program* OR redevelopment* OR Voucher* OR "affordability" OR "allowance" OR "allowances" OR "association" OR "associations" OR "career" OR "careers " OR "choice voucher" OR "developments" OR "improvement" OR "market" OR "markets" OR "mobility" OR "needs" OR "policies" OR "policy" OR "programs" OR "provision" OR "regulation" OR "research" OR "rights" OR "shortage" OR "studies" OR subsid* OR "supply" OR "sustainability" OR "tax credit" OR "tax credits" OR "taxation" OR "tenure" OR "welfare" ) ) OR
+	( housing* AND ( "slum" OR "slums" OR ( welfare AND +state ) OR intervention* OR program* OR redevelopment* OR Voucher* OR "affordability" OR "allowance" OR "allowances" OR "association" OR "associations" OR "career" OR "careers " OR "choice voucher" OR "developments" OR "improvement" OR "market" OR "markets" OR "mobility" OR "+needs" OR "policies" OR "policy" OR "programs" OR "provision" OR "regulation" OR "research" OR "+rights" OR "shortage" OR "studies" OR subsid* OR "supply" OR "sustainability" OR "tax credit" OR "tax credits" OR "taxation" OR "tenure" OR "welfare" ) ) OR
 	( informal* AND settlement* ) OR
 	( slum* AND improvement* ) OR
-	( squatter* AND settlement* ) OR
+	( squatter* AND settlement* )
 ) AND NOT (
 	( health OR animal ) AND (
 	"allergic" OR
@@ -79,11 +79,11 @@
 	"blood pressure" OR
 	"cancer" OR
 	"child health" OR
-	"children's health" OR
+	"children\'s health" OR
 	"depression" OR
 	"depressive symptoms" OR
-	"determinant of health" OR
-	"determinants of health" OR
+	"determinant +of health" OR
+	"determinants +of health" OR
 	"education health" OR
 	"environmental enrichment" OR
 	"feeding" OR
@@ -95,7 +95,7 @@
 	"health impact assessment" OR
 	"health intervention" OR
 	"health literacy" OR
-	"health of children" OR
+	"health +of children" OR
 	"health outcomes" OR
 	"health promotion and" OR
 	"health promotion" OR

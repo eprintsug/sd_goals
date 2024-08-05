@@ -3,8 +3,8 @@
 	( adult* AND literacy* AND program* ) OR
 	( alphabet AND knowledge ) OR
 	( ( comprehension OR development ) AND reading ) OR
-	( early AND reading ) OR
-	( ( early* AND literacy* ) AND ( develop* OR learning* OR skill* ) ) OR
+	( +early AND reading ) OR
+	( ( +early AND literacy* ) AND ( develop* OR learning* OR skill* ) ) OR
 	(
 		education* AND (
 			effectiveness OR
@@ -14,14 +14,14 @@
 		)
 	) OR
 	( emergent AND ( literacy" OR reading OR writing ) ) OR
-	( first AND graders' AND development ) OR
-	( ( high-quality OR highquality ) AND education ) OR
+	( +first AND graders\' AND development ) OR
+	( ( +high-quality OR highquality ) AND education ) OR
 	( knowledge AND skill AND development ) OR
-	( ( learning AND to ) AND ( count OR read ) ) OR
+	( ( learning AND +to ) AND ( count OR read ) ) OR
 	( letter AND knowledge ) OR
 	(
 		literacy AND (
-			catch-up OR
+			catch-+up OR
 			catchup OR
 			development OR
 			disorder* OR
@@ -35,7 +35,7 @@
 	( performance AND in AND reading ) OR
 	( phonemic AND awareness ) OR
 	( phonological AND ( awareness OR disorder* ) ) OR
-	( ( Quality AND of ) AND ( teaching OR teacher* ) ) OR
+	( ( Quality AND +of ) AND ( teaching OR teacher* ) ) OR
 	(
 		reading AND (
 			acquisition" OR
@@ -60,7 +60,7 @@
 			effectiveness OR
 			improvement* OR
 			quali* OR
-			( young* AND child* )
+			( +young* AND child* )
 		)
 	) OR
 	( writing* AND skill* ) OR
@@ -70,7 +70,7 @@
 	) OR
 	(
 		( alphabetisation OR alphabetization ) AND (
-			( early AND child* ) OR
+			( +early AND child* ) OR
 			education* OR
 			school*
 		)
@@ -94,14 +94,14 @@
 		teaching
 	) OR
 	(
-		( early AND childhood AND education ) AND (
-			better OR
+		( +early AND childhood AND education ) AND (
+			+better OR
 			improve* OR
 			"improving"
 		)
 	) OR
 	(
-		( early AND child* ) AND
+		( +early AND child* ) AND
 		( inclusive AND environment ) AND
 		teacher*
 	) OR
@@ -125,7 +125,7 @@
 	) OR
 	(
 		( learning* AND tool* ) AND (
-			better OR
+			+better OR
 			improve* OR
 			"improving"
 		) AND (
@@ -155,14 +155,14 @@
 		)
 	) OR
 	(
-		( Quality AND of AND learning ) AND (
-			( higher* AND education ) OR
+		( Quality AND +of AND learning ) AND (
+			( +higher* AND education ) OR
 			school*
 		)
 	) OR
 	(
 		( reading* AND abilit* ) AND (
-			better OR
+			+better OR
 			improve* OR
 			"improving"
 		) AND (
@@ -172,7 +172,7 @@
 	) OR
 	(
 		( student* AND achievement* ) AND (
-			better OR
+			+better OR
 			improve* OR
 			"improving" OR
 			increase* OR
@@ -195,8 +195,8 @@
 			( academic* AND ( achievement* OR performance* ) ) OR
 			( reading* AND performance* )
 		) AND (
-			better OR
-			"early" OR
+			+better OR
+			"+early" OR
 			improve* OR
 			"improving" OR
 			increase* OR
@@ -219,7 +219,7 @@
 		) AND
 		school* AND (
 			achievement OR
-			better OR
+			+better OR
 			improve* OR
 			"improving" OR
 			increase* OR
@@ -230,7 +230,7 @@
 	(
 		(
 			( ( day* AND care* ) OR
-			( early* AND childhood* ) OR
+			( +early AND childhood* ) OR
 			kindergarten* ) AND program*
 		) AND
 		quality
@@ -249,7 +249,7 @@
 		(
 			( mathematical OR reading OR writing ) AND performance
 		) AND (
-			better OR
+			+better OR
 			improve* OR
 			"improving" OR
 			increase* OR
@@ -262,14 +262,14 @@
 	) OR
 	(
 		(
-			( "student's" OR student OR "students'" ) AND learning
+			( "student\'s" OR student OR "students'" ) AND learning
 		) AND (
-			better OR
+			+better OR
 			improve* OR
 			"improving"
 		)
 	) OR
-	( early AND writing ) OR
+	( +early AND writing )
 ) AND NOT (
 	( breast* AND cancer* ) OR
 	( dry AND eye ) OR

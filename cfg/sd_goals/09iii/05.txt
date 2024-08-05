@@ -7,8 +7,8 @@
 "financing enterprise" OR
 "financing firm" OR
 "financing manufacturing industry" OR
-"financing small enterprise" OR
-"financing small firm" OR
+"financing +small enterprise" OR
+"financing +small firm" OR
 "financing SME" OR
 "financing SMEs" OR
 "firm finance" OR
@@ -50,25 +50,25 @@
 "Fund microfirms" OR
 "Fund microindustries" OR
 "Fund microindustry" OR
-"Fund small business" OR
-"Fund small businesses" OR
-"Fund Small enterprise" OR
-"Fund Small entrepreneur" OR
-"Fund Small entrepreneurs" OR
-"Fund small firm" OR
-"Fund small firms" OR
-"Fund Small industries" OR
-"Fund Small industry" OR
-"Fund Small scale enterprise" OR
-"Fund Small scale industries" OR
-"Fund Small scale industry" OR
-"Fund small sized business" OR
-"Fund small sized businesses" OR
-"Fund Small sized enterprise" OR
-"Fund small sized firm" OR
-"Fund small sized firms" OR
-"Fund Small sized industries" OR
-"Fund Small sized industry" OR
+"Fund +small business" OR
+"Fund +small businesses" OR
+"Fund +small enterprise" OR
+"Fund +small entrepreneur" OR
+"Fund +small entrepreneurs" OR
+"Fund +small firm" OR
+"Fund +small firms" OR
+"Fund +small industries" OR
+"Fund +small industry" OR
+"Fund +small scale enterprise" OR
+"Fund +small scale industries" OR
+"Fund +small scale industry" OR
+"Fund +small sized business" OR
+"Fund +small sized businesses" OR
+"Fund +small sized enterprise" OR
+"Fund +small sized firm" OR
+"Fund +small sized firms" OR
+"Fund +small sized industries" OR
+"Fund +small sized industry" OR
 "fund SME" OR
 "fund SMEs" OR
 "manufacturing industry finance" OR
@@ -116,34 +116,34 @@
 		"microfirms" OR
 		"microindustries" OR
 		"microindustry" OR
-		"small businesses" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"small firm" OR
-		"small firms" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
-		"small sized business" OR
-		"small sized businesses" OR
-		"Small sized enterprise" OR
-		"small sized firm" OR
-		"small sized firms" OR
-		"Small sized industries" OR
-		"Small sized industry" OR
+		"+small businesses" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small firm" OR
+		"+small firms" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
+		"+small sized business" OR
+		"+small sized businesses" OR
+		"+small sized enterprise" OR
+		"+small sized firm" OR
+		"+small sized firms" OR
+		"+small sized industries" OR
+		"+small sized industry" OR
 		"micro-industries" OR
 		( enterprise AND ( "SMEs" OR "SME" ) ) OR
-		( small AND business ) OR
+		( +small AND business ) OR
 		microenterprise 
 	) 
 ) OR
 ( "Fund enterprise" AND ( "SMEs" OR "SME" ) ) OR
 ( 
 	( 
-		"access to finance" OR
+		"access +to finance" OR
 		"alternative investment" OR
 		"capital finance" OR
 		"capital Investment" OR
@@ -210,26 +210,26 @@
 		"microfirms" OR
 		"microindustries" OR
 		"microindustry" OR
-		"small businesses" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"small firm" OR
-		"small firms" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
-		"small sized business" OR
-		"small sized businesses" OR
-		"Small sized enterprise" OR
-		"small sized firm" OR
-		"small sized firms" OR
-		"Small sized industries" OR
-		"Small sized industry" OR
+		"+small businesses" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small firm" OR
+		"+small firms" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
+		"+small sized business" OR
+		"+small sized businesses" OR
+		"+small sized enterprise" OR
+		"+small sized firm" OR
+		"+small sized firms" OR
+		"+small sized industries" OR
+		"+small sized industry" OR
 		( enterprise AND ( "SMEs" OR "SME" ) ) OR
-		( small AND business ) OR
+		( +small AND business ) OR
 		microenterprise 
 	) 
 ) OR
@@ -293,31 +293,31 @@
 		"microfirms" OR
 		"microindustries" OR
 		"microindustry" OR
-		"small businesses" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"small firm" OR
-		"small firms" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
-		"small sized business" OR
-		"small sized businesses" OR
-		"Small sized enterprise" OR
-		"Small sized enterprise" OR
-		"small sized firm" OR
-		"small sized firms" OR
-		"Small sized industries" OR
-		"Small sized industries" OR
-		"Small sized industry" OR
-		"Small sized industry" OR
-		"start-up" OR
+		"+small businesses" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small firm" OR
+		"+small firms" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
+		"+small sized business" OR
+		"+small sized businesses" OR
+		"+small sized enterprise" OR
+		"+small sized enterprise" OR
+		"+small sized firm" OR
+		"+small sized firms" OR
+		"+small sized industries" OR
+		"+small sized industries" OR
+		"+small sized industry" OR
+		"+small sized industry" OR
+		"start-+up" OR
 		( enterprise AND ( "SMEs" OR 		"SME" ) ) OR
-		( small AND business ) OR
-		microenterprise OR
+		( +small AND business ) OR
+		microenterprise
 	) 
 ) OR
 ( 
@@ -336,14 +336,14 @@
 		"microenterprise" OR
 		"microindustries" OR
 		"microindustry" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
 		microenterprise 
 	) 
 ) OR
@@ -358,16 +358,16 @@
 		"medium scale industries" OR
 		"medium scale industry" OR
 		"micro-enterprise" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
 		microenterprise 
-			) 
+	) 
 ) OR
 ( 
 	( lending OR loan ) AND ( 
@@ -408,26 +408,26 @@
 		"microfirms" OR
 		"microindustries" OR
 		"microindustry" OR
-		"small businesses" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"small firm" OR
-		"small firms" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
-		"small sized business" OR
-		"small sized businesses" OR
-		"Small sized enterprise" OR
-		"small sized firm" OR
-		"small sized firms" OR
-		"Small sized industries" OR
-		"Small sized industry" OR
+		"+small businesses" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small firm" OR
+		"+small firms" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
+		"+small sized business" OR
+		"+small sized businesses" OR
+		"+small sized enterprise" OR
+		"+small sized firm" OR
+		"+small sized firms" OR
+		"+small sized industries" OR
+		"+small sized industry" OR
 		( enterprise AND ( "SMEs" OR "SME" ) ) OR
-		( small AND business ) OR
+		( +small AND business ) OR
 		microenterprise 
 	) 
 ) OR
@@ -471,26 +471,26 @@
 		"microfirms" OR
 		"microindustries" OR
 		"microindustry" OR
-		"small businesses" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"small firm" OR
-		"small firms" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
-		"small sized business" OR
-		"small sized businesses" OR
-		"Small sized enterprise" OR
-		"small sized firm" OR
-		"small sized firms" OR
-		"Small sized industries" OR
-		"Small sized industry" OR
+		"+small businesses" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small firm" OR
+		"+small firms" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
+		"+small sized business" OR
+		"+small sized businesses" OR
+		"+small sized enterprise" OR
+		"+small sized firm" OR
+		"+small sized firms" OR
+		"+small sized industries" OR
+		"+small sized industry" OR
 		( enterprise AND ( "SMEs" OR "SME" ) ) OR
-		( small AND business ) OR
+		( +small AND business ) OR
 		microenterprise 
 	) 
 ) OR
@@ -533,28 +533,28 @@
 		"microfirms" OR
 		"microindustries" OR
 		"microindustry" OR
-		"small businesses" OR
-		"Small enterprise" OR
-		"Small entrepreneur" OR
-		"Small entrepreneurs" OR
-		"small firm" OR
-		"small firms" OR
-		"Small industries" OR
-		"Small industry" OR
-		"Small scale enterprise" OR
-		"Small scale industries" OR
-		"Small scale industry" OR
-		"small sized business" OR
-		"small sized businesses" OR
-		"Small sized enterprise" OR
-		"small sized firm" OR
-		"small sized firms" OR
-		"Small sized industries" OR
-		"Small sized industry" OR
+		"+small businesses" OR
+		"+small enterprise" OR
+		"+small entrepreneur" OR
+		"+small entrepreneurs" OR
+		"+small firm" OR
+		"+small firms" OR
+		"+small industries" OR
+		"+small industry" OR
+		"+small scale enterprise" OR
+		"+small scale industries" OR
+		"+small scale industry" OR
+		"+small sized business" OR
+		"+small sized businesses" OR
+		"+small sized enterprise" OR
+		"+small sized firm" OR
+		"+small sized firms" OR
+		"+small sized industries" OR
+		"+small sized industry" OR
 		"micro-industries" OR
 		( enterprise AND ( "SMEs" OR "SME" ) ) OR
-		( small AND business ) OR
+		( +small AND business ) OR
 		microenterprise 
 	) 
 ) OR
-( credit AND ( "Small scale industries" OR "Small scale industry" ) )
+( credit AND ( "+small scale industries" OR "+small scale industry" ) )

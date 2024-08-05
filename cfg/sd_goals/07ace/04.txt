@@ -46,10 +46,10 @@
 "NSTX" OR
 "NSTX" OR
 "Ocean Thermal Energy" OR
-"off shore wind" OR
+"+off shore wind" OR
 "Offshore hydroelectric" OR
 "offshore wind" OR
-"on shore wind" OR
+"+on shore wind" OR
 "onshore wind" OR
 "OTEC plant" OR
 "OTEC Power plant" OR
@@ -95,7 +95,7 @@
 ( "deuterium" AND "fusion" AND "reactor" ) OR
 ( "divertor" AND "fusion" ) OR
 ( "energy converter" AND "tidal" ) OR
-( "first wall" AND ( "fusion" OR "plasma" ) ) OR
+( "+first wall" AND ( "fusion" OR "plasma" ) ) OR
 ( "gearbox" AND "wind" ) OR
 ( "magnetic confinement" AND "fusion" ) OR
 ( "magnetohydrodynamic" AND "fusion" ) OR
@@ -138,7 +138,7 @@
 ( "power plant" AND "fusion" ) OR
 ( "Power-Take-Off" AND ( "ocean" OR "tidal" OR "wave" ) ) OR
 ( "PTO system" AND "wave" ) OR
-( "rotor side converter" AND "wind" ) OR
+( "rotor +side converter" AND "wind" ) OR
 ( "stream generator" AND "tidal" ) OR
 ( "tf coil" AND ( "fusion" OR "tokamak" OR "reactor" ) ) OR
 ( "tfmc" AND NOT ( "Monte Carlo" ) ) OR
@@ -147,7 +147,7 @@
 ( "tritium" AND "fusion" AND "reactor" ) OR
 ( "vacuum vessel" AND ( "fusion" OR "tokamak" OR "reactor" ) ) OR
 (
-	"wells turbine" AND (
+	"+wells turbine" AND (
 		"ocean" OR
 		"OWC" OR
 		"water column" OR
@@ -202,7 +202,7 @@
 		resource*
 	)
 ) OR
-( ( "High-confinement mode" OR "H-mode" ) AND ( "fusion" OR "tokamak" OR "reactor" ) )
+( ( "+high-confinement mode" OR "H-mode" ) AND ( "fusion" OR "tokamak" OR "reactor" ) )
 (
 	( "salinity gradient energy" OR "salinity gradient power" ) AND (
 		marine OR
@@ -365,7 +365,7 @@
 		floating* OR
 		marine* OR
 		ocean OR
-		wells* OR
+		+wells* OR
 		wind
 	)
 ) OR

@@ -1,26 +1,26 @@
 (
-	( children's AND rights AND education ) OR
+	( children\'s AND +rights AND education ) OR
 	( citizenship* AND educat* ) OR
 	eco-school* OR
 	ecopedagogy OR
 	ecoschool* OR
 	(
-		( educating AND for ) AND (
+		( educating AND +for ) AND (
 			sustainability OR
 			( cultural AND diversity ) OR
 			( gender AND equality ) OR
 			( gender AND equity ) OR
-			( human AND rights ) OR
-			peace OR
+			( human AND +rights ) OR
+			peace
 		)
 	) OR
 	( Educational AND unsustainability ) OR
 	"environmental education" OR
 	"Environmental science education" OR
-	( ( human* AND right* ) AND ( education* OR learn* OR training* ) ) OR
+	( ( human* AND +right* ) AND ( education* OR learn* OR training* ) ) OR
 	"Learning about sustainability" OR
-	learning for sustainability" OR
-	( legal* AND rights* AND education* ) OR
+	learning +for sustainability" OR
+	( legal* AND +rights* AND education* ) OR
 	"renewable energy education" OR
 	(
 		sustainability AND (
@@ -38,7 +38,7 @@
 		(
 			education OR
 			"engineering education" OR
-			( higher* AND education )
+			( +higher* AND education )
 		)
 	) OR
 	( Sustainable AND ( education OR learning ) ) OR
@@ -58,7 +58,7 @@
 	) OR
 	(
 		curricul* AND
-		( higher* AND education ) AND
+		( +higher* AND education ) AND
 		( Human AND sustainability )
 	) OR
 	(
@@ -117,10 +117,10 @@
 		( teacher AND education )
 	) OR
 	(
-		( higher* AND education ) AND (
+		( +higher* AND education ) AND (
 			( green* AND initiative* ) OR
 			( promoting AND sustainability ) OR
-			"raise the environmental awareness"
+			"raise +the environmental awareness"
 		)
 	) OR
 	(
@@ -150,7 +150,7 @@
 	) OR
 	(
 		( Public* AND education* ) AND (
-			( environmental* AND problem* ) OR
+			( environmental* AND +problem* ) OR
 			( sustainability* AND attitude* )
 		)
 	) OR

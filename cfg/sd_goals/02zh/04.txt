@@ -1,9 +1,9 @@
 (
-	( "climate change" AND impact* AND "on crop production" ) OR
-	( climate AND impact* AND "on agriculture" ) OR
+	( "climate change" AND impact* AND "+on crop production" ) OR
+	( climate AND impact* AND "+on agriculture" ) OR
 	"resilient agriculture" OR
 	(
-		"adapt to climate change" AND
+		"adapt +to climate change" AND
 		grazier AND
 		resilien*
 	) OR
@@ -12,7 +12,7 @@
 		agriculture
 	) OR
 	(
-		"adaptation to climate change" AND (
+		"adaptation +to climate change" AND (
 			agricultur* OR
 			farm*
 		)
@@ -41,7 +41,7 @@
 	) OR
 	( agroforest* NEAR/2 management ) OR
 	(
-		"Better soil quality" AND (
+		"+better soil quality" AND (
 			( crop AND ( 
 				yield* OR 
 				germination" OR
@@ -183,7 +183,7 @@
 		)
 		AND manag*
 	) OR
-	( "Farmers's response" NEAR/2 Climate ) OR
+	( "Farmers\'s response" NEAR/2 Climate ) OR
 	(
 		"Fire management" AND (
 			agricultur* OR
@@ -192,7 +192,7 @@
 	) OR
 	(
 		"Fish farming" AND
-		( environmental AND problem* ) AND (
+		( environmental AND +problem* ) AND (
 			(
 			adapt* OR
 			mitigat* OR
@@ -206,7 +206,7 @@
 		( rainy AND season* ) AND 
 		"food crop production" 
 	) OR
-	( "impact of climate change" NEAR/3 agricultur* ) OR
+	( "impact +of climate change" NEAR/3 agricultur* ) OR
 	(
 		management AND "sequester carbon" AND (
 			agricultur* OR
@@ -221,8 +221,8 @@
 	) OR
 	(
 		(
-			"adaptation to drought" OR
-			"adaptation to water" OR
+			"adaptation +to drought" OR
+			"adaptation +to water" OR
 			"drought adaptability" OR
 			"drought adaptation" OR
 			"drought adaptations"
@@ -267,7 +267,7 @@
 		(
 			Climate NEAR/2 change
 		) AND
-		"adaptation to" AND
+		"adaptation +to" AND
 		(
 			agricultur* OR
 			farm* OR
@@ -463,7 +463,7 @@
 	(
 		(
 			(
-				"adapt to" NEAR/3 chang*
+				"adapt +to" NEAR/3 chang*
 			) AND (
 				agricultur* OR
 				farm*

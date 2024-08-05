@@ -2,11 +2,11 @@
 	( agrarian AND feminism ) OR
 	anti-women OR
 	antiwomen OR
-	( autonomous* AND women's AND support AND project* ) OR
+	( autonomous* AND women\'s AND support AND project* ) OR
 	( business AND women ) OR
 	"cedaw" OR
 	( denigrat* AND women ) OR
-	"economics of gender" OR
+	"economics +of gender" OR
 	( 
 		female AND ( 
 			employment OR
@@ -70,7 +70,7 @@
 	( gender-related* AND bias* ) OR
 	( gender-responsive AND budgeting ) OR
 	( genderresponsive AND budgeting ) OR
-	"gendered access to land" OR
+	"gendered access +to land" OR
 	"Gendered power balance" OR
 	( gender* AND barrier* ) OR
 	( genderrelated* AND bias* ) OR
@@ -80,9 +80,9 @@
 	( Male AND dominated AND occupation ) OR
 	( maternal AND ( autonom* OR employment ) ) OR
 	misogyn* OR
-	( New AND opportunit* AND for AND women ) OR
+	( +new AND opportunit* AND +for AND women ) OR
 	( occupational AND segregation ) OR
-	( quota AND for AND women ) OR
+	( quota AND +for AND women ) OR
 	( representation AND women ) OR
 	( sex* AND ( 
 			discriminat* OR
@@ -96,20 +96,20 @@
 	sexism OR
 	( sexist* AND attitude* ) OR
 	( sexist* AND belief* ) OR
-	( sexual AND Division AND of AND ( labour OR labor ) ) OR
+	( sexual AND Division AND +of AND ( labour OR labor ) ) OR
 	( status AND women ) OR
 	( woman* AND autonom* ) OR
 	( 
 		women* AND ( 
 			( career AND development ) OR
 			( educational AND attainment ) OR
-			( human* AND right* ) OR
+			( human* AND +right* ) OR
 			( labor AND force ) OR
 			( labour AND force ) OR
-			( land* AND right* ) OR
+			( land* AND +right* ) OR
 			( market AND opportunities ) OR
-			( on AND corporate AND board ) OR
-			( under AND representation ) OR
+			( +on AND corporate AND board ) OR
+			( +under AND representation ) OR
 			agenc* OR
 			autonomy OR
 			director* OR
@@ -125,7 +125,7 @@
 			movement* OR
 			power* OR
 			representation OR
-			right* OR
+			+right* OR
 			science OR
 			status OR
 			underrepresentation OR
@@ -185,7 +185,7 @@
 		( 
 			family AND 
 			care AND 
-			older AND 
+			+older AND 
 			women 
 		) AND
 		treat AND
@@ -197,7 +197,7 @@
 				equality AND
 				inclusion
 			) OR (
-				( household AND work ) AND
+				( household AND +work ) AND
 				unpaid
 			)
 		)
@@ -213,7 +213,7 @@
 			inequalit* OR
 			inequit* OR
 			workplace OR
-			( work AND environment )
+			( +work AND environment )
 		)
 	) OR
 	(
@@ -282,7 +282,7 @@
 			( domestic AND space ) OR
 			( global AND care AND chain ) OR 
 			(
-				( burden AND of AND care ) AND (
+				( burden AND +of AND care ) AND (
 					child* OR
 					elder*
 				)
@@ -301,7 +301,7 @@
 			) OR (
 				citizenship AND
 				gender AND
-				rights
+				+rights
 			) OR (
 				employment AND
 				motherhood
@@ -310,17 +310,17 @@
 				opportunit*
 			) OR (
 				inequit* AND
-				( higher AND education ) 
+				( +higher AND education ) 
 			) OR (
 				opportunities AND
 				education
 			) OR (
 				(
-					under-represent* OR
+					+under-represent* OR
 					Underrepresent*
 				) AND (
 					( graduate* AND stud* ) OR
-					( higher AND education ) OR
+					( +higher AND education ) OR
 					( post-secondary* AND degree* ) OR
 					( post-secondary AND education ) OR
 					( professional* AND degree* ) OR
@@ -333,7 +333,7 @@
 		)
 	)
 	(
-		( Women's AND movement ) AND (
+		( Women\'s AND movement ) AND (
 			gender AND (
 				equalit* OR
 				equit* OR
@@ -345,16 +345,16 @@
 			)
 		)
 	) OR
-	( women* AND property* AND right* ) OR 
+	( women* AND property* AND +right* ) OR 
 	(
 		women AND (
 			ownership* OR
-			( right* AND to AND property )
+			( +right* AND +to AND property )
 		)
 	) OR
 	(
 		(
-			( Access AND higher AND education ) OR
+			( Access AND +higher AND education ) OR
 			( Access AND university AND education ) OR
 			( board AND diversity ) OR
 			( employment AND equity ) OR
@@ -374,8 +374,8 @@
 	) OR
 	(
 		(
-			( domestic AND work ) OR
-			( household AND work )
+			( domestic AND +work ) OR
+			( household AND +work )
 		) AND (
 				female OR
 				gender OR
@@ -390,8 +390,8 @@
 		(
 			( equal* AND opportunit* ) OR
 			( financial* AND structure* ) OR
-			( paid AND work ) OR (
-				( detriment AND of ) (
+			( paid AND +work ) OR (
+				( detriment AND +of ) (
 					equal* OR
 					Inequal*
 				)
@@ -437,7 +437,7 @@
 			girl* OR
 			women
 		) AND
-		( household* AND work* )
+		( household* AND +work* )
 	) OR
 	(
 		(
@@ -467,7 +467,7 @@
 	(
 		(
 			( unpaid AND care ) OR
-			( unpaid AND work )
+			( unpaid AND +work )
 		) AND (
 			female OR
 			gender OR
@@ -478,7 +478,7 @@
 	(
 		(
 			( women* AND worker* ) OR
-			( working AND women )
+			( +working AND women )
 		) AND (
 			barrier* OR
 			economy

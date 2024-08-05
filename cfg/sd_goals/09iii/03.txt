@@ -31,7 +31,7 @@
 	"cloud manufacturing" OR
 	"cobot" OR
 	"cobots" OR
-	"communities of innovation" OR
+	"communities +of innovation" OR
 	"composite fabrication process" OR
 	"composite fabrication processes" OR
 	"composite manufacturing" OR
@@ -62,7 +62,7 @@
 	"fast-tool servo" OR
 	"fasttool servo" OR
 	"fdm 3d" OR
-	"fdm parts" OR
+	"fdm +parts" OR
 	"five-axis CNC" OR
 	"five-axis machine" OR
 	"five-axis machining" OR
@@ -124,7 +124,7 @@
 	"mixed-model sequencing" OR
 	"mixedmodel assembly" OR
 	"mixedmodel sequencing" OR
-	"model of innovation" OR
+	"model +of innovation" OR
 	"modern CNC" OR
 	"nano-architectonics" OR
 	"nano-fabrication" OR
@@ -135,17 +135,17 @@
 	"nanomachining" OR
 	"nanomanufacturing" OR
 	"national innovation" OR
-	"new CNC" OR
-	"new industrial process" OR
-	"new industrial processes" OR
-	"new machining" OR
-	"new manufacturing" OR
+	"+new CNC" OR
+	"+new industrial process" OR
+	"+new industrial processes" OR
+	"+new machining" OR
+	"+new manufacturing" OR
 	"novel CNC" OR
 	"novel industrial process" OR
 	"novel industrial processes" OR
 	"novel machining" OR
 	"novel manufacturing" OR
-	"Open innovation" OR
+	"+open innovation" OR
 	"powder bed fusion" OR
 	"precision manufacturing" OR
 	"process innovation" OR
@@ -181,10 +181,10 @@
 	"tecnomatix" OR
 	"ultra-precision machining" OR
 	"ultra-precision manufacturing" OR
-	"ultra-precision turning" OR
+	"ultra-precision +turning" OR
 	"ultraprecision machining" OR
 	"ultraprecision manufacturing" OR
-	"ultraprecision turning" OR
+	"ultraprecision +turning" OR
 	"university spin-off" OR
 	"university spinoff" OR
 	"university-industry" OR
@@ -280,7 +280,7 @@
 			"technological progress" OR
 			"technological upgrading" OR
 			(
-				( "internet of things" OR "web of things" ) AND NOT (
+				( "internet +of +things" OR "web +of +things" ) AND NOT (
 					"cities" OR
 					"city" OR
 					"home" OR
@@ -290,7 +290,7 @@
 			) OR
 			( advanced AND technolog* ) OR
 			( innovative AND technolog* ) OR
-			( new AND technolog* ) OR
+			( +new AND technolog* ) OR
 			( novel AND technolog* )
 		) AND (
 			"industry" OR
@@ -352,8 +352,8 @@
 	( manufactur* AND technolog* ) OR
 	( mechatronic* AND "manufacturing" ) OR
 	( micro-Stereolithograph* AND NOT ( ( "surgery" OR "surgical" OR "prosthesis" OR "Dental" ) ) ) OR
-	( new AND industrial AND technolog* ) OR
-	( new AND manufacturing AND technolog* ) OR
+	( +new AND industrial AND technolog* ) OR
+	( +new AND manufacturing AND technolog* ) OR
 	( novel AND industrial AND technolog* ) OR
 	( robot* AND ( "manufacturing process" OR "manufacturing processes" ) ) OR
 	(

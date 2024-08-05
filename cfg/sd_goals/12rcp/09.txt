@@ -36,6 +36,6 @@
 ) AND NOT (
 	"invertebrate" OR
 	"plankton" OR
-	( energy AND subsid* AND "to the food system" ) OR
+	( energy AND subsid* AND "+to +the food system" ) OR
 	( sediment* AND subsid* )
 )

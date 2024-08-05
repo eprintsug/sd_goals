@@ -16,7 +16,7 @@
 				)
 			)
 			( environmental AND impact ) OR
-			( impact AND environment ) OR
+			( impact AND environment )
 		)
 	) OR
 	( "reforestation" AND ( mitigation OR ( climate AND chang* ) ) ) OR
@@ -147,7 +147,7 @@
 			( CH4 AND emission ) OR
 			( methane AND emission )
 		)
-	) OR
+	)
 ) AND NOT (
 	( Triassic AND climate ) OR
 	( paleoclimat* AND NOT anthropogen* ) OR

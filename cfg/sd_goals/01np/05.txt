@@ -1,10 +1,10 @@
 (
-	"against poverty" OR
+	"+against poverty" OR
 	"alleviate poverty" OR
 	"alleviating poverty" OR
 	"anti-poverty" OR
 	"antipoverty" OR
-	"cycle of poverty" OR
+	"cycle +of poverty" OR
 	"elderly poverty" OR
 	"eradicate poverty" OR
 	"extreme poverty" OR
@@ -17,12 +17,12 @@
 	"pro-poor" OR
 	"proletariat" OR
 	"propoor" OR
-	"risk of poverty" OR
-	"to reduce poverty" OR
+	"risk +of poverty" OR
+	"+to reduce poverty" OR
 	"urban poverty" OR
-	"working poor" OR
-	"working poverty" OR
-	( determinant* AND of AND poverty ) OR
+	"+working poor" OR
+	"+working poverty" OR
+	( determinant* AND +of AND poverty ) OR
 	( income* AND ( equalit* OR inequalit* ) ) OR
 	( poverty AND ( rate* OR stigmatiz* OR segregat* OR trend* ) )
 ) 

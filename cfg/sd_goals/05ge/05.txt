@@ -11,25 +11,25 @@
 	"sexual health" OR
 	"STDs education" OR
 	"Teaching sexuality" OR
-	( abortion* AND right* ) OR
+	( abortion* AND +right* ) OR
 	( access AND ( condom OR contracepti* ) ) OR
 	( AIDS AND education ) OR
 	( arranged* AND marriage* ) OR
-	( barrier* AND to AND condom AND us* ) OR
+	( barrier* AND +to AND condom AND us* ) OR
 	( child* AND marriage* ) OR
-	( condom* AND ( use OR usage OR availabilit* ) ) OR
+	( condom* AND ( +use OR usage OR availabilit* ) ) OR
 	( contracept* AND ( educat* OR decision* ) ) OR
-	( early AND sex* AND initiation ) OR
+	( +early AND sex* AND initiation ) OR
 	( female* AND circumcision* ) OR
 	( forced* AND marriage* ) OR
-	( mother-to-child AND HIV AND transmission ) OR
-	( mother-to-child AND transmission* ) OR
+	( mother-+to-child AND HIV AND transmission ) OR
+	( mother-+to-child AND transmission* ) OR
 	( mothertochild AND HIV AND transmission ) OR
 	( mothertochild AND transmission* ) OR
-	( prevention AND mother-to-child AND transmission ) OR
+	( prevention AND mother-+to-child AND transmission ) OR
 	( prevention AND mothertochild AND transmission ) OR
-	( reproductive* AND right* ) OR
-	( Right* AND contracept* ) OR
+	( reproductive* AND +right* ) OR
+	( +right* AND contracept* ) OR
 	( sex* AND education ) OR
 	( Unintended* AND pregnanc* ) OR
 	AIDS-prevention OR
@@ -37,7 +37,7 @@
 	hyper-sexual* OR
 	hypersexual* OR
 	(
-		abortion AND ( women* AND right* )
+		abortion AND ( women* AND +right* )
 	) OR
 	(
 		access AND (
@@ -62,11 +62,11 @@
 		"birth control" AND (
 			 access OR
 			 education OR
-			 ( right* AND to )
+			 ( +right* AND +to )
 		)
 	) OR
 	(
-		( Contraceptive* AND use ) AND
+		( Contraceptive* AND +use ) AND
 		(
 			education* OR
 			information OR
@@ -75,7 +75,7 @@
 	) OR
 	(
 		education* AND
-		( early AND sexual AND intercourse )
+		( +early AND sexual AND intercourse )
 	) OR
 	(
 		( Emergency AND contracepti* ) AND
@@ -116,9 +116,9 @@
 	) OR
 	(
 		(
-			( divorce AND right* ) OR
-			( reproducti* AND ( right* OR choice* OR decision* ) ) OR
-			( sex* AND right* )
+			( divorce AND +right* ) OR
+			( reproducti* AND ( +right* OR choice* OR decision* ) ) OR
+			( sex* AND +right* )
 		) AND (
 			girl* OR
 			female OR

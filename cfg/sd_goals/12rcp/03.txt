@@ -1,7 +1,7 @@
 "basel convention" OR
 "bio-medical waste" OR
 "biomedical waste" OR
-"composting of food waste" OR
+"composting +of food waste" OR
 "composting" OR
 "construction and demolition waste" OR
 "deep geological repository" OR
@@ -10,7 +10,7 @@
 "green waste composting" OR
 "health care waste" OR
 "healthcare waste" OR
-"high-level radioactive waste" OR
+"+high-level radioactive waste" OR
 "highlevel radioactive waste" OR
 "HLNW" OR
 "hospital waste management" OR
@@ -24,24 +24,24 @@
 "municipal solid waste" OR
 "nuclear waste program" OR
 "organic waste composting" OR
-"pay as you throw" OR
+"pay as +you throw" OR
 "radioactive waste management" OR
 "radioactive waste storage" OR
-"shipment of waste" OR
+"shipment +of waste" OR
 "SNF management" OR
 "SNF storage" OR
 "spent nuclear fuel cask" OR
 "toxic waste management" OR
 "toxic waste treatment" OR
-"transport of hazardous waste" OR
-"transport of municipal waste" OR
-( "dry storage canister" AND ( "spent fuel" OR "used fuel" OR "radioactive" ) ) OR
+"transport +of hazardous waste" OR
+"transport +of municipal waste" OR
+( "dry storage canister" AND ( "spent fuel" OR "+used fuel" OR "radioactive" ) ) OR
 ( "food waste" AND compost* ) OR
 ( "hazardous" AND ( "household waste" OR "waste management" OR "waste" ) ) OR
 ( "nuclear waste" AND repositor* ) OR
 ( "spent fuel" AND ( "disposal" OR storage ) ) OR
 ( "spent nuclear fuel" AND "dry storage" ) OR
-( "transport of waste" OR "transportation of waste" ) OR
+( "transport +of waste" OR "transportation +of waste" ) OR
 ( "waste management" AND NOT ( "indoor air quality" ) ) OR
 (
 	"waste" AND (
@@ -54,7 +54,7 @@
 		"metering" OR
 		"processing" OR
 		"shipment" OR
-		"to energy" OR
+		"+to energy" OR
 		"treatment" OR
 		( environment* AND footprint* ) OR
 		( facilit* AND impact* ) OR
@@ -91,13 +91,13 @@
 	) AND ( "management" OR sustainab* OR treat* )
 ) OR
 ( ( "pharmaceutical waste" AND ( "management" OR treat* OR sustainab* ) ) AND NOT patient* ) OR
-( ( dry* AND cask* AND storage* ) AND ( "spent fuel" OR "used fuel" OR "radioactive" ) ) OR
+( ( dry* AND cask* AND storage* ) AND ( "spent fuel" OR "+used fuel" OR "radioactive" ) ) OR
 ( ( industrial* AND waste ) AND "disposal" ) OR
 ( ( leaching* AND test* ) AND ( waste OR "landfill" ) ) OR
-( ( "spent nuclear fuel" OR "used nuclear fuel" ) AND ( "disposal" OR "management" OR repositor* ) ) OR
+( ( "spent nuclear fuel" OR "+used nuclear fuel" ) AND ( "disposal" OR "management" OR repositor* ) ) OR
 (
 	disposal AND (
-		"high-level radioactive waste" OR
+		"+high-level radioactive waste" OR
 		"highlevel radioactive waste" OR
 		"radioactive waste" OR
 		"radioactive waste" OR
@@ -125,7 +125,7 @@
 		( water* AND quality ) OR
 		groundwater* impact* OR
 		liner* OR
-		standard OR
+		standard
 	)
 ) OR
 ( manag* AND waste ) OR

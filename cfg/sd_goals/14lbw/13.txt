@@ -1,6 +1,6 @@
 "fish fed" OR
 "fish feed" OR
-"fish were fed" OR
+"fish +were fed" OR
 ( "fish" NEAR/6 economic) OR
 ( fish AND diet* ) OR
 ( fish AND economic)

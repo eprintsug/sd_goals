@@ -1,7 +1,7 @@
-"business and human rights" OR
+"business and human +rights" OR
 "climate change levy" OR
 "Global Reporting Initiative" OR
-"incentives for sustainability" OR
+"incentives +for sustainability" OR
 "integrated reporting" OR
 "ISO 14001" OR
 "ISO 26000" OR
@@ -56,7 +56,7 @@
 		"social" OR
 		"societal"
 		environment* OR
-		sustainab* OR
+		sustainab*
 	)
 ) OR
 (

@@ -1,2 +1,2 @@
 ( inclusive AND curricul* ) OR 
-( Education* AND needs* )
+( Education* AND +needs* )

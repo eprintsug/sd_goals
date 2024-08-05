@@ -5,14 +5,15 @@ UN Sustainable Development Goals plugin for EPrints
 
 Add this to the workflow (with show_help configured to your preference):
 ```xml
-<component show_help="always">
+<component  type="Field::Multi" show_help="always">
   <field ref="sd_goals"/>
+  <field ref="sd_goals_checked"/>
 </component>
 ```
 Choose which whether you want text links or icons for the summary pages.
 Insert the following into your table of metadata (i.e. where eprint_render items appear) for a textual version:
 ```xml
-<epc:if test="is_set( sd_goals )">
+<epc:if test="sd_goals_checked eq 'true'">
     <epc:foreach expr="sd_goals" iterator="goal">
       <li><epc:phrase ref="sd_goals_description_{$goal.as_string()}" />  </li>
     </epc:foreach>
@@ -20,7 +21,7 @@ Insert the following into your table of metadata (i.e. where eprint_render items
 ```
 For icons you need:
 ```xml
-<epc:if test="is_set( sd_goals )">
+<epc:if test="sd_goals_checked eq 'true'">
     <epc:foreach expr="sd_goals" iterator="goal">
       <li><epc:phrase ref="sd_goals_summary_{$goal.as_string()}" />  </li>
     </epc:foreach>
@@ -33,24 +34,6 @@ SDGs can be automatically detected upon first install of the plugin, initial dep
 Queries are stored as text files. Though it is possible to amend and add to these, this is not recommended as the existing searches have been tested by Elsevier to prevent false positives.
 
 These searches are presented to repository administrators via a report.
-
-If you are using this version of the plugin, you should add the following to the workflow:
-
-```xml
-<component type ="Field::Multi" show_help="always">
-    <field ref="sd_goals"/>
-    <epc:if test="$STAFF_ONLY = 'TRUE'">
-        <field ref="sd_goals_checked"/>
-        <field ref="sd_goals_exclude_searches"/>
-    </epc:if>
-</component>
-
-```
-
-And the logic of summary pages should be amended to:
-```xml
-<epc:if test="sd_goals_checked eq 'true'">
-```
 
 ## Integration with Symplectic Elements
 

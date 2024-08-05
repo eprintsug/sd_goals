@@ -13,14 +13,14 @@
 	"grassland invasion" OR
 	"introduced range" OR
 	"native prey" OR
-	"non native plant" OR
+	"+non native plant" OR
 	"non-indigenous species" OR
 	"nonindigenous species" OR
 	"propagule pressure" OR
 	"release hypothesis" OR
 	"round goby (neogobius melanostomus)" OR
 	"round goby" OR
-	"stages of invasion" OR
+	"stages +of invasion" OR
 	"successful invaders" OR
 	"zebra mussel" OR
 	( "dreissena polymorpha" AND ( "alien" OR "exotic" OR "invasion" ) ) OR
@@ -43,7 +43,7 @@
 					"alien" OR
 					"exotic" OR
 					"invasive" OR
-					"non native"
+					"+non native"
 				) NEAR/3 ( "species" OR weed* OR plant* )
 			) NEAR/9 ( "threats" OR "threatening" OR impact OR "damage"
 			)
@@ -56,8 +56,8 @@
 					"alien" OR
 					"exotic" OR
 					"invasive" OR
-					"non indigenous" OR
-					"non native" OR
+					"+non indigenous" OR
+					"+non native" OR
 					"nonindigenous" OR
 					"nonnative" OR
 					invader*

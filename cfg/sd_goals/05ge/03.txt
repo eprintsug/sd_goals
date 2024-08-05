@@ -23,13 +23,13 @@
 	( partner AND violen* ) OR
 	( traffick* AND women ) OR
 	( wife* AND rape* ) OR
-	"women dealing with relationship violence" OR
+	"women dealing +with relationship violence" OR
 	( women* AND victim* ) OR
 	(
 		abuse AND
 		violence AND
 		women AND
-		( women's health )
+		( women\'s health )
 	) OR
 	(
 		( abusive* AND partner* ) AND (
@@ -63,7 +63,7 @@
 	( ( rape* AND myth* ) AND ( sex* assault* ) AND victim* ) OR
 	(
 		"vaw" OR
-		( violence AND against AND women )
+		( violence AND +against AND women )
 	) OR
 	(
 		(
@@ -127,7 +127,7 @@
 			woman OR
 			women
 		) AND
-		( survivor* AND of AND trauma )
+		( survivor* AND +of AND trauma )
 	)
 ) AND NOT (
 	dogs AND birds

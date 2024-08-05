@@ -3,8 +3,8 @@
 	"arteriovenous" OR
 	"autotrophic" OR
 	"AVCO2R" OR
-	"bio energy with ccs" OR
-	"bioenergy with ccs" OR
+	"bio energy +with ccs" OR
+	"bioenergy +with ccs" OR
 	"blood" OR
 	"Calcium looping" OR
 	"carbon conversion" OR
@@ -38,7 +38,7 @@
 	"CO2valorization" OR
 	"direct air capture" OR
 	"dry reforming" OR
-	"electrochemical reduction of carbon dioxide" OR
+	"electrochemical reduction +of carbon dioxide" OR
 	"extracorporeal" OR
 	"off-shore CCS" OR
 	"offshore CCS" OR
@@ -53,47 +53,47 @@
 	"soil carbon storage" OR
 	"soil CO 2 storage" OR
 	"soil storage" OR
-	"solution for carbon sequestration" OR
-	"solution for carbon storage" OR
-	"solution for CO 2 sequestration" OR
-	"solution for CO 2 storage" OR
-	"solution for CO2sequestration" OR
-	"solution for sequest carbon" OR
-	"solution for sequest CO 2" OR
-	"solution for sequest CO2" OR
-	"solution for sequestration" OR
-	"solution for storage" OR
-	"solution for storing carbon dioxide" OR
-	"solution for storing CO 2" OR
-	"solution for storing CO2" OR
-	"solution to sequest carbon" OR
-	"solution to sequest CO 2" OR
-	"solution to sequest CO2" OR
-	"solution to store carbon" OR
-	"solution to store CO 2" OR
-	"solution to store CO2" OR
-	"solutions for carbon sequestration" OR
-	"solutions for carbon storage" OR
-	"solutions for CO 2 sequestration" OR
-	"solutions for CO 2 storage" OR
-	"solutions for CO2sequestration" OR
-	"solutions for sequest carbon" OR
-	"solutions for sequest CO 2" OR
-	"solutions for sequest CO2" OR
-	"solutions for sequestration" OR
-	"solutions for storage" OR
-	"solutions for storing carbon dioxide" OR
-	"solutions for storing CO 2" OR
-	"solutions for storing CO2" OR
-	"solutions to sequest carbon" OR
-	"solutions to sequest CO 2" OR
-	"solutions to sequest CO2" OR
-	"solutions to store carbon" OR
-	"solutions to store CO 2" OR
-	"solutions to store CO2" OR
-	"storage of carbon dioxide" OR
-	"storage of CO 2" OR
-	"storage of CO2" OR
+	"solution +for carbon sequestration" OR
+	"solution +for carbon storage" OR
+	"solution +for CO 2 sequestration" OR
+	"solution +for CO 2 storage" OR
+	"solution +for CO2sequestration" OR
+	"solution +for sequest carbon" OR
+	"solution +for sequest CO 2" OR
+	"solution +for sequest CO2" OR
+	"solution +for sequestration" OR
+	"solution +for storage" OR
+	"solution +for storing carbon dioxide" OR
+	"solution +for storing CO 2" OR
+	"solution +for storing CO2" OR
+	"solution +to sequest carbon" OR
+	"solution +to sequest CO 2" OR
+	"solution +to sequest CO2" OR
+	"solution +to store carbon" OR
+	"solution +to store CO 2" OR
+	"solution +to store CO2" OR
+	"solutions +for carbon sequestration" OR
+	"solutions +for carbon storage" OR
+	"solutions +for CO 2 sequestration" OR
+	"solutions +for CO 2 storage" OR
+	"solutions +for CO2sequestration" OR
+	"solutions +for sequest carbon" OR
+	"solutions +for sequest CO 2" OR
+	"solutions +for sequest CO2" OR
+	"solutions +for sequestration" OR
+	"solutions +for storage" OR
+	"solutions +for storing carbon dioxide" OR
+	"solutions +for storing CO 2" OR
+	"solutions +for storing CO2" OR
+	"solutions +to sequest carbon" OR
+	"solutions +to sequest CO 2" OR
+	"solutions +to sequest CO2" OR
+	"solutions +to store carbon" OR
+	"solutions +to store CO 2" OR
+	"solutions +to store CO2" OR
+	"storage +of carbon dioxide" OR
+	"storage +of CO 2" OR
+	"storage +of CO2" OR
 	"stored carbon dioxide" OR
 	"stored CO 2" OR
 	"stored CO2" OR
@@ -134,7 +134,7 @@
 			"valorization" OR
 			( sequestration AND technolog* ) OR
 			( storage AND technolog* ) OR
-			replacement OR
+			replacement
 		)
 	) OR
 	( "organic carbon" AND NOT shale* ) OR
@@ -173,10 +173,10 @@
 			"compressing carbon dioxide" OR
 			"compressing CO 2" OR
 			"compressing CO2" OR
-			"compression of carbon dioxide" OR
-			"compression of CO 2" OR
-			"compression of CO2" OR
-			"compression" OR
+			"compression +of carbon dioxide" OR
+			"compression +of CO 2" OR
+			"compression +of CO2" OR
+			"compression"
 		) AND ( "capture" OR "sequestration" )
 	) OR
 	(
@@ -214,7 +214,7 @@
 				) AND ( "gas recovery" OR "oil recovery" )
 			) OR
 			( oxy-fuel AND technolog* ) OR
-			( oxyfuel AND technolog* ) OR
+			( oxyfuel AND technolog* )
 		)
 	) OR
 	( ( "carbon dioxide" OR "CO2" OR "CO 2" ) AND ( "sequestration project" OR "sequestration pilot project" OR "sequestration site" ) ) OR
@@ -237,13 +237,13 @@
 		) AND NOT (
 			"emission" OR
 			( "carbon dioxide" AND emission ) OR
-			( "CO 2" AND emission ) OR
+			( "CO 2" AND emission )
 		)
 	) OR
 	( ( "carbon sequestration" OR "CO 2 sequestration" OR "sequestration" ) AND ( storage* AND site* ) ) OR
 	( ( "photosynthesis" OR "photosynthetic" ) AND NOT "artificial" ) OR
 	( ( "post-combustion" OR "postcombustion" ) AND "capture" ) OR
-	( ( "reduced CO 2" OR "reduction of CO 2" ) AND NOT ( "carbon dioxide" AND emission ) ) OR
+	( ( "reduced CO 2" OR "reduction +of CO 2" ) AND NOT ( "carbon dioxide" AND emission ) ) OR
 	(
 		(
 			bio-mass OR
@@ -335,7 +335,7 @@
 			"valorization" OR
 			( sequestration AND technolog* ) OR
 			( storage AND technolog* ) OR
-			capture* OR
+			capture
 		)
 	) OR
 	(
@@ -392,12 +392,12 @@
 	) OR
 	(
 		photocatalytic AND (
-			"conversion of carbon dioxyde" OR
-			"conversion of CO 2" OR
-			"conversion of CO2" OR
-			"reduction of carbon dioxyde" OR
-			"reduction of CO 2" OR
-			"reduction of CO2"
+			"conversion +of carbon dioxyde" OR
+			"conversion +of CO 2" OR
+			"conversion +of CO2" OR
+			"reduction +of carbon dioxyde" OR
+			"reduction +of CO 2" OR
+			"reduction +of CO2"
 		)
 	) OR
 	( reform AND ( "CO 2" OR "carbon dioxide" OR "CO2" ) ) OR
@@ -433,7 +433,7 @@
 			CO2storage
 		)
 	) OR
-	textile* OR
+	textile*
 ) AND NOT (
 	( Triassic AND climate ) OR
 	( paleoclimat* AND NOT anthropogen* ) OR

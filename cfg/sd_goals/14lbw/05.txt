@@ -5,13 +5,13 @@
 "ecosystem-based fishery management" OR
 "ecosystembased fishery management" OR
 "estuarine quality index" OR
-"governance of seabed" OR
+"governance +of seabed" OR
 "ICZM" OR
 "integrated coastal management" OR
 "integrated coastal zone management" OR
 "integrated estuary management" OR
-"Large Ocean management"Area" OR
-"Large Ocean management"Areas" OR
+"+large Ocean management +area" OR
+"+large Ocean management +areas" OR
 "maritime spatial planning" OR
 "port sustainability" OR
 "seabed governance" OR
@@ -40,7 +40,7 @@
 		"Adriatic sturgeon" OR
 		"African manatee" OR
 		"Amazonian manatee" OR
-		"angelshark " OR
+		"angelshark" OR
 		"Arctocephalus galapagoensis" OR
 		"Atlantic salmon" OR
 		"Atlantic sturgeon" OR
@@ -98,9 +98,9 @@
 		"Neophoca cinerea" OR
 		"Neophocaena asiaeorientalis" OR
 		"Neophocaena phocaenoides" OR
-		"New Zealand sea lion" OR
-		"North Atlantic right whale" OR
-		"North Pacific right whale" OR
+		"+new Zealand sea lion" OR
+		"North Atlantic +right whale" OR
+		"North Pacific +right whale" OR
 		"Northern fur seal" OR
 		"ocean" OR
 		"oceanic" OR
@@ -151,7 +151,7 @@
 	)
 ) OR
 ( "integrated approach" AND ( "exclusive economic zone" OR "EEZ" ) ) OR
-( "monitoring" AND ( coastal AND environment* ) ) OR
+( "monitoring" AND coastal AND environment* ) OR
 ( "sea level rise" AND ecosystem* ) OR
 ( "species conservation" AND ( ( marine* AND mammal* ) OR "fish" OR "fishes" ) ) OR
 (
@@ -166,9 +166,9 @@
 (
 	(
 		"an ecosystem approach" OR
-		"ecosystem approach to management" OR
+		"ecosystem approach +to management" OR
 		"ecosystem approach" OR
-		"ecosystem approaches to management" OR
+		"ecosystem approaches +to management" OR
 		"ecosystem connections" OR
 		"ecosystem management" OR
 		"ecosystem-based approach" OR
@@ -179,7 +179,7 @@
 		"ecosystembased management" OR
 		"integrated governance" OR
 		"integrated management" OR
-		"the ecosystem approach" OR
+		"+the ecosystem approach" OR
 		( "adaptive management" AND ecosystem ) OR
 		( "ecological integrity" AND "management" ) OR
 		( "ecosystem integrity" AND "management" ) OR
@@ -234,14 +234,14 @@
 		"environmental impact assessment" OR
 		"Environmental management" OR
 		"Environmental Sensitivity" OR
-		"good environmental status" OR
+		"+good environmental status" OR
 		"habitat degradation" OR
 		"habitat mapping" OR
 		"management framework" OR
 		"maximum sustainable yield" OR
-		"protected area" OR
+		"protected +area" OR
 		"sustainable management" OR
-		"sustainable use" OR
+		"sustainable +use" OR
 		( ecosystem* AND safeguard* ) OR
 		( manag* AND impact* ) OR
 		( protect* AND ecosystem* ) OR
@@ -273,7 +273,7 @@
 		"sustainable tourism" OR
 		"tourist-wildlife" OR
 		"touristwildlife" OR
-		( ( climate AND chang* ) AND "tourism" ) OR
+		( climate AND chang* AND "tourism" ) OR
 		( tourism* AND impact* ) OR
 		( visitor* AND impact* ) OR
 		( visitor* AND management* )
@@ -283,7 +283,7 @@
 	"impact on" AND (
 		"fish" OR
 		"shellfish" OR
-		"the ecosystem" OR
+		"+the ecosystem" OR
 		"wildlife" OR
 		ecosystem
 	) AND (
@@ -298,11 +298,11 @@
 ) OR
 ( ( "marine conservation" OR "ocean conservation" ) AND ( "tourism" OR "visitor" OR "visitors" ) ) OR
 ( ( ( integrated OR sustainab* ) AND manage* ) AND ( ( coastal AND ecosystem* ) OR ( marine* AND ecosystem* ) OR ( ocean AND ecosystem* ) ) ) OR
-( ( coastal AND area* ) AND "management" ) OR
-( ( conserv* AND ( ocean OR marine OR coast ) ) AND NOT ( ( "conservation of heat" OR "conservation of momentum" OR "conservation of mass" ) ) ) OR
-( ( marine* AND ecosystem* ) AND ( adverse* AND effect* ) ) OR
+( coastal AND +area* AND "management" ) OR
+( ( conserv* AND ( ocean OR marine OR coast ) ) AND NOT ( "conservation +of heat" OR "conservation +of momentum" OR "conservation +of mass" ) ) OR
+( marine* AND ecosystem* AND adverse* AND effect* ) OR
 (
-	( ocean AND tourism* ) AND (
+	ocean AND tourism* AND (
 		"management" OR
 		( environment* AND effect* ) OR
 		( environment* AND impact* ) OR
@@ -310,8 +310,7 @@
 		sustainab*
 	)
 ) OR
-(  AND (  ) ) OR
-( ( small* AND island* ) AND sustainability ) OR
+( +small* AND island* AND sustainability ) OR
 ( ( sustainab* OR sustainability ) AND "marine tourism" ) OR
 (
 	( vulnerable* AND ecosystem* ) AND (
@@ -322,7 +321,7 @@
 		marine
 	)
 ) OR
-( ( vulnerable* AND marine* AND ecosystem* ) AND protect* ) OR
+( vulnerable* AND marine* AND ecosystem* AND protect* ) OR
 (
 	coastal AND (
 		"erosion risk assessment" OR
@@ -410,9 +409,9 @@
 		"Neophoca cinerea" OR
 		"Neophocaena asiaeorientalis" OR
 		"Neophocaena phocaenoides" OR
-		"New Zealand sea lion" OR
-		"North Atlantic right whale" OR
-		"North Pacific right whale" OR
+		"+new Zealand sea lion" OR
+		"North Atlantic +right whale" OR
+		"North Pacific +right whale" OR
 		"Northern fur seal" OR
 		"Oncorhynchus kisutch" OR
 		"Oncorhynchus mykiss" OR
@@ -454,7 +453,7 @@
 		"Vaquita" OR
 		"West Indian manatee" OR
 		"White sturgeon" OR
-		"Zalophus wollebaeki" OR
+		"Zalophus wollebaeki"
 	)
 ) OR
 (
@@ -472,11 +471,11 @@
 		"strategy framework directive" OR
 		"strategy framework" OR
 		( ecosys* AND protect* ) OR
-		( protected* AND area* ) OR
+		( protected* AND +area* ) OR
 		manag*
 	)
 ) OR
 ( ocean AND ( "conservation" OR "governance" OR "management" OR "policy" ) ) OR
 ( protect* AND ( "marine endangered species" OR ( coral* AND reef* ) OR ( marine* AND ecosys* ) ) ) OR
 ( sustainab* AND ( coastal OR marine* OR ocean ) AND resource* ) OR
-( sustainability AND ( mangrove* AND forest* ) ) OR
+( sustainability AND mangrove* AND forest* )

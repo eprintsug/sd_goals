@@ -4,7 +4,7 @@
 "phytoextraction" OR
 "phytoremediation" OR
 "plant conservation" OR
-"recovery of vegetation" OR
+"recovery +of vegetation" OR
 "selective logging" OR
 "soil and water conservation" OR
 "wildfire protection" OR
@@ -22,28 +22,28 @@
 		"nature conservation" OR
 		"nature restoration" OR
 		"phytostabilization" OR
-		"protection of ecosystem" OR
+		"protection +of ecosystem" OR
 		"revegetation" OR
-		( manag* AND protected AND area )
+		( manag* AND protected AND +area )
 	) AND NOT ( marine OR ocean OR sea )
 ) OR
 (
 	(
 		"biological conservation" OR
-		"conservation of biodiversity" OR
+		"conservation +of biodiversity" OR
 		"ecological restoration" OR
 		"ecosystem management" OR
 		"ecosystem restoration" OR
 		"environmental conservation" OR
 		"habitat management" OR
 		"island conservation" OR
-		"protected area management" OR
+		"protected +area management" OR
 		"wildlife management"
 	) AND NOT ( marine OR ocean )
 ) OR
 (
 	(
-		"conservation of nature" OR
+		"conservation +of nature" OR
 		( "wildlife" AND conserv* ) OR
 		(
 			habitat AND (
@@ -60,7 +60,7 @@
 		ocean OR
 		ocean OR
 		pacific OR
-		sea OR
+		sea
 	)
 ) OR
 ( ( land OR soil ) AND ( conserv* OR restoration ) ) OR

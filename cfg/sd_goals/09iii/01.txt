@@ -1,4 +1,4 @@
-"Development of Transportation infrastructure" OR
+"Development +of Transportation infrastructure" OR
 ( ( infrastructure AND management ) AND ( resilien* OR sustainab* ) ) OR
 ( 
 	( public AND transport* ) AND ( 
@@ -90,8 +90,8 @@
 		( transport* AND facilit* ) OR
 		bridge OR
 		freight OR
-		pavement OR
+		pavement
 	) 
 ) OR
 ( urban* AND public* AND transport* ) OR
-transantiago* OR
+transantiago*

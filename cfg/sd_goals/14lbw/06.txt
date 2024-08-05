@@ -1,9 +1,9 @@
 (
 	"conservation hatchery" OR
-	"ecosystem approach to fisheries" OR
+	"ecosystem approach +to fisheries" OR
 	"Ecosystem-based Fisheries management" OR
 	"Ecosystembased Fisheries management" OR
-	"end overfishing" OR
+	"+end overfishing" OR
 	"Fisheries conservation" OR
 	"fisheries forensics " OR
 	"fisheries management" OR
@@ -14,7 +14,7 @@
 	"Integrated multi-trophic aquaculture" OR
 	"Integrated multitrophic aquaculture" OR
 	"limit overfishing" OR
-	"limits on the fishing" OR
+	"limits +on +the fishing" OR
 	"manage fisheries" OR
 	"marine stewardship council" OR
 	"overfishing" OR
@@ -22,7 +22,7 @@
 	"protect fish populations" OR
 	"protect fish stocks" OR
 	"stop overfishing" OR
-	"sustainability of bycatch" OR
+	"sustainability +of bycatch" OR
 	"sustainable fisheries management" OR
 	"sustainable fishing" OR
 	( "Fisheries management" AND ( "responsible" OR sustainab* OR sustainability ) ) OR
@@ -57,10 +57,10 @@
 			"bass" OR
 			"bathyal" OR
 			"bathypelagic" OR
-			"Bay of Biscay" OR
-			"Bay of Bothnia" OR
-			"Bay of Campeche" OR
-			"Bay of Fundy" OR
+			"Bay +of Biscay" OR
+			"Bay +of Bothnia" OR
+			"Bay +of Campeche" OR
+			"Bay +of Fundy" OR
 			"Beaked Whale" OR
 			"Beaked Whales" OR
 			"Bearded Seal" OR
@@ -188,7 +188,7 @@
 			"Feresa attenuata" OR
 			"Fin Whale" OR
 			"Fin Whales" OR
-			"first year ice" OR
+			"+first +year ice" OR
 			"Fish species" OR
 			"fisheries" OR
 			"fishery" OR
@@ -211,20 +211,20 @@
 			"Grampus griseus" OR
 			"Gray Whale" OR
 			"Gray Whales" OR
-			"great lakes" OR
+			"+great lakes" OR
 			"green lipped" OR
 			"Grey Seal" OR
 			"Grey Seals" OR
 			"Gryphoca" OR
-			"Gulf of Alaska" OR
-			"Gulf of Bothnia" OR
-			"Gulf of California (Sea of Cort's)" OR
-			"Gulf of Carpentaria" OR
-			"Gulf of Finland" OR
-			"Gulf of Sidra" OR
-			"Gulf of St. Lawrence" OR
-			"Gulf of Thailand" OR
-			"Gulf of Venezuela" OR
+			"Gulf +of Alaska" OR
+			"Gulf +of Bothnia" OR
+			"Gulf +of California (Sea +of Cort\'s)" OR
+			"Gulf +of Carpentaria" OR
+			"Gulf +of Finland" OR
+			"Gulf +of Sidra" OR
+			"Gulf +of St. Lawrence" OR
+			"Gulf +of Thailand" OR
+			"Gulf +of Venezuela" OR
 			"gulf stream" OR
 			"guppies" OR
 			"guppy" OR
@@ -480,8 +480,8 @@
 			"Rhinichthys" OR
 			"Ribbon Seal" OR
 			"Ribbon Seals" OR
-			"Right Whale" OR
-			"Right Whales" OR
+			"+right Whale" OR
+			"+right Whales" OR
 			"Rightwhale Dolphin" OR
 			"Rightwhale Dolphins" OR
 			"Ringed Seal" OR
@@ -507,11 +507,11 @@
 			"scuticociliatosis" OR
 			"Sea Lion" OR
 			"Sea Lions" OR
-			"Sea of Azov" OR
-			"Sea of Crete" OR
-			"Sea of Japan" OR
-			"Sea of Okhotsk" OR
-			"Sea of the Hebrides" OR
+			"Sea +of Azov" OR
+			"Sea +of Crete" OR
+			"Sea +of Japan" OR
+			"Sea +of Okhotsk" OR
+			"Sea +of +the Hebrides" OR
 			"seafloor" OR
 			"seas" OR
 			"Sei Whale" OR
@@ -529,7 +529,7 @@
 			"South China Sea" OR
 			"sparus" OR
 			"spawning" OR
-			"species of fish" OR
+			"species +of fish" OR
 			"Sperm whale" OR
 			"Sperm whales" OR
 			"Spinner Dolphin" OR
@@ -601,11 +601,11 @@
 			( "Chesapeake Bay" AND water* ) OR
 			( "crab" AND NOT ( "pulsar" ) ) OR
 			( "fishing" AND by-catch* ) OR
-			( "Gulf of Guinea" AND water* ) OR
-			( "Gulf of Mexico" AND water* ) OR
+			( "Gulf +of Guinea" AND water* ) OR
+			( "Gulf +of Mexico" AND water* ) OR
 			( "mercury" AND "fish" ) OR
 			( "methylmercury" AND "fish" ) OR
-			( "mya" AND NOT ( "million year ago" ) ) OR
+			( "mya" AND NOT ( "million +year ago" ) ) OR
 			( "pacu" AND NOT ( post* ) ) OR
 			( sea AND NOT ( "sea level" ) ) OR
 			( "tuna" AND NOT ( prostat* ) ) OR
@@ -649,7 +649,7 @@
 			( Haplosporidium AND costale* ) OR
 			( Heaviside AND Dolphin* ) OR
 			( Hector AND Dolphin* ) OR
-			( high AND tide* ) OR
+			( +high AND tide* ) OR
 			( Hourglass AND Dolphin* ) OR
 			( inland AND water* ) OR
 			( Intermediate AND water* ) OR
@@ -737,7 +737,7 @@
 			fjord* OR
 			flavobacterium* OR
 			Flores Sea OR
-			flounder* OR
+			flo+under* OR
 			foraminifer* OR
 			freshwater* OR
 			gadoid* OR
@@ -835,26 +835,26 @@
 			whitefish* OR
 			wolffish* OR
 			wssv* OR
-			zooplankton* OR
+			zooplankton*
 		) AND NOT (
 			"Staphylococcal enterotoxin A" OR
-			"sea of change" OR
+			"sea +of change" OR
 			"coral gables" OR
 			"oceanside publications" OR
 			"Pleurotus ostreatus" OR
 			( oyster AND mushroom* 	)
 		)
 	) OR
-	( ( "maximum sustainable yield" OR "sustainability of populations" ) AND ( fish* OR ocean OR marine ) ) OR
+	( ( "maximum sustainable yield" OR "sustainability +of populations" ) AND ( fish* OR ocean OR marine ) ) OR
 	( ( "stock enhancement" OR ( sustainable* AND ( develop* OR exploit OR manag* ) ) ) AND ( "fishery" OR "fisheries" ) ) OR
-	( ( "sustainable use" OR "sustainable yield" OR "sustainable yields" ) AND ( fish* AND stock* ) ) OR
+	( ( "sustainable +use" OR "sustainable yield" OR "sustainable yields" ) AND ( fish* AND stock* ) ) OR
 	( ( fish* AND stock* ) AND ( biologically* AND sustainable* AND level* ) ) OR
 	( ( shrimp* AND farm* ) AND sustainab* ) OR
 	( aquacultur* AND sustainab* ) OR
 	( marine* AND fish* AND resource* ) OR
 	( prevent* AND overfishing* ) OR
 	( sustainability AND "fisheries" ) OR
-	( sustainable* AND fish* AND stock* ) OR
+	( sustainable* AND fish* AND stock* )
 ) AND (
 	(
 		(

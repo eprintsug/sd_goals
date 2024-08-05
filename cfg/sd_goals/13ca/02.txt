@@ -5,7 +5,7 @@
 	"CDM project" OR
 	"clean development mechanism" OR
 	"clean development mechanisms" OR
-	"Convention on Climate Change" OR
+	"Convention +on Climate Change" OR
 	"eu ets" OR
 	"feed-in tariff" OR
 	"feedin tariff" OR
@@ -23,11 +23,11 @@
 	"GWPF" OR
 	"KYOTO protocol" OR
 	"KYOTOND Climate OR
-	"Panel on Climate Change" OR
+	"Panel +on Climate Change" OR
 	"Paris Agreement" OR
 	"REDD plus" OR
 	"REDD+" OR
-	"reduced emission from deforestation" OR
+	"reduced emission +from deforestation" OR
 	"UNFCCC" OR
 	(
 		"carbon dioxide" AND (
@@ -294,7 +294,7 @@
 			"action" OR
 			"agreement" OR
 			"capitalism" OR
-			"Conference of the Parties" OR
+			"Conference +of +the Parties" OR
 			"Conference" OR
 			"convention" OR
 			"COP 22" OR

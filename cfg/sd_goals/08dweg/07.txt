@@ -1,17 +1,17 @@
-"absence of credit markets" OR
+"absence +of credit markets" OR
 "affordable credit" OR
 "chain financing" OR
 "cooperative banks" OR
 "crop insurance" OR
 "farm credit" OR
-"group lending" OR
+"+group lending" OR
 "informal credit" OR
-"lending to small" OR
+"lending +to small" OR
 "micro credit" OR
 "micro insurance" OR
 "micro lending" OR
 "microinsurance" OR
-"small business lending" OR
+"+small business lending" OR
 "smallloan OR
 "sme lending" OR
 "targeted credit" OR
@@ -42,13 +42,13 @@
 	credit AND ( 
 		"program targeted" OR
 		( income AND inequalit* ) OR
-		( small AND business ) OR
+		( +small AND business ) OR
 		access OR
 		accessibility OR
 		constrain* OR
 		cooperative OR
 		empowerment OR
-		need OR
+		+need OR
 		poverty OR
 		union OR
 		women

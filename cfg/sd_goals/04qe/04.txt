@@ -9,11 +9,11 @@
 		(
 			Africa* OR
 			( developing* AND countr* ) OR
-			( least* AND developed* AND countr* ) OR
+			( +least* AND developed* AND countr* ) OR
 			( poor* AND countr* ) OR
-			( small* AND island* )
+			( +small* AND island* )
 		) AND (
-			( participat* AND higher AND education ) OR
+			( participat* AND +higher AND education ) OR
 			( qualified* AND teacher* ) OR
 			(
 				teacher* AND (
@@ -26,7 +26,7 @@
 			) OR
 			(
 				( graduation AND rate ) AND
-				( higher* AND education )
+				( +higher* AND education )
 			) OR (
 				(
 					enrollment OR
@@ -34,7 +34,7 @@
 				) AND (
 					engineering OR
 					( graduate* AND stud* ) OR
-					( higher* AND education ) OR
+					( +higher* AND education ) OR
 					( ICT* AND program* ) OR
 					( information* AND communications* AND program* ) OR
 					( scientific AND program ) OR
@@ -51,7 +51,7 @@
 						( improv* AND access )
 					) AND (
 						( graduate* AND stud* ) OR
-						( higher* AND education ) OR
+						( +higher* AND education ) OR
 						( scientific AND program ) OR
 						vocational
 					)
@@ -60,7 +60,7 @@
 						increas* AND access
 					) AND (
 						( graduate* AND stud* ) OR
-						( higher* AND education ) OR
+						( +higher* AND education ) OR
 						( scientific AND program ) OR
 						vocational
 					)
@@ -68,7 +68,7 @@
 			) OR (
 				(
 					underrepresent* OR
-					under-represent*
+					+under-represent*
 				) AND (
 					( graduate* AND stud* ) OR
 					( professional* AND degree* ) OR

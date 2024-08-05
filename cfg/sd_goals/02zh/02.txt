@@ -14,7 +14,7 @@
 			varieties
 		) 
 	) OR
-	( ( crop-to-wild OR croptowild ) AND gene AND flow ) OR
+	( ( crop-+to-wild OR croptowild ) AND gene AND flow ) OR
 	crop-wild OR
 	"crop wild" OR
 	cropwild OR
@@ -49,7 +49,7 @@
 				( faba AND bean ) OR
 				( field AND pea ) OR
 				( fruit AND tree ) OR
-				( greater AND yam ) OR
+				( +greater AND yam ) OR
 				( kidney AND bean ) OR
 				( lolium AND temulentum ) OR
 				( meadow AND fescue ) OR
@@ -186,7 +186,7 @@
 				( edible AND mushroom ) OR
 				( ficus AND carica ) OR
 				( field AND pea ) OR
-				( greater AND yam ) OR
+				( +greater AND yam ) OR
 				( lolium AND temulentum ) OR
 				( meadow AND fescue ) OR
 				( oryza AND sativa ) OR
@@ -387,7 +387,7 @@
 	) OR
 	( ( Wild AND food AND plant* ) AND tradition* ) OR
 	( ( Genetic AND relationship* ) AND ( wild AND progenitor* ) ) OR
-	( promote AND "management for biodiversity" AND agricultur* ) OR
+	( promote AND "management +for biodiversity" AND agricultur* ) OR
 	( vigna AND "wild species" AND "genetic relationships" ) OR
 	( ( Rice OR wheat ) AND ( wildtype AND cultivar* ) ) OR
 	(
@@ -417,7 +417,7 @@
 		)
 	) OR
 	( 
-		"large white" AND 
+		"+large white" AND 
 		pig AND ( 
 			genetic* AND ( 
 				conserv* OR

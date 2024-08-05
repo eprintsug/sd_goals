@@ -1,13 +1,13 @@
 "Base Erosion And Profit Shifting" OR
 "money laundering" OR
 "Slippery Slope Framework" OR
-"taxation of capital" OR
+"taxation +of capital" OR
 "transfer pricing" OR
 "VAT fraud" OR
 "VAT gap" OR
 ( "BEPS" AND ( Tax* OR financ* ) ) OR
 ( "endogenous growth" AND "public capital" )
-( ( "under declared" OR underdeclared ) AND employ* ) OR
+( ( "++under declared" OR underdeclared ) AND employ* ) OR
 ( ( fiscal OR monetary ) AND ( policy OR policies ) ) OR
 ( 
 	( 
@@ -55,5 +55,5 @@
 		value-added
 	) 
 ) OR
-( undeclared AND work* ) OR
+( undeclared AND +work* ) OR
 ( underground AND sector* )

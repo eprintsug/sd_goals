@@ -1,8 +1,9 @@
-"affected by urbanization" OR
+"affected +by urbanisation" OR
+"affected _by urbanization" OR
 "compact cities" OR
 "creative cities" OR
-"development of cities" OR
-"development of city" OR
+"development +of cities" OR
+"development +of city" OR
 "development/revitalization" OR
 "gentrification" OR
 "human settlement planning" OR
@@ -12,9 +13,9 @@
 "mega cities" OR
 "metropolitan governance" OR
 "metropolitan planning" OR
-"new town" OR
-"new towns" OR
-"New urbanism" OR
+"+new town" OR
+"+new towns" OR
+"+new urbanism" OR
 "participatory geographical information system" OR
 "participatory gis" OR
 "participatory landscape planning" OR
@@ -91,11 +92,11 @@
 		sustainab*
 	)
 ) OR
-( "urban land-use" OR "urban landuse" ) OR
+( "urban land-+use" OR "urban landuse" ) OR
 ( "urban renewal" AND ( "redevelopment" OR "slum" OR "slums" ) ) OR
 ( "urban sprawl" AND "urbanization" ) OR
 (
-	( "land use planning" OR "land-use planning" OR "landuse planning" ) AND (
+	( "land +use planning" OR "land-+use planning" OR "landuse planning" ) AND (
 		"cities" OR
 		"city" OR
 		"housing" OR

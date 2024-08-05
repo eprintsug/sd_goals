@@ -33,8 +33,8 @@
 		) AND career*
 	) OR
 	(
-		( decline AND of AND women ) AND (
-			( ( IT OR ICT ) AND field ) OR
+		( decline AND +of AND women ) AND (
+			( ( +it OR ICT ) AND field ) OR
 			( technolog* AND discipline )
 		)
 	) OR
@@ -51,7 +51,7 @@
 		gender AND (
 			ICT OR
 			( information AND communication AND technolog* ) OR
-			( technolog* AND use )
+			( technolog* AND +use )
 		)
 	) OR
 	(
@@ -82,7 +82,7 @@
 		gender AND (
 			( information AND communication AND technolog* ) AND (
 				promot* OR
-				( technolog* AND use )
+				( technolog* AND +use )
 			)
 		)
 	) OR
@@ -93,7 +93,7 @@
 		)
 	) OR
 	(
-		( us* AND new* AND technolog* ) AND (
+		( us* AND +new* AND technolog* ) AND (
 			differenc* OR
 			variation*
 		) AND (
@@ -105,7 +105,7 @@
 		women AND (
 			( enabling AND technolog* AND engagement ) OR
 			( internet AND access ) OR
-			( ( IT* OR ITC* ) AND ( enrollment* OR enrolment* ) ) OR
+			( ( +it* OR ITC* ) AND ( enrollment* OR enrolment* ) ) OR
 			promot*
 			(
 				( information AND communication AND technolog* ) AND (
@@ -134,7 +134,7 @@
 				)
 			) OR (
 				(
-					( use AND ( cellphone OR ( mobile AND device ) OR ( mobile AND phone ) ) )
+					( +use AND ( cellphone OR ( mobile AND device ) OR ( mobile AND phone ) ) )
 				) AND (
 					barrier* OR
 					( ICT AND usage ) OR
@@ -143,7 +143,7 @@
 			)
 		)
 	) OR
-	( Women* AND interest* AND technolog* ) OR
+	( Women* AND +interest* AND technolog* ) OR
 	(
 		(
 			( Digital AND divide ) OR
@@ -151,7 +151,7 @@
 			( ICT* AND education* ) OR
 			"Technological preparedness" OR
 			( technolog* AND acceptance ) OR
-			( use* AND information* AND system* )
+			( +use* AND information* AND system* )
 		) AND (
 			gender OR
 			women
@@ -192,7 +192,7 @@
 	) OR
 	(
 		(
-			ICT AND use
+			ICT AND +use
 		) AND (
 			gender OR
 			women
@@ -200,7 +200,7 @@
 	) OR
 	(
 		(
-			"Perceived ease of use" OR
+			"Perceived ease +of +use" OR
 			"perceived usefulness"
 		) AND
 		technolog* AND (
@@ -210,8 +210,8 @@
 	) OR
 	(
 		(
-			under-represent* OR
-			( under* AND represent* ) OR
+			+under-represent* OR
+			( +under* AND represent* ) OR
 			Underrepresent*
 		) AND
 		women AND (
@@ -280,7 +280,7 @@
 	( egg AND freezing ) OR
 	eveningness OR
 	( gender AND studies ) OR
-	( its AND enrollment ) OR
+	( +its AND enrollment ) OR
 	laparoscopic OR
 	( postpartum AND hemorrhage )
 )

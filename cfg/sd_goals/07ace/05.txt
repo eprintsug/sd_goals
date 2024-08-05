@@ -31,7 +31,7 @@
 	"Kaplan runner" OR
 	"Karun I (Shahid Abbaspour) Dam" OR
 	"Karun III Dam" OR
-	"large hydro" OR
+	"+large hydro" OR
 	"Laxiwa Dam" OR
 	"Lijiaxia Dam" OR
 	"Liyuan Dam" OR
@@ -55,10 +55,10 @@
 	"runner blade" OR
 	"runner blades" OR
 	"Screw runner" OR
-	"small hydro" OR
+	"+small hydro" OR
 	"Son La Dam" OR
 	"Tarbela Dam" OR
-	"Three Gorges Dam" OR
+	"+three Gorges Dam" OR
 	"turbine-99" OR
 	"Turgo runner" OR
 	"underground powerhouse" OR
@@ -139,7 +139,7 @@
 	) OR
 	( ( pump AND turbine ) AND NOT ( "steam" OR heat* ) ) OR
 	(
-		( Run-of-river OR run-of-the-river ) AND (
+		( Run-of-river OR run-of-+the-river ) AND (
 			"hydro power" OR
 			"hydroelectric" OR
 			"hydropower" OR
@@ -218,7 +218,7 @@
 	( turbine AND runner* ) OR
 	( Turgo AND runner* ) OR
 	( vortex AND power AND plant* ) OR
-	( Waterwheel* AND ( "Hydraulic power" OR "hydropower" OR "hydro power" ) ) OR
+	( Waterwheel* AND ( "Hydraulic power" OR "hydropower" OR "hydro power" ) )
 ) AND NOT (
 	"greenhouse gas" OR
 	( bio-mass OR biomass ) OR

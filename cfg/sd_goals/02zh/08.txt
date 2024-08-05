@@ -17,7 +17,7 @@
 	"maize price volatility" OR
 	"rising food prices" OR
 	"volatile food prices" OR
-	"volatility of food prices" OR
+	"volatility +of food prices" OR
 	( agricultur* AND food AND reserve* AND information ) OR
 	( agricultur* AND "agricultur* market information" ) OR
 	(
@@ -71,7 +71,7 @@
 	) OR
 	( 
 		( 
-			"information on market price" OR 
+			"information +on market price" OR 
 			"market information system" 
 		) AND (
 			agricultur* OR 
