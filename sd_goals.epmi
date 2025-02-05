@@ -1273,9 +1273,9 @@
           <datasetid>document</datasetid>
           <filename>static/style/auto/sd_goals.css</filename>
           <mime_type>text/plain</mime_type>
-          <hash>a3d871fb15c54e487a7f8d39656c4158</hash>
+          <hash>0cddc1ffb26f383f63dcdd563343a912</hash>
           <hash_type>MD5</hash_type>
-          <filesize>2222</filesize>
+          <filesize>2132</filesize>
         </file>
       </files>
       <mime_type>text/plain</mime_type>
@@ -1284,7 +1284,7 @@
       <content>install</content>
     </document>
   </documents>
-  <version>0.5</version>
+  <version>0.6</version>
   <creators>
     <item>
       <name>
