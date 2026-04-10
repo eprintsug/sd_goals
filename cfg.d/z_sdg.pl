@@ -1,23 +1,23 @@
 #enable the various screens
 $c->{plugins}{"Screen::SDGoals"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::All_Goals"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_01"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_02"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_03"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_04"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_05"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_06"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_07"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_08"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_09"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_10"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_11"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_12"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_13"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_14"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_15"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_16"}{params}{disable} = 0;
-$c->{plugins}{"Screen::Report::SD_Goals::SDG_17"}{params}{disable} = 0;
+$c->{plugins}{"Screen::Report::SD_Goals::All_Goals"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_01"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_02"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_03"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_04"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_05"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_06"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_07"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_08"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_09"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_10"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_11"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_12"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_13"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_14"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_15"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_16"}{params}{disable} = 1;
+$c->{plugins}{"Screen::Report::SD_Goals::SDG_17"}{params}{disable} = 1;
 
 
 #and some options for the reports with generic config as they'll all need the same stuff
